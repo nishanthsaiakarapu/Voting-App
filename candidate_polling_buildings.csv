@@ -1,0 +1,61 @@
+index,building_id,area,building_name,current_booth,estimated_distance_from_nonvoters_km,capacity,available_for_demo
+0,BLD-212-01,Near PRG-PS-212,Sri Lakshmi Community Centre,PRG-PS-212,0.8,480,Yes
+1,BLD-212-02,Near PRG-PS-212,Municipal Marriage Hall,PRG-PS-212,1.6,1350,Yes
+2,BLD-108-01,Near PRG-PS-108,Annai Public Hall,PRG-PS-108,1.9,970,Yes
+3,BLD-108-02,Near PRG-PS-108,Government Higher Secondary School,PRG-PS-108,2.8,620,Yes
+4,BLD-169-01,Near PRG-PS-169,Panchayat Community Hall,PRG-PS-169,3.1,1180,Yes
+5,BLD-169-02,Near PRG-PS-169,Vivekananda Community Centre,PRG-PS-169,2.6,1100,Yes
+6,BLD-112-01,Near PRG-PS-112,Municipal School Annex,PRG-PS-112,0.8,480,Yes
+7,BLD-112-02,Near PRG-PS-112,Panchayat Office Hall,PRG-PS-112,1.6,1350,Yes
+8,BLD-073-01,Near PRG-PS-073,Government Middle School,PRG-PS-073,1.9,970,Yes
+9,BLD-073-02,Near PRG-PS-073,Sri Murugan Function Hall,PRG-PS-073,2.8,620,Yes
+10,BLD-251-01,Near PRG-PS-251,Municipal Higher Secondary School,PRG-PS-251,3.1,1180,Yes
+11,BLD-251-02,Near PRG-PS-251,Ambedkar Community Hall,PRG-PS-251,2.6,1100,Yes
+12,BLD-058-01,Near PRG-PS-058,Government Primary School Block,PRG-PS-058,0.8,480,Yes
+13,BLD-058-02,Near PRG-PS-058,Kamaraj Community Centre,PRG-PS-058,1.6,1350,Yes
+14,BLD-135-01,Near PRG-PS-135,Panchayat Union School,PRG-PS-135,1.9,970,Yes
+15,BLD-135-02,Near PRG-PS-135,People's Welfare Hall,PRG-PS-135,2.8,620,Yes
+16,BLD-210-01,Near PRG-PS-210,Government Boys Higher Secondary School,PRG-PS-210,3.1,1180,Yes
+17,BLD-210-02,Near PRG-PS-210,New Town Community Hall,PRG-PS-210,2.6,1100,Yes
+18,BLD-124-01,Near PRG-PS-124,Municipal Primary School,PRG-PS-124,0.8,480,Yes
+19,BLD-124-02,Near PRG-PS-124,Nehru Community Centre,PRG-PS-124,1.6,1350,Yes
+20,BLD-015-01,Near PRG-PS-015,Government School Extension,PRG-PS-015,1.9,970,Yes
+21,BLD-015-02,Near PRG-PS-015,Rural Development Hall,PRG-PS-015,2.8,620,Yes
+22,BLD-141-01,Near PRG-PS-141,MGR Community Hall,PRG-PS-141,3.1,1180,Yes
+23,BLD-141-02,Near PRG-PS-141,Government High School Block,PRG-PS-141,2.6,1100,Yes
+24,BLD-062-01,Near PRG-PS-062,Bharathi Community Hall,PRG-PS-062,0.8,480,Yes
+25,BLD-062-02,Near PRG-PS-062,Municipal Corporation Hall,PRG-PS-062,1.6,1350,Yes
+26,BLD-119-01,Near PRG-PS-119,Thiruvalluvar Community Centre,PRG-PS-119,1.9,970,Yes
+27,BLD-119-02,Near PRG-PS-119,Government Girls Higher Secondary School,PRG-PS-119,2.8,620,Yes
+28,BLD-273-01,Near PRG-PS-273,Unity Welfare Hall,PRG-PS-273,3.1,1180,Yes
+29,BLD-273-02,Near PRG-PS-273,Government Model School,PRG-PS-273,2.6,1100,Yes
+30,BLD-087-01,Near PRG-PS-087,Valluvar Marriage Hall,PRG-PS-087,0.8,480,Yes
+31,BLD-087-02,Near PRG-PS-087,Green Park Community Hall,PRG-PS-087,1.6,1350,Yes
+32,BLD-138-01,Near PRG-PS-138,Municipal School Building,PRG-PS-138,1.9,970,Yes
+33,BLD-138-02,Near PRG-PS-138,Periyar Community Centre,PRG-PS-138,2.8,620,Yes
+34,BLD-159-01,Near PRG-PS-159,New Colony Welfare Hall,PRG-PS-159,3.1,1180,Yes
+35,BLD-159-02,Near PRG-PS-159,Government Primary School Campus,PRG-PS-159,2.6,1100,Yes
+36,BLD-120-01,Near PRG-PS-120,Kurinji Community Hall,PRG-PS-120,0.8,480,Yes
+37,BLD-120-02,Near PRG-PS-120,Panchayat Union Middle School,PRG-PS-120,1.6,1350,Yes
+38,BLD-140-01,Near PRG-PS-140,Anna Community Centre,PRG-PS-140,1.9,970,Yes
+39,BLD-140-02,Near PRG-PS-140,Government Girls School,PRG-PS-140,2.8,620,Yes
+40,BLD-146-01,Near PRG-PS-146,Mahalakshmi Community Hall,PRG-PS-146,3.1,1180,Yes
+41,BLD-146-02,Near PRG-PS-146,People's Community Hall,PRG-PS-146,2.6,1100,Yes
+42,BLD-262-01,Near PRG-PS-262,Bharath Community Centre,PRG-PS-262,0.8,480,Yes
+43,BLD-262-02,Near PRG-PS-262,Government School Campus,PRG-PS-262,1.6,1350,Yes
+44,BLD-074-01,Near PRG-PS-074,Sai Community Hall,PRG-PS-074,1.9,970,Yes
+45,BLD-074-02,Near PRG-PS-074,Rural Service Centre Hall,PRG-PS-074,2.8,620,Yes
+46,BLD-067-01,Near PRG-PS-067,Nandanam Community Hall,PRG-PS-067,3.1,1180,Yes
+47,BLD-067-02,Near PRG-PS-067,Indira Community Centre,PRG-PS-067,2.6,1100,Yes
+48,BLD-266-01,Near PRG-PS-266,Seva Community Hall,PRG-PS-266,0.8,480,Yes
+49,BLD-266-02,Near PRG-PS-266,Government Model School,PRG-PS-266,1.6,1350,Yes
+50,BLD-082-01,Near PRG-PS-082,Sri Lakshmi Community Centre,PRG-PS-082,1.9,970,Yes
+51,BLD-082-02,Near PRG-PS-082,Municipal Marriage Hall,PRG-PS-082,2.8,620,Yes
+52,BLD-036-01,Near PRG-PS-036,Annai Public Hall,PRG-PS-036,3.1,1180,Yes
+53,BLD-036-02,Near PRG-PS-036,Government Higher Secondary School,PRG-PS-036,2.6,1100,Yes
+54,BLD-118-01,Near PRG-PS-118,Panchayat Community Hall,PRG-PS-118,0.8,480,Yes
+55,BLD-118-02,Near PRG-PS-118,Vivekananda Community Centre,PRG-PS-118,1.6,1350,Yes
+56,BLD-269-01,Near PRG-PS-269,Municipal School Annex,PRG-PS-269,1.9,970,Yes
+57,BLD-269-02,Near PRG-PS-269,Panchayat Office Hall,PRG-PS-269,2.8,620,Yes
+58,BLD-183-01,Near PRG-PS-183,Government Middle School,PRG-PS-183,3.1,1180,Yes
+59,BLD-183-02,Near PRG-PS-183,Sri Murugan Function Hall,PRG-PS-183,2.6,1100,Yes

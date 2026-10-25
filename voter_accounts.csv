@@ -1,0 +1,1526 @@
+login_id,password,name,voterid,polling_station_id,polling_station_name,constituency_name,distance_from_assigned_polling_booth_km,has_voted
+100001,pass100001,Anirudh Srinivas Patibandla,DUMMY-PRG-006144,PRG-PS-044,Zilla Parishad High School 5,Pargi,2.83,False
+100002,pass100002,Chetan Teja Nimmala,DUMMY-PRG-018123,PRG-PS-128,Government Junior College 13,Pargi,2.92,False
+100003,pass100003,Naveen Penumudi,DUMMY-PRG-074000,PRG-PS-190,District Parishad School 19,Pargi,2.25,False
+100004,pass100004,Akhil Devi Deshmukh,DUMMY-PRG-020592,PRG-PS-157,Model School 16,Pargi,1.49,False
+100005,pass100005,Navin Rani Singireddy,DUMMY-PRG-101083,PRG-PS-128,Government Junior College 13,Pargi,1.46,False
+100006,pass100006,Naveen Teja Pothula,DUMMY-PRG-109606,PRG-PS-111,Govt Primary School 12,Pargi,2.98,False
+100007,pass100007,Bala Raju Ediga,DUMMY-PRG-001109,PRG-PS-194,Zilla Parishad High School 20,Pargi,2.21,False
+100008,pass100008,Naveen Teja Maddirala,DUMMY-PRG-044348,PRG-PS-123,Government Girls High School 13,Pargi,2.8,False
+100009,pass100009,Rajesh Lakshmi Shanigala,DUMMY-PRG-033937,PRG-PS-082,Govt High School 9,Pargi,1.46,False
+100010,pass100010,Aditya Devi Chintada,DUMMY-PRG-068203,PRG-PS-188,Government Junior College 19,Pargi,1.77,False
+100011,pass100011,Bhaskar Chandra Korrapati,DUMMY-PRG-002684,PRG-PS-244,Zilla Parishad High School 25,Pargi,2.01,False
+100012,pass100012,Jai Mohan Durgam,DUMMY-PRG-001541,PRG-PS-016,MPUPS 2,Pargi,2.87,False
+100013,pass100013,Abhinav Raju Reddam,DUMMY-PRG-128184,PRG-PS-084,Zilla Parishad High School 9,Pargi,1.64,False
+100014,pass100014,Sneha Mareddy,DUMMY-PRG-112000,PRG-PS-065,MPPS 7,Pargi,1.64,False
+100015,pass100015,Jagadeesh Chandra Kosaraju,DUMMY-PRG-111284,PRG-PS-264,Zilla Parishad High School 27,Pargi,1.75,False
+100016,pass100016,Dhanush Rani Patibandla,DUMMY-PRG-090906,PRG-PS-016,MPUPS 2,Pargi,1.18,False
+100017,pass100017,Aarav Lakshmi Vemuri,DUMMY-PRG-053082,PRG-PS-012,Govt High School 2,Pargi,1.97,False
+100018,pass100018,Manoj Mohan Tirumalasetti,DUMMY-PRG-107988,PRG-PS-018,Government Junior College 2,Pargi,2.42,False
+100019,pass100019,Eshwari Pamulaparthi,DUMMY-PRG-097633,PRG-PS-033,Government Girls High School 4,Pargi,1.61,False
+100020,pass100020,Prakash Sri Modukuri,DUMMY-PRG-027586,PRG-PS-136,MPUPS 14,Pargi,2.34,False
+100021,pass100021,Manoj Sri Kosaraju,DUMMY-PRG-020218,PRG-PS-088,Government Junior College 9,Pargi,1.19,False
+100022,pass100022,Siva Kandula,DUMMY-PRG-020585,PRG-PS-150,District Parishad School 15,Pargi,2.7,False
+100023,pass100023,Naresh Rao Penmetsa,DUMMY-PRG-043606,PRG-PS-296,MPUPS 30,Pargi,2.17,False
+100024,pass100024,Harish Kiran Jonnalagadda,DUMMY-PRG-109364,PRG-PS-174,Zilla Parishad High School 18,Pargi,2.13,False
+100025,pass100025,Sairam Vannemreddy,DUMMY-PRG-029600,PRG-PS-015,MPPS 2,Pargi,2.22,False
+100026,pass100026,Madhav Lakshmi Goud,DUMMY-PRG-017215,PRG-PS-135,MPPS 14,Pargi,2.52,False
+100027,pass100027,Gagan Rani Emani,DUMMY-PRG-120647,PRG-PS-172,Govt High School 18,Pargi,1.35,False
+100028,pass100028,Eshwari Koppula,DUMMY-PRG-008955,PRG-PS-110,District Parishad School 11,Pargi,1.8,False
+100029,pass100029,Girish Teja Palle,DUMMY-PRG-120619,PRG-PS-144,Zilla Parishad High School 15,Pargi,1.9,False
+100030,pass100030,Rajesh Srinivas Gandla,DUMMY-PRG-050447,PRG-PS-122,Govt High School 13,Pargi,2.73,False
+100031,pass100031,Amar Narayana Aduri,DUMMY-PRG-110270,PRG-PS-165,MPPS 17,Pargi,4.69,False
+100032,pass100032,Bhanu Babu Yalamanchili,DUMMY-PRG-127341,PRG-PS-156,MPUPS 16,Pargi,1.08,False
+100033,pass100033,Dileep Lakshmi Vadde,DUMMY-PRG-036939,PRG-PS-034,Zilla Parishad High School 4,Pargi,2.48,False
+100034,pass100034,Kiran Teja Gaddam,DUMMY-PRG-055144,PRG-PS-244,Zilla Parishad High School 25,Pargi,1.14,False
+100035,pass100035,Manish Prasad Kakarla,DUMMY-PRG-000227,PRG-PS-227,Model School 23,Pargi,1.71,False
+100036,pass100036,Mahesh Srinivas Somanchi,DUMMY-PRG-046545,PRG-PS-185,MPPS 19,Pargi,1.66,False
+100037,pass100037,Ravi Lakshmi Sunkara,DUMMY-PRG-006782,PRG-PS-072,Govt High School 8,Pargi,2.52,False
+100038,pass100038,Koushik Krishna Shetty,DUMMY-PRG-112826,PRG-PS-281,Govt Primary School 29,Pargi,2.74,False
+100039,pass100039,Nikhil Narayana Maddirala,DUMMY-PRG-045173,PRG-PS-033,Government Girls High School 4,Pargi,1.95,False
+100040,pass100040,Bhuvan Srinivas Varanasi,DUMMY-PRG-043704,PRG-PS-089,Municipal School 9,Pargi,1.11,False
+100041,pass100041,Balaji Krishna Satyanarayana,DUMMY-PRG-041767,PRG-PS-287,Model School 29,Pargi,1.97,False
+100042,pass100042,Bhuvan Raju Vemuri,DUMMY-PRG-093024,PRG-PS-304,Zilla Parishad High School 31,Pargi,1.88,False
+100043,pass100043,Manohar Rao Marri,DUMMY-PRG-095603,PRG-PS-138,Government Junior College 14,Pargi,4.59,False
+100044,pass100044,Anjan Kumar Varma,DUMMY-PRG-085494,PRG-PS-094,Zilla Parishad High School 10,Pargi,1.94,False
+100045,pass100045,Dileep Devi Varanasi,DUMMY-PRG-075064,PRG-PS-034,Zilla Parishad High School 4,Pargi,4.88,False
+100046,pass100046,Durga Narayana Jampala,DUMMY-PRG-116899,PRG-PS-084,Zilla Parishad High School 9,Pargi,1.1,False
+100047,pass100047,Charan Sri Setty,DUMMY-PRG-073916,PRG-PS-106,MPUPS 11,Pargi,4.52,False
+100048,pass100048,Harsha Sri Bommidi,DUMMY-PRG-063739,PRG-PS-299,Municipal School 30,Pargi,1.48,False
+100049,pass100049,Kiran Sri Bommidi,DUMMY-PRG-071192,PRG-PS-127,Model School 13,Pargi,1.04,False
+100050,pass100050,Bala Rani Talluri,DUMMY-PRG-094509,PRG-PS-264,Zilla Parishad High School 27,Pargi,2.91,False
+100051,pass100051,Aditya Mohan Yadlapalli,DUMMY-PRG-104930,PRG-PS-010,District Parishad School 1,Pargi,2.83,False
+100052,pass100052,Harsha Sri Vemula,DUMMY-PRG-004473,PRG-PS-203,Government Girls High School 21,Pargi,1.42,False
+100053,pass100053,Manoj Rao Somanchi,DUMMY-PRG-020561,PRG-PS-126,MPUPS 13,Pargi,1.36,False
+100054,pass100054,Ramesh Raju Shetty,DUMMY-PRG-099563,PRG-PS-133,Government Girls High School 14,Pargi,2.08,False
+100055,pass100055,Balaji Kumar Yadav,DUMMY-PRG-015975,PRG-PS-115,MPPS 12,Pargi,2.66,False
+100056,pass100056,Amar Rani Kavuri,DUMMY-PRG-116354,PRG-PS-149,Municipal School 15,Pargi,2.3,False
+100057,pass100057,Bharath Tummala,DUMMY-PRG-074739,PRG-PS-014,Zilla Parishad High School 2,Pargi,1.53,False
+100058,pass100058,Arjun Kumar Shankar,DUMMY-PRG-065281,PRG-PS-011,Govt Primary School 2,Pargi,2.6,False
+100059,pass100059,Gautham Rangineni,DUMMY-PRG-124712,PRG-PS-272,Govt High School 28,Pargi,1.47,False
+100060,pass100060,Arjun Lakshmi Vemuri,DUMMY-PRG-077784,PRG-PS-009,Municipal School 1,Pargi,2.69,False
+100061,pass100061,Nithin Narayana Pothula,DUMMY-PRG-059042,PRG-PS-177,Model School 18,Pargi,2.35,False
+100062,pass100062,Bharath Mohan Yadlapalli,DUMMY-PRG-119903,PRG-PS-038,Government Junior College 4,Pargi,1.31,False
+100063,pass100063,Sahithi Mothe,DUMMY-PRG-115031,PRG-PS-046,MPUPS 5,Pargi,2.59,False
+100064,pass100064,Jagan Kiran Jampala,DUMMY-PRG-034632,PRG-PS-167,Model School 17,Pargi,2.44,False
+100065,pass100065,Manohar Raju Pinninti,DUMMY-PRG-120935,PRG-PS-155,MPPS 16,Pargi,1.58,False
+100066,pass100066,Jagadeesh Kavuri,DUMMY-PRG-067480,PRG-PS-075,MPPS 8,Pargi,1.88,False
+100067,pass100067,Dhanush Kumar Pothula,DUMMY-PRG-114446,PRG-PS-071,Govt Primary School 8,Pargi,2.9,False
+100068,pass100068,Arjun Narayana Nallamothu,DUMMY-PRG-067024,PRG-PS-229,Municipal School 23,Pargi,4.01,False
+100069,pass100069,Bhanu Sri Ravindranath,DUMMY-PRG-093236,PRG-PS-211,Govt Primary School 22,Pargi,2.57,False
+100070,pass100070,Prakash Kiran Yelamanchili,DUMMY-PRG-020331,PRG-PS-201,Govt Primary School 21,Pargi,1.58,False
+100071,pass100071,Kiran Kiran Malla,DUMMY-PRG-100786,PRG-PS-136,MPUPS 14,Pargi,1.59,False
+100072,pass100072,Surya Perumalla,DUMMY-PRG-023343,PRG-PS-163,Government Girls High School 17,Pargi,2.07,False
+100073,pass100073,Prakash Teja Yelamanchili,DUMMY-PRG-106090,PRG-PS-255,MPPS 26,Pargi,2.54,False
+100074,pass100074,Bhuvan Sri Paturi,DUMMY-PRG-032622,PRG-PS-292,Govt High School 30,Pargi,2.87,False
+100075,pass100075,Anil Raju Nimmala,DUMMY-PRG-001939,PRG-PS-109,Municipal School 11,Pargi,1.88,False
+100076,pass100076,Jagan Lakshmi Patel,DUMMY-PRG-018422,PRG-PS-122,Govt High School 13,Pargi,2.25,False
+100077,pass100077,Charan Krishna Gandla,DUMMY-PRG-030507,PRG-PS-007,Model School 1,Pargi,2.83,False
+100078,pass100078,Gautam Rao Mangalagiri,DUMMY-PRG-002063,PRG-PS-233,Government Girls High School 24,Pargi,2.55,False
+100079,pass100079,Bhuvan Rani Vinnakota,DUMMY-PRG-017786,PRG-PS-096,MPUPS 10,Pargi,2.03,False
+100080,pass100080,Anand Babu Kummari,DUMMY-PRG-119354,PRG-PS-099,Municipal School 10,Pargi,2.18,False
+100081,pass100081,Abhinav Prasad Pakala,DUMMY-PRG-018023,PRG-PS-028,Government Junior College 3,Pargi,2.25,False
+100082,pass100082,Anji Mohan Muddasani,DUMMY-PRG-010331,PRG-PS-266,MPUPS 27,Pargi,1.5,False
+100083,pass100083,Chetan Sri Mangalagiri,DUMMY-PRG-113087,PRG-PS-237,Model School 24,Pargi,2.27,False
+100084,pass100084,Jagan Raju Jonnalagadda,DUMMY-PRG-052765,PRG-PS-305,MPPS 31,Pargi,2.63,False
+100085,pass100085,Mohan Rani Jonnalagadda,DUMMY-PRG-029362,PRG-PS-082,Govt High School 9,Pargi,2.93,False
+100086,pass100086,Rahul Teja Nanduri,DUMMY-PRG-092461,PRG-PS-046,MPUPS 5,Pargi,1.31,False
+100087,pass100087,Ganesh Rao Nadella,DUMMY-PRG-111423,PRG-PS-098,Government Junior College 10,Pargi,2.86,False
+100088,pass100088,Manish Krishna Anumolu,DUMMY-PRG-055081,PRG-PS-181,Govt Primary School 19,Pargi,1.98,False
+100089,pass100089,Anirudh Venkata Mareddy,DUMMY-PRG-036718,PRG-PS-118,Government Junior College 12,Pargi,4.85,False
+100090,pass100090,Bhaskar Sri Kandukuri,DUMMY-PRG-113663,PRG-PS-203,Government Girls High School 21,Pargi,2.32,False
+100091,pass100091,Mohanrao Babu Nanduri,DUMMY-PRG-120895,PRG-PS-115,MPPS 12,Pargi,2.17,False
+100092,pass100092,Jai Venkata Jasti,DUMMY-PRG-113661,PRG-PS-201,Govt Primary School 21,Pargi,2.82,False
+100093,pass100093,Devi Bandari,DUMMY-PRG-059388,PRG-PS-218,Government Junior College 22,Pargi,1.77,False
+100094,pass100094,Ramesh Kiran Maddirala,DUMMY-PRG-051446,PRG-PS-206,MPUPS 21,Pargi,1.37,False
+100095,pass100095,Jagadeesh Narayana Routhu,DUMMY-PRG-000633,PRG-PS-023,Government Girls High School 3,Pargi,1.51,False
+100096,pass100096,Bharath Lakshmi Rudra,DUMMY-PRG-015795,PRG-PS-240,District Parishad School 24,Pargi,1.67,False
+100097,pass100097,Raj Chandra Kaza,DUMMY-PRG-053877,PRG-PS-197,Model School 20,Pargi,1.97,False
+100098,pass100098,Harsha Teja Vasireddy,DUMMY-PRG-010724,PRG-PS-049,Municipal School 5,Pargi,1.58,False
+100099,pass100099,Jai Babu Vallabhaneni,DUMMY-PRG-065817,PRG-PS-242,Govt High School 25,Pargi,1.84,False
+100100,pass100100,Durga Rani Linga,DUMMY-PRG-017606,PRG-PS-221,Govt Primary School 23,Pargi,1.87,False
+100101,pass100101,Lakshman Narayana Shetty,DUMMY-PRG-125774,PRG-PS-114,Zilla Parishad High School 12,Pargi,1.87,False
+100102,pass100102,Govind Venkata Konda,DUMMY-PRG-058687,PRG-PS-127,Model School 13,Pargi,1.99,False
+100103,pass100103,Koushik Raju Karra,DUMMY-PRG-081633,PRG-PS-198,Government Junior College 20,Pargi,2.15,False
+100104,pass100104,Sowmya Yadla,DUMMY-PRG-067004,PRG-PS-209,Municipal School 21,Pargi,2.13,False
+100105,pass100105,Dheeraj Devi Penmetsa,DUMMY-PRG-053853,PRG-PS-173,Government Girls High School 18,Pargi,2.91,False
+100106,pass100106,Anirudh Sri Routhu,DUMMY-PRG-088737,PRG-PS-287,Model School 29,Pargi,2.05,False
+100107,pass100107,Girish Devi Yadav,DUMMY-PRG-116506,PRG-PS-301,Govt Primary School 31,Pargi,2.3,False
+100108,pass100108,Chetan Rani Sangem,DUMMY-PRG-024787,PRG-PS-082,Govt High School 9,Pargi,4.61,False
+100109,pass100109,Girish Raju Lingam,DUMMY-PRG-116956,PRG-PS-141,Govt Primary School 15,Pargi,1.1,False
+100110,pass100110,Prudhvi Srinivas Yendluri,DUMMY-PRG-026494,PRG-PS-264,Zilla Parishad High School 27,Pargi,2.11,False
+100111,pass100111,Ganesh Krishna Nallamothu,DUMMY-PRG-019056,PRG-PS-146,MPUPS 15,Pargi,2.53,False
+100112,pass100112,Mahesh Krishna Vinnakota,DUMMY-PRG-099326,PRG-PS-201,Govt Primary School 21,Pargi,4.03,False
+100113,pass100113,Ravindra Rani Pasupuleti,DUMMY-PRG-034432,PRG-PS-272,Govt High School 28,Pargi,2.5,False
+100114,pass100114,Manoj Sri Yerra,DUMMY-PRG-063199,PRG-PS-064,Zilla Parishad High School 7,Pargi,2.05,False
+100115,pass100115,Hemanth Mohan Kumar,DUMMY-PRG-017170,PRG-PS-090,District Parishad School 9,Pargi,2.52,False
+100116,pass100116,Govind Rao Chintada,DUMMY-PRG-009256,PRG-PS-106,MPUPS 11,Pargi,2.36,False
+100117,pass100117,Ajay Rao Narla,DUMMY-PRG-041810,PRG-PS-025,MPPS 3,Pargi,1.27,False
+100118,pass100118,Vijay Mannem,DUMMY-PRG-104973,PRG-PS-053,Government Girls High School 6,Pargi,2.83,False
+100119,pass100119,Krishna Prasad Tummala,DUMMY-PRG-076781,PRG-PS-226,MPUPS 23,Pargi,2.5,False
+100120,pass100120,Prudhvi Babu Talluri,DUMMY-PRG-105004,PRG-PS-084,Zilla Parishad High School 9,Pargi,1.33,False
+100121,pass100121,Ashok Sri Vinnakota,DUMMY-PRG-044807,PRG-PS-277,Model School 28,Pargi,2.33,False
+100122,pass100122,Mohanrao Babu Korrapati,DUMMY-PRG-011446,PRG-PS-161,Govt Primary School 17,Pargi,1.43,False
+100123,pass100123,Karthik Rani Golla,DUMMY-PRG-113509,PRG-PS-049,Municipal School 5,Pargi,1.25,False
+100124,pass100124,Chetan Babu Chowdary,DUMMY-PRG-119960,PRG-PS-095,MPPS 10,Pargi,2.5,False
+100125,pass100125,Amar Nimmala,DUMMY-PRG-079662,PRG-PS-057,Model School 6,Pargi,2.63,False
+100126,pass100126,Jagan Srinivas Vallabhaneni,DUMMY-PRG-012254,PRG-PS-054,Zilla Parishad High School 6,Pargi,1.25,False
+100127,pass100127,Bala Narayana Lakkam,DUMMY-PRG-101539,PRG-PS-279,Municipal School 28,Pargi,2.98,False
+100128,pass100128,Girish Teja Thummala,DUMMY-PRG-077054,PRG-PS-194,Zilla Parishad High School 20,Pargi,1.65,False
+100129,pass100129,Bhaskar Raju Vasireddy,DUMMY-PRG-059138,PRG-PS-273,Government Girls High School 28,Pargi,1.48,False
+100130,pass100130,Nagesh Chandra Reddam,DUMMY-PRG-042566,PRG-PS-171,Govt Primary School 18,Pargi,2.15,False
+100131,pass100131,Manoj Sri Nadella,DUMMY-PRG-001044,PRG-PS-129,Municipal School 13,Pargi,2.03,False
+100132,pass100132,Vinod Ravula,DUMMY-PRG-053795,PRG-PS-115,MPPS 12,Pargi,1.35,False
+100133,pass100133,Gagan Venkata Anumolu,DUMMY-PRG-072798,PRG-PS-208,Government Junior College 21,Pargi,4.82,False
+100134,pass100134,Nagesh Rani Yadav,DUMMY-PRG-093774,PRG-PS-139,Municipal School 14,Pargi,2.47,False
+100135,pass100135,Akash Sangem,DUMMY-PRG-062159,PRG-PS-244,Zilla Parishad High School 25,Pargi,2.76,False
+100136,pass100136,Gautam Babu Raparla,DUMMY-PRG-030027,PRG-PS-137,Model School 14,Pargi,1.21,False
+100137,pass100137,Gautham Raju Madireddy,DUMMY-PRG-056650,PRG-PS-225,MPPS 23,Pargi,2.96,False
+100138,pass100138,Mohanrao Prasad Mareddy,DUMMY-PRG-097651,PRG-PS-051,Govt Primary School 6,Pargi,1.46,False
+100139,pass100139,Chaitanya Mohan Ediga,DUMMY-PRG-117873,PRG-PS-143,Government Girls High School 15,Pargi,1.28,False
+100140,pass100140,Kishore Chandra Nadimpalli,DUMMY-PRG-057490,PRG-PS-150,District Parishad School 15,Pargi,1.27,False
+100141,pass100141,Kishore Sri Mamidala,DUMMY-PRG-121863,PRG-PS-168,Government Junior College 17,Pargi,1.01,False
+100142,pass100142,Akash Venkata Somanchi,DUMMY-PRG-125905,PRG-PS-245,MPPS 25,Pargi,2.48,False
+100143,pass100143,Charan Babu Narapati,DUMMY-PRG-048691,PRG-PS-196,MPUPS 20,Pargi,2.78,False
+100144,pass100144,Rahul Rani Marri,DUMMY-PRG-112968,PRG-PS-118,Government Junior College 12,Pargi,1.48,False
+100145,pass100145,Jagadeesh Prasad Vallabhaneni,DUMMY-PRG-023988,PRG-PS-198,Government Junior College 20,Pargi,2.08,False
+100146,pass100146,Nirmala Tummala,DUMMY-PRG-095650,PRG-PS-185,MPPS 19,Pargi,2.27,False
+100147,pass100147,Balaji Krishna Marrapu,DUMMY-PRG-046019,PRG-PS-269,Municipal School 27,Pargi,1.55,False
+100148,pass100148,Kiran Rao Anumolu,DUMMY-PRG-010217,PRG-PS-152,Govt High School 16,Pargi,4.98,False
+100149,pass100149,Anjan Kumar Shankar,DUMMY-PRG-102011,PRG-PS-141,Govt Primary School 15,Pargi,1.1,False
+100150,pass100150,Gautam Prasad Boddu,DUMMY-PRG-070860,PRG-PS-100,District Parishad School 10,Pargi,2.02,False
+100151,pass100151,Hemanth Krishna Pasupuleti,DUMMY-PRG-044099,PRG-PS-179,Municipal School 18,Pargi,2.42,False
+100152,pass100152,Dhanush Srinivas Pinninti,DUMMY-PRG-086605,PRG-PS-290,District Parishad School 29,Pargi,1.07,False
+100153,pass100153,Amar Raju Shanigala,DUMMY-PRG-106870,PRG-PS-120,District Parishad School 12,Pargi,2.35,False
+100154,pass100154,Kiran Srinivas Penmetsa,DUMMY-PRG-000329,PRG-PS-024,Zilla Parishad High School 3,Pargi,4.82,False
+100155,pass100155,Aditya Kiran Somanchi,DUMMY-PRG-079680,PRG-PS-075,MPPS 8,Pargi,4.05,False
+100156,pass100156,Akhil Prasad Samala,DUMMY-PRG-107797,PRG-PS-132,Govt High School 14,Pargi,2.53,False
+100157,pass100157,Bhaskar Kiran Bandi,DUMMY-PRG-122251,PRG-PS-251,Govt Primary School 26,Pargi,1.87,False
+100158,pass100158,Karthik Srinivas Vemuri,DUMMY-PRG-063864,PRG-PS-119,Municipal School 12,Pargi,1.41,False
+100159,pass100159,Himanshu Devi Yelamanchili,DUMMY-PRG-040190,PRG-PS-235,MPPS 24,Pargi,2.82,False
+100160,pass100160,Pavan Gattu,DUMMY-PRG-099264,PRG-PS-139,Municipal School 14,Pargi,2.3,False
+100161,pass100161,Akhil Babu Yadlapalli,DUMMY-PRG-121799,PRG-PS-104,Zilla Parishad High School 11,Pargi,1.78,False
+100162,pass100162,Sangeetha Yalavarthi,DUMMY-PRG-005176,PRG-PS-296,MPUPS 30,Pargi,2.91,False
+100163,pass100163,Nikhil Krishna Talluri,DUMMY-PRG-094337,PRG-PS-092,Govt High School 10,Pargi,1.79,False
+100164,pass100164,Anjan Babu Mekala,DUMMY-PRG-068630,PRG-PS-005,MPPS 1,Pargi,1.79,False
+100165,pass100165,Naresh Krishna Rallapalli,DUMMY-PRG-076721,PRG-PS-166,MPUPS 17,Pargi,4.89,False
+100166,pass100166,Arun Krishna Siddula,DUMMY-PRG-035097,PRG-PS-022,Govt High School 3,Pargi,2.23,False
+100167,pass100167,Anjan Lakshmi Somisetty,DUMMY-PRG-118685,PRG-PS-040,District Parishad School 4,Pargi,1.09,False
+100168,pass100168,Vinay Kondapalli,DUMMY-PRG-008237,PRG-PS-002,Govt High School 1,Pargi,2.97,False
+100169,pass100169,Gagan Sri Yendluri,DUMMY-PRG-063446,PRG-PS-006,MPUPS 1,Pargi,2.18,False
+100170,pass100170,Manish Kiran Medapati,DUMMY-PRG-004119,PRG-PS-154,Zilla Parishad High School 16,Pargi,1.44,False
+100171,pass100171,Pavan Rani Marrapu,DUMMY-PRG-052548,PRG-PS-088,Government Junior College 9,Pargi,2.72,False
+100172,pass100172,Dileep Rani Kadiyala,DUMMY-PRG-084930,PRG-PS-140,District Parishad School 14,Pargi,2.22,False
+100173,pass100173,Gautam Raju Yenugula,DUMMY-PRG-055412,PRG-PS-207,Model School 21,Pargi,1.55,False
+100174,pass100174,Naresh Venkata Pothula,DUMMY-PRG-018663,PRG-PS-058,Government Junior College 6,Pargi,2.18,False
+100175,pass100175,Koushik Babu Reddy,DUMMY-PRG-116393,PRG-PS-188,Government Junior College 19,Pargi,1.88,False
+100176,pass100176,Navin Lakshmi Korrapati,DUMMY-PRG-038392,PRG-PS-267,Model School 27,Pargi,2.33,False
+100177,pass100177,Dileep Kiran Pusapati,DUMMY-PRG-118590,PRG-PS-250,District Parishad School 25,Pargi,2.29,False
+100178,pass100178,Harsha Devi Malla,DUMMY-PRG-087043,PRG-PS-118,Government Junior College 12,Pargi,2.13,False
+100179,pass100179,Girish Rao Marrapu,DUMMY-PRG-027556,PRG-PS-106,MPUPS 11,Pargi,1.28,False
+100180,pass100180,Aditya Teja Gorre,DUMMY-PRG-081310,PRG-PS-180,District Parishad School 18,Pargi,1.69,False
+100181,pass100181,Naveen Teja Kasukurthi,DUMMY-PRG-028500,PRG-PS-135,MPPS 14,Pargi,1.87,False
+100182,pass100182,Nithin Devi Perumalla,DUMMY-PRG-006844,PRG-PS-134,Zilla Parishad High School 14,Pargi,2.02,False
+100183,pass100183,Govind Mohan Mamidala,DUMMY-PRG-112528,PRG-PS-288,Government Junior College 29,Pargi,1.64,False
+100184,pass100184,Akhil Madduri,DUMMY-PRG-031879,PRG-PS-159,Municipal School 16,Pargi,1.88,False
+100185,pass100185,Bhanu Rani Shankar,DUMMY-PRG-092930,PRG-PS-210,District Parishad School 21,Pargi,1.74,False
+100186,pass100186,Madhav Raju Vangala,DUMMY-PRG-026147,PRG-PS-222,Govt High School 23,Pargi,1.74,False
+100187,pass100187,Bhaskar Kumar Mangalagiri,DUMMY-PRG-085319,PRG-PS-224,Zilla Parishad High School 23,Pargi,2.78,False
+100188,pass100188,Sravya Raghavendra,DUMMY-PRG-090951,PRG-PS-061,Govt Primary School 7,Pargi,2.09,False
+100189,pass100189,Abhinav Chandra Yarlagadda,DUMMY-PRG-015728,PRG-PS-173,Government Girls High School 18,Pargi,1.98,False
+100190,pass100190,Bala Babu Rachakonda,DUMMY-PRG-066371,PRG-PS-186,MPUPS 19,Pargi,1.11,False
+100191,pass100191,Kishore Lakshmi Nanduri,DUMMY-PRG-034015,PRG-PS-160,District Parishad School 16,Pargi,1.83,False
+100192,pass100192,Naresh Teja Varma,DUMMY-PRG-109000,PRG-PS-115,MPPS 12,Pargi,4.81,False
+100193,pass100193,Charan Narayana Narla,DUMMY-PRG-111043,PRG-PS-023,Government Girls High School 3,Pargi,2.43,False
+100194,pass100194,Harsha Kiran Thummala,DUMMY-PRG-101715,PRG-PS-150,District Parishad School 15,Pargi,1.61,False
+100195,pass100195,Raj Sri Gandla,DUMMY-PRG-014118,PRG-PS-088,Government Junior College 9,Pargi,1.58,False
+100196,pass100196,Anjan Rao Konda,DUMMY-PRG-123350,PRG-PS-130,District Parishad School 13,Pargi,2.92,False
+100197,pass100197,Nikhil Chandra Duvvuri,DUMMY-PRG-062372,PRG-PS-152,Govt High School 16,Pargi,1.2,False
+100198,pass100198,Sneha Kakani,DUMMY-PRG-057337,PRG-PS-302,Govt High School 31,Pargi,2.77,False
+100199,pass100199,Karthik Lakshmi Jasti,DUMMY-PRG-063246,PRG-PS-111,Govt Primary School 12,Pargi,1.38,False
+100200,pass100200,Jagadeesh Komati,DUMMY-PRG-083334,PRG-PS-069,Municipal School 7,Pargi,1.62,False
+100201,pass100201,Ashok Kumar Taduri,DUMMY-PRG-045942,PRG-PS-192,Govt High School 20,Pargi,2.59,False
+100202,pass100202,Krishna Devi Pasupuleti,DUMMY-PRG-006400,PRG-PS-300,District Parishad School 30,Pargi,2.19,False
+100203,pass100203,Anil Devi Sangem,DUMMY-PRG-117665,PRG-PS-240,District Parishad School 24,Pargi,2.22,False
+100204,pass100204,Kishore Rao Muppidi,DUMMY-PRG-056620,PRG-PS-195,MPPS 20,Pargi,1.89,False
+100205,pass100205,Navin Kumar Nallamothu,DUMMY-PRG-085411,PRG-PS-011,Govt Primary School 2,Pargi,2.75,False
+100206,pass100206,Harish Venkata Gowda,DUMMY-PRG-036466,PRG-PS-171,Govt Primary School 18,Pargi,1.5,False
+100207,pass100207,Mahesh Kumar Rangineni,DUMMY-PRG-075062,PRG-PS-032,Govt High School 4,Pargi,2.07,False
+100208,pass100208,Jagadeesh Rani Pasupuleti,DUMMY-PRG-100515,PRG-PS-170,District Parishad School 17,Pargi,1.52,False
+100209,pass100209,Prudhvi Chandra Challa,DUMMY-PRG-016999,PRG-PS-224,Zilla Parishad High School 23,Pargi,2.73,False
+100210,pass100210,Girish Rani Kadiyala,DUMMY-PRG-072760,PRG-PS-170,District Parishad School 17,Pargi,1.89,False
+100211,pass100211,Ravindra Raju Kummari,DUMMY-PRG-111810,PRG-PS-180,District Parishad School 18,Pargi,1.88,False
+100212,pass100212,Anirudh Rani Lakkam,DUMMY-PRG-123587,PRG-PS-062,Govt High School 7,Pargi,1.83,False
+100213,pass100213,Anirudh Sri Yerra,DUMMY-PRG-030328,PRG-PS-133,Government Girls High School 14,Pargi,1.76,False
+100214,pass100214,Siddharth Kakani,DUMMY-PRG-079438,PRG-PS-138,Government Junior College 14,Pargi,1.05,False
+100215,pass100215,Bindu Thummala,DUMMY-PRG-035026,PRG-PS-256,MPUPS 26,Pargi,2.1,False
+100216,pass100216,Dheeraj Sri Raghavendra,DUMMY-PRG-073379,PRG-PS-179,Municipal School 18,Pargi,1.81,False
+100217,pass100217,Ashwini Bandi,DUMMY-PRG-058732,PRG-PS-172,Govt High School 18,Pargi,2.22,False
+100218,pass100218,Govind Srinivas Nadimpalli,DUMMY-PRG-086836,PRG-PS-216,MPUPS 22,Pargi,2.7,False
+100219,pass100219,Ravindra Babu Ediga,DUMMY-PRG-057635,PRG-PS-295,MPPS 30,Pargi,2.98,False
+100220,pass100220,Govind Mohan Modukuri,DUMMY-PRG-125802,PRG-PS-142,Govt High School 15,Pargi,2.82,False
+100221,pass100221,Pallavi Vadde,DUMMY-PRG-041332,PRG-PS-157,Model School 16,Pargi,2.64,False
+100222,pass100222,Dileep Srinivas Palle,DUMMY-PRG-012061,PRG-PS-166,MPUPS 17,Pargi,2.97,False
+100223,pass100223,Chaitanya Chandra Emani,DUMMY-PRG-073676,PRG-PS-171,Govt Primary School 18,Pargi,2.11,False
+100224,pass100224,Gautham Mohan Paturi,DUMMY-PRG-090465,PRG-PS-185,MPPS 19,Pargi,1.21,False
+100225,pass100225,Gautham Prasad Sirigiri,DUMMY-PRG-006866,PRG-PS-156,MPUPS 16,Pargi,2.37,False
+100226,pass100226,Bhaskar Lakshmi Chowdary,DUMMY-PRG-064938,PRG-PS-278,Government Junior College 28,Pargi,1.94,False
+100227,pass100227,Nagesh Lakshmi Uppala,DUMMY-PRG-123902,PRG-PS-072,Govt High School 8,Pargi,2.49,False
+100228,pass100228,Koushik Devi Vannemreddy,DUMMY-PRG-016387,PRG-PS-222,Govt High School 23,Pargi,1.06,False
+100229,pass100229,Mahesh Rani Bollam,DUMMY-PRG-117899,PRG-PS-169,Municipal School 17,Pargi,1.85,False
+100230,pass100230,Ramesh Babu Vasireddy,DUMMY-PRG-049821,PRG-PS-106,MPUPS 11,Pargi,2.97,False
+100231,pass100231,Prudhvi Krishna Nadimpalli,DUMMY-PRG-030022,PRG-PS-132,Govt High School 14,Pargi,1.77,False
+100232,pass100232,Dheeraj Kadiyala,DUMMY-PRG-024267,PRG-PS-172,Govt High School 18,Pargi,2.77,False
+100233,pass100233,Pavan Teja Duvvuri,DUMMY-PRG-057005,PRG-PS-275,MPPS 28,Pargi,2.21,False
+100234,pass100234,Bhaskar Rani Somanchi,DUMMY-PRG-021198,PRG-PS-153,Government Girls High School 16,Pargi,1.14,False
+100235,pass100235,Bharath Narayana Kakarla,DUMMY-PRG-059456,PRG-PS-286,MPUPS 29,Pargi,2.74,False
+100236,pass100236,Anirudh Mohan Modukuri,DUMMY-PRG-038445,PRG-PS-015,MPPS 2,Pargi,2.73,False
+100237,pass100237,Shyam Gurrapu,DUMMY-PRG-083672,PRG-PS-102,Govt High School 11,Pargi,1.39,False
+100238,pass100238,Archana Nanduri,DUMMY-PRG-110216,PRG-PS-111,Govt Primary School 12,Pargi,1.2,False
+100239,pass100239,Santosh Satyanarayana,DUMMY-PRG-090541,PRG-PS-261,Govt Primary School 27,Pargi,2.7,False
+100240,pass100240,Abhinav Venkata Tadiparthi,DUMMY-PRG-073931,PRG-PS-121,Govt Primary School 13,Pargi,1.21,False
+100241,pass100241,Hemanth Kumar Lakkam,DUMMY-PRG-058942,PRG-PS-077,Model School 8,Pargi,1.39,False
+100242,pass100242,Harsha Talluri,DUMMY-PRG-123484,PRG-PS-264,Zilla Parishad High School 27,Pargi,2.53,False
+100243,pass100243,Dheeraj Lakshmi Yenugula,DUMMY-PRG-088580,PRG-PS-130,District Parishad School 13,Pargi,2.09,False
+100244,pass100244,Rakesh Prasad Chintala,DUMMY-PRG-034258,PRG-PS-098,Government Junior College 10,Pargi,2.1,False
+100245,pass100245,Balaji Devi Setty,DUMMY-PRG-083604,PRG-PS-034,Zilla Parishad High School 4,Pargi,1.74,False
+100246,pass100246,Kishore Krishna Ravula,DUMMY-PRG-109192,PRG-PS-002,Govt High School 1,Pargi,1.42,False
+100247,pass100247,Jagan Sri Gowda,DUMMY-PRG-031500,PRG-PS-085,MPPS 9,Pargi,2.2,False
+100248,pass100248,Naveen Lakshmi Yadla,DUMMY-PRG-012256,PRG-PS-056,MPUPS 6,Pargi,2.13,False
+100249,pass100249,Jagan Kumar Narapati,DUMMY-PRG-031834,PRG-PS-114,Zilla Parishad High School 12,Pargi,2.37,False
+100250,pass100250,Manasa Kandukuri,DUMMY-PRG-048840,PRG-PS-040,District Parishad School 4,Pargi,2.42,False
+100251,pass100251,Akash Sri Penmetsa,DUMMY-PRG-080751,PRG-PS-231,Govt Primary School 24,Pargi,1.21,False
+100252,pass100252,Arjun Raju Reddy,DUMMY-PRG-081908,PRG-PS-168,Government Junior College 17,Pargi,2.7,False
+100253,pass100253,Ravi Srinivas Nalluri,DUMMY-PRG-064906,PRG-PS-246,MPUPS 25,Pargi,2.61,False
+100254,pass100254,Bala Babu Sirigiri,DUMMY-PRG-043880,PRG-PS-265,MPPS 27,Pargi,2.64,False
+100255,pass100255,Kishore Krishna Kavuri,DUMMY-PRG-062066,PRG-PS-151,Govt Primary School 16,Pargi,1.41,False
+100256,pass100256,Sravanthi Koppula,DUMMY-PRG-106378,PRG-PS-238,Government Junior College 24,Pargi,2.6,False
+100257,pass100257,Gautam Devi Patibandla,DUMMY-PRG-102255,PRG-PS-080,District Parishad School 8,Pargi,2.25,False
+100258,pass100258,Nagesh Krishna Setty,DUMMY-PRG-022060,PRG-PS-100,District Parishad School 10,Pargi,2.76,False
+100259,pass100259,Manish Rao Somisetty,DUMMY-PRG-102788,PRG-PS-003,Government Girls High School 1,Pargi,2.11,False
+100260,pass100260,Chetan Babu Reddy,DUMMY-PRG-047521,PRG-PS-246,MPUPS 25,Pargi,1.25,False
+100261,pass100261,Chaitanya Mohan Palle,DUMMY-PRG-088313,PRG-PS-168,Government Junior College 17,Pargi,1.43,False
+100262,pass100262,Anirudh Lakshmi Goud,DUMMY-PRG-088037,PRG-PS-197,Model School 20,Pargi,1.59,False
+100263,pass100263,Praveen Srinivas Polam,DUMMY-PRG-034090,PRG-PS-235,MPPS 24,Pargi,1.16,False
+100264,pass100264,Nirmala Boddu,DUMMY-PRG-120476,PRG-PS-001,Govt Primary School 1,Pargi,1.99,False
+100265,pass100265,Rajesh Srinivas Somanchi,DUMMY-PRG-043150,PRG-PS-145,MPPS 15,Pargi,1.35,False
+100266,pass100266,Karthik Srinivas Yadav,DUMMY-PRG-086555,PRG-PS-240,District Parishad School 24,Pargi,2.39,False
+100267,pass100267,Gagan Teja Thota,DUMMY-PRG-071865,PRG-PS-190,District Parishad School 19,Pargi,1.24,False
+100268,pass100268,Raj Ediga,DUMMY-PRG-117262,PRG-PS-142,Govt High School 15,Pargi,1.87,False
+100269,pass100269,Dheeraj Srinivas Lakkam,DUMMY-PRG-015502,PRG-PS-252,Govt High School 26,Pargi,4.66,False
+100270,pass100270,Bhaskar Rao Yelamanchili,DUMMY-PRG-009710,PRG-PS-255,MPPS 26,Pargi,1.68,False
+100271,pass100271,Mounika Yerram,DUMMY-PRG-043132,PRG-PS-127,Model School 13,Pargi,2.2,False
+100272,pass100272,Nithin Prasad Nallamothu,DUMMY-PRG-015754,PRG-PS-199,Municipal School 20,Pargi,1.96,False
+100273,pass100273,Gayathri Goud,DUMMY-PRG-089205,PRG-PS-145,MPPS 15,Pargi,1.4,False
+100274,pass100274,Naveen Srinivas Samala,DUMMY-PRG-110803,PRG-PS-088,Government Junior College 9,Pargi,2.15,False
+100275,pass100275,Dheeraj Rao Malladi,DUMMY-PRG-045468,PRG-PS-023,Government Girls High School 3,Pargi,1.21,False
+100276,pass100276,Gautam Devi Yalavarthi,DUMMY-PRG-092789,PRG-PS-069,Municipal School 7,Pargi,1.68,False
+100277,pass100277,Bhargavi Reddam,DUMMY-PRG-120925,PRG-PS-145,MPPS 15,Pargi,2.1,False
+100278,pass100278,Dileep Mohan Narla,DUMMY-PRG-038926,PRG-PS-191,Govt Primary School 20,Pargi,2.87,False
+100279,pass100279,Kishore Lakshmi Somanchi,DUMMY-PRG-036690,PRG-PS-090,District Parishad School 9,Pargi,1.96,False
+100280,pass100280,Jai Venkata Patibandla,DUMMY-PRG-038388,PRG-PS-263,Government Girls High School 27,Pargi,1.76,False
+100281,pass100281,Nikhil Kumar Jonnalagadda,DUMMY-PRG-042433,PRG-PS-038,Government Junior College 4,Pargi,2.56,False
+100282,pass100282,Charan Rao Malladi,DUMMY-PRG-093438,PRG-PS-108,Government Junior College 11,Pargi,2.34,False
+100283,pass100283,Mahesh Sri Modukuri,DUMMY-PRG-090014,PRG-PS-039,Municipal School 4,Pargi,1.52,False
+100284,pass100284,Ishitha Bollam,DUMMY-PRG-013042,PRG-PS-232,Govt High School 24,Pargi,2.59,False
+100285,pass100285,Rajesh Krishna Rallapalli,DUMMY-PRG-032093,PRG-PS-068,Government Junior College 7,Pargi,1.33,False
+100286,pass100286,Anji Srinivas Panchumarthi,DUMMY-PRG-121292,PRG-PS-207,Model School 21,Pargi,2.3,False
+100287,pass100287,Gagan Kiran Dandu,DUMMY-PRG-038205,PRG-PS-080,District Parishad School 8,Pargi,1.71,False
+100288,pass100288,Manohar Rao Saripalli,DUMMY-PRG-066368,PRG-PS-183,Government Girls High School 19,Pargi,2.83,False
+100289,pass100289,Gautam Krishna Garlapati,DUMMY-PRG-128226,PRG-PS-126,MPUPS 13,Pargi,1.06,False
+100290,pass100290,Bhuvan Mohan Kondapalli,DUMMY-PRG-087257,PRG-PS-027,Model School 3,Pargi,2.38,False
+100291,pass100291,Hemanth Mohan Mallela,DUMMY-PRG-026822,PRG-PS-287,Model School 29,Pargi,2.69,False
+100292,pass100292,Nikhil Narayana Sunkara,DUMMY-PRG-009457,PRG-PS-002,Govt High School 1,Pargi,1.75,False
+100293,pass100293,Bhaskar Raju Rao,DUMMY-PRG-032562,PRG-PS-232,Govt High School 24,Pargi,2.94,False
+100294,pass100294,Anirudh Kumar Nallamothu,DUMMY-PRG-120635,PRG-PS-160,District Parishad School 16,Pargi,2.83,False
+100295,pass100295,Aarav Penmetsa,DUMMY-PRG-063656,PRG-PS-216,MPUPS 22,Pargi,2.56,False
+100296,pass100296,Hemanth Srinivas Sarve,DUMMY-PRG-025353,PRG-PS-038,Government Junior College 4,Pargi,1.03,False
+100297,pass100297,Ganesh Rao Nadimpalli,DUMMY-PRG-047030,PRG-PS-060,District Parishad School 6,Pargi,1.29,False
+100298,pass100298,Navin Sri Muppidi,DUMMY-PRG-002814,PRG-PS-069,Municipal School 7,Pargi,1.39,False
+100299,pass100299,Prudhvi Mohan Nandigam,DUMMY-PRG-083368,PRG-PS-103,Government Girls High School 11,Pargi,1.4,False
+100300,pass100300,Bhaskar Shankar,DUMMY-PRG-065340,PRG-PS-070,District Parishad School 7,Pargi,1.66,False
+100301,pass100301,Padma Yerraguntla,DUMMY-PRG-094030,PRG-PS-090,District Parishad School 9,Pargi,2.4,False
+100302,pass100302,Nanda Rani Gurrapu,DUMMY-PRG-067406,PRG-PS-001,Govt Primary School 1,Pargi,1.63,False
+100303,pass100303,Harish Rani Gurrapu,DUMMY-PRG-041895,PRG-PS-110,District Parishad School 11,Pargi,2.23,False
+100304,pass100304,Anil Chandra Cherukuri,DUMMY-PRG-114033,PRG-PS-268,Government Junior College 27,Pargi,1.61,False
+100305,pass100305,Praveen Rani Lakkam,DUMMY-PRG-075246,PRG-PS-216,MPUPS 22,Pargi,2.9,False
+100306,pass100306,Nithin Rao Cherukuri,DUMMY-PRG-036774,PRG-PS-174,Zilla Parishad High School 18,Pargi,2.26,False
+100307,pass100307,Lokesh Narayana Ponnam,DUMMY-PRG-036852,PRG-PS-252,Govt High School 26,Pargi,1.64,False
+100308,pass100308,Chaitanya Teja Lakkam,DUMMY-PRG-066955,PRG-PS-160,District Parishad School 16,Pargi,1.19,False
+100309,pass100309,Teja Paturi,DUMMY-PRG-050286,PRG-PS-266,MPUPS 27,Pargi,1.2,False
+100310,pass100310,Praveen Sri Penmetsa,DUMMY-PRG-117463,PRG-PS-038,Government Junior College 4,Pargi,2.41,False
+100311,pass100311,Lokesh Chandra Lingam,DUMMY-PRG-006392,PRG-PS-292,Govt High School 30,Pargi,2.61,False
+100312,pass100312,Bhuvan Kiran Pasupuleti,DUMMY-PRG-036933,PRG-PS-028,Government Junior College 3,Pargi,2.2,False
+100313,pass100313,Sandeep Puli,DUMMY-PRG-067860,PRG-PS-150,District Parishad School 15,Pargi,1.06,False
+100314,pass100314,Kiran Teja Mareddy,DUMMY-PRG-082699,PRG-PS-044,Zilla Parishad High School 5,Pargi,1.3,False
+100315,pass100315,Abhinav Mangalagiri,DUMMY-PRG-049932,PRG-PS-217,Model School 22,Pargi,2.21,False
+100316,pass100316,Jagan Kiran Yadlapalli,DUMMY-PRG-022536,PRG-PS-271,Govt Primary School 28,Pargi,2.72,False
+100317,pass100317,Nagesh Kumar Mallela,DUMMY-PRG-059949,PRG-PS-169,Municipal School 17,Pargi,2.76,False
+100318,pass100318,Jai Narayana Sagi,DUMMY-PRG-115301,PRG-PS-011,Govt Primary School 2,Pargi,2.31,False
+100319,pass100319,Abhinav Srinivas Malladi,DUMMY-PRG-094073,PRG-PS-133,Government Girls High School 14,Pargi,1.73,False
+100320,pass100320,Naresh Mohan Pusapati,DUMMY-PRG-003687,PRG-PS-027,Model School 3,Pargi,2.03,False
+100321,pass100321,Bala Devi Challa,DUMMY-PRG-108134,PRG-PS-164,Zilla Parishad High School 17,Pargi,2.46,False
+100322,pass100322,Prakash Doma,DUMMY-PRG-115135,PRG-PS-150,District Parishad School 15,Pargi,1.68,False
+100323,pass100323,Bhaskar Krishna Komati,DUMMY-PRG-084642,PRG-PS-157,Model School 16,Pargi,1.21,False
+100324,pass100324,Aarav Rani Jonnalagadda,DUMMY-PRG-121087,PRG-PS-002,Govt High School 1,Pargi,1.62,False
+100325,pass100325,Harsha Raju Kota,DUMMY-PRG-085578,PRG-PS-178,Government Junior College 18,Pargi,1.99,False
+100326,pass100326,Raj Sri Durgam,DUMMY-PRG-052025,PRG-PS-175,MPPS 18,Pargi,1.76,False
+100327,pass100327,Amar Sri Cherukuri,DUMMY-PRG-117164,PRG-PS-044,Zilla Parishad High School 5,Pargi,2.39,False
+100328,pass100328,Mohanrao Raju Yenugula,DUMMY-PRG-088080,PRG-PS-240,District Parishad School 24,Pargi,1.33,False
+100329,pass100329,Raj Krishna Peddireddy,DUMMY-PRG-104838,PRG-PS-223,Government Girls High School 23,Pargi,2.9,False
+100330,pass100330,Anirudh Kumar Patel,DUMMY-PRG-056891,PRG-PS-161,Govt Primary School 17,Pargi,2.07,False
+100331,pass100331,Mohanrao Rao Gurrapu,DUMMY-PRG-078017,PRG-PS-242,Govt High School 25,Pargi,2.83,False
+100332,pass100332,Krishna Srinivas Komati,DUMMY-PRG-107305,PRG-PS-250,District Parishad School 25,Pargi,1.05,False
+100333,pass100333,Rajesh Prasad Garlapati,DUMMY-PRG-045932,PRG-PS-182,Govt High School 19,Pargi,2.04,False
+100334,pass100334,Chaitanya Rao Uppala,DUMMY-PRG-111930,PRG-PS-300,District Parishad School 30,Pargi,2.06,False
+100335,pass100335,Ankitha Talasila,DUMMY-PRG-052819,PRG-PS-054,Zilla Parishad High School 6,Pargi,1.85,False
+100336,pass100336,Amar Kiran Mekala,DUMMY-PRG-061968,PRG-PS-053,Government Girls High School 6,Pargi,2.85,False
+100337,pass100337,Himanshu Rao Narapati,DUMMY-PRG-083972,PRG-PS-097,Model School 10,Pargi,1.72,False
+100338,pass100338,Gautham Prasad Vangala,DUMMY-PRG-042650,PRG-PS-255,MPPS 26,Pargi,1.52,False
+100339,pass100339,Himanshu Rani Kondapalli,DUMMY-PRG-024482,PRG-PS-082,Govt High School 9,Pargi,2.58,False
+100340,pass100340,Lakshman Sri Komati,DUMMY-PRG-123247,PRG-PS-027,Model School 3,Pargi,1.18,False
+100341,pass100341,Anji Venkata Gandla,DUMMY-PRG-016201,PRG-PS-036,MPUPS 4,Pargi,2.27,False
+100342,pass100342,Prudhvi Chandra Reddy,DUMMY-PRG-068766,PRG-PS-141,Govt Primary School 15,Pargi,2.31,False
+100343,pass100343,Gagan Venkata Nimmala,DUMMY-PRG-023643,PRG-PS-158,Government Junior College 16,Pargi,2.17,False
+100344,pass100344,Bharath Rao Kasukurthi,DUMMY-PRG-122582,PRG-PS-277,Model School 28,Pargi,1.01,False
+100345,pass100345,Sai Bandari,DUMMY-PRG-073259,PRG-PS-059,Municipal School 6,Pargi,2.2,False
+100346,pass100346,Kalyani Mallela,DUMMY-PRG-024908,PRG-PS-203,Government Girls High School 21,Pargi,4.67,False
+100347,pass100347,Dhanush Chandra Nandigam,DUMMY-PRG-002969,PRG-PS-224,Zilla Parishad High School 23,Pargi,1.95,False
+100348,pass100348,Charan Rani Yerraguntla,DUMMY-PRG-048636,PRG-PS-141,Govt Primary School 15,Pargi,2.36,False
+100349,pass100349,Gautham Yarlagadda,DUMMY-PRG-122363,PRG-PS-058,Government Junior College 6,Pargi,1.83,False
+100350,pass100350,Bhanu Chandra Thummala,DUMMY-PRG-098908,PRG-PS-088,Government Junior College 9,Pargi,4.72,False
+100351,pass100351,Charan Kiran Kandula,DUMMY-PRG-111332,PRG-PS-007,Model School 1,Pargi,2.01,False
+100352,pass100352,Saisri Penumudi,DUMMY-PRG-089775,PRG-PS-105,MPPS 11,Pargi,1.1,False
+100353,pass100353,Naresh Narayana Kakani,DUMMY-PRG-104684,PRG-PS-069,Municipal School 7,Pargi,2.64,False
+100354,pass100354,Bharath Lakshmi Sangem,DUMMY-PRG-034345,PRG-PS-185,MPPS 19,Pargi,1.32,False
+100355,pass100355,Akash Venkata Kandula,DUMMY-PRG-064760,PRG-PS-100,District Parishad School 10,Pargi,2.26,False
+100356,pass100356,Jagan Venkata Pusapati,DUMMY-PRG-035268,PRG-PS-193,Government Girls High School 20,Pargi,2.44,False
+100357,pass100357,Aruna Gandla,DUMMY-PRG-015952,PRG-PS-092,Govt High School 10,Pargi,2.17,False
+100358,pass100358,Bhuvan Rani Gurrapu,DUMMY-PRG-060779,PRG-PS-084,Zilla Parishad High School 9,Pargi,1.49,False
+100359,pass100359,Rahul Narayana Pakala,DUMMY-PRG-006848,PRG-PS-138,Government Junior College 14,Pargi,2.3,False
+100360,pass100360,Hemanth Devi Maddala,DUMMY-PRG-068376,PRG-PS-056,MPUPS 6,Pargi,2.44,False
+100361,pass100361,Ajay Venkata Vangala,DUMMY-PRG-069411,PRG-PS-176,MPUPS 18,Pargi,2.3,False
+100362,pass100362,Bhanu Narayana Bandi,DUMMY-PRG-093816,PRG-PS-181,Govt Primary School 19,Pargi,2.59,False
+100363,pass100363,Prakash Lakshmi Gowda,DUMMY-PRG-104900,PRG-PS-285,MPPS 29,Pargi,1.58,False
+100364,pass100364,Ravindra Prasad Nallamothu,DUMMY-PRG-085934,PRG-PS-229,Municipal School 23,Pargi,1.83,False
+100365,pass100365,Praveen Rao Doma,DUMMY-PRG-039559,PRG-PS-214,Zilla Parishad High School 22,Pargi,1.31,False
+100366,pass100366,Amar Mohan Yerram,DUMMY-PRG-035275,PRG-PS-200,District Parishad School 20,Pargi,1.34,False
+100367,pass100367,Nithin Venkata Varanasi,DUMMY-PRG-124361,PRG-PS-226,MPUPS 23,Pargi,1.85,False
+100368,pass100368,Kiran Prasad Nimmala,DUMMY-PRG-074247,PRG-PS-132,Govt High School 14,Pargi,2.8,False
+100369,pass100369,Chaitanya Raju Allam,DUMMY-PRG-054369,PRG-PS-079,Municipal School 8,Pargi,4.46,False
+100370,pass100370,Amar Babu Thota,DUMMY-PRG-084113,PRG-PS-238,Government Junior College 24,Pargi,2.69,False
+100371,pass100371,Naresh Rani Raparla,DUMMY-PRG-029637,PRG-PS-052,Govt High School 6,Pargi,1.61,False
+100372,pass100372,Anand Mohan Challa,DUMMY-PRG-029079,PRG-PS-104,Zilla Parishad High School 11,Pargi,2.7,False
+100373,pass100373,Vinod Bommidi,DUMMY-PRG-090985,PRG-PS-095,MPPS 10,Pargi,1.34,False
+100374,pass100374,Harish Chandra Gali,DUMMY-PRG-094420,PRG-PS-175,MPPS 18,Pargi,2.25,False
+100375,pass100375,Nithin Kumar Mekala,DUMMY-PRG-025688,PRG-PS-068,Government Junior College 7,Pargi,2.76,False
+100376,pass100376,Mohan Kumar Somanchi,DUMMY-PRG-026242,PRG-PS-012,Govt High School 2,Pargi,1.25,False
+100377,pass100377,Krishna Raju Muppidi,DUMMY-PRG-018510,PRG-PS-210,District Parishad School 21,Pargi,2.09,False
+100378,pass100378,Madhav Nadella,DUMMY-PRG-122600,PRG-PS-295,MPPS 30,Pargi,1.35,False
+100379,pass100379,Koushik Sri Rudra,DUMMY-PRG-093841,PRG-PS-206,MPUPS 21,Pargi,2.74,False
+100380,pass100380,Aarav Prasad Kakarla,DUMMY-PRG-042781,PRG-PS-081,Govt Primary School 9,Pargi,2.24,False
+100381,pass100381,Ramesh Kiran Naidu,DUMMY-PRG-073282,PRG-PS-082,Govt High School 9,Pargi,1.37,False
+100382,pass100382,Hemanth Venkata Modukuri,DUMMY-PRG-058717,PRG-PS-157,Model School 16,Pargi,2.33,False
+100383,pass100383,Aarav Muppidi,DUMMY-PRG-091167,PRG-PS-277,Model School 28,Pargi,2.33,False
+100384,pass100384,Akash Mohan Pakala,DUMMY-PRG-005580,PRG-PS-090,District Parishad School 9,Pargi,1.28,False
+100385,pass100385,Nikhil Mohan Durgam,DUMMY-PRG-011097,PRG-PS-117,Model School 12,Pargi,1.44,False
+100386,pass100386,Dhanush Chandra Pinninti,DUMMY-PRG-061556,PRG-PS-251,Govt Primary School 26,Pargi,2.63,False
+100387,pass100387,Pavan Sri Emani,DUMMY-PRG-073164,PRG-PS-269,Municipal School 27,Pargi,2.3,False
+100388,pass100388,Manohar Kiran Sangem,DUMMY-PRG-007835,PRG-PS-210,District Parishad School 21,Pargi,1.14,False
+100389,pass100389,Manohar Venkata Bandari,DUMMY-PRG-015436,PRG-PS-186,MPUPS 19,Pargi,2.08,False
+100390,pass100390,Chaitanya Srinivas Sagi,DUMMY-PRG-108410,PRG-PS-135,MPPS 14,Pargi,1.85,False
+100391,pass100391,Ashok Sri Kadiyala,DUMMY-PRG-070790,PRG-PS-030,District Parishad School 3,Pargi,2.78,False
+100392,pass100392,Jagadeesh Krishna Komati,DUMMY-PRG-074982,PRG-PS-257,Model School 26,Pargi,2.24,False
+100393,pass100393,Girish Babu Allam,DUMMY-PRG-011063,PRG-PS-083,Government Girls High School 9,Pargi,1.19,False
+100394,pass100394,Lokesh Prasad Dandu,DUMMY-PRG-010026,PRG-PS-266,MPUPS 27,Pargi,1.71,False
+100395,pass100395,Bharath Lakshmi Kummari,DUMMY-PRG-053456,PRG-PS-081,Govt Primary School 9,Pargi,4.25,False
+100396,pass100396,Mohan Chandra Vedula,DUMMY-PRG-052123,PRG-PS-273,Government Girls High School 28,Pargi,2.98,False
+100397,pass100397,Nanda Chandra Vutla,DUMMY-PRG-034810,PRG-PS-040,District Parishad School 4,Pargi,2.22,False
+100398,pass100398,Mohanrao Krishna Talluri,DUMMY-PRG-009549,PRG-PS-094,Zilla Parishad High School 10,Pargi,1.73,False
+100399,pass100399,Nikhil Rao Samala,DUMMY-PRG-126923,PRG-PS-043,Government Girls High School 5,Pargi,1.11,False
+100400,pass100400,Ravi Rao Thota,DUMMY-PRG-092207,PRG-PS-097,Model School 10,Pargi,2.23,False
+100401,pass100401,Koushik Mohan Palle,DUMMY-PRG-103923,PRG-PS-223,Government Girls High School 23,Pargi,2.69,False
+100402,pass100402,Harish Rani Modukuri,DUMMY-PRG-076266,PRG-PS-016,MPUPS 2,Pargi,2.34,False
+100403,pass100403,Ajay Narayana Yendluri,DUMMY-PRG-022322,PRG-PS-057,Model School 6,Pargi,1.11,False
+100404,pass100404,Amar Rao Vemula,DUMMY-PRG-096329,PRG-PS-254,Zilla Parishad High School 26,Pargi,2.92,False
+100405,pass100405,Kishore Babu Dandu,DUMMY-PRG-085853,PRG-PS-148,Government Junior College 15,Pargi,1.8,False
+100406,pass100406,Nagesh Krishna Kandula,DUMMY-PRG-068811,PRG-PS-186,MPUPS 19,Pargi,1.63,False
+100407,pass100407,Chetan Kumar Lolla,DUMMY-PRG-120274,PRG-PS-104,Zilla Parishad High School 11,Pargi,1.83,False
+100408,pass100408,Priya Vemula,DUMMY-PRG-010444,PRG-PS-074,Zilla Parishad High School 8,Pargi,2.52,False
+100409,pass100409,Ravindra Babu Nandigam,DUMMY-PRG-020131,PRG-PS-001,Govt Primary School 1,Pargi,2.51,False
+100410,pass100410,Durga Narayana Kavuri,DUMMY-PRG-121468,PRG-PS-078,Government Junior College 8,Pargi,1.55,False
+100411,pass100411,Durga Venkata Kothuri,DUMMY-PRG-059219,PRG-PS-049,Municipal School 5,Pargi,1.35,False
+100412,pass100412,Geetha Mothe,DUMMY-PRG-123015,PRG-PS-100,District Parishad School 10,Pargi,1.75,False
+100413,pass100413,Abhilash Vemuri,DUMMY-PRG-120775,PRG-PS-300,District Parishad School 30,Pargi,1.64,False
+100414,pass100414,Kishore Devi Raparla,DUMMY-PRG-004791,PRG-PS-216,MPUPS 22,Pargi,1.47,False
+100415,pass100415,Nithin Prasad Chintala,DUMMY-PRG-118729,PRG-PS-084,Zilla Parishad High School 9,Pargi,1.53,False
+100416,pass100416,Mahesh Lakshmi Parimi,DUMMY-PRG-053447,PRG-PS-072,Govt High School 8,Pargi,1.18,False
+100417,pass100417,Ramesh Prasad Kakani,DUMMY-PRG-120205,PRG-PS-035,MPPS 4,Pargi,1.44,False
+100418,pass100418,Harish Prasad Yerra,DUMMY-PRG-033524,PRG-PS-279,Municipal School 28,Pargi,2.21,False
+100419,pass100419,Ramesh Narayana Taduri,DUMMY-PRG-021164,PRG-PS-119,Municipal School 12,Pargi,1.54,False
+100420,pass100420,Anand Srinivas Rao,DUMMY-PRG-095576,PRG-PS-111,Govt Primary School 12,Pargi,1.38,False
+100421,pass100421,Anil Teja Dandu,DUMMY-PRG-039731,PRG-PS-081,Govt Primary School 9,Pargi,2.28,False
+100422,pass100422,Rakesh Kumar Boppana,DUMMY-PRG-089713,PRG-PS-043,Government Girls High School 5,Pargi,2.04,False
+100423,pass100423,Karthik Kumar Gaddam,DUMMY-PRG-066592,PRG-PS-102,Govt High School 11,Pargi,2.85,False
+100424,pass100424,Gagan Mohan Yadlapalli,DUMMY-PRG-107977,PRG-PS-007,Model School 1,Pargi,1.36,False
+100425,pass100425,Pavan Devi Nadella,DUMMY-PRG-126899,PRG-PS-019,Municipal School 2,Pargi,2.58,False
+100426,pass100426,Vijaya Emani,DUMMY-PRG-095111,PRG-PS-256,MPUPS 26,Pargi,1.15,False
+100427,pass100427,Gautham Teja Jasti,DUMMY-PRG-051495,PRG-PS-255,MPPS 26,Pargi,1.83,False
+100428,pass100428,Gautam Chandra Jasti,DUMMY-PRG-070818,PRG-PS-058,Government Junior College 6,Pargi,2.94,False
+100429,pass100429,Avinash Babu Varma,DUMMY-PRG-027890,PRG-PS-135,MPPS 14,Pargi,2.01,False
+100430,pass100430,Saritha Rallapalli,DUMMY-PRG-084946,PRG-PS-156,MPUPS 16,Pargi,1.7,False
+100431,pass100431,Bhanu Bommidi,DUMMY-PRG-077499,PRG-PS-029,Municipal School 3,Pargi,4.18,False
+100432,pass100432,Manohar Teja Yerram,DUMMY-PRG-087761,PRG-PS-226,MPUPS 23,Pargi,1.07,False
+100433,pass100433,Kiran Prasad Pusapati,DUMMY-PRG-127657,PRG-PS-167,Model School 17,Pargi,1.69,False
+100434,pass100434,Praveen Rani Mannem,DUMMY-PRG-038304,PRG-PS-179,Municipal School 18,Pargi,1.0,False
+100435,pass100435,Lokesh Mohan Chowdary,DUMMY-PRG-019912,PRG-PS-087,Model School 9,Pargi,1.43,False
+100436,pass100436,Himanshu Raju Kakarla,DUMMY-PRG-042350,PRG-PS-260,District Parishad School 26,Pargi,1.45,False
+100437,pass100437,Harini Yadav,DUMMY-PRG-023769,PRG-PS-284,Zilla Parishad High School 29,Pargi,2.97,False
+100438,pass100438,Lokesh Babu Bommidi,DUMMY-PRG-080933,PRG-PS-108,Government Junior College 11,Pargi,1.87,False
+100439,pass100439,Manohar Srinivas Mothe,DUMMY-PRG-045283,PRG-PS-143,Government Girls High School 15,Pargi,1.6,False
+100440,pass100440,Amar Kumar Anumolu,DUMMY-PRG-122693,PRG-PS-083,Government Girls High School 9,Pargi,2.58,False
+100441,pass100441,Gautham Raju Muddasani,DUMMY-PRG-026335,PRG-PS-105,MPPS 11,Pargi,2.19,False
+100442,pass100442,Chaitanya Srinivas Kavuri,DUMMY-PRG-070026,PRG-PS-181,Govt Primary School 19,Pargi,2.3,False
+100443,pass100443,Gagan Rao Narla,DUMMY-PRG-125615,PRG-PS-260,District Parishad School 26,Pargi,2.57,False
+100444,pass100444,Balaji Lakshmi Kadiyala,DUMMY-PRG-044403,PRG-PS-178,Government Junior College 18,Pargi,1.16,False
+100445,pass100445,Ganesh Raju Jasti,DUMMY-PRG-039228,PRG-PS-188,Government Junior College 19,Pargi,2.89,False
+100446,pass100446,Anand Krishna Ponnam,DUMMY-PRG-049209,PRG-PS-104,Zilla Parishad High School 11,Pargi,2.91,False
+100447,pass100447,Anji Mohan Marri,DUMMY-PRG-060571,PRG-PS-181,Govt Primary School 19,Pargi,1.1,False
+100448,pass100448,Gautham Teja Shetty,DUMMY-PRG-010522,PRG-PS-152,Govt High School 16,Pargi,2.8,False
+100449,pass100449,Rahul Rani Perumalla,DUMMY-PRG-108877,PRG-PS-297,Model School 30,Pargi,1.18,False
+100450,pass100450,Dhanush Narayana Vannemreddy,DUMMY-PRG-101663,PRG-PS-098,Government Junior College 10,Pargi,1.3,False
+100451,pass100451,Manish Devi Gorre,DUMMY-PRG-027653,PRG-PS-203,Government Girls High School 21,Pargi,2.47,False
+100452,pass100452,Pallavi Mekala,DUMMY-PRG-086997,PRG-PS-072,Govt High School 8,Pargi,1.94,False
+100453,pass100453,Anirudh Narayana Yadav,DUMMY-PRG-035355,PRG-PS-280,District Parishad School 28,Pargi,2.11,False
+100454,pass100454,Dhanush Narayana Rudra,DUMMY-PRG-015517,PRG-PS-267,Model School 27,Pargi,2.8,False
+100455,pass100455,Nithin Chandra Kota,DUMMY-PRG-102915,PRG-PS-130,District Parishad School 13,Pargi,2.4,False
+100456,pass100456,Bhavana Gorre,DUMMY-PRG-074583,PRG-PS-163,Government Girls High School 17,Pargi,1.03,False
+100457,pass100457,Lokesh Kumar Ediga,DUMMY-PRG-087817,PRG-PS-282,Govt High School 29,Pargi,2.16,False
+100458,pass100458,Nanda Narayana Malla,DUMMY-PRG-012602,PRG-PS-097,Model School 10,Pargi,2.74,False
+100459,pass100459,Bala Rani Nandigam,DUMMY-PRG-031398,PRG-PS-288,Government Junior College 29,Pargi,1.43,False
+100460,pass100460,Prudhvi Mangalagiri,DUMMY-PRG-065000,PRG-PS-035,MPPS 4,Pargi,2.93,False
+100461,pass100461,Avinash Rao Rangineni,DUMMY-PRG-089669,PRG-PS-304,Zilla Parishad High School 31,Pargi,1.33,False
+100462,pass100462,Prakash Srinivas Deshmukh,DUMMY-PRG-048157,PRG-PS-272,Govt High School 28,Pargi,1.0,False
+100463,pass100463,Himanshu Gandluri,DUMMY-PRG-052882,PRG-PS-117,Model School 12,Pargi,1.97,False
+100464,pass100464,Jai Chandra Karra,DUMMY-PRG-023196,PRG-PS-016,MPUPS 2,Pargi,2.38,False
+100465,pass100465,Arjun Teja Golla,DUMMY-PRG-029407,PRG-PS-127,Model School 13,Pargi,2.99,False
+100466,pass100466,Lakshman Venkata Vannemreddy,DUMMY-PRG-019560,PRG-PS-040,District Parishad School 4,Pargi,2.77,False
+100467,pass100467,Prakash Chandra Kaza,DUMMY-PRG-116064,PRG-PS-164,Zilla Parishad High School 17,Pargi,1.47,False
+100468,pass100468,Rahul Challa,DUMMY-PRG-025418,PRG-PS-103,Government Girls High School 11,Pargi,2.21,False
+100469,pass100469,Karthik Pothula,DUMMY-PRG-061005,PRG-PS-005,MPPS 1,Pargi,1.16,False
+100470,pass100470,Avinash Kumar Paturi,DUMMY-PRG-025890,PRG-PS-270,District Parishad School 27,Pargi,2.96,False
+100471,pass100471,Mahesh Mohan Raparla,DUMMY-PRG-007341,PRG-PS-021,Govt Primary School 3,Pargi,2.36,False
+100472,pass100472,Vijaya Sabbavarapu,DUMMY-PRG-047283,PRG-PS-008,Government Junior College 1,Pargi,1.68,False
+100473,pass100473,Bhuvan Chandra Tadiparthi,DUMMY-PRG-021758,PRG-PS-103,Government Girls High School 11,Pargi,1.6,False
+100474,pass100474,Siva Singireddy,DUMMY-PRG-085487,PRG-PS-087,Model School 9,Pargi,2.54,False
+100475,pass100475,Koushik Krishna Racharla,DUMMY-PRG-072949,PRG-PS-054,Zilla Parishad High School 6,Pargi,2.9,False
+100476,pass100476,Bhanu Krishna Yadlapalli,DUMMY-PRG-025965,PRG-PS-040,District Parishad School 4,Pargi,2.3,False
+100477,pass100477,Akhil Devi Madireddy,DUMMY-PRG-076846,PRG-PS-291,Govt Primary School 30,Pargi,1.99,False
+100478,pass100478,Kishore Chandra Penumudi,DUMMY-PRG-123218,PRG-PS-303,Government Girls High School 31,Pargi,1.89,False
+100479,pass100479,Anjan Gurrapu,DUMMY-PRG-073258,PRG-PS-058,Government Junior College 6,Pargi,2.48,False
+100480,pass100480,Dhanush Raju Setty,DUMMY-PRG-082062,PRG-PS-017,Model School 2,Pargi,2.41,False
+100481,pass100481,Amar Rao Gandluri,DUMMY-PRG-048103,PRG-PS-218,Government Junior College 22,Pargi,1.89,False
+100482,pass100482,Rakesh Rani Emani,DUMMY-PRG-001842,PRG-PS-012,Govt High School 2,Pargi,1.61,False
+100483,pass100483,Karthik Lakshmi Vangala,DUMMY-PRG-042767,PRG-PS-067,Model School 7,Pargi,2.46,False
+100484,pass100484,Chaitanya Raju Sajja,DUMMY-PRG-124081,PRG-PS-251,Govt Primary School 26,Pargi,2.37,False
+100485,pass100485,Sneha Jampala,DUMMY-PRG-078606,PRG-PS-221,Govt Primary School 23,Pargi,1.18,False
+100486,pass100486,Aditya Devi Vasireddy,DUMMY-PRG-081271,PRG-PS-141,Govt Primary School 15,Pargi,2.71,False
+100487,pass100487,Kavya Reddam,DUMMY-PRG-057297,PRG-PS-262,Govt High School 27,Pargi,2.7,False
+100488,pass100488,Abhinav Kiran Madduri,DUMMY-PRG-080364,PRG-PS-149,Municipal School 15,Pargi,2.74,False
+100489,pass100489,Nagesh Sri Yadav,DUMMY-PRG-092083,PRG-PS-278,Government Junior College 28,Pargi,2.97,False
+100490,pass100490,Pavan Rani Vutla,DUMMY-PRG-029572,PRG-PS-292,Govt High School 30,Pargi,2.06,False
+100491,pass100491,Dileep Kumar Sajja,DUMMY-PRG-032031,PRG-PS-006,MPUPS 1,Pargi,2.81,False
+100492,pass100492,Akhil Venkata Nandigam,DUMMY-PRG-125632,PRG-PS-277,Model School 28,Pargi,4.5,False
+100493,pass100493,Bhaskar Venkata Narapati,DUMMY-PRG-018968,PRG-PS-058,Government Junior College 6,Pargi,2.17,False
+100494,pass100494,Aditya Kumar Vinnakota,DUMMY-PRG-050958,PRG-PS-023,Government Girls High School 3,Pargi,1.41,False
+100495,pass100495,Girish Prasad Durgam,DUMMY-PRG-069609,PRG-PS-069,Municipal School 7,Pargi,1.85,False
+100496,pass100496,Madhav Prasad Gattu,DUMMY-PRG-009282,PRG-PS-132,Govt High School 14,Pargi,2.61,False
+100497,pass100497,Navin Srinivas Pasupuleti,DUMMY-PRG-104890,PRG-PS-275,MPPS 28,Pargi,2.29,False
+100498,pass100498,Madhav Teja Kadiyala,DUMMY-PRG-058077,PRG-PS-127,Model School 13,Pargi,1.61,False
+100499,pass100499,Akhil Lakshmi Yadav,DUMMY-PRG-111568,PRG-PS-243,Government Girls High School 25,Pargi,1.3,False
+100500,pass100500,Lokesh Rao Thummala,DUMMY-PRG-049261,PRG-PS-156,MPUPS 16,Pargi,4.33,False
+100501,pass100501,Gayathri Yerra,DUMMY-PRG-047825,PRG-PS-245,MPPS 25,Pargi,2.56,False
+100502,pass100502,Bhaskar Srinivas Saripalli,DUMMY-PRG-068111,PRG-PS-096,MPUPS 10,Pargi,2.24,False
+100503,pass100503,Gagan Devi Satyanarayana,DUMMY-PRG-127522,PRG-PS-032,Govt High School 4,Pargi,1.02,False
+100504,pass100504,Akash Venkata Medapati,DUMMY-PRG-083230,PRG-PS-270,District Parishad School 27,Pargi,2.84,False
+100505,pass100505,Anirudh Devi Rudra,DUMMY-PRG-055825,PRG-PS-010,District Parishad School 1,Pargi,2.92,False
+100506,pass100506,Bhanu Babu Patel,DUMMY-PRG-093917,PRG-PS-282,Govt High School 29,Pargi,2.85,False
+100507,pass100507,Latha Patibandla,DUMMY-PRG-038778,PRG-PS-043,Government Girls High School 5,Pargi,1.01,False
+100508,pass100508,Avinash Lakshmi Gurrapu,DUMMY-PRG-075571,PRG-PS-236,MPUPS 24,Pargi,1.94,False
+100509,pass100509,Kiran Sri Pinninti,DUMMY-PRG-121945,PRG-PS-250,District Parishad School 25,Pargi,2.71,False
+100510,pass100510,Amar Lakshmi Madduri,DUMMY-PRG-121316,PRG-PS-231,Govt Primary School 24,Pargi,1.85,False
+100511,pass100511,Nagesh Krishna Nallamothu,DUMMY-PRG-069007,PRG-PS-077,Model School 8,Pargi,1.72,False
+100512,pass100512,Bhanu Koppula,DUMMY-PRG-107104,PRG-PS-049,Municipal School 5,Pargi,1.88,False
+100513,pass100513,Arun Kiran Malladi,DUMMY-PRG-127959,PRG-PS-164,Zilla Parishad High School 17,Pargi,4.24,False
+100514,pass100514,Akash Mohan Vutla,DUMMY-PRG-038612,PRG-PS-182,Govt High School 19,Pargi,2.56,False
+100515,pass100515,Bhaskar Narayana Somanchi,DUMMY-PRG-015123,PRG-PS-178,Government Junior College 18,Pargi,1.31,False
+100516,pass100516,Anjan Chandra Boppana,DUMMY-PRG-100404,PRG-PS-059,Municipal School 6,Pargi,2.61,False
+100517,pass100517,Nanda Babu Uppala,DUMMY-PRG-012641,PRG-PS-136,MPUPS 14,Pargi,1.12,False
+100518,pass100518,Siddharth Yenugula,DUMMY-PRG-050801,PRG-PS-171,Govt Primary School 18,Pargi,2.52,False
+100519,pass100519,Avinash Rani Tummala,DUMMY-PRG-086472,PRG-PS-157,Model School 16,Pargi,2.2,False
+100520,pass100520,Madhav Lakshmi Boppana,DUMMY-PRG-025544,PRG-PS-229,Municipal School 23,Pargi,1.57,False
+100521,pass100521,Dheeraj Lakshmi Chintala,DUMMY-PRG-054106,PRG-PS-121,Govt Primary School 13,Pargi,1.54,False
+100522,pass100522,Devika Mothe,DUMMY-PRG-078750,PRG-PS-060,District Parishad School 6,Pargi,1.27,False
+100523,pass100523,Chetan Raju Emani,DUMMY-PRG-026785,PRG-PS-250,District Parishad School 25,Pargi,1.37,False
+100524,pass100524,Bhaskar Rao Vemula,DUMMY-PRG-005885,PRG-PS-090,District Parishad School 9,Pargi,2.99,False
+100525,pass100525,Anand Prasad Kondapalli,DUMMY-PRG-111599,PRG-PS-274,Zilla Parishad High School 28,Pargi,1.25,False
+100526,pass100526,Harish Prasad Marri,DUMMY-PRG-008518,PRG-PS-283,Government Girls High School 29,Pargi,1.16,False
+100527,pass100527,Bhuvan Narayana Dandu,DUMMY-PRG-054510,PRG-PS-220,District Parishad School 22,Pargi,2.74,False
+100528,pass100528,Dhanush Devi Nimmala,DUMMY-PRG-037777,PRG-PS-262,Govt High School 27,Pargi,1.61,False
+100529,pass100529,Aditya Venkata Sangem,DUMMY-PRG-127456,PRG-PS-271,Govt Primary School 28,Pargi,1.12,False
+100530,pass100530,Harish Kiran Mekala,DUMMY-PRG-121539,PRG-PS-149,Municipal School 15,Pargi,1.16,False
+100531,pass100531,Ravindra Babu Mekala,DUMMY-PRG-030424,PRG-PS-229,Municipal School 23,Pargi,2.79,False
+100532,pass100532,Dileep Prasad Boppana,DUMMY-PRG-122682,PRG-PS-072,Govt High School 8,Pargi,2.62,False
+100533,pass100533,Gautham Rani Tadiparthi,DUMMY-PRG-077108,PRG-PS-248,Government Junior College 25,Pargi,2.24,False
+100534,pass100534,Nithin Raju Madireddy,DUMMY-PRG-093346,PRG-PS-016,MPUPS 2,Pargi,2.37,False
+100535,pass100535,Kishore Kiran Shankar,DUMMY-PRG-008767,PRG-PS-227,Model School 23,Pargi,2.43,False
+100536,pass100536,Madhav Raju Samala,DUMMY-PRG-015940,PRG-PS-080,District Parishad School 8,Pargi,2.49,False
+100537,pass100537,Arjun Mohan Palle,DUMMY-PRG-108497,PRG-PS-222,Govt High School 23,Pargi,1.2,False
+100538,pass100538,Ashok Kumar Reddy,DUMMY-PRG-105822,PRG-PS-292,Govt High School 30,Pargi,1.98,False
+100539,pass100539,Nikhil Devi Kaza,DUMMY-PRG-007138,PRG-PS-123,Government Girls High School 13,Pargi,2.57,False
+100540,pass100540,Anirudh Kiran Vinnakota,DUMMY-PRG-118292,PRG-PS-257,Model School 26,Pargi,4.26,False
+100541,pass100541,Abhinav Lakshmi Jampala,DUMMY-PRG-121225,PRG-PS-140,District Parishad School 14,Pargi,2.63,False
+100542,pass100542,Raj Prasad Pinninti,DUMMY-PRG-034456,PRG-PS-296,MPUPS 30,Pargi,2.04,False
+100543,pass100543,Akhil Rao Chintada,DUMMY-PRG-051825,PRG-PS-280,District Parishad School 28,Pargi,2.9,False
+100544,pass100544,Jagan Venkata Emani,DUMMY-PRG-058988,PRG-PS-123,Government Girls High School 13,Pargi,2.93,False
+100545,pass100545,Vinod Nanduri,DUMMY-PRG-014766,PRG-PS-126,MPUPS 13,Pargi,1.79,False
+100546,pass100546,Rajesh Kumar Somisetty,DUMMY-PRG-111154,PRG-PS-134,Zilla Parishad High School 14,Pargi,4.66,False
+100547,pass100547,Nagesh Teja Challa,DUMMY-PRG-046320,PRG-PS-265,MPPS 27,Pargi,1.68,False
+100548,pass100548,Nikhil Narayana Yalavarthi,DUMMY-PRG-036100,PRG-PS-110,District Parishad School 11,Pargi,2.88,False
+100549,pass100549,Ashwini Shetty,DUMMY-PRG-077954,PRG-PS-179,Municipal School 18,Pargi,2.39,False
+100550,pass100550,Neha Rangineni,DUMMY-PRG-065863,PRG-PS-288,Government Junior College 29,Pargi,1.4,False
+100551,pass100551,Himanshu Rani Kandukuri,DUMMY-PRG-020977,PRG-PS-237,Model School 24,Pargi,1.46,False
+100552,pass100552,Ramesh Chandra Sabbavarapu,DUMMY-PRG-125178,PRG-PS-128,Government Junior College 13,Pargi,2.05,False
+100553,pass100553,Ravindra Korrapati,DUMMY-PRG-087337,PRG-PS-107,Model School 11,Pargi,1.85,False
+100554,pass100554,Krishna Venkata Ravula,DUMMY-PRG-069801,PRG-PS-261,Govt Primary School 27,Pargi,1.97,False
+100555,pass100555,Hemanth Srinivas Kancharla,DUMMY-PRG-107225,PRG-PS-170,District Parishad School 17,Pargi,1.13,False
+100556,pass100556,Himanshu Sri Tummala,DUMMY-PRG-037219,PRG-PS-009,Municipal School 1,Pargi,2.56,False
+100557,pass100557,Dileep Rao Nalluri,DUMMY-PRG-058948,PRG-PS-083,Government Girls High School 9,Pargi,1.5,False
+100558,pass100558,Rajesh Narayana Somisetty,DUMMY-PRG-039804,PRG-PS-154,Zilla Parishad High School 16,Pargi,2.81,False
+100559,pass100559,Surya Muddasani,DUMMY-PRG-123064,PRG-PS-149,Municipal School 15,Pargi,2.75,False
+100560,pass100560,Hemanth Devi Saripalli,DUMMY-PRG-097514,PRG-PS-219,Municipal School 22,Pargi,4.25,False
+100561,pass100561,Nikhil Sri Raghavendra,DUMMY-PRG-099397,PRG-PS-272,Govt High School 28,Pargi,1.9,False
+100562,pass100562,Vinay Malla,DUMMY-PRG-009421,PRG-PS-271,Govt Primary School 28,Pargi,2.1,False
+100563,pass100563,Prakash Mohan Gandluri,DUMMY-PRG-093911,PRG-PS-276,MPUPS 28,Pargi,1.85,False
+100564,pass100564,Koushik Chandra Tirumalasetti,DUMMY-PRG-077364,PRG-PS-199,Municipal School 20,Pargi,1.27,False
+100565,pass100565,Pavan Kumar Polam,DUMMY-PRG-052545,PRG-PS-085,MPPS 9,Pargi,2.7,False
+100566,pass100566,Manish Kiran Thota,DUMMY-PRG-084851,PRG-PS-061,Govt Primary School 7,Pargi,2.2,False
+100567,pass100567,Naresh Lakshmi Vallabhaneni,DUMMY-PRG-042218,PRG-PS-128,Government Junior College 13,Pargi,2.08,False
+100568,pass100568,Koushik Raju Gaddam,DUMMY-PRG-020041,PRG-PS-216,MPUPS 22,Pargi,2.53,False
+100569,pass100569,Ajay Rao Sunkara,DUMMY-PRG-064236,PRG-PS-186,MPUPS 19,Pargi,2.25,False
+100570,pass100570,Chaitanya Prasad Jonnalagadda,DUMMY-PRG-099703,PRG-PS-273,Government Girls High School 28,Pargi,1.6,False
+100571,pass100571,Karthik Lakshmi Perumalla,DUMMY-PRG-082904,PRG-PS-249,Municipal School 25,Pargi,1.91,False
+100572,pass100572,Mohanrao Rani Gaddam,DUMMY-PRG-084912,PRG-PS-122,Govt High School 13,Pargi,2.73,False
+100573,pass100573,Nanda Teja Vemuri,DUMMY-PRG-116565,PRG-PS-055,MPPS 6,Pargi,2.13,False
+100574,pass100574,Sravani Vinnakota,DUMMY-PRG-000318,PRG-PS-013,Government Girls High School 2,Pargi,2.22,False
+100575,pass100575,Dhanush Lakshmi Patibandla,DUMMY-PRG-022998,PRG-PS-123,Government Girls High School 13,Pargi,4.61,False
+100576,pass100576,Ganesh Venkata Gowda,DUMMY-PRG-080151,PRG-PS-241,Govt Primary School 25,Pargi,2.17,False
+100577,pass100577,Ashok Krishna Sharma,DUMMY-PRG-112568,PRG-PS-023,Government Girls High School 3,Pargi,2.44,False
+100578,pass100578,Krishna Rani Polisetty,DUMMY-PRG-082561,PRG-PS-211,Govt Primary School 22,Pargi,2.38,False
+100579,pass100579,Ravindra Kumar Jasti,DUMMY-PRG-037246,PRG-PS-036,MPUPS 4,Pargi,1.19,False
+100580,pass100580,Arun Mohan Vadde,DUMMY-PRG-029414,PRG-PS-134,Zilla Parishad High School 14,Pargi,1.61,False
+100581,pass100581,Dileep Rani Damera,DUMMY-PRG-050793,PRG-PS-163,Government Girls High School 17,Pargi,1.92,False
+100582,pass100582,Mohanrao Kiran Yerraguntla,DUMMY-PRG-126104,PRG-PS-139,Municipal School 14,Pargi,2.34,False
+100583,pass100583,Gautham Kumar,DUMMY-PRG-075791,PRG-PS-151,Govt Primary School 16,Pargi,2.23,False
+100584,pass100584,Girish Krishna Marri,DUMMY-PRG-008257,PRG-PS-022,Govt High School 3,Pargi,2.33,False
+100585,pass100585,Praveen Prasad Chintada,DUMMY-PRG-125674,PRG-PS-014,Zilla Parishad High School 2,Pargi,2.16,False
+100586,pass100586,Anirudh Mangalagiri,DUMMY-PRG-093941,PRG-PS-001,Govt Primary School 1,Pargi,2.63,False
+100587,pass100587,Bharath Venkata Malladi,DUMMY-PRG-076742,PRG-PS-187,Model School 19,Pargi,1.31,False
+100588,pass100588,Bhaskar Krishna Reddam,DUMMY-PRG-033294,PRG-PS-049,Municipal School 5,Pargi,1.34,False
+100589,pass100589,Ashok Devi Kosaraju,DUMMY-PRG-019136,PRG-PS-226,MPUPS 23,Pargi,1.5,False
+100590,pass100590,Bhanu Krishna Rangineni,DUMMY-PRG-042307,PRG-PS-217,Model School 22,Pargi,2.67,False
+100591,pass100591,Mahesh Kumar Kasukurthi,DUMMY-PRG-040573,PRG-PS-008,Government Junior College 1,Pargi,2.63,False
+100592,pass100592,Aditya Raju Vinnakota,DUMMY-PRG-018322,PRG-PS-022,Govt High School 3,Pargi,1.29,False
+100593,pass100593,Bhargavi Bommidi,DUMMY-PRG-067653,PRG-PS-248,Government Junior College 25,Pargi,1.62,False
+100594,pass100594,Naresh Raju Ponnam,DUMMY-PRG-123958,PRG-PS-128,Government Junior College 13,Pargi,1.92,False
+100595,pass100595,Balaji Lakshmi Nimmala,DUMMY-PRG-109283,PRG-PS-093,Government Girls High School 10,Pargi,2.87,False
+100596,pass100596,Manoj Babu Uppala,DUMMY-PRG-108585,PRG-PS-005,MPPS 1,Pargi,1.2,False
+100597,pass100597,Ganesh Prasad Sarve,DUMMY-PRG-111987,PRG-PS-052,Govt High School 6,Pargi,1.27,False
+100598,pass100598,Bhanu Raju Kandukuri,DUMMY-PRG-113918,PRG-PS-153,Government Girls High School 16,Pargi,2.06,False
+100599,pass100599,Aruna Rao,DUMMY-PRG-076924,PRG-PS-064,Zilla Parishad High School 7,Pargi,1.87,False
+100600,pass100600,Durga Duvvuri,DUMMY-PRG-083270,PRG-PS-005,MPPS 1,Pargi,2.92,False
+100601,pass100601,Dileep Devi Pothula,DUMMY-PRG-002321,PRG-PS-186,MPUPS 19,Pargi,1.52,False
+100602,pass100602,Dhanush Devi Kandukuri,DUMMY-PRG-043204,PRG-PS-199,Municipal School 20,Pargi,1.55,False
+100603,pass100603,Balaji Kiran Muddasani,DUMMY-PRG-004860,PRG-PS-285,MPPS 29,Pargi,2.41,False
+100604,pass100604,Madhav Chandra Nallamothu,DUMMY-PRG-003661,PRG-PS-001,Govt Primary School 1,Pargi,1.65,False
+100605,pass100605,Mahesh Babu Daram,DUMMY-PRG-056102,PRG-PS-287,Model School 29,Pargi,1.84,False
+100606,pass100606,Durga Devi Routhu,DUMMY-PRG-058762,PRG-PS-202,Govt High School 21,Pargi,2.79,False
+100607,pass100607,Aditya Narayana Jonnalagadda,DUMMY-PRG-115616,PRG-PS-021,Govt Primary School 3,Pargi,1.23,False
+100608,pass100608,Jai Teja Rudra,DUMMY-PRG-080333,PRG-PS-118,Government Junior College 12,Pargi,2.81,False
+100609,pass100609,Radhika Kumar,DUMMY-PRG-061829,PRG-PS-219,Municipal School 22,Pargi,2.41,False
+100610,pass100610,Aditya Mohan Marrapu,DUMMY-PRG-109490,PRG-PS-300,District Parishad School 30,Pargi,2.75,False
+100611,pass100611,Dhanush Narayana Sharma,DUMMY-PRG-059319,PRG-PS-149,Municipal School 15,Pargi,2.98,False
+100612,pass100612,Mohan Chandra Bandari,DUMMY-PRG-003396,PRG-PS-041,Govt Primary School 5,Pargi,1.82,False
+100613,pass100613,Nanda Lakshmi Nadella,DUMMY-PRG-012187,PRG-PS-292,Govt High School 30,Pargi,1.72,False
+100614,pass100614,Chaitanya Rani Anumolu,DUMMY-PRG-100789,PRG-PS-139,Municipal School 14,Pargi,2.94,False
+100615,pass100615,Manohar Raju Komati,DUMMY-PRG-019846,PRG-PS-021,Govt Primary School 3,Pargi,2.47,False
+100616,pass100616,Ashok Sri Setty,DUMMY-PRG-066059,PRG-PS-179,Municipal School 18,Pargi,2.07,False
+100617,pass100617,Naresh Lakshmi Polisetty,DUMMY-PRG-085430,PRG-PS-030,District Parishad School 3,Pargi,1.53,False
+100618,pass100618,Bharath Raju Gattu,DUMMY-PRG-088116,PRG-PS-276,MPUPS 28,Pargi,2.01,False
+100619,pass100619,Jai Narayana Yadav,DUMMY-PRG-128339,PRG-PS-239,Municipal School 24,Pargi,2.13,False
+100620,pass100620,Bala Rao Palle,DUMMY-PRG-007764,PRG-PS-139,Municipal School 14,Pargi,2.9,False
+100621,pass100621,Mohanrao Kiran Mangalagiri,DUMMY-PRG-017614,PRG-PS-229,Municipal School 23,Pargi,2.03,False
+100622,pass100622,Charan Chandra Chintala,DUMMY-PRG-124161,PRG-PS-026,MPUPS 3,Pargi,1.88,False
+100623,pass100623,Niharika Yerram,DUMMY-PRG-121592,PRG-PS-202,Govt High School 21,Pargi,2.6,False
+100624,pass100624,Mohan Krishna Yerra,DUMMY-PRG-049220,PRG-PS-115,MPPS 12,Pargi,1.12,False
+100625,pass100625,Nikhil Lakshmi Sunkara,DUMMY-PRG-054537,PRG-PS-247,Model School 25,Pargi,1.86,False
+100626,pass100626,Rakesh Sri Sharma,DUMMY-PRG-021418,PRG-PS-068,Government Junior College 7,Pargi,1.33,False
+100627,pass100627,Mahesh Babu Ravula,DUMMY-PRG-087736,PRG-PS-201,Govt Primary School 21,Pargi,1.79,False
+100628,pass100628,Bala Chandra Chaganti,DUMMY-PRG-067473,PRG-PS-068,Government Junior College 7,Pargi,1.27,False
+100629,pass100629,Nagesh Krishna Vallabhaneni,DUMMY-PRG-002819,PRG-PS-074,Zilla Parishad High School 8,Pargi,1.11,False
+100630,pass100630,Rahul Sri Yalamanchili,DUMMY-PRG-091097,PRG-PS-207,Model School 21,Pargi,4.1,False
+100631,pass100631,Avinash Chandra Somanchi,DUMMY-PRG-092140,PRG-PS-030,District Parishad School 3,Pargi,2.11,False
+100632,pass100632,Jagadeesh Bandari,DUMMY-PRG-094886,PRG-PS-031,Govt Primary School 4,Pargi,1.97,False
+100633,pass100633,Bharath Sri Varma,DUMMY-PRG-125928,PRG-PS-268,Government Junior College 27,Pargi,1.02,False
+100634,pass100634,Anjan Prasad Yenugula,DUMMY-PRG-025332,PRG-PS-017,Model School 2,Pargi,2.51,False
+100635,pass100635,Naveen Mohan Ravula,DUMMY-PRG-094217,PRG-PS-277,Model School 28,Pargi,2.09,False
+100636,pass100636,Amar Lakshmi Emani,DUMMY-PRG-047295,PRG-PS-020,District Parishad School 2,Pargi,2.56,False
+100637,pass100637,Rahul Mohan Naidu,DUMMY-PRG-045236,PRG-PS-096,MPUPS 10,Pargi,2.73,False
+100638,pass100638,Naveen Srinivas Nandigam,DUMMY-PRG-113328,PRG-PS-173,Government Girls High School 18,Pargi,1.28,False
+100639,pass100639,Prudhvi Rao Emani,DUMMY-PRG-082453,PRG-PS-103,Government Girls High School 11,Pargi,1.44,False
+100640,pass100640,Aarav Raju Varma,DUMMY-PRG-026032,PRG-PS-107,Model School 11,Pargi,1.19,False
+100641,pass100641,Bhuvan Srinivas Tadiparthi,DUMMY-PRG-061876,PRG-PS-266,MPUPS 27,Pargi,1.92,False
+100642,pass100642,Tarun Malladi,DUMMY-PRG-057189,PRG-PS-154,Zilla Parishad High School 16,Pargi,2.12,False
+100643,pass100643,Anji Lakshmi Tatikonda,DUMMY-PRG-095823,PRG-PS-053,Government Girls High School 6,Pargi,2.72,False
+100644,pass100644,Anirudh Narayana Cherukuri,DUMMY-PRG-020261,PRG-PS-131,Govt Primary School 14,Pargi,2.42,False
+100645,pass100645,Bhanu Sri Kakani,DUMMY-PRG-080009,PRG-PS-099,Municipal School 10,Pargi,1.59,False
+100646,pass100646,Madhav Teja Bollam,DUMMY-PRG-058819,PRG-PS-259,Municipal School 26,Pargi,1.64,False
+100647,pass100647,Krishna Srinivas Talasila,DUMMY-PRG-005327,PRG-PS-142,Govt High School 15,Pargi,1.92,False
+100648,pass100648,Ganesh Kumar Cherukuri,DUMMY-PRG-089459,PRG-PS-094,Zilla Parishad High School 10,Pargi,2.69,False
+100649,pass100649,Karthik Raju Golla,DUMMY-PRG-053684,PRG-PS-004,Zilla Parishad High School 1,Pargi,2.83,False
+100650,pass100650,Jai Narayana Polisetty,DUMMY-PRG-054536,PRG-PS-246,MPUPS 25,Pargi,2.04,False
+100651,pass100651,Ajay Mohan Madduri,DUMMY-PRG-012805,PRG-PS-300,District Parishad School 30,Pargi,2.64,False
+100652,pass100652,Ravindra Raju Allam,DUMMY-PRG-097526,PRG-PS-231,Govt Primary School 24,Pargi,2.58,False
+100653,pass100653,Dheeraj Teja Deshmukh,DUMMY-PRG-021665,PRG-PS-010,District Parishad School 1,Pargi,2.47,False
+100654,pass100654,Bhuvan Prasad Kothuri,DUMMY-PRG-068580,PRG-PS-260,District Parishad School 26,Pargi,1.87,False
+100655,pass100655,Avinash Babu Lolla,DUMMY-PRG-095091,PRG-PS-236,MPUPS 24,Pargi,1.6,False
+100656,pass100656,Himanshu Babu Chintala,DUMMY-PRG-021005,PRG-PS-265,MPPS 27,Pargi,2.21,False
+100657,pass100657,Bhanu Raju Jasti,DUMMY-PRG-030036,PRG-PS-146,MPUPS 15,Pargi,1.48,False
+100658,pass100658,Chetan Venkata Nadimpalli,DUMMY-PRG-063061,PRG-PS-231,Govt Primary School 24,Pargi,2.34,False
+100659,pass100659,Abhinav Kiran Yalavarthi,DUMMY-PRG-037115,PRG-PS-210,District Parishad School 21,Pargi,2.68,False
+100660,pass100660,Raj Mohan Vannemreddy,DUMMY-PRG-106482,PRG-PS-037,Model School 4,Pargi,2.54,False
+100661,pass100661,Koushik Srinivas Boddu,DUMMY-PRG-092044,PRG-PS-239,Municipal School 24,Pargi,4.21,False
+100662,pass100662,Manohar Lakshmi Allam,DUMMY-PRG-058364,PRG-PS-109,Municipal School 11,Pargi,2.94,False
+100663,pass100663,Kishore Sri Rangineni,DUMMY-PRG-091331,PRG-PS-136,MPUPS 14,Pargi,1.41,False
+100664,pass100664,Abhinav Krishna Kadiyala,DUMMY-PRG-012001,PRG-PS-106,MPUPS 11,Pargi,1.39,False
+100665,pass100665,Pavan Naidu,DUMMY-PRG-009352,PRG-PS-202,Govt High School 21,Pargi,2.29,False
+100666,pass100666,Ajay Kiran Lakkam,DUMMY-PRG-093258,PRG-PS-233,Government Girls High School 24,Pargi,2.32,False
+100667,pass100667,Anji Prasad Parimi,DUMMY-PRG-114222,PRG-PS-152,Govt High School 16,Pargi,2.85,False
+100668,pass100668,Harsha Kumar Reddam,DUMMY-PRG-042664,PRG-PS-269,Municipal School 27,Pargi,1.42,False
+100669,pass100669,Naresh Lakshmi Doma,DUMMY-PRG-125373,PRG-PS-018,Government Junior College 2,Pargi,2.95,False
+100670,pass100670,Manish Rao Deshmukh,DUMMY-PRG-013180,PRG-PS-065,MPPS 7,Pargi,2.57,False
+100671,pass100671,Naveen Kiran Patibandla,DUMMY-PRG-050081,PRG-PS-061,Govt Primary School 7,Pargi,1.07,False
+100672,pass100672,Akhil Kiran Yadlapalli,DUMMY-PRG-044428,PRG-PS-203,Government Girls High School 21,Pargi,2.84,False
+100673,pass100673,Bhanu Kiran Talasila,DUMMY-PRG-089496,PRG-PS-131,Govt Primary School 14,Pargi,2.51,False
+100674,pass100674,Mahesh Devi Yerra,DUMMY-PRG-116886,PRG-PS-071,Govt Primary School 8,Pargi,1.54,False
+100675,pass100675,Chaitanya Teja Kummari,DUMMY-PRG-002808,PRG-PS-063,Government Girls High School 7,Pargi,2.55,False
+100676,pass100676,Pranav Lakshmi Ravindranath,DUMMY-PRG-071921,PRG-PS-246,MPUPS 25,Pargi,2.27,False
+100677,pass100677,Ramesh Srinivas Yerram,DUMMY-PRG-066089,PRG-PS-209,Municipal School 21,Pargi,1.08,False
+100678,pass100678,Avinash Krishna Mekala,DUMMY-PRG-097826,PRG-PS-226,MPUPS 23,Pargi,1.33,False
+100679,pass100679,Arun Krishna Yendluri,DUMMY-PRG-016689,PRG-PS-219,Municipal School 22,Pargi,1.86,False
+100680,pass100680,Nagesh Srinivas Muddasani,DUMMY-PRG-088542,PRG-PS-092,Govt High School 10,Pargi,1.17,False
+100681,pass100681,Nanda Teja Nallamothu,DUMMY-PRG-015652,PRG-PS-097,Model School 10,Pargi,1.3,False
+100682,pass100682,Manohar Kumar Durgam,DUMMY-PRG-114303,PRG-PS-233,Government Girls High School 24,Pargi,2.78,False
+100683,pass100683,Aarav Kumar Muddasani,DUMMY-PRG-034917,PRG-PS-147,Model School 15,Pargi,2.11,False
+100684,pass100684,Mohanrao Sri Kothuri,DUMMY-PRG-083229,PRG-PS-269,Municipal School 27,Pargi,1.23,False
+100685,pass100685,Ashok Lakshmi Tummala,DUMMY-PRG-013088,PRG-PS-278,Government Junior College 28,Pargi,2.87,False
+100686,pass100686,Aarav Krishna Narla,DUMMY-PRG-059136,PRG-PS-271,Govt Primary School 28,Pargi,2.03,False
+100687,pass100687,Prakash Rao Polisetty,DUMMY-PRG-117669,PRG-PS-244,Zilla Parishad High School 25,Pargi,1.55,False
+100688,pass100688,Lokesh Venkata Penmetsa,DUMMY-PRG-016101,PRG-PS-241,Govt Primary School 25,Pargi,2.45,False
+100689,pass100689,Bhaskar Rao Gurrapu,DUMMY-PRG-096677,PRG-PS-297,Model School 30,Pargi,1.86,False
+100690,pass100690,Gautam Chandra Penumudi,DUMMY-PRG-043452,PRG-PS-142,Govt High School 15,Pargi,1.75,False
+100691,pass100691,Dileep Prasad Goud,DUMMY-PRG-040487,PRG-PS-227,Model School 23,Pargi,2.14,False
+100692,pass100692,Gagan Srinivas Pinninti,DUMMY-PRG-083634,PRG-PS-064,Zilla Parishad High School 7,Pargi,1.05,False
+100693,pass100693,Amar Krishna Goud,DUMMY-PRG-026695,PRG-PS-160,District Parishad School 16,Pargi,2.38,False
+100694,pass100694,Amar Devi Polam,DUMMY-PRG-014108,PRG-PS-078,Government Junior College 8,Pargi,2.97,False
+100695,pass100695,Naresh Pasupuleti,DUMMY-PRG-076183,PRG-PS-238,Government Junior College 24,Pargi,2.12,False
+100696,pass100696,Dhanush Devi Narapati,DUMMY-PRG-065054,PRG-PS-089,Municipal School 9,Pargi,2.95,False
+100697,pass100697,Anjan Teja Cherukuri,DUMMY-PRG-044994,PRG-PS-159,Municipal School 16,Pargi,1.85,False
+100698,pass100698,Varsha Raghavendra,DUMMY-PRG-038554,PRG-PS-124,Zilla Parishad High School 13,Pargi,2.73,False
+100699,pass100699,Nithin Lakshmi Vasireddy,DUMMY-PRG-042954,PRG-PS-254,Zilla Parishad High School 26,Pargi,2.54,False
+100700,pass100700,Rajesh Chandra Routhu,DUMMY-PRG-012402,PRG-PS-202,Govt High School 21,Pargi,1.52,False
+100701,pass100701,Manish Babu Damera,DUMMY-PRG-008099,PRG-PS-169,Municipal School 17,Pargi,2.88,False
+100702,pass100702,Aditya Kumar Shetty,DUMMY-PRG-083713,PRG-PS-143,Government Girls High School 15,Pargi,1.56,False
+100703,pass100703,Avinash Kumar Narapati,DUMMY-PRG-118572,PRG-PS-232,Govt High School 24,Pargi,2.12,False
+100704,pass100704,Rahul Rao Thota,DUMMY-PRG-055624,PRG-PS-114,Zilla Parishad High School 12,Pargi,1.23,False
+100705,pass100705,Dheeraj Rao Narla,DUMMY-PRG-016211,PRG-PS-046,MPUPS 5,Pargi,2.42,False
+100706,pass100706,Lokesh Kumar Yenugula,DUMMY-PRG-058790,PRG-PS-230,District Parishad School 23,Pargi,2.58,False
+100707,pass100707,Bhanu Peddireddy,DUMMY-PRG-101787,PRG-PS-222,Govt High School 23,Pargi,2.88,False
+100708,pass100708,Chetan Sri Pakala,DUMMY-PRG-046245,PRG-PS-190,District Parishad School 19,Pargi,2.94,False
+100709,pass100709,Lokesh Rani Perumalla,DUMMY-PRG-019316,PRG-PS-101,Govt Primary School 11,Pargi,2.21,False
+100710,pass100710,Gagan Prasad Maddirala,DUMMY-PRG-065552,PRG-PS-282,Govt High School 29,Pargi,2.68,False
+100711,pass100711,Lokesh Venkata Routhu,DUMMY-PRG-006356,PRG-PS-256,MPUPS 26,Pargi,2.07,False
+100712,pass100712,Charan Kumar Kadiyala,DUMMY-PRG-111222,PRG-PS-202,Govt High School 21,Pargi,1.22,False
+100713,pass100713,Charan Sri Kakani,DUMMY-PRG-041486,PRG-PS-006,MPUPS 1,Pargi,2.53,False
+100714,pass100714,Harish Krishna Ravindranath,DUMMY-PRG-095410,PRG-PS-250,District Parishad School 25,Pargi,1.12,False
+100715,pass100715,Govind Devi Anumolu,DUMMY-PRG-125117,PRG-PS-067,Model School 7,Pargi,2.16,False
+100716,pass100716,Avinash Narayana Setty,DUMMY-PRG-104267,PRG-PS-262,Govt High School 27,Pargi,2.63,False
+100717,pass100717,Abhishek Goud,DUMMY-PRG-077574,PRG-PS-104,Zilla Parishad High School 11,Pargi,2.71,False
+100718,pass100718,Amar Chandra Pakala,DUMMY-PRG-046724,PRG-PS-059,Municipal School 6,Pargi,2.01,False
+100719,pass100719,Yashaswini Sunkara,DUMMY-PRG-006757,PRG-PS-047,Model School 5,Pargi,4.42,False
+100720,pass100720,Akash Lakshmi Komati,DUMMY-PRG-013073,PRG-PS-263,Government Girls High School 27,Pargi,2.7,False
+100721,pass100721,Anil Venkata Daram,DUMMY-PRG-010868,PRG-PS-193,Government Girls High School 20,Pargi,2.85,False
+100722,pass100722,Swathi Lingam,DUMMY-PRG-115148,PRG-PS-163,Government Girls High School 17,Pargi,2.72,False
+100723,pass100723,Akhil Sri Vutla,DUMMY-PRG-004051,PRG-PS-086,MPUPS 9,Pargi,2.82,False
+100724,pass100724,Tejaswini Ponnam,DUMMY-PRG-107251,PRG-PS-196,MPUPS 20,Pargi,1.62,False
+100725,pass100725,Bala Lingam,DUMMY-PRG-026689,PRG-PS-154,Zilla Parishad High School 16,Pargi,2.23,False
+100726,pass100726,Madhav Teja Aduri,DUMMY-PRG-028502,PRG-PS-137,Model School 14,Pargi,1.21,False
+100727,pass100727,Krishna Lakshmi Kasukurthi,DUMMY-PRG-039974,PRG-PS-019,Municipal School 2,Pargi,1.65,False
+100728,pass100728,Himanshu Srinivas Damera,DUMMY-PRG-051689,PRG-PS-144,Zilla Parishad High School 15,Pargi,4.86,False
+100729,pass100729,Harish Mohan Parimi,DUMMY-PRG-025109,PRG-PS-099,Municipal School 10,Pargi,2.44,False
+100730,pass100730,Anjan Raju Mareddy,DUMMY-PRG-024974,PRG-PS-269,Municipal School 27,Pargi,2.0,False
+100731,pass100731,Bala Sri Mareddy,DUMMY-PRG-124750,PRG-PS-005,MPPS 1,Pargi,1.4,False
+100732,pass100732,Manohar Kiran Vemuri,DUMMY-PRG-127323,PRG-PS-138,Government Junior College 14,Pargi,2.15,False
+100733,pass100733,Krishna Narayana Mothe,DUMMY-PRG-095228,PRG-PS-068,Government Junior College 7,Pargi,2.12,False
+100734,pass100734,Chaitanya Kumar Munagala,DUMMY-PRG-060762,PRG-PS-067,Model School 7,Pargi,2.04,False
+100735,pass100735,Krishna Prasad Chaganti,DUMMY-PRG-066610,PRG-PS-120,District Parishad School 12,Pargi,4.85,False
+100736,pass100736,Himanshu Narayana Polisetty,DUMMY-PRG-069702,PRG-PS-162,Govt High School 17,Pargi,2.41,False
+100737,pass100737,Rahul Prasad Sunkara,DUMMY-PRG-000448,PRG-PS-143,Government Girls High School 15,Pargi,1.29,False
+100738,pass100738,Gagan Sri Mandadi,DUMMY-PRG-053730,PRG-PS-050,District Parishad School 5,Pargi,1.57,False
+100739,pass100739,Bhanu Narayana Perumalla,DUMMY-PRG-077562,PRG-PS-092,Govt High School 10,Pargi,4.97,False
+100740,pass100740,Nanda Kiran Mallela,DUMMY-PRG-071119,PRG-PS-054,Zilla Parishad High School 6,Pargi,2.1,False
+100741,pass100741,Jagan Kakarla,DUMMY-PRG-116269,PRG-PS-064,Zilla Parishad High School 7,Pargi,2.48,False
+100742,pass100742,Ganesh Kumar Kanneganti,DUMMY-PRG-038079,PRG-PS-259,Municipal School 26,Pargi,2.53,False
+100743,pass100743,Prakash Krishna Kanneganti,DUMMY-PRG-081518,PRG-PS-083,Government Girls High School 9,Pargi,2.32,False
+100744,pass100744,Anand Krishna Boppana,DUMMY-PRG-010882,PRG-PS-207,Model School 21,Pargi,2.08,False
+100745,pass100745,Madhav Narayana Karra,DUMMY-PRG-009562,PRG-PS-107,Model School 11,Pargi,1.86,False
+100746,pass100746,Girish Devi Thummala,DUMMY-PRG-009632,PRG-PS-177,Model School 18,Pargi,4.11,False
+100747,pass100747,Himanshu Narayana Yendluri,DUMMY-PRG-118837,PRG-PS-192,Govt High School 20,Pargi,2.08,False
+100748,pass100748,Prakash Teja Sirigiri,DUMMY-PRG-111692,PRG-PS-062,Govt High School 7,Pargi,2.32,False
+100749,pass100749,Mohanrao Babu Narapati,DUMMY-PRG-009482,PRG-PS-027,Model School 3,Pargi,1.65,False
+100750,pass100750,Pranitha Kadiyala,DUMMY-PRG-062296,PRG-PS-076,MPUPS 8,Pargi,1.84,False
+100751,pass100751,Kishore Venkata Sirigiri,DUMMY-PRG-070147,PRG-PS-302,Govt High School 31,Pargi,1.71,False
+100752,pass100752,Gautam Babu Nalluri,DUMMY-PRG-127389,PRG-PS-204,Zilla Parishad High School 21,Pargi,1.02,False
+100753,pass100753,Hemanth Srinivas Ravindranath,DUMMY-PRG-038444,PRG-PS-014,Zilla Parishad High School 2,Pargi,2.75,False
+100754,pass100754,Durga Kiran Kasukurthi,DUMMY-PRG-068300,PRG-PS-285,MPPS 29,Pargi,1.33,False
+100755,pass100755,Dileep Rao Kondapalli,DUMMY-PRG-094583,PRG-PS-033,Government Girls High School 4,Pargi,2.44,False
+100756,pass100756,Prudhvi Narayana Komati,DUMMY-PRG-051937,PRG-PS-087,Model School 9,Pargi,2.32,False
+100757,pass100757,Kishore Devi Sharma,DUMMY-PRG-073990,PRG-PS-180,District Parishad School 18,Pargi,1.38,False
+100758,pass100758,Krishna Lakshmi Gorre,DUMMY-PRG-125625,PRG-PS-270,District Parishad School 27,Pargi,2.56,False
+100759,pass100759,Bharath Narla,DUMMY-PRG-033048,PRG-PS-108,Government Junior College 11,Pargi,1.88,False
+100760,pass100760,Dhanush Lakshmi Marrapu,DUMMY-PRG-111276,PRG-PS-256,MPUPS 26,Pargi,2.41,False
+100761,pass100761,Amar Prasad Saripalli,DUMMY-PRG-089853,PRG-PS-183,Government Girls High School 19,Pargi,1.42,False
+100762,pass100762,Manohar Narayana Vannemreddy,DUMMY-PRG-001880,PRG-PS-050,District Parishad School 5,Pargi,1.53,False
+100763,pass100763,Govind Raju Chowdary,DUMMY-PRG-014078,PRG-PS-048,Government Junior College 5,Pargi,1.29,False
+100764,pass100764,Mohan Prasad Aduri,DUMMY-PRG-083133,PRG-PS-173,Government Girls High School 18,Pargi,1.94,False
+100765,pass100765,Aruna Garlapati,DUMMY-PRG-013204,PRG-PS-089,Municipal School 9,Pargi,2.38,False
+100766,pass100766,Charan Rao Karra,DUMMY-PRG-077557,PRG-PS-087,Model School 9,Pargi,1.1,False
+100767,pass100767,Govind Teja Maddirala,DUMMY-PRG-053689,PRG-PS-009,Municipal School 1,Pargi,2.26,False
+100768,pass100768,Nikhil Sri Konda,DUMMY-PRG-072936,PRG-PS-041,Govt Primary School 5,Pargi,2.57,False
+100769,pass100769,Krishna Devi Gaddam,DUMMY-PRG-024039,PRG-PS-249,Municipal School 25,Pargi,1.16,False
+100770,pass100770,Mohanrao Narayana Gali,DUMMY-PRG-098550,PRG-PS-035,MPPS 4,Pargi,1.34,False
+100771,pass100771,Rakesh Narayana Vinnakota,DUMMY-PRG-034419,PRG-PS-259,Municipal School 26,Pargi,1.57,False
+100772,pass100772,Gautham Krishna Atluri,DUMMY-PRG-119954,PRG-PS-089,Municipal School 9,Pargi,2.05,False
+100773,pass100773,Chetan Narayana Karra,DUMMY-PRG-086280,PRG-PS-270,District Parishad School 27,Pargi,2.58,False
+100774,pass100774,Nanda Chandra Taduri,DUMMY-PRG-064239,PRG-PS-189,Municipal School 19,Pargi,1.11,False
+100775,pass100775,Vijay Sabbavarapu,DUMMY-PRG-028147,PRG-PS-087,Model School 9,Pargi,1.54,False
+100776,pass100776,Mahesh Mohan Lolla,DUMMY-PRG-112441,PRG-PS-201,Govt Primary School 21,Pargi,2.64,False
+100777,pass100777,Ashok Lakshmi Nalluri,DUMMY-PRG-045950,PRG-PS-200,District Parishad School 20,Pargi,1.51,False
+100778,pass100778,Harsha Rao Ravindranath,DUMMY-PRG-068567,PRG-PS-247,Model School 25,Pargi,1.93,False
+100779,pass100779,Nithin Kiran Sabbavarapu,DUMMY-PRG-097894,PRG-PS-294,Zilla Parishad High School 30,Pargi,2.73,False
+100780,pass100780,Ramesh Mohan Yerram,DUMMY-PRG-062967,PRG-PS-137,Model School 14,Pargi,2.47,False
+100781,pass100781,Mohan Srinivas Pakala,DUMMY-PRG-113196,PRG-PS-041,Govt Primary School 5,Pargi,1.39,False
+100782,pass100782,Nikhil Kumar Siddula,DUMMY-PRG-096266,PRG-PS-191,Govt Primary School 20,Pargi,2.7,False
+100783,pass100783,Gagan Narayana Maddala,DUMMY-PRG-045682,PRG-PS-237,Model School 24,Pargi,1.39,False
+100784,pass100784,Aarav Babu Samala,DUMMY-PRG-045561,PRG-PS-116,MPUPS 12,Pargi,2.4,False
+100785,pass100785,Jagan Medapati,DUMMY-PRG-065687,PRG-PS-112,Govt High School 12,Pargi,2.53,False
+100786,pass100786,Hemanth Prasad Kota,DUMMY-PRG-064161,PRG-PS-111,Govt Primary School 12,Pargi,2.53,False
+100787,pass100787,Dheeraj Krishna Nallamothu,DUMMY-PRG-121068,PRG-PS-288,Government Junior College 29,Pargi,2.52,False
+100788,pass100788,Nandini Kota,DUMMY-PRG-053363,PRG-PS-293,Government Girls High School 30,Pargi,1.12,False
+100789,pass100789,Teja Thummala,DUMMY-PRG-109662,PRG-PS-167,Model School 17,Pargi,2.6,False
+100790,pass100790,Akhil Kumar Sangem,DUMMY-PRG-062220,PRG-PS-305,MPPS 31,Pargi,2.27,False
+100791,pass100791,Anjan Kumar Pasupuleti,DUMMY-PRG-063780,PRG-PS-035,MPPS 4,Pargi,2.49,False
+100792,pass100792,Navin Rani Allam,DUMMY-PRG-085686,PRG-PS-286,MPUPS 29,Pargi,1.88,False
+100793,pass100793,Naresh Chandra Mekala,DUMMY-PRG-007169,PRG-PS-154,Zilla Parishad High School 16,Pargi,1.5,False
+100794,pass100794,Manohar Kumar Vasireddy,DUMMY-PRG-105461,PRG-PS-236,MPUPS 24,Pargi,2.48,False
+100795,pass100795,Abhilash Nanduri,DUMMY-PRG-025717,PRG-PS-097,Model School 10,Pargi,2.33,False
+100796,pass100796,Chaitanya Chandra Shetty,DUMMY-PRG-030080,PRG-PS-190,District Parishad School 19,Pargi,2.93,False
+100797,pass100797,Akhil Teja Tummala,DUMMY-PRG-063050,PRG-PS-220,District Parishad School 22,Pargi,2.7,False
+100798,pass100798,Pranav Srinivas Mareddy,DUMMY-PRG-090570,PRG-PS-290,District Parishad School 29,Pargi,1.87,False
+100799,pass100799,Nikhil Teja Koppula,DUMMY-PRG-111912,PRG-PS-282,Govt High School 29,Pargi,2.29,False
+100800,pass100800,Ashok Narayana Chintada,DUMMY-PRG-050488,PRG-PS-163,Government Girls High School 17,Pargi,1.32,False
+100801,pass100801,Anand Kiran Bandi,DUMMY-PRG-042869,PRG-PS-169,Municipal School 17,Pargi,2.44,False
+100802,pass100802,Anjan Srinivas Madduri,DUMMY-PRG-093943,PRG-PS-003,Government Girls High School 1,Pargi,4.12,False
+100803,pass100803,Abhinav Srinivas Raparla,DUMMY-PRG-067678,PRG-PS-273,Government Girls High School 28,Pargi,1.81,False
+100804,pass100804,Jagadeesh Krishna Durgam,DUMMY-PRG-007340,PRG-PS-020,District Parishad School 2,Pargi,2.37,False
+100805,pass100805,Akash Chandra Polisetty,DUMMY-PRG-007716,PRG-PS-091,Govt Primary School 10,Pargi,2.64,False
+100806,pass100806,Suman Golla,DUMMY-PRG-043923,PRG-PS-003,Government Girls High School 1,Pargi,1.63,False
+100807,pass100807,Bala Venkata Duvvuri,DUMMY-PRG-115577,PRG-PS-287,Model School 29,Pargi,1.64,False
+100808,pass100808,Anjan Devi Perumalla,DUMMY-PRG-090849,PRG-PS-264,Zilla Parishad High School 27,Pargi,2.45,False
+100809,pass100809,Hema Peddireddy,DUMMY-PRG-052416,PRG-PS-261,Govt Primary School 27,Pargi,2.46,False
+100810,pass100810,Nagesh Sri Ravindranath,DUMMY-PRG-068479,PRG-PS-159,Municipal School 16,Pargi,2.92,False
+100811,pass100811,Dileep Narayana Emani,DUMMY-PRG-061348,PRG-PS-043,Government Girls High School 5,Pargi,1.14,False
+100812,pass100812,Dileep Srinivas Marri,DUMMY-PRG-076242,PRG-PS-297,Model School 30,Pargi,2.17,False
+100813,pass100813,Kiran Sri Mallela,DUMMY-PRG-090166,PRG-PS-191,Govt Primary School 20,Pargi,1.91,False
+100814,pass100814,Sreenivas Muppidi,DUMMY-PRG-040448,PRG-PS-188,Government Junior College 19,Pargi,1.23,False
+100815,pass100815,Venkata Tummala,DUMMY-PRG-085555,PRG-PS-155,MPPS 16,Pargi,2.2,False
+100816,pass100816,Anirudh Kiran Mandadi,DUMMY-PRG-052984,PRG-PS-219,Municipal School 22,Pargi,1.69,False
+100817,pass100817,Ravindra Kumar Thota,DUMMY-PRG-051301,PRG-PS-061,Govt Primary School 7,Pargi,1.46,False
+100818,pass100818,Tarun Gurrapu,DUMMY-PRG-100057,PRG-PS-017,Model School 2,Pargi,2.46,False
+100819,pass100819,Anand Devi Kothuri,DUMMY-PRG-093011,PRG-PS-291,Govt Primary School 30,Pargi,2.46,False
+100820,pass100820,Abhilash Vadde,DUMMY-PRG-025757,PRG-PS-137,Model School 14,Pargi,1.94,False
+100821,pass100821,Jagan Prasad Sangem,DUMMY-PRG-016392,PRG-PS-227,Model School 23,Pargi,2.19,False
+100822,pass100822,Krishna Kiran Palle,DUMMY-PRG-103100,PRG-PS-010,District Parishad School 1,Pargi,2.77,False
+100823,pass100823,Ganesh Venkata Jonnalagadda,DUMMY-PRG-080266,PRG-PS-051,Govt Primary School 6,Pargi,1.97,False
+100824,pass100824,Mohanrao Rao Challa,DUMMY-PRG-101001,PRG-PS-046,MPUPS 5,Pargi,1.2,False
+100825,pass100825,Aditya Venkata Kummari,DUMMY-PRG-074940,PRG-PS-215,MPPS 22,Pargi,1.53,False
+100826,pass100826,Manish Prasad Kothuri,DUMMY-PRG-091922,PRG-PS-117,Model School 12,Pargi,1.85,False
+100827,pass100827,Dheeraj Venkata Gandluri,DUMMY-PRG-015695,PRG-PS-140,District Parishad School 14,Pargi,2.6,False
+100828,pass100828,Praveen Prasad Vallabhaneni,DUMMY-PRG-078217,PRG-PS-137,Model School 14,Pargi,1.98,False
+100829,pass100829,Kishore Lakshmi Tirumalasetti,DUMMY-PRG-066332,PRG-PS-147,Model School 15,Pargi,2.98,False
+100830,pass100830,Raj Sri Mamidala,DUMMY-PRG-123874,PRG-PS-044,Zilla Parishad High School 5,Pargi,1.97,False
+100831,pass100831,Kanchana Yerram,DUMMY-PRG-058926,PRG-PS-061,Govt Primary School 7,Pargi,4.41,False
+100832,pass100832,Anil Devi Narapati,DUMMY-PRG-122855,PRG-PS-245,MPPS 25,Pargi,1.19,False
+100833,pass100833,Gautham Krishna Kadiyala,DUMMY-PRG-054973,PRG-PS-073,Government Girls High School 8,Pargi,1.64,False
+100834,pass100834,Naveen Krishna Sajja,DUMMY-PRG-040062,PRG-PS-107,Model School 11,Pargi,2.9,False
+100835,pass100835,Manoj Narayana Patel,DUMMY-PRG-054036,PRG-PS-051,Govt Primary School 6,Pargi,1.99,False
+100836,pass100836,Naveen Kumar Yelamanchili,DUMMY-PRG-013142,PRG-PS-027,Model School 3,Pargi,1.05,False
+100837,pass100837,Anji Raju Kavuri,DUMMY-PRG-056352,PRG-PS-232,Govt High School 24,Pargi,1.27,False
+100838,pass100838,Bala Babu Sagi,DUMMY-PRG-003183,PRG-PS-133,Government Girls High School 14,Pargi,1.15,False
+100839,pass100839,Hemanth Chandra Kandula,DUMMY-PRG-057644,PRG-PS-304,Zilla Parishad High School 31,Pargi,1.61,False
+100840,pass100840,Ravi Mohan Narapati,DUMMY-PRG-118667,PRG-PS-022,Govt High School 3,Pargi,1.16,False
+100841,pass100841,Lokesh Sri Medapati,DUMMY-PRG-014461,PRG-PS-126,MPUPS 13,Pargi,2.87,False
+100842,pass100842,Neha Rachakonda,DUMMY-PRG-064393,PRG-PS-038,Government Junior College 4,Pargi,2.49,False
+100843,pass100843,Bharath Singireddy,DUMMY-PRG-032539,PRG-PS-209,Municipal School 21,Pargi,1.36,False
+100844,pass100844,Bhuvan Teja Dandu,DUMMY-PRG-059843,PRG-PS-063,Government Girls High School 7,Pargi,1.97,False
+100845,pass100845,Krishna Prasad Ediga,DUMMY-PRG-014448,PRG-PS-113,Government Girls High School 12,Pargi,2.19,False
+100846,pass100846,Harish Raju Kota,DUMMY-PRG-001177,PRG-PS-262,Govt High School 27,Pargi,1.63,False
+100847,pass100847,Gautham Teja Muddasani,DUMMY-PRG-080121,PRG-PS-211,Govt Primary School 22,Pargi,2.31,False
+100848,pass100848,Manish Krishna Komati,DUMMY-PRG-101805,PRG-PS-240,District Parishad School 24,Pargi,1.19,False
+100849,pass100849,Akhil Kiran Penumudi,DUMMY-PRG-003956,PRG-PS-296,MPUPS 30,Pargi,1.37,False
+100850,pass100850,Manohar Devi Vasireddy,DUMMY-PRG-022776,PRG-PS-206,MPUPS 21,Pargi,1.45,False
+100851,pass100851,Nithin Srinivas Bommidi,DUMMY-PRG-097693,PRG-PS-093,Government Girls High School 10,Pargi,2.04,False
+100852,pass100852,Nithin Srinivas Durgam,DUMMY-PRG-022768,PRG-PS-198,Government Junior College 20,Pargi,2.98,False
+100853,pass100853,Prudhvi Prasad Setty,DUMMY-PRG-012987,PRG-PS-177,Model School 18,Pargi,1.17,False
+100854,pass100854,Govind Bommidi,DUMMY-PRG-059956,PRG-PS-176,MPUPS 18,Pargi,1.93,False
+100855,pass100855,Girish Rani Gali,DUMMY-PRG-113159,PRG-PS-004,Zilla Parishad High School 1,Pargi,2.33,False
+100856,pass100856,Abhinav Narayana Polisetty,DUMMY-PRG-017933,PRG-PS-243,Government Girls High School 25,Pargi,2.52,False
+100857,pass100857,Chaitanya Narayana Sirigiri,DUMMY-PRG-011467,PRG-PS-182,Govt High School 19,Pargi,1.33,False
+100858,pass100858,Balaji Venkata Racharla,DUMMY-PRG-083580,PRG-PS-010,District Parishad School 1,Pargi,1.55,False
+100859,pass100859,Haimavathi Singireddy,DUMMY-PRG-006975,PRG-PS-265,MPPS 27,Pargi,1.86,False
+100860,pass100860,Mohan Prasad Ravula,DUMMY-PRG-087577,PRG-PS-042,Govt High School 5,Pargi,1.11,False
+100861,pass100861,Prudhvi Pakala,DUMMY-PRG-122635,PRG-PS-025,MPPS 3,Pargi,1.07,False
+100862,pass100862,Nithin Krishna Pothula,DUMMY-PRG-022193,PRG-PS-233,Government Girls High School 24,Pargi,2.21,False
+100863,pass100863,Anil Srinivas Rao,DUMMY-PRG-078899,PRG-PS-209,Municipal School 21,Pargi,1.03,False
+100864,pass100864,Divya Vangala,DUMMY-PRG-128613,PRG-PS-208,Government Junior College 21,Pargi,1.77,False
+100865,pass100865,Mohan Mohan Sunkara,DUMMY-PRG-088697,PRG-PS-247,Model School 25,Pargi,1.88,False
+100866,pass100866,Yamuna Talasila,DUMMY-PRG-046473,PRG-PS-113,Government Girls High School 12,Pargi,1.47,False
+100867,pass100867,Anji Raju Vadde,DUMMY-PRG-033805,PRG-PS-255,MPPS 26,Pargi,1.6,False
+100868,pass100868,Ravi Venkata Yerra,DUMMY-PRG-092925,PRG-PS-205,MPPS 21,Pargi,2.52,False
+100869,pass100869,Karthik Rani Gali,DUMMY-PRG-006397,PRG-PS-297,Model School 30,Pargi,1.02,False
+100870,pass100870,Navin Srinivas Nadella,DUMMY-PRG-061884,PRG-PS-274,Zilla Parishad High School 28,Pargi,1.89,False
+100871,pass100871,Dileep Gattu,DUMMY-PRG-123135,PRG-PS-220,District Parishad School 22,Pargi,2.69,False
+100872,pass100872,Rahul Teja Yerra,DUMMY-PRG-124152,PRG-PS-017,Model School 2,Pargi,2.13,False
+100873,pass100873,Nagesh Chandra Maddala,DUMMY-PRG-020678,PRG-PS-243,Government Girls High School 25,Pargi,1.88,False
+100874,pass100874,Bhuvan Srinivas Raghavendra,DUMMY-PRG-042008,PRG-PS-223,Government Girls High School 23,Pargi,1.05,False
+100875,pass100875,Govind Lakshmi Boppana,DUMMY-PRG-050245,PRG-PS-225,MPPS 23,Pargi,2.3,False
+100876,pass100876,Lokesh Venkata Somanchi,DUMMY-PRG-110510,PRG-PS-100,District Parishad School 10,Pargi,2.81,False
+100877,pass100877,Pavan Srinivas Vutla,DUMMY-PRG-051157,PRG-PS-222,Govt High School 23,Pargi,1.75,False
+100878,pass100878,Lakshman Lakshmi Nadella,DUMMY-PRG-078595,PRG-PS-210,District Parishad School 21,Pargi,2.91,False
+100879,pass100879,Manohar Mohan Mothe,DUMMY-PRG-122670,PRG-PS-060,District Parishad School 6,Pargi,2.25,False
+100880,pass100880,Subhash Linga,DUMMY-PRG-044656,PRG-PS-126,MPUPS 13,Pargi,1.7,False
+100881,pass100881,Jagadeesh Lakshmi Sagi,DUMMY-PRG-008231,PRG-PS-301,Govt Primary School 31,Pargi,2.17,False
+100882,pass100882,Pranav Devi Daram,DUMMY-PRG-051598,PRG-PS-053,Government Girls High School 6,Pargi,1.82,False
+100883,pass100883,Koushik Mangalagiri,DUMMY-PRG-089012,PRG-PS-257,Model School 26,Pargi,2.28,False
+100884,pass100884,Akhil Raju Rangineni,DUMMY-PRG-121537,PRG-PS-147,Model School 15,Pargi,1.88,False
+100885,pass100885,Ashwini Malla,DUMMY-PRG-014122,PRG-PS-092,Govt High School 10,Pargi,1.69,False
+100886,pass100886,Kiran Krishna Jampala,DUMMY-PRG-002688,PRG-PS-248,Government Junior College 25,Pargi,1.61,False
+100887,pass100887,Harish Kumar Siddula,DUMMY-PRG-048442,PRG-PS-252,Govt High School 26,Pargi,1.37,False
+100888,pass100888,Ashok Rao Polam,DUMMY-PRG-083497,PRG-PS-232,Govt High School 24,Pargi,1.27,False
+100889,pass100889,Prudhvi Devi Sajja,DUMMY-PRG-013736,PRG-PS-011,Govt Primary School 2,Pargi,2.14,False
+100890,pass100890,Abhishek Chaganti,DUMMY-PRG-059429,PRG-PS-259,Municipal School 26,Pargi,2.71,False
+100891,pass100891,Balaji Prasad Perumalla,DUMMY-PRG-028826,PRG-PS-156,MPUPS 16,Pargi,1.02,False
+100892,pass100892,Swathi Mangalagiri,DUMMY-PRG-119175,PRG-PS-225,MPPS 23,Pargi,1.67,False
+100893,pass100893,Chaitanya Rao Reddy,DUMMY-PRG-102432,PRG-PS-257,Model School 26,Pargi,2.48,False
+100894,pass100894,Bhaskar Shanigala,DUMMY-PRG-061152,PRG-PS-152,Govt High School 16,Pargi,1.87,False
+100895,pass100895,Prudhvi Kiran Vutla,DUMMY-PRG-087837,PRG-PS-302,Govt High School 31,Pargi,1.55,False
+100896,pass100896,Gautham Babu Narla,DUMMY-PRG-000950,PRG-PS-035,MPPS 4,Pargi,2.16,False
+100897,pass100897,Chandana Pamulaparthi,DUMMY-PRG-017979,PRG-PS-289,Municipal School 29,Pargi,1.96,False
+100898,pass100898,Gautham Teja Kandukuri,DUMMY-PRG-051444,PRG-PS-204,Zilla Parishad High School 21,Pargi,2.46,False
+100899,pass100899,Bharath Rao Raghavendra,DUMMY-PRG-105572,PRG-PS-042,Govt High School 5,Pargi,4.24,False
+100900,pass100900,Mohanrao Srinivas Lakkam,DUMMY-PRG-000187,PRG-PS-187,Model School 19,Pargi,1.28,False
+100901,pass100901,Nanda Srinivas Mangalagiri,DUMMY-PRG-022205,PRG-PS-245,MPPS 25,Pargi,1.94,False
+100902,pass100902,Navin Devi Gandla,DUMMY-PRG-036575,PRG-PS-280,District Parishad School 28,Pargi,2.41,False
+100903,pass100903,Harsha Prasad Gowda,DUMMY-PRG-112066,PRG-PS-131,Govt Primary School 14,Pargi,1.34,False
+100904,pass100904,Dileep Prasad Uppala,DUMMY-PRG-070348,PRG-PS-198,Government Junior College 20,Pargi,2.39,False
+100905,pass100905,Gautham Venkata Parimi,DUMMY-PRG-072697,PRG-PS-107,Model School 11,Pargi,1.27,False
+100906,pass100906,Mahesh Narayana Siddula,DUMMY-PRG-055423,PRG-PS-218,Government Junior College 22,Pargi,2.09,False
+100907,pass100907,Manish Sri Muddasani,DUMMY-PRG-077013,PRG-PS-153,Government Girls High School 16,Pargi,1.86,False
+100908,pass100908,Akash Rani Madireddy,DUMMY-PRG-116282,PRG-PS-077,Model School 8,Pargi,2.55,False
+100909,pass100909,Akash Prasad Pamulaparthi,DUMMY-PRG-115614,PRG-PS-019,Municipal School 2,Pargi,2.78,False
+100910,pass100910,Arjun Chandra Damera,DUMMY-PRG-040425,PRG-PS-165,MPPS 17,Pargi,1.49,False
+100911,pass100911,Akshara Yadla,DUMMY-PRG-103195,PRG-PS-105,MPPS 11,Pargi,1.07,False
+100912,pass100912,Manish Teja Vadde,DUMMY-PRG-109475,PRG-PS-285,MPPS 29,Pargi,2.21,False
+100913,pass100913,Balaji Venkata Sunkara,DUMMY-PRG-028057,PRG-PS-302,Govt High School 31,Pargi,4.94,False
+100914,pass100914,Anirudh Prasad Munagala,DUMMY-PRG-060056,PRG-PS-276,MPUPS 28,Pargi,2.68,False
+100915,pass100915,Ganesh Rao Pothula,DUMMY-PRG-036400,PRG-PS-105,MPPS 11,Pargi,2.42,False
+100916,pass100916,Naresh Mohan Setty,DUMMY-PRG-016885,PRG-PS-110,District Parishad School 11,Pargi,1.92,False
+100917,pass100917,Akhil Lakshmi Sirigiri,DUMMY-PRG-049228,PRG-PS-123,Government Girls High School 13,Pargi,1.41,False
+100918,pass100918,Madhav Mohan Jonnalagadda,DUMMY-PRG-128063,PRG-PS-268,Government Junior College 27,Pargi,4.59,False
+100919,pass100919,Ravi Sri Marrapu,DUMMY-PRG-015737,PRG-PS-182,Govt High School 19,Pargi,1.53,False
+100920,pass100920,Krishna Venkata Penumudi,DUMMY-PRG-048370,PRG-PS-180,District Parishad School 18,Pargi,1.7,False
+100921,pass100921,Latha Yenugula,DUMMY-PRG-048679,PRG-PS-184,Zilla Parishad High School 19,Pargi,2.23,False
+100922,pass100922,Abhinav Lakshmi Kosaraju,DUMMY-PRG-010655,PRG-PS-285,MPPS 29,Pargi,2.15,False
+100923,pass100923,Gagan Chandra Kavuri,DUMMY-PRG-046684,PRG-PS-019,Municipal School 2,Pargi,1.09,False
+100924,pass100924,Rakesh Devi Yalavarthi,DUMMY-PRG-104962,PRG-PS-042,Govt High School 5,Pargi,1.48,False
+100925,pass100925,Anirudh Ediga,DUMMY-PRG-010721,PRG-PS-046,MPUPS 5,Pargi,2.85,False
+100926,pass100926,Madhav Kiran Peddireddy,DUMMY-PRG-107944,PRG-PS-279,Municipal School 28,Pargi,1.24,False
+100927,pass100927,Mohanrao Rani Yelamanchili,DUMMY-PRG-075467,PRG-PS-132,Govt High School 14,Pargi,2.39,False
+100928,pass100928,Dhanush Kiran Lingam,DUMMY-PRG-036551,PRG-PS-256,MPUPS 26,Pargi,4.79,False
+100929,pass100929,Akhil Teja Maddirala,DUMMY-PRG-116524,PRG-PS-014,Zilla Parishad High School 2,Pargi,2.04,False
+100930,pass100930,Deepika Gali,DUMMY-PRG-083618,PRG-PS-048,Government Junior College 5,Pargi,1.43,False
+100931,pass100931,Rakesh Rao Nandigam,DUMMY-PRG-019391,PRG-PS-176,MPUPS 18,Pargi,2.51,False
+100932,pass100932,Gautam Devi Konda,DUMMY-PRG-095518,PRG-PS-053,Government Girls High School 6,Pargi,1.73,False
+100933,pass100933,Praveen Chandra Gandluri,DUMMY-PRG-108614,PRG-PS-034,Zilla Parishad High School 4,Pargi,2.88,False
+100934,pass100934,Balaji Lakshmi Narla,DUMMY-PRG-094178,PRG-PS-238,Government Junior College 24,Pargi,2.21,False
+100935,pass100935,Madhav Prasad Nadimpalli,DUMMY-PRG-015938,PRG-PS-078,Government Junior College 8,Pargi,2.84,False
+100936,pass100936,Mohan Chandra Gali,DUMMY-PRG-083411,PRG-PS-146,MPUPS 15,Pargi,4.38,False
+100937,pass100937,Manohar Babu Thummala,DUMMY-PRG-060066,PRG-PS-286,MPUPS 29,Pargi,1.31,False
+100938,pass100938,Bharath Babu Uppala,DUMMY-PRG-042585,PRG-PS-190,District Parishad School 19,Pargi,2.58,False
+100939,pass100939,Raj Narayana Mandadi,DUMMY-PRG-080184,PRG-PS-274,Zilla Parishad High School 28,Pargi,1.84,False
+100940,pass100940,Pavan Narayana Nadimpalli,DUMMY-PRG-061297,PRG-PS-297,Model School 30,Pargi,1.22,False
+100941,pass100941,Jagadeesh Babu Gowda,DUMMY-PRG-061934,PRG-PS-019,Municipal School 2,Pargi,2.26,False
+100942,pass100942,Manohar Srinivas Anumolu,DUMMY-PRG-120306,PRG-PS-136,MPUPS 14,Pargi,2.25,False
+100943,pass100943,Navin Kiran Garlapati,DUMMY-PRG-004084,PRG-PS-119,Municipal School 12,Pargi,1.33,False
+100944,pass100944,Shalini Siddula,DUMMY-PRG-036766,PRG-PS-166,MPUPS 17,Pargi,2.59,False
+100945,pass100945,Mohanrao Raju Rudra,DUMMY-PRG-088130,PRG-PS-290,District Parishad School 29,Pargi,2.37,False
+100946,pass100946,Dileep Babu Jampala,DUMMY-PRG-070925,PRG-PS-165,MPPS 17,Pargi,2.83,False
+100947,pass100947,Dheeraj Venkata Vutla,DUMMY-PRG-096108,PRG-PS-033,Government Girls High School 4,Pargi,1.79,False
+100948,pass100948,Bhaskar Mohan Kakani,DUMMY-PRG-015471,PRG-PS-221,Govt Primary School 23,Pargi,2.51,False
+100949,pass100949,Balaji Kumar Kadiyala,DUMMY-PRG-044931,PRG-PS-096,MPUPS 10,Pargi,1.93,False
+100950,pass100950,Ravindra Sri Yalavarthi,DUMMY-PRG-052878,PRG-PS-113,Government Girls High School 12,Pargi,2.13,False
+100951,pass100951,Jai Mohan Malla,DUMMY-PRG-093192,PRG-PS-167,Model School 17,Pargi,1.49,False
+100952,pass100952,Pavan Sri Thummala,DUMMY-PRG-046707,PRG-PS-042,Govt High School 5,Pargi,2.06,False
+100953,pass100953,Mahesh Kiran Madireddy,DUMMY-PRG-027158,PRG-PS-013,Government Girls High School 2,Pargi,1.86,False
+100954,pass100954,Lakshman Prasad Chowdary,DUMMY-PRG-030020,PRG-PS-130,District Parishad School 13,Pargi,1.42,False
+100955,pass100955,Bhaskar Srinivas Mothe,DUMMY-PRG-069734,PRG-PS-194,Zilla Parishad High School 20,Pargi,1.23,False
+100956,pass100956,Rakesh Kiran Chaganti,DUMMY-PRG-109147,PRG-PS-262,Govt High School 27,Pargi,1.76,False
+100957,pass100957,Rakesh Narayana Paturi,DUMMY-PRG-110751,PRG-PS-036,MPUPS 4,Pargi,2.06,False
+100958,pass100958,Balaji Nadimpalli,DUMMY-PRG-044151,PRG-PS-231,Govt Primary School 24,Pargi,1.61,False
+100959,pass100959,Anjan Lakshmi Bandi,DUMMY-PRG-111956,PRG-PS-021,Govt Primary School 3,Pargi,1.85,False
+100960,pass100960,Ashok Mohan Konda,DUMMY-PRG-072333,PRG-PS-048,Government Junior College 5,Pargi,1.61,False
+100961,pass100961,Usha Taduri,DUMMY-PRG-059069,PRG-PS-204,Zilla Parishad High School 21,Pargi,2.51,False
+100962,pass100962,Ravi Sri Chintala,DUMMY-PRG-092095,PRG-PS-290,District Parishad School 29,Pargi,2.31,False
+100963,pass100963,Himanshu Raju Yalavarthi,DUMMY-PRG-042451,PRG-PS-056,MPUPS 6,Pargi,1.11,False
+100964,pass100964,Bharath Rani Ravindranath,DUMMY-PRG-078082,PRG-PS-002,Govt High School 1,Pargi,2.09,False
+100965,pass100965,Gautham Rao Narla,DUMMY-PRG-015316,PRG-PS-066,MPUPS 7,Pargi,2.61,False
+100966,pass100966,Madhav Venkata Yenugula,DUMMY-PRG-035577,PRG-PS-197,Model School 20,Pargi,1.88,False
+100967,pass100967,Dileep Sri Parimi,DUMMY-PRG-011981,PRG-PS-086,MPUPS 9,Pargi,1.36,False
+100968,pass100968,Akhil Babu Kakarla,DUMMY-PRG-006739,PRG-PS-029,Municipal School 3,Pargi,1.29,False
+100969,pass100969,Arjun Rani Jonnalagadda,DUMMY-PRG-072946,PRG-PS-051,Govt Primary School 6,Pargi,1.55,False
+100970,pass100970,Rakesh Narayana Rudra,DUMMY-PRG-106807,PRG-PS-057,Model School 6,Pargi,1.93,False
+100971,pass100971,Pavan Srinivas Polam,DUMMY-PRG-069489,PRG-PS-254,Zilla Parishad High School 26,Pargi,1.01,False
+100972,pass100972,Nanda Lakshmi Polam,DUMMY-PRG-118228,PRG-PS-193,Government Girls High School 20,Pargi,1.84,False
+100973,pass100973,Bhuvan Rao Allam,DUMMY-PRG-050864,PRG-PS-234,Zilla Parishad High School 24,Pargi,4.48,False
+100974,pass100974,Navin Devi Singireddy,DUMMY-PRG-083548,PRG-PS-283,Government Girls High School 29,Pargi,2.29,False
+100975,pass100975,Naresh Devi Linga,DUMMY-PRG-062088,PRG-PS-173,Government Girls High School 18,Pargi,2.07,False
+100976,pass100976,Pavan Babu Yelamanchili,DUMMY-PRG-125222,PRG-PS-172,Govt High School 18,Pargi,2.27,False
+100977,pass100977,Mounika Durgam,DUMMY-PRG-064831,PRG-PS-171,Govt Primary School 18,Pargi,2.34,False
+100978,pass100978,Chetan Sri Rangineni,DUMMY-PRG-017680,PRG-PS-295,MPPS 30,Pargi,1.36,False
+100979,pass100979,Himanshu Narayana Madduri,DUMMY-PRG-077409,PRG-PS-244,Zilla Parishad High School 25,Pargi,2.27,False
+100980,pass100980,Nikhil Prasad Thota,DUMMY-PRG-007243,PRG-PS-228,Government Junior College 23,Pargi,1.78,False
+100981,pass100981,Jagan Sri Somisetty,DUMMY-PRG-018360,PRG-PS-060,District Parishad School 6,Pargi,2.04,False
+100982,pass100982,Dileep Kiran Narla,DUMMY-PRG-078128,PRG-PS-048,Government Junior College 5,Pargi,2.83,False
+100983,pass100983,Charan Duvvuri,DUMMY-PRG-025536,PRG-PS-221,Govt Primary School 23,Pargi,1.4,False
+100984,pass100984,Ganesh Raju Korrapati,DUMMY-PRG-055759,PRG-PS-249,Municipal School 25,Pargi,1.62,False
+100985,pass100985,Anil Teja Kavuri,DUMMY-PRG-078455,PRG-PS-070,District Parishad School 7,Pargi,2.1,False
+100986,pass100986,Pranav Kiran Yadla,DUMMY-PRG-012534,PRG-PS-029,Municipal School 3,Pargi,2.37,False
+100987,pass100987,Pavan Devi Parimi,DUMMY-PRG-071013,PRG-PS-253,Government Girls High School 26,Pargi,2.77,False
+100988,pass100988,Bharath Sri Komati,DUMMY-PRG-064343,PRG-PS-293,Government Girls High School 30,Pargi,2.02,False
+100989,pass100989,Ajay Chandra Gowda,DUMMY-PRG-121533,PRG-PS-143,Government Girls High School 15,Pargi,2.34,False
+100990,pass100990,Charitha Yadla,DUMMY-PRG-123985,PRG-PS-155,MPPS 16,Pargi,2.33,False
+100991,pass100991,Akhil Kiran Perumalla,DUMMY-PRG-060976,PRG-PS-281,Govt Primary School 29,Pargi,1.44,False
+100992,pass100992,Rajesh Srinivas Kakani,DUMMY-PRG-044479,PRG-PS-254,Zilla Parishad High School 26,Pargi,2.55,False
+100993,pass100993,Anand Teja Koppula,DUMMY-PRG-076812,PRG-PS-257,Model School 26,Pargi,1.69,False
+100994,pass100994,Gautham Sri Kaza,DUMMY-PRG-003201,PRG-PS-151,Govt Primary School 16,Pargi,2.97,False
+100995,pass100995,Avinash Lakshmi Varanasi,DUMMY-PRG-037879,PRG-PS-059,Municipal School 6,Pargi,2.63,False
+100996,pass100996,Avinash Krishna Varanasi,DUMMY-PRG-128043,PRG-PS-248,Government Junior College 25,Pargi,2.86,False
+100997,pass100997,Dileep Chandra Sajja,DUMMY-PRG-014030,PRG-PS-305,MPPS 31,Pargi,2.52,False
+100998,pass100998,Hemanth Prasad Yerram,DUMMY-PRG-083996,PRG-PS-121,Govt Primary School 13,Pargi,1.16,False
+100999,pass100999,Anand Raju Kavuri,DUMMY-PRG-077373,PRG-PS-208,Government Junior College 21,Pargi,2.91,False
+101000,pass101000,Gautam Prasad Kandula,DUMMY-PRG-112674,PRG-PS-129,Municipal School 13,Pargi,1.76,False
+101001,pass101001,Akhil Prasad Tadiparthi,DUMMY-PRG-069992,PRG-PS-147,Model School 15,Pargi,1.84,False
+101002,pass101002,Nagesh Chandra Vedula,DUMMY-PRG-065640,PRG-PS-065,MPPS 7,Pargi,1.66,False
+101003,pass101003,Ravi Rao Vutla,DUMMY-PRG-063374,PRG-PS-239,Municipal School 24,Pargi,2.37,False
+101004,pass101004,Aarav Rani Rachakonda,DUMMY-PRG-002606,PRG-PS-166,MPUPS 17,Pargi,2.11,False
+101005,pass101005,Avinash Narayana Lakkam,DUMMY-PRG-081628,PRG-PS-193,Government Girls High School 20,Pargi,1.68,False
+101006,pass101006,Charan Kiran Saripalli,DUMMY-PRG-128643,PRG-PS-238,Government Junior College 24,Pargi,2.98,False
+101007,pass101007,Charan Srinivas Vemula,DUMMY-PRG-093206,PRG-PS-181,Govt Primary School 19,Pargi,1.57,False
+101008,pass101008,Durga Teja Kondapalli,DUMMY-PRG-128640,PRG-PS-235,MPPS 24,Pargi,1.59,False
+101009,pass101009,Dhanush Tirumalasetti,DUMMY-PRG-044044,PRG-PS-124,Zilla Parishad High School 13,Pargi,1.66,False
+101010,pass101010,Manoj Teja Nalluri,DUMMY-PRG-018822,PRG-PS-217,Model School 22,Pargi,2.48,False
+101011,pass101011,Bhuvan Srinivas Nimmala,DUMMY-PRG-047805,PRG-PS-225,MPPS 23,Pargi,2.58,False
+101012,pass101012,Akash Babu Shanigala,DUMMY-PRG-079826,PRG-PS-221,Govt Primary School 23,Pargi,2.2,False
+101013,pass101013,Dhanush Mohan Vangala,DUMMY-PRG-005865,PRG-PS-070,District Parishad School 7,Pargi,2.05,False
+101014,pass101014,Anil Rani Naidu,DUMMY-PRG-031180,PRG-PS-070,District Parishad School 7,Pargi,1.46,False
+101015,pass101015,Chetan Krishna Vinnakota,DUMMY-PRG-044613,PRG-PS-083,Government Girls High School 9,Pargi,1.08,False
+101016,pass101016,Manohar Mohan Muppidi,DUMMY-PRG-014778,PRG-PS-138,Government Junior College 14,Pargi,1.66,False
+101017,pass101017,Akash Kiran Sunkara,DUMMY-PRG-002329,PRG-PS-194,Zilla Parishad High School 20,Pargi,4.54,False
+101018,pass101018,Raj Mohan Bommidi,DUMMY-PRG-041219,PRG-PS-044,Zilla Parishad High School 5,Pargi,2.71,False
+101019,pass101019,Abhinav Devi Raghavendra,DUMMY-PRG-026289,PRG-PS-059,Municipal School 6,Pargi,1.64,False
+101020,pass101020,Manoj Krishna Paturi,DUMMY-PRG-099897,PRG-PS-162,Govt High School 17,Pargi,1.31,False
+101021,pass101021,Gautam Sri Sarve,DUMMY-PRG-102252,PRG-PS-077,Model School 8,Pargi,1.73,False
+101022,pass101022,Mahesh Teja Nallamothu,DUMMY-PRG-122675,PRG-PS-065,MPPS 7,Pargi,2.36,False
+101023,pass101023,Ajay Lakshmi Somisetty,DUMMY-PRG-007624,PRG-PS-304,Zilla Parishad High School 31,Pargi,1.65,False
+101024,pass101024,Jagan Sagi,DUMMY-PRG-042303,PRG-PS-213,Government Girls High School 22,Pargi,1.49,False
+101025,pass101025,Ananya Sabbavarapu,DUMMY-PRG-117672,PRG-PS-247,Model School 25,Pargi,2.46,False
+101026,pass101026,Hemanth Krishna Sagi,DUMMY-PRG-073950,PRG-PS-140,District Parishad School 14,Pargi,1.54,False
+101027,pass101027,Ramesh Jonnalagadda,DUMMY-PRG-114563,PRG-PS-188,Government Junior College 19,Pargi,2.72,False
+101028,pass101028,Navin Krishna Rallapalli,DUMMY-PRG-127457,PRG-PS-272,Govt High School 28,Pargi,2.35,False
+101029,pass101029,Shilpa Shetty,DUMMY-PRG-057899,PRG-PS-254,Zilla Parishad High School 26,Pargi,2.97,False
+101030,pass101030,Manohar Devi Samineni,DUMMY-PRG-013564,PRG-PS-144,Zilla Parishad High School 15,Pargi,1.98,False
+101031,pass101031,Krishna Devi Varanasi,DUMMY-PRG-032184,PRG-PS-159,Municipal School 16,Pargi,1.81,False
+101032,pass101032,Pranitha Nadella,DUMMY-PRG-015821,PRG-PS-266,MPUPS 27,Pargi,1.28,False
+101033,pass101033,Praveen Babu Pakala,DUMMY-PRG-038940,PRG-PS-205,MPPS 21,Pargi,4.62,False
+101034,pass101034,Krishna Devi Yendluri,DUMMY-PRG-012852,PRG-PS-042,Govt High School 5,Pargi,2.9,False
+101035,pass101035,Anand Teja Tadiparthi,DUMMY-PRG-011804,PRG-PS-214,Zilla Parishad High School 22,Pargi,2.72,False
+101036,pass101036,Gautham Chandra Gurrapu,DUMMY-PRG-115926,PRG-PS-026,MPUPS 3,Pargi,1.76,False
+101037,pass101037,Hemanth Perumalla,DUMMY-PRG-010400,PRG-PS-030,District Parishad School 3,Pargi,2.25,False
+101038,pass101038,Pranav Chandra Tadiparthi,DUMMY-PRG-084981,PRG-PS-191,Govt Primary School 20,Pargi,2.26,False
+101039,pass101039,Himanshu Babu Gattu,DUMMY-PRG-086312,PRG-PS-302,Govt High School 31,Pargi,2.75,False
+101040,pass101040,Govind Narayana Kancharla,DUMMY-PRG-091835,PRG-PS-030,District Parishad School 3,Pargi,2.39,False
+101041,pass101041,Charan Teja Yerram,DUMMY-PRG-019153,PRG-PS-243,Government Girls High School 25,Pargi,2.57,False
+101042,pass101042,Bhuvan Sri Madduri,DUMMY-PRG-066660,PRG-PS-170,District Parishad School 17,Pargi,2.72,False
+101043,pass101043,Govind Lakshmi Vangala,DUMMY-PRG-083440,PRG-PS-175,MPPS 18,Pargi,2.7,False
+101044,pass101044,Ashwini Vannemreddy,DUMMY-PRG-115715,PRG-PS-120,District Parishad School 12,Pargi,1.14,False
+101045,pass101045,Rakesh Devi Yadla,DUMMY-PRG-027608,PRG-PS-158,Government Junior College 16,Pargi,1.45,False
+101046,pass101046,Akhil Babu Cherukuri,DUMMY-PRG-098070,PRG-PS-165,MPPS 17,Pargi,1.15,False
+101047,pass101047,Anirudh Sri Parimi,DUMMY-PRG-091622,PRG-PS-122,Govt High School 13,Pargi,2.75,False
+101048,pass101048,Anirudh Teja Konda,DUMMY-PRG-038210,PRG-PS-085,MPPS 9,Pargi,1.22,False
+101049,pass101049,Pranav Teja Satyanarayana,DUMMY-PRG-096379,PRG-PS-304,Zilla Parishad High School 31,Pargi,1.02,False
+101050,pass101050,Hemanth Venkata Sabbavarapu,DUMMY-PRG-056002,PRG-PS-187,Model School 19,Pargi,2.89,False
+101051,pass101051,Anusha Kota,DUMMY-PRG-072827,PRG-PS-237,Model School 24,Pargi,2.69,False
+101052,pass101052,Anand Sri Chintada,DUMMY-PRG-021503,PRG-PS-153,Government Girls High School 16,Pargi,1.79,False
+101053,pass101053,Naresh Devi Nallamothu,DUMMY-PRG-039034,PRG-PS-299,Municipal School 30,Pargi,1.57,False
+101054,pass101054,Manoj Rani Siddula,DUMMY-PRG-044539,PRG-PS-009,Municipal School 1,Pargi,1.49,False
+101055,pass101055,Charan Krishna Polam,DUMMY-PRG-052494,PRG-PS-034,Zilla Parishad High School 4,Pargi,1.1,False
+101056,pass101056,Manoj Kanneganti,DUMMY-PRG-062091,PRG-PS-176,MPUPS 18,Pargi,1.63,False
+101057,pass101057,Durga Reddam,DUMMY-PRG-064329,PRG-PS-279,Municipal School 28,Pargi,1.32,False
+101058,pass101058,Dheeraj Krishna Goud,DUMMY-PRG-030469,PRG-PS-274,Zilla Parishad High School 28,Pargi,1.9,False
+101059,pass101059,Pavan Kiran Kondapalli,DUMMY-PRG-113302,PRG-PS-147,Model School 15,Pargi,4.05,False
+101060,pass101060,Manish Naidu,DUMMY-PRG-056605,PRG-PS-180,District Parishad School 18,Pargi,2.48,False
+101061,pass101061,Amar Kumar Vinnakota,DUMMY-PRG-059445,PRG-PS-275,MPPS 28,Pargi,2.63,False
+101062,pass101062,Harish Narayana Mallela,DUMMY-PRG-107169,PRG-PS-114,Zilla Parishad High School 12,Pargi,2.19,False
+101063,pass101063,Deepa Koppula,DUMMY-PRG-118677,PRG-PS-032,Govt High School 4,Pargi,2.99,False
+101064,pass101064,Nagesh Venkata Jonnalagadda,DUMMY-PRG-052316,PRG-PS-161,Govt Primary School 17,Pargi,2.58,False
+101065,pass101065,Kishore Mohan Narla,DUMMY-PRG-031361,PRG-PS-251,Govt Primary School 26,Pargi,2.66,False
+101066,pass101066,Lakshman Rao Karra,DUMMY-PRG-041295,PRG-PS-120,District Parishad School 12,Pargi,2.39,False
+101067,pass101067,Praveen Kiran Tadiparthi,DUMMY-PRG-124209,PRG-PS-074,Zilla Parishad High School 8,Pargi,1.41,False
+101068,pass101068,Dheeraj Kumar Panchumarthi,DUMMY-PRG-028096,PRG-PS-036,MPUPS 4,Pargi,1.28,False
+101069,pass101069,Sudhakar Komati,DUMMY-PRG-108421,PRG-PS-146,MPUPS 15,Pargi,1.17,False
+101070,pass101070,Bhuvan Srinivas Polisetty,DUMMY-PRG-002041,PRG-PS-211,Govt Primary School 22,Pargi,1.39,False
+101071,pass101071,Navin Rao Gattu,DUMMY-PRG-089486,PRG-PS-121,Govt Primary School 13,Pargi,1.39,False
+101072,pass101072,Praveen Venkata Varanasi,DUMMY-PRG-054218,PRG-PS-233,Government Girls High School 24,Pargi,1.48,False
+101073,pass101073,Deepika Reddam,DUMMY-PRG-004989,PRG-PS-109,Municipal School 11,Pargi,1.06,False
+101074,pass101074,Harish Raju Ravula,DUMMY-PRG-030521,PRG-PS-021,Govt Primary School 3,Pargi,2.69,False
+101075,pass101075,Shivakumar Pasupuleti,DUMMY-PRG-046249,PRG-PS-194,Zilla Parishad High School 20,Pargi,1.12,False
+101076,pass101076,Govind Venkata Palle,DUMMY-PRG-021147,PRG-PS-102,Govt High School 11,Pargi,2.71,False
+101077,pass101077,Anand Rao Pusapati,DUMMY-PRG-119467,PRG-PS-212,Govt High School 22,Pargi,1.25,False
+101078,pass101078,Bhanu Narayana Lakkam,DUMMY-PRG-044743,PRG-PS-213,Government Girls High School 22,Pargi,2.98,False
+101079,pass101079,Manoj Somanchi,DUMMY-PRG-046811,PRG-PS-146,MPUPS 15,Pargi,1.82,False
+101080,pass101080,Balaji Venkata Pakala,DUMMY-PRG-008656,PRG-PS-116,MPUPS 12,Pargi,1.39,False
+101081,pass101081,Ganesh Srinivas Sarve,DUMMY-PRG-127881,PRG-PS-086,MPUPS 9,Pargi,2.49,False
+101082,pass101082,Abhinav Mohan Kancharla,DUMMY-PRG-026758,PRG-PS-223,Government Girls High School 23,Pargi,4.39,False
+101083,pass101083,Manish Raju Tirumalasetti,DUMMY-PRG-023844,PRG-PS-054,Zilla Parishad High School 6,Pargi,2.85,False
+101084,pass101084,Jai Sri Gurram,DUMMY-PRG-083793,PRG-PS-223,Government Girls High School 23,Pargi,2.71,False
+101085,pass101085,Akash Mannem,DUMMY-PRG-036769,PRG-PS-169,Municipal School 17,Pargi,1.49,False
+101086,pass101086,Koushik Devi Mareddy,DUMMY-PRG-035679,PRG-PS-299,Municipal School 30,Pargi,2.2,False
+101087,pass101087,Mahesh Rani Allam,DUMMY-PRG-062429,PRG-PS-209,Municipal School 21,Pargi,2.62,False
+101088,pass101088,Naveen Babu Ediga,DUMMY-PRG-000120,PRG-PS-120,District Parishad School 12,Pargi,1.82,False
+101089,pass101089,Shankar Vadde,DUMMY-PRG-066743,PRG-PS-253,Government Girls High School 26,Pargi,1.3,False
+101090,pass101090,Manish Mohan Vangala,DUMMY-PRG-001619,PRG-PS-094,Zilla Parishad High School 10,Pargi,1.13,False
+101091,pass101091,Avinash Krishna Kakani,DUMMY-PRG-016595,PRG-PS-125,MPPS 13,Pargi,2.1,False
+101092,pass101092,Ramesh Chandra Sharma,DUMMY-PRG-109646,PRG-PS-151,Govt Primary School 16,Pargi,1.61,False
+101093,pass101093,Dhanush Devi Siddula,DUMMY-PRG-024711,PRG-PS-006,MPUPS 1,Pargi,2.03,False
+101094,pass101094,Karthik Teja Shetty,DUMMY-PRG-101404,PRG-PS-144,Zilla Parishad High School 15,Pargi,2.63,False
+101095,pass101095,Durga Linga,DUMMY-PRG-043122,PRG-PS-117,Model School 12,Pargi,2.47,False
+101096,pass101096,Hemanth Teja Kummari,DUMMY-PRG-017970,PRG-PS-280,District Parishad School 28,Pargi,1.19,False
+101097,pass101097,Akash Teja Pamulaparthi,DUMMY-PRG-069409,PRG-PS-174,Zilla Parishad High School 18,Pargi,1.86,False
+101098,pass101098,Govind Narayana Yerram,DUMMY-PRG-104516,PRG-PS-206,MPUPS 21,Pargi,2.26,False
+101099,pass101099,Gagan Narayana Penumudi,DUMMY-PRG-000199,PRG-PS-199,Municipal School 20,Pargi,2.31,False
+101100,pass101100,Rahul Malladi,DUMMY-PRG-041159,PRG-PS-289,Municipal School 29,Pargi,1.76,False
+101101,pass101101,Abhinav Raju Shetty,DUMMY-PRG-029790,PRG-PS-205,MPPS 21,Pargi,2.17,False
+101102,pass101102,Nikhil Mohan Palle,DUMMY-PRG-118319,PRG-PS-284,Zilla Parishad High School 29,Pargi,2.79,False
+101103,pass101103,Ravi Narayana Lolla,DUMMY-PRG-088438,PRG-PS-293,Government Girls High School 30,Pargi,1.37,False
+101104,pass101104,Anji Rao Vemuri,DUMMY-PRG-080327,PRG-PS-112,Govt High School 12,Pargi,1.28,False
+101105,pass101105,Amar Venkata Singireddy,DUMMY-PRG-037189,PRG-PS-284,Zilla Parishad High School 29,Pargi,4.3,False
+101106,pass101106,Manohar Chandra Durgam,DUMMY-PRG-034967,PRG-PS-197,Model School 20,Pargi,1.05,False
+101107,pass101107,Navin Kumar Uppala,DUMMY-PRG-021093,PRG-PS-048,Government Junior College 5,Pargi,1.31,False
+101108,pass101108,Krishna Rao Samineni,DUMMY-PRG-008839,PRG-PS-299,Municipal School 30,Pargi,2.38,False
+101109,pass101109,Akash Sri Reddam,DUMMY-PRG-087613,PRG-PS-078,Government Junior College 8,Pargi,1.29,False
+101110,pass101110,Arun Venkata Sharma,DUMMY-PRG-079098,PRG-PS-103,Government Girls High School 11,Pargi,1.57,False
+101111,pass101111,Lakshman Venkata Gali,DUMMY-PRG-119431,PRG-PS-176,MPUPS 18,Pargi,1.68,False
+101112,pass101112,Nithin Kiran Gandluri,DUMMY-PRG-095912,PRG-PS-142,Govt High School 15,Pargi,2.66,False
+101113,pass101113,Bharath Mohan Duvvuri,DUMMY-PRG-051812,PRG-PS-267,Model School 27,Pargi,2.14,False
+101114,pass101114,Mounika Rallapalli,DUMMY-PRG-020410,PRG-PS-280,District Parishad School 28,Pargi,1.74,False
+101115,pass101115,Madhav Devi Rangineni,DUMMY-PRG-010641,PRG-PS-271,Govt Primary School 28,Pargi,1.11,False
+101116,pass101116,Praveen Rani Jampala,DUMMY-PRG-084340,PRG-PS-160,District Parishad School 16,Pargi,1.14,False
+101117,pass101117,Mohanrao Srinivas Vadde,DUMMY-PRG-093308,PRG-PS-283,Government Girls High School 29,Pargi,2.03,False
+101118,pass101118,Manohar Babu Madduri,DUMMY-PRG-032039,PRG-PS-014,Zilla Parishad High School 2,Pargi,1.58,False
+101119,pass101119,Anji Mohan Kosaraju,DUMMY-PRG-091453,PRG-PS-258,Government Junior College 26,Pargi,2.63,False
+101120,pass101120,Abhinav Krishna Nalluri,DUMMY-PRG-064516,PRG-PS-161,Govt Primary School 17,Pargi,1.19,False
+101121,pass101121,Raj Narayana Satyanarayana,DUMMY-PRG-083514,PRG-PS-249,Municipal School 25,Pargi,1.51,False
+101122,pass101122,Aarav Rani Medapati,DUMMY-PRG-055136,PRG-PS-236,MPUPS 24,Pargi,1.2,False
+101123,pass101123,Hemanth Krishna Paturi,DUMMY-PRG-024853,PRG-PS-148,Government Junior College 15,Pargi,1.37,False
+101124,pass101124,Rajesh Lakshmi Daram,DUMMY-PRG-014039,PRG-PS-009,Municipal School 1,Pargi,1.1,False
+101125,pass101125,Harsha Rao Tatikonda,DUMMY-PRG-039972,PRG-PS-017,Model School 2,Pargi,2.58,False
+101126,pass101126,Gautham Rani Aduri,DUMMY-PRG-087750,PRG-PS-215,MPPS 22,Pargi,2.6,False
+101127,pass101127,Neha Varma,DUMMY-PRG-002514,PRG-PS-074,Zilla Parishad High School 8,Pargi,2.95,False
+101128,pass101128,Anand Nanduri,DUMMY-PRG-020455,PRG-PS-020,District Parishad School 2,Pargi,1.26,False
+101129,pass101129,Krishna Kiran Vallabhaneni,DUMMY-PRG-104963,PRG-PS-043,Government Girls High School 5,Pargi,4.77,False
+101130,pass101130,Rajesh Narayana Yadlapalli,DUMMY-PRG-039173,PRG-PS-133,Government Girls High School 14,Pargi,1.21,False
+101131,pass101131,Gagan Mohan Setty,DUMMY-PRG-055111,PRG-PS-211,Govt Primary School 22,Pargi,1.13,False
+101132,pass101132,Pavan Rani Shankar,DUMMY-PRG-058865,PRG-PS-305,MPPS 31,Pargi,1.14,False
+101133,pass101133,Manoj Devi Somanchi,DUMMY-PRG-054911,PRG-PS-011,Govt Primary School 2,Pargi,4.22,False
+101134,pass101134,Nikhil Narayana Gattu,DUMMY-PRG-115136,PRG-PS-151,Govt Primary School 16,Pargi,1.76,False
+101135,pass101135,Madhav Sri Rao,DUMMY-PRG-050290,PRG-PS-270,District Parishad School 27,Pargi,2.14,False
+101136,pass101136,Himanshu Nanduri,DUMMY-PRG-056206,PRG-PS-086,MPUPS 9,Pargi,1.94,False
+101137,pass101137,Karthik Kiran Kandula,DUMMY-PRG-048959,PRG-PS-159,Municipal School 16,Pargi,1.06,False
+101138,pass101138,Jai Devi Sangem,DUMMY-PRG-069922,PRG-PS-077,Model School 8,Pargi,2.72,False
+101139,pass101139,Lokesh Narayana Lolla,DUMMY-PRG-015055,PRG-PS-110,District Parishad School 11,Pargi,2.23,False
+101140,pass101140,Chetan Teja Jampala,DUMMY-PRG-006917,PRG-PS-207,Model School 21,Pargi,1.65,False
+101141,pass101141,Chetan Teja Kummari,DUMMY-PRG-024146,PRG-PS-051,Govt Primary School 6,Pargi,2.48,False
+101142,pass101142,Harsha Rao Garlapati,DUMMY-PRG-090914,PRG-PS-024,Zilla Parishad High School 3,Pargi,2.88,False
+101143,pass101143,Anji Devi Yendluri,DUMMY-PRG-099688,PRG-PS-258,Government Junior College 26,Pargi,3.0,False
+101144,pass101144,Chaitanya Rao Aduri,DUMMY-PRG-042752,PRG-PS-052,Govt High School 6,Pargi,1.68,False
+101145,pass101145,Madhav Chandra Marrapu,DUMMY-PRG-100315,PRG-PS-275,MPPS 28,Pargi,2.2,False
+101146,pass101146,Kishore Narayana Kakarla,DUMMY-PRG-031940,PRG-PS-220,District Parishad School 22,Pargi,2.65,False
+101147,pass101147,Balaji Kiran Aduri,DUMMY-PRG-038095,PRG-PS-275,MPPS 28,Pargi,2.1,False
+101148,pass101148,Aditya Kiran Nanduri,DUMMY-PRG-065966,PRG-PS-086,MPUPS 9,Pargi,2.29,False
+101149,pass101149,Ramesh Kiran Vutla,DUMMY-PRG-103623,PRG-PS-228,Government Junior College 23,Pargi,1.43,False
+101150,pass101150,Harish Pusapati,DUMMY-PRG-069280,PRG-PS-045,MPPS 5,Pargi,1.17,False
+101151,pass101151,Anji Babu Lakkam,DUMMY-PRG-073400,PRG-PS-200,District Parishad School 20,Pargi,1.81,False
+101152,pass101152,Madhav Srinivas Deshmukh,DUMMY-PRG-021193,PRG-PS-148,Government Junior College 15,Pargi,2.84,False
+101153,pass101153,Madhav Kiran Mareddy,DUMMY-PRG-102991,PRG-PS-206,MPUPS 21,Pargi,2.93,False
+101154,pass101154,Charan Lakshmi Kakani,DUMMY-PRG-033115,PRG-PS-175,MPPS 18,Pargi,1.27,False
+101155,pass101155,Avinash Kumar Ponnam,DUMMY-PRG-016127,PRG-PS-267,Model School 27,Pargi,2.49,False
+101156,pass101156,Ajay Kiran Penumudi,DUMMY-PRG-079260,PRG-PS-265,MPPS 27,Pargi,1.56,False
+101157,pass101157,Avinash Narayana Perumalla,DUMMY-PRG-084599,PRG-PS-114,Zilla Parishad High School 12,Pargi,2.95,False
+101158,pass101158,Manjula Tummala,DUMMY-PRG-056543,PRG-PS-118,Government Junior College 12,Pargi,4.88,False
+101159,pass101159,Pavan Kiran Kosaraju,DUMMY-PRG-118979,PRG-PS-029,Municipal School 3,Pargi,2.63,False
+101160,pass101160,Krishna Lakshmi Linga,DUMMY-PRG-098191,PRG-PS-286,MPUPS 29,Pargi,2.01,False
+101161,pass101161,Govind Rani Rachakonda,DUMMY-PRG-062830,PRG-PS-305,MPPS 31,Pargi,1.4,False
+101162,pass101162,Kishore Lakshmi Ravindranath,DUMMY-PRG-000788,PRG-PS-178,Government Junior College 18,Pargi,2.75,False
+101163,pass101163,Avinash Mohan Perumalla,DUMMY-PRG-103609,PRG-PS-214,Zilla Parishad High School 22,Pargi,2.1,False
+101164,pass101164,Mohanrao Chandra Mangalagiri,DUMMY-PRG-083736,PRG-PS-166,MPUPS 17,Pargi,1.59,False
+101165,pass101165,Jagan Anumolu,DUMMY-PRG-077840,PRG-PS-065,MPPS 7,Pargi,1.48,False
+101166,pass101166,Bhaskar Mohan Rangineni,DUMMY-PRG-030169,PRG-PS-279,Municipal School 28,Pargi,1.54,False
+101167,pass101167,Bharath Prasad Samineni,DUMMY-PRG-088740,PRG-PS-290,District Parishad School 29,Pargi,1.88,False
+101168,pass101168,Madhav Kumar Rudra,DUMMY-PRG-019903,PRG-PS-078,Government Junior College 8,Pargi,1.1,False
+101169,pass101169,Aditya Rani Lakkam,DUMMY-PRG-103825,PRG-PS-125,MPPS 13,Pargi,1.65,False
+101170,pass101170,Pavan Rao Mareddy,DUMMY-PRG-000551,PRG-PS-246,MPUPS 25,Pargi,2.45,False
+101171,pass101171,Amar Raju Nalluri,DUMMY-PRG-112465,PRG-PS-225,MPPS 23,Pargi,2.18,False
+101172,pass101172,Mohanrao Teja Saripalli,DUMMY-PRG-105018,PRG-PS-098,Government Junior College 10,Pargi,2.15,False
+101173,pass101173,Akash Krishna Yalamanchili,DUMMY-PRG-104411,PRG-PS-101,Govt Primary School 11,Pargi,1.0,False
+101174,pass101174,Charitha Kota,DUMMY-PRG-011567,PRG-PS-282,Govt High School 29,Pargi,1.68,False
+101175,pass101175,Rajesh Chandra Vutla,DUMMY-PRG-014889,PRG-PS-249,Municipal School 25,Pargi,1.58,False
+101176,pass101176,Manohar Chandra Aduri,DUMMY-PRG-096937,PRG-PS-252,Govt High School 26,Pargi,2.3,False
+101177,pass101177,Girish Venkata Vedula,DUMMY-PRG-006598,PRG-PS-193,Government Girls High School 20,Pargi,2.3,False
+101178,pass101178,Jagan Krishna Marrapu,DUMMY-PRG-044314,PRG-PS-089,Municipal School 9,Pargi,2.87,False
+101179,pass101179,Naresh Venkata Emani,DUMMY-PRG-066399,PRG-PS-214,Zilla Parishad High School 22,Pargi,2.93,False
+101180,pass101180,Anjan Lakshmi Yenugula,DUMMY-PRG-002735,PRG-PS-295,MPPS 30,Pargi,1.12,False
+101181,pass101181,Akhil Prasad Maddala,DUMMY-PRG-047779,PRG-PS-199,Municipal School 20,Pargi,1.76,False
+101182,pass101182,Charan Kumar Setty,DUMMY-PRG-084468,PRG-PS-288,Government Junior College 29,Pargi,2.87,False
+101183,pass101183,Rahul Srinivas Jonnalagadda,DUMMY-PRG-114245,PRG-PS-175,MPPS 18,Pargi,2.04,False
+101184,pass101184,Akash Kiran Kota,DUMMY-PRG-082776,PRG-PS-121,Govt Primary School 13,Pargi,1.87,False
+101185,pass101185,Koushik Prasad Panchumarthi,DUMMY-PRG-093930,PRG-PS-295,MPPS 30,Pargi,4.18,False
+101186,pass101186,Ramesh Babu Kandula,DUMMY-PRG-090838,PRG-PS-253,Government Girls High School 26,Pargi,1.24,False
+101187,pass101187,Naresh Prasad Vangala,DUMMY-PRG-055117,PRG-PS-217,Model School 22,Pargi,1.48,False
+101188,pass101188,Sudeep Palle,DUMMY-PRG-123626,PRG-PS-101,Govt Primary School 11,Pargi,1.25,False
+101189,pass101189,Anirudh Lakshmi Koppula,DUMMY-PRG-102130,PRG-PS-260,District Parishad School 26,Pargi,4.37,False
+101190,pass101190,Aarav Srinivas Reddam,DUMMY-PRG-010141,PRG-PS-076,MPUPS 8,Pargi,2.0,False
+101191,pass101191,Mohan Babu Mandadi,DUMMY-PRG-117950,PRG-PS-220,District Parishad School 22,Pargi,2.32,False
+101192,pass101192,Manish Narayana Ravula,DUMMY-PRG-039085,PRG-PS-045,MPPS 5,Pargi,2.21,False
+101193,pass101193,Dheeraj Devi Yadla,DUMMY-PRG-064293,PRG-PS-243,Government Girls High School 25,Pargi,4.06,False
+101194,pass101194,Nikhil Polisetty,DUMMY-PRG-011297,PRG-PS-012,Govt High School 2,Pargi,2.79,False
+101195,pass101195,Kishore Krishna Boppana,DUMMY-PRG-118873,PRG-PS-228,Government Junior College 23,Pargi,2.99,False
+101196,pass101196,Charan Narayana Sagi,DUMMY-PRG-064546,PRG-PS-191,Govt Primary School 20,Pargi,2.16,False
+101197,pass101197,Hemanth Lakshmi Emani,DUMMY-PRG-086604,PRG-PS-289,Municipal School 29,Pargi,1.66,False
+101198,pass101198,Srinivas Munagala,DUMMY-PRG-050743,PRG-PS-113,Government Girls High School 12,Pargi,2.55,False
+101199,pass101199,Abhinav Polisetty,DUMMY-PRG-061553,PRG-PS-248,Government Junior College 25,Pargi,2.9,False
+101200,pass101200,Jagan Mohan Anumolu,DUMMY-PRG-072165,PRG-PS-185,MPPS 19,Pargi,2.8,False
+101201,pass101201,Dheeraj Sri Maddala,DUMMY-PRG-004940,PRG-PS-060,District Parishad School 6,Pargi,2.44,False
+101202,pass101202,Bhargavi Bandi,DUMMY-PRG-054271,PRG-PS-286,MPUPS 29,Pargi,2.04,False
+101203,pass101203,Dileep Rao Narla,DUMMY-PRG-088123,PRG-PS-283,Government Girls High School 29,Pargi,2.69,False
+101204,pass101204,Ramesh Rani Narapati,DUMMY-PRG-067409,PRG-PS-004,Zilla Parishad High School 1,Pargi,2.03,False
+101205,pass101205,Mohanrao Narayana Naidu,DUMMY-PRG-056214,PRG-PS-094,Zilla Parishad High School 10,Pargi,1.98,False
+101206,pass101206,Rajesh Devi Konda,DUMMY-PRG-120217,PRG-PS-047,Model School 5,Pargi,4.85,False
+101207,pass101207,Akshara Gandluri,DUMMY-PRG-064123,PRG-PS-073,Government Girls High School 8,Pargi,2.06,False
+101208,pass101208,Pavan Babu Chintada,DUMMY-PRG-056075,PRG-PS-260,District Parishad School 26,Pargi,1.82,False
+101209,pass101209,Ajay Rao Talasila,DUMMY-PRG-058801,PRG-PS-241,Govt Primary School 25,Pargi,1.82,False
+101210,pass101210,Mohanrao Sri Cherukuri,DUMMY-PRG-097847,PRG-PS-247,Model School 25,Pargi,1.58,False
+101211,pass101211,Gautham Krishna Patel,DUMMY-PRG-002166,PRG-PS-031,Govt Primary School 4,Pargi,2.49,False
+101212,pass101212,Ravi Narla,DUMMY-PRG-036403,PRG-PS-108,Government Junior College 11,Pargi,1.42,False
+101213,pass101213,Hemanth Mohan Chintada,DUMMY-PRG-106516,PRG-PS-071,Govt Primary School 8,Pargi,1.53,False
+101214,pass101214,Karthik Raju Penmetsa,DUMMY-PRG-111313,PRG-PS-293,Government Girls High School 30,Pargi,2.79,False
+101215,pass101215,Arjun Chandra Deshmukh,DUMMY-PRG-050197,PRG-PS-177,Model School 18,Pargi,1.64,False
+101216,pass101216,Manohar Narayana Nalluri,DUMMY-PRG-077517,PRG-PS-047,Model School 5,Pargi,2.31,False
+101217,pass101217,Ajay Devi Konda,DUMMY-PRG-048414,PRG-PS-224,Zilla Parishad High School 23,Pargi,2.33,False
+101218,pass101218,Mahesh Mohan Rallapalli,DUMMY-PRG-084759,PRG-PS-274,Zilla Parishad High School 28,Pargi,4.88,False
+101219,pass101219,Shankar Chintala,DUMMY-PRG-058777,PRG-PS-217,Model School 22,Pargi,1.12,False
+101220,pass101220,Arun Rao Kanneganti,DUMMY-PRG-058912,PRG-PS-047,Model School 5,Pargi,2.66,False
+101221,pass101221,Lokesh Srinivas Jasti,DUMMY-PRG-051584,PRG-PS-039,Municipal School 4,Pargi,2.78,False
+101222,pass101222,Hemanth Mohan Routhu,DUMMY-PRG-123915,PRG-PS-085,MPPS 9,Pargi,1.73,False
+101223,pass101223,Kiran Krishna Nallamothu,DUMMY-PRG-044996,PRG-PS-161,Govt Primary School 17,Pargi,2.39,False
+101224,pass101224,Praveen Lakshmi Rangineni,DUMMY-PRG-026547,PRG-PS-012,Govt High School 2,Pargi,1.13,False
+101225,pass101225,Rahul Mohan Kavuri,DUMMY-PRG-030163,PRG-PS-273,Government Girls High School 28,Pargi,1.84,False
+101226,pass101226,Bala Raju Samala,DUMMY-PRG-108154,PRG-PS-184,Zilla Parishad High School 19,Pargi,2.08,False
+101227,pass101227,Manohar Srinivas Tatikonda,DUMMY-PRG-067393,PRG-PS-293,Government Girls High School 30,Pargi,2.14,False
+101228,pass101228,Anjan Chandra Daram,DUMMY-PRG-038353,PRG-PS-228,Government Junior College 23,Pargi,2.36,False
+101229,pass101229,Dheeraj Venkata Kakarla,DUMMY-PRG-056520,PRG-PS-095,MPPS 10,Pargi,1.22,False
+101230,pass101230,Madhav Krishna Shanigala,DUMMY-PRG-035078,PRG-PS-003,Government Girls High School 1,Pargi,4.18,False
+101231,pass101231,Gautham Devi Karra,DUMMY-PRG-098552,PRG-PS-037,Model School 4,Pargi,2.47,False
+101232,pass101232,Harish Babu Tatikonda,DUMMY-PRG-108387,PRG-PS-112,Govt High School 12,Pargi,2.21,False
+101233,pass101233,Navin Srinivas Lingam,DUMMY-PRG-116444,PRG-PS-239,Municipal School 24,Pargi,1.85,False
+101234,pass101234,Rakesh Kumar Parimi,DUMMY-PRG-065045,PRG-PS-080,District Parishad School 8,Pargi,2.48,False
+101235,pass101235,Dheeraj Narayana Siddula,DUMMY-PRG-119163,PRG-PS-213,Government Girls High School 22,Pargi,2.53,False
+101236,pass101236,Gagan Sri Chintada,DUMMY-PRG-059809,PRG-PS-029,Municipal School 3,Pargi,2.36,False
+101237,pass101237,Naveen Narayana Routhu,DUMMY-PRG-105890,PRG-PS-055,MPPS 6,Pargi,1.91,False
+101238,pass101238,Ravi Mohan Shetty,DUMMY-PRG-112171,PRG-PS-236,MPUPS 24,Pargi,2.03,False
+101239,pass101239,Durga Vasireddy,DUMMY-PRG-117325,PRG-PS-205,MPPS 21,Pargi,3.0,False
+101240,pass101240,Mohanrao Venkata Perumalla,DUMMY-PRG-026137,PRG-PS-212,Govt High School 22,Pargi,1.7,False
+101241,pass101241,Pavan Mohan Tirumalasetti,DUMMY-PRG-035132,PRG-PS-057,Model School 6,Pargi,1.35,False
+101242,pass101242,Aditya Raju Komati,DUMMY-PRG-078958,PRG-PS-268,Government Junior College 27,Pargi,2.59,False
+101243,pass101243,Raj Lakshmi Satyanarayana,DUMMY-PRG-114570,PRG-PS-195,MPPS 20,Pargi,1.63,False
+101244,pass101244,Aditya Srinivas Gattu,DUMMY-PRG-096271,PRG-PS-196,MPUPS 20,Pargi,1.76,False
+101245,pass101245,Bhanu Babu Mannem,DUMMY-PRG-097744,PRG-PS-144,Zilla Parishad High School 15,Pargi,1.02,False
+101246,pass101246,Sangeetha Setty,DUMMY-PRG-025750,PRG-PS-130,District Parishad School 13,Pargi,2.17,False
+101247,pass101247,Vishal Mangalagiri,DUMMY-PRG-027022,PRG-PS-182,Govt High School 19,Pargi,2.35,False
+101248,pass101248,Mohanrao Venkata Goud,DUMMY-PRG-108747,PRG-PS-167,Model School 17,Pargi,1.22,False
+101249,pass101249,Pavan Narayana Emani,DUMMY-PRG-027160,PRG-PS-015,MPPS 2,Pargi,1.3,False
+101250,pass101250,Pavan Srinivas Madduri,DUMMY-PRG-067353,PRG-PS-253,Government Girls High School 26,Pargi,1.47,False
+101251,pass101251,Ganesh Lakshmi Mandadi,DUMMY-PRG-072561,PRG-PS-276,MPUPS 28,Pargi,2.16,False
+101252,pass101252,Jagan Srinivas Gandla,DUMMY-PRG-116751,PRG-PS-241,Govt Primary School 25,Pargi,4.88,False
+101253,pass101253,Anji Sri Vangala,DUMMY-PRG-014152,PRG-PS-122,Govt High School 13,Pargi,2.97,False
+101254,pass101254,Dhanush Lakshmi Shanigala,DUMMY-PRG-071235,PRG-PS-170,District Parishad School 17,Pargi,2.77,False
+101255,pass101255,Mohanrao Teja Chintada,DUMMY-PRG-070058,PRG-PS-213,Government Girls High School 22,Pargi,2.5,False
+101256,pass101256,Hemanth Sri Yadlapalli,DUMMY-PRG-011893,PRG-PS-303,Government Girls High School 31,Pargi,1.95,False
+101257,pass101257,Nikhil Mohan Mallela,DUMMY-PRG-080290,PRG-PS-075,MPPS 8,Pargi,1.95,False
+101258,pass101258,Anji Kiran Marri,DUMMY-PRG-093098,PRG-PS-073,Government Girls High School 8,Pargi,4.11,False
+101259,pass101259,Madhav Narayana Lolla,DUMMY-PRG-020137,PRG-PS-007,Model School 1,Pargi,1.01,False
+101260,pass101260,Latha Narla,DUMMY-PRG-020508,PRG-PS-073,Government Girls High School 8,Pargi,1.95,False
+101261,pass101261,Manoj Raju Bandi,DUMMY-PRG-056745,PRG-PS-015,MPPS 2,Pargi,2.41,False
+101262,pass101262,Anjan Kiran Deshmukh,DUMMY-PRG-098905,PRG-PS-085,MPPS 9,Pargi,1.17,False
+101263,pass101263,Harsha Siddula,DUMMY-PRG-015531,PRG-PS-281,Govt Primary School 29,Pargi,2.42,False
+101264,pass101264,Ramesh Narayana Raparla,DUMMY-PRG-074849,PRG-PS-124,Zilla Parishad High School 13,Pargi,1.42,False
+101265,pass101265,Akash Rani Sarve,DUMMY-PRG-114885,PRG-PS-205,MPPS 21,Pargi,2.0,False
+101266,pass101266,Durga Prasad Chintada,DUMMY-PRG-023338,PRG-PS-158,Government Junior College 16,Pargi,2.37,False
+101267,pass101267,Bhaskar Venkata Paturi,DUMMY-PRG-042725,PRG-PS-025,MPPS 3,Pargi,2.53,False
+101268,pass101268,Jagan Devi Mekala,DUMMY-PRG-010300,PRG-PS-235,MPPS 24,Pargi,1.5,False
+101269,pass101269,Ravi Kumar Konda,DUMMY-PRG-098915,PRG-PS-095,MPPS 10,Pargi,1.6,False
+101270,pass101270,Pavan Mohan Bollam,DUMMY-PRG-091082,PRG-PS-192,Govt High School 20,Pargi,2.61,False
+101271,pass101271,Nithin Lakshmi Chowdary,DUMMY-PRG-011233,PRG-PS-253,Government Girls High School 26,Pargi,2.66,False
+101272,pass101272,Prudhvi Narayana Mangalagiri,DUMMY-PRG-125141,PRG-PS-091,Govt Primary School 10,Pargi,1.81,False
+101273,pass101273,Karthik Rani Malla,DUMMY-PRG-095732,PRG-PS-267,Model School 27,Pargi,1.59,False
+101274,pass101274,Yash Kakarla,DUMMY-PRG-056104,PRG-PS-289,Municipal School 29,Pargi,1.68,False
+101275,pass101275,Rajesh Devi Nalluri,DUMMY-PRG-055894,PRG-PS-079,Municipal School 8,Pargi,1.87,False
+101276,pass101276,Chaitanya Kumar Vinnakota,DUMMY-PRG-031063,PRG-PS-258,Government Junior College 26,Pargi,1.85,False
+101277,pass101277,Madhav Raju Bommidi,DUMMY-PRG-108489,PRG-PS-214,Zilla Parishad High School 22,Pargi,2.83,False
+101278,pass101278,Rakesh Kiran Doma,DUMMY-PRG-033919,PRG-PS-064,Zilla Parishad High School 7,Pargi,1.46,False
+101279,pass101279,Ganesh Rani Narapati,DUMMY-PRG-010777,PRG-PS-102,Govt High School 11,Pargi,1.75,False
+101280,pass101280,Akhil Krishna Karra,DUMMY-PRG-045160,PRG-PS-020,District Parishad School 2,Pargi,1.46,False
+101281,pass101281,Naveen Mohan Pamulaparthi,DUMMY-PRG-011060,PRG-PS-080,District Parishad School 8,Pargi,1.87,False
+101282,pass101282,Nithin Rao Gali,DUMMY-PRG-009603,PRG-PS-148,Government Junior College 15,Pargi,2.59,False
+101283,pass101283,Harsha Sri Tadiparthi,DUMMY-PRG-110438,PRG-PS-028,Government Junior College 3,Pargi,1.63,False
+101284,pass101284,Aarav Narayana Lakkam,DUMMY-PRG-007396,PRG-PS-076,MPUPS 8,Pargi,4.69,False
+101285,pass101285,Bhuvan Rani Gattu,DUMMY-PRG-059039,PRG-PS-174,Zilla Parishad High School 18,Pargi,1.61,False
+101286,pass101286,Manohar Kiran Penmetsa,DUMMY-PRG-061596,PRG-PS-291,Govt Primary School 30,Pargi,2.53,False
+101287,pass101287,Ravindra Sri Kaza,DUMMY-PRG-050755,PRG-PS-125,MPPS 13,Pargi,1.78,False
+101288,pass101288,Govind Goud,DUMMY-PRG-064710,PRG-PS-050,District Parishad School 5,Pargi,1.44,False
+101289,pass101289,Bala Mohan Narapati,DUMMY-PRG-086055,PRG-PS-045,MPPS 5,Pargi,2.57,False
+101290,pass101290,Madhavi Gurram,DUMMY-PRG-110505,PRG-PS-095,MPPS 10,Pargi,1.32,False
+101291,pass101291,Prudhvi Prasad Shanigala,DUMMY-PRG-037809,PRG-PS-294,Zilla Parishad High School 30,Pargi,2.24,False
+101292,pass101292,Praveen Mohan Nallamothu,DUMMY-PRG-106131,PRG-PS-296,MPUPS 30,Pargi,2.7,False
+101293,pass101293,Nagesh Chandra Nadimpalli,DUMMY-PRG-083034,PRG-PS-074,Zilla Parishad High School 8,Pargi,1.02,False
+101294,pass101294,Nithin Devi Bandi,DUMMY-PRG-063014,PRG-PS-184,Zilla Parishad High School 19,Pargi,2.82,False
+101295,pass101295,Gautam Srinivas Panchumarthi,DUMMY-PRG-074477,PRG-PS-057,Model School 6,Pargi,2.28,False
+101296,pass101296,Gautham Prasad Palle,DUMMY-PRG-103209,PRG-PS-119,Municipal School 12,Pargi,1.02,False
+101297,pass101297,Aditya Venkata Yerram,DUMMY-PRG-107134,PRG-PS-079,Municipal School 8,Pargi,1.9,False
+101298,pass101298,Harsha Chandra Chaganti,DUMMY-PRG-007065,PRG-PS-050,District Parishad School 5,Pargi,1.63,False
+101299,pass101299,Indu Cherukuri,DUMMY-PRG-008954,PRG-PS-109,Municipal School 11,Pargi,1.33,False
+101300,pass101300,Dheeraj Narayana Somanchi,DUMMY-PRG-121184,PRG-PS-099,Municipal School 10,Pargi,2.62,False
+101301,pass101301,Bala Rao Rangineni,DUMMY-PRG-097143,PRG-PS-153,Government Girls High School 16,Pargi,2.01,False
+101302,pass101302,Mohanrao Srinivas Singireddy,DUMMY-PRG-076935,PRG-PS-075,MPPS 8,Pargi,2.62,False
+101303,pass101303,Arjun Kiran Yarlagadda,DUMMY-PRG-062313,PRG-PS-093,Government Girls High School 10,Pargi,2.31,False
+101304,pass101304,Dheeraj Chandra Pakala,DUMMY-PRG-113874,PRG-PS-109,Municipal School 11,Pargi,2.84,False
+101305,pass101305,Manohar Devi Linga,DUMMY-PRG-043239,PRG-PS-234,Zilla Parishad High School 24,Pargi,2.39,False
+101306,pass101306,Balaji Srinivas Paturi,DUMMY-PRG-020295,PRG-PS-165,MPPS 17,Pargi,2.48,False
+101307,pass101307,Jai Narayana Vadde,DUMMY-PRG-113585,PRG-PS-125,MPPS 13,Pargi,1.61,False
+101308,pass101308,Madhav Sri Challa,DUMMY-PRG-012483,PRG-PS-283,Government Girls High School 29,Pargi,1.94,False
+101309,pass101309,Koushik Krishna Challa,DUMMY-PRG-126826,PRG-PS-251,Govt Primary School 26,Pargi,2.63,False
+101310,pass101310,Anji Narayana Kothuri,DUMMY-PRG-018036,PRG-PS-041,Govt Primary School 5,Pargi,2.61,False
+101311,pass101311,Ravindra Yerra,DUMMY-PRG-055184,PRG-PS-284,Zilla Parishad High School 29,Pargi,1.69,False
+101312,pass101312,Bala Mohan Jonnalagadda,DUMMY-PRG-082626,PRG-PS-276,MPUPS 28,Pargi,1.12,False
+101313,pass101313,Koushik Narayana Somisetty,DUMMY-PRG-008852,PRG-PS-007,Model School 1,Pargi,1.37,False
+101314,pass101314,Manish Kumar Reddam,DUMMY-PRG-017319,PRG-PS-239,Municipal School 24,Pargi,1.27,False
+101315,pass101315,Chetan Prasad Madireddy,DUMMY-PRG-119209,PRG-PS-259,Municipal School 26,Pargi,2.72,False
+101316,pass101316,Mohan Rani Satyanarayana,DUMMY-PRG-036279,PRG-PS-289,Municipal School 29,Pargi,1.0,False
+101317,pass101317,Hemanth Devi Kakarla,DUMMY-PRG-077647,PRG-PS-177,Model School 18,Pargi,2.75,False
+101318,pass101318,Lokesh Prasad Gurrapu,DUMMY-PRG-114627,PRG-PS-252,Govt High School 26,Pargi,1.76,False
+101319,pass101319,Sandeep Yalavarthi,DUMMY-PRG-099919,PRG-PS-184,Zilla Parishad High School 19,Pargi,1.01,False
+101320,pass101320,Pooja Patibandla,DUMMY-PRG-112034,PRG-PS-099,Municipal School 10,Pargi,1.82,False
+101321,pass101321,Harsha Madduri,DUMMY-PRG-127865,PRG-PS-070,District Parishad School 7,Pargi,2.39,False
+101322,pass101322,Aarav Krishna Ediga,DUMMY-PRG-109231,PRG-PS-041,Govt Primary School 5,Pargi,1.38,False
+101323,pass101323,Kiran Chandra Jampala,DUMMY-PRG-061729,PRG-PS-119,Municipal School 12,Pargi,2.21,False
+101324,pass101324,Ravi Kumar Vasireddy,DUMMY-PRG-118431,PRG-PS-091,Govt Primary School 10,Pargi,1.04,False
+101325,pass101325,Hemanth Krishna Chintada,DUMMY-PRG-114993,PRG-PS-008,Government Junior College 1,Pargi,2.26,False
+101326,pass101326,Hemanth Babu Kaza,DUMMY-PRG-034807,PRG-PS-037,Model School 4,Pargi,2.41,False
+101327,pass101327,Akhil Narayana Nadimpalli,DUMMY-PRG-002376,PRG-PS-241,Govt Primary School 25,Pargi,2.15,False
+101328,pass101328,Koushik Lakshmi Paturi,DUMMY-PRG-107552,PRG-PS-192,Govt High School 20,Pargi,2.53,False
+101329,pass101329,Rajani Korrapati,DUMMY-PRG-115013,PRG-PS-028,Government Junior College 3,Pargi,2.21,False
+101330,pass101330,Rajesh Babu Yarlagadda,DUMMY-PRG-008326,PRG-PS-091,Govt Primary School 10,Pargi,1.48,False
+101331,pass101331,Charan Kiran Madireddy,DUMMY-PRG-099157,PRG-PS-032,Govt High School 4,Pargi,2.42,False
+101332,pass101332,Girish Sri Gandluri,DUMMY-PRG-110713,PRG-PS-303,Government Girls High School 31,Pargi,1.92,False
+101333,pass101333,Govind Venkata Kasukurthi,DUMMY-PRG-006749,PRG-PS-039,Municipal School 4,Pargi,1.5,False
+101334,pass101334,Arjun Raju Gali,DUMMY-PRG-037816,PRG-PS-301,Govt Primary School 31,Pargi,1.81,False
+101335,pass101335,Mohanrao Rani Yadlapalli,DUMMY-PRG-090274,PRG-PS-299,Municipal School 30,Pargi,1.17,False
+101336,pass101336,Indira Ponnam,DUMMY-PRG-066161,PRG-PS-281,Govt Primary School 29,Pargi,1.55,False
+101337,pass101337,Archana Setty,DUMMY-PRG-054886,PRG-PS-291,Govt Primary School 30,Pargi,1.98,False
+101338,pass101338,Mohanrao Venkata Yalavarthi,DUMMY-PRG-030903,PRG-PS-098,Government Junior College 10,Pargi,2.29,False
+101339,pass101339,Aarav Srinivas Daram,DUMMY-PRG-015395,PRG-PS-145,MPPS 15,Pargi,2.98,False
+101340,pass101340,Kiran Srinivas Chintala,DUMMY-PRG-054729,PRG-PS-134,Zilla Parishad High School 14,Pargi,1.66,False
+101341,pass101341,Jagadeesh Kiran Shetty,DUMMY-PRG-014748,PRG-PS-108,Government Junior College 11,Pargi,2.5,False
+101342,pass101342,Lakshman Kasukurthi,DUMMY-PRG-018832,PRG-PS-227,Model School 23,Pargi,1.41,False
+101343,pass101343,Rahul Mohan Vemuri,DUMMY-PRG-060506,PRG-PS-116,MPUPS 12,Pargi,2.14,False
+101344,pass101344,Jai Teja Muppidi,DUMMY-PRG-063521,PRG-PS-081,Govt Primary School 9,Pargi,4.29,False
+101345,pass101345,Pranav Kiran Kumar,DUMMY-PRG-002133,PRG-PS-303,Government Girls High School 31,Pargi,1.95,False
+101346,pass101346,Ajay Teja Jasti,DUMMY-PRG-062368,PRG-PS-148,Government Junior College 15,Pargi,1.36,False
+101347,pass101347,Harsha Srinivas Satyanarayana,DUMMY-PRG-023871,PRG-PS-081,Govt Primary School 9,Pargi,2.92,False
+101348,pass101348,Chetan Chandra Polisetty,DUMMY-PRG-073256,PRG-PS-056,MPUPS 6,Pargi,1.06,False
+101349,pass101349,Praveen Raju Jasti,DUMMY-PRG-056421,PRG-PS-301,Govt Primary School 31,Pargi,1.74,False
+101350,pass101350,Jai Lakshmi Shanigala,DUMMY-PRG-127099,PRG-PS-219,Municipal School 22,Pargi,1.3,False
+101351,pass101351,Ajay Raju Rao,DUMMY-PRG-074476,PRG-PS-056,MPUPS 6,Pargi,2.61,False
+101352,pass101352,Himanshu Rani Doma,DUMMY-PRG-058122,PRG-PS-172,Govt High School 18,Pargi,2.87,False
+101353,pass101353,Manohar Teja Vedula,DUMMY-PRG-095273,PRG-PS-113,Government Girls High School 12,Pargi,2.14,False
+101354,pass101354,Ramesh Teja Kasukurthi,DUMMY-PRG-013244,PRG-PS-129,Municipal School 13,Pargi,2.85,False
+101355,pass101355,Koushik Sri Yadav,DUMMY-PRG-064129,PRG-PS-079,Municipal School 8,Pargi,1.72,False
+101356,pass101356,Arjun Kumar Nandigam,DUMMY-PRG-118471,PRG-PS-131,Govt Primary School 14,Pargi,2.03,False
+101357,pass101357,Ashok Mohan Thummala,DUMMY-PRG-108763,PRG-PS-183,Government Girls High School 19,Pargi,1.66,False
+101358,pass101358,Raj Sri Polam,DUMMY-PRG-013255,PRG-PS-140,District Parishad School 14,Pargi,2.26,False
+101359,pass101359,Nikhil Devi Kancharla,DUMMY-PRG-105223,PRG-PS-303,Government Girls High School 31,Pargi,1.6,False
+101360,pass101360,Abhinav Raju Yelamanchili,DUMMY-PRG-117167,PRG-PS-047,Model School 5,Pargi,1.3,False
+101361,pass101361,Anjan Saripalli,DUMMY-PRG-126812,PRG-PS-237,Model School 24,Pargi,1.07,False
+101362,pass101362,Hemanth Rao Vasireddy,DUMMY-PRG-005347,PRG-PS-162,Govt High School 17,Pargi,1.94,False
+101363,pass101363,Karthik Sri Vemula,DUMMY-PRG-094695,PRG-PS-145,MPPS 15,Pargi,2.95,False
+101364,pass101364,Sreenivas Parimi,DUMMY-PRG-123424,PRG-PS-204,Zilla Parishad High School 21,Pargi,1.66,False
+101365,pass101365,Govind Rani Tirumalasetti,DUMMY-PRG-097429,PRG-PS-134,Zilla Parishad High School 14,Pargi,1.74,False
+101366,pass101366,Pranav Lakshmi Pothula,DUMMY-PRG-017407,PRG-PS-022,Govt High School 3,Pargi,1.56,False
+101367,pass101367,Avinash Chandra Dandu,DUMMY-PRG-045867,PRG-PS-117,Model School 12,Pargi,1.91,False
+101368,pass101368,Chaitanya Mohan Jonnalagadda,DUMMY-PRG-076226,PRG-PS-281,Govt Primary School 29,Pargi,1.16,False
+101369,pass101369,Manoj Devi Kota,DUMMY-PRG-041741,PRG-PS-261,Govt Primary School 27,Pargi,2.16,False
+101370,pass101370,Prudhvi Raghavendra,DUMMY-PRG-067023,PRG-PS-228,Government Junior College 23,Pargi,1.66,False
+101371,pass101371,Kiran Malla,DUMMY-PRG-093560,PRG-PS-230,District Parishad School 23,Pargi,1.46,False
+101372,pass101372,Shilpa Duvvuri,DUMMY-PRG-109852,PRG-PS-052,Govt High School 6,Pargi,4.51,False
+101373,pass101373,Jai Teja Golla,DUMMY-PRG-101620,PRG-PS-055,MPPS 6,Pargi,1.9,False
+101374,pass101374,Naveen Sri Shetty,DUMMY-PRG-068855,PRG-PS-230,District Parishad School 23,Pargi,1.53,False
+101375,pass101375,Charan Chandra Vutla,DUMMY-PRG-035151,PRG-PS-076,MPUPS 8,Pargi,1.46,False
+101376,pass101376,Praveen Babu Gali,DUMMY-PRG-105178,PRG-PS-258,Government Junior College 26,Pargi,2.75,False
+101377,pass101377,Pranav Sri Rudra,DUMMY-PRG-017815,PRG-PS-125,MPPS 13,Pargi,1.79,False
+101378,pass101378,Ramesh Venkata Yelamanchili,DUMMY-PRG-071005,PRG-PS-245,MPPS 25,Pargi,1.69,False
+101379,pass101379,Nagesh Teja Kavuri,DUMMY-PRG-124674,PRG-PS-234,Zilla Parishad High School 24,Pargi,1.91,False
+101380,pass101380,Manish Teja Reddy,DUMMY-PRG-120500,PRG-PS-025,MPPS 3,Pargi,2.74,False
+101381,pass101381,Kishore Venkata Marrapu,DUMMY-PRG-091378,PRG-PS-183,Government Girls High School 19,Pargi,2.47,False
+101382,pass101382,Prakash Sri Munagala,DUMMY-PRG-094463,PRG-PS-218,Government Junior College 22,Pargi,1.94,False
+101383,pass101383,Praveen Rani Puli,DUMMY-PRG-049313,PRG-PS-208,Government Junior College 21,Pargi,2.38,False
+101384,pass101384,Aditya Chandra Pusapati,DUMMY-PRG-076984,PRG-PS-124,Zilla Parishad High School 13,Pargi,2.55,False
+101385,pass101385,Koushik Prasad Emani,DUMMY-PRG-043434,PRG-PS-124,Zilla Parishad High School 13,Pargi,3.0,False
+101386,pass101386,Ravi Teja Rao,DUMMY-PRG-097371,PRG-PS-076,MPUPS 8,Pargi,1.39,False
+101387,pass101387,Ravi Mohan Rangineni,DUMMY-PRG-033921,PRG-PS-066,MPUPS 7,Pargi,1.14,False
+101388,pass101388,Harsha Lakshmi Thota,DUMMY-PRG-000805,PRG-PS-195,MPPS 20,Pargi,2.85,False
+101389,pass101389,Hemanth Babu Naidu,DUMMY-PRG-062272,PRG-PS-052,Govt High School 6,Pargi,1.26,False
+101390,pass101390,Karthik Srinivas Boddu,DUMMY-PRG-113877,PRG-PS-112,Govt High School 12,Pargi,2.56,False
+101391,pass101391,Gautham Pamulaparthi,DUMMY-PRG-071441,PRG-PS-071,Govt Primary School 8,Pargi,2.69,False
+101392,pass101392,Aarav Lakshmi Paturi,DUMMY-PRG-090863,PRG-PS-278,Government Junior College 28,Pargi,1.99,False
+101393,pass101393,Nagesh Narayana Kumar,DUMMY-PRG-077495,PRG-PS-025,MPPS 3,Pargi,1.31,False
+101394,pass101394,Charan Rani Polisetty,DUMMY-PRG-093018,PRG-PS-298,Government Junior College 30,Pargi,1.19,False
+101395,pass101395,Ravi Mohan Challa,DUMMY-PRG-107524,PRG-PS-164,Zilla Parishad High School 17,Pargi,2.19,False
+101396,pass101396,Arun Chowdary,DUMMY-PRG-002098,PRG-PS-268,Government Junior College 27,Pargi,2.36,False
+101397,pass101397,Charan Kiran Vutla,DUMMY-PRG-008602,PRG-PS-062,Govt High School 7,Pargi,4.71,False
+101398,pass101398,Anirudh Mohan Koppula,DUMMY-PRG-084505,PRG-PS-020,District Parishad School 2,Pargi,2.51,False
+101399,pass101399,Jai Kumar Sharma,DUMMY-PRG-123099,PRG-PS-184,Zilla Parishad High School 19,Pargi,2.4,False
+101400,pass101400,Nagesh Devi Vutla,DUMMY-PRG-038531,PRG-PS-101,Govt Primary School 11,Pargi,1.24,False
+101401,pass101401,Ramesh Babu Bandari,DUMMY-PRG-093004,PRG-PS-284,Zilla Parishad High School 29,Pargi,1.9,False
+101402,pass101402,Nikhil Chandra Ravindranath,DUMMY-PRG-019649,PRG-PS-129,Municipal School 13,Pargi,1.12,False
+101403,pass101403,Bharath Kiran Karra,DUMMY-PRG-042410,PRG-PS-015,MPPS 2,Pargi,2.93,False
+101404,pass101404,Siddharth Vutla,DUMMY-PRG-022528,PRG-PS-263,Government Girls High School 27,Pargi,2.33,False
+101405,pass101405,Shyam Rangineni,DUMMY-PRG-068825,PRG-PS-200,District Parishad School 20,Pargi,2.53,False
+101406,pass101406,Praveen Babu Kothuri,DUMMY-PRG-030350,PRG-PS-155,MPPS 16,Pargi,1.85,False
+101407,pass101407,Balaji Chandra Deshmukh,DUMMY-PRG-029355,PRG-PS-075,MPPS 8,Pargi,1.97,False
+101408,pass101408,Nagesh Vutla,DUMMY-PRG-083788,PRG-PS-218,Government Junior College 22,Pargi,2.95,False
+101409,pass101409,Nagesh Venkata Polisetty,DUMMY-PRG-097284,PRG-PS-294,Zilla Parishad High School 30,Pargi,2.7,False
+101410,pass101410,Anji Lakshmi Golla,DUMMY-PRG-030555,PRG-PS-055,MPPS 6,Pargi,2.51,False
+101411,pass101411,Manoj Raju Kumar,DUMMY-PRG-002503,PRG-PS-063,Government Girls High School 7,Pargi,1.08,False
+101412,pass101412,Rajesh Chandra Koppula,DUMMY-PRG-073266,PRG-PS-066,MPUPS 7,Pargi,1.39,False
+101413,pass101413,Nikhil Narayana Kumar,DUMMY-PRG-078464,PRG-PS-079,Municipal School 8,Pargi,2.91,False
+101414,pass101414,Krishna Prasad Maddirala,DUMMY-PRG-115353,PRG-PS-063,Government Girls High School 7,Pargi,2.86,False
+101415,pass101415,Anji Teja Modukuri,DUMMY-PRG-089398,PRG-PS-033,Government Girls High School 4,Pargi,1.07,False
+101416,pass101416,Ravindra Kumar Kakarla,DUMMY-PRG-088241,PRG-PS-096,MPUPS 10,Pargi,4.79,False
+101417,pass101417,Ravi Devi Doma,DUMMY-PRG-002030,PRG-PS-200,District Parishad School 20,Pargi,2.0,False
+101418,pass101418,Kishore Teja Vemuri,DUMMY-PRG-097918,PRG-PS-013,Government Girls High School 2,Pargi,2.63,False
+101419,pass101419,Jai Krishna Maddirala,DUMMY-PRG-053811,PRG-PS-131,Govt Primary School 14,Pargi,1.36,False
+101420,pass101420,Rakesh Babu Challa,DUMMY-PRG-039623,PRG-PS-278,Government Junior College 28,Pargi,1.73,False
+101421,pass101421,Rahul Teja Marri,DUMMY-PRG-083271,PRG-PS-006,MPUPS 1,Pargi,1.46,False
+101422,pass101422,Manoj Lakshmi Lakkam,DUMMY-PRG-100363,PRG-PS-018,Government Junior College 2,Pargi,1.41,False
+101423,pass101423,Anand Chandra Yadav,DUMMY-PRG-110701,PRG-PS-291,Govt Primary School 30,Pargi,2.24,False
+101424,pass101424,Raj Teja Vemuri,DUMMY-PRG-118906,PRG-PS-261,Govt Primary School 27,Pargi,2.5,False
+101425,pass101425,Jai Krishna Yerra,DUMMY-PRG-049198,PRG-PS-093,Government Girls High School 10,Pargi,1.66,False
+101426,pass101426,Bhuvan Chandra Bandi,DUMMY-PRG-022462,PRG-PS-197,Model School 20,Pargi,2.16,False
+101427,pass101427,Madhav Teja Anumolu,DUMMY-PRG-112127,PRG-PS-192,Govt High School 20,Pargi,1.87,False
+101428,pass101428,Manish Devi Kasukurthi,DUMMY-PRG-078073,PRG-PS-298,Government Junior College 30,Pargi,2.4,False
+101429,pass101429,Navya Muddasani,DUMMY-PRG-081431,PRG-PS-301,Govt Primary School 31,Pargi,2.26,False
+101430,pass101430,Jagan Prasad Kandukuri,DUMMY-PRG-000647,PRG-PS-037,Model School 4,Pargi,2.22,False
+101431,pass101431,Manish Kumar Kothuri,DUMMY-PRG-073218,PRG-PS-018,Government Junior College 2,Pargi,2.68,False
+101432,pass101432,Rakesh Nadella,DUMMY-PRG-012663,PRG-PS-158,Government Junior College 16,Pargi,2.66,False
+101433,pass101433,Aditya Narayana Gattu,DUMMY-PRG-021241,PRG-PS-196,MPUPS 20,Pargi,2.47,False
+101434,pass101434,Naresh Kumar Nimmala,DUMMY-PRG-035262,PRG-PS-187,Model School 19,Pargi,2.41,False
+101435,pass101435,Siva Malla,DUMMY-PRG-005287,PRG-PS-102,Govt High School 11,Pargi,1.93,False
+101436,pass101436,Bhaskar Chandra Nimmala,DUMMY-PRG-081593,PRG-PS-158,Government Junior College 16,Pargi,4.42,False
+101437,pass101437,Durga Kiran Ravipati,DUMMY-PRG-058263,PRG-PS-008,Government Junior College 1,Pargi,1.68,False
+101438,pass101438,Kishore Prasad Jampala,DUMMY-PRG-046489,PRG-PS-129,Municipal School 13,Pargi,1.23,False
+101439,pass101439,Ravi Mohan Kothuri,DUMMY-PRG-041343,PRG-PS-168,Government Junior College 17,Pargi,1.66,False
+101440,pass101440,Bala Mohan Shanigala,DUMMY-PRG-072092,PRG-PS-112,Govt High School 12,Pargi,1.75,False
+101441,pass101441,Manasa Reddy,DUMMY-PRG-049978,PRG-PS-263,Government Girls High School 27,Pargi,3.0,False
+101442,pass101442,Lakshman Rao Modukuri,DUMMY-PRG-032043,PRG-PS-018,Government Junior College 2,Pargi,1.21,False
+101443,pass101443,Rakesh Rao Mamidala,DUMMY-PRG-042466,PRG-PS-071,Govt Primary School 8,Pargi,2.65,False
+101444,pass101444,Aditya Devi Narla,DUMMY-PRG-024698,PRG-PS-298,Government Junior College 30,Pargi,2.3,False
+101445,pass101445,Mohanrao Devi Narapati,DUMMY-PRG-083273,PRG-PS-008,Government Junior College 1,Pargi,2.47,False
+101446,pass101446,Dhanush Kiran Gaddam,DUMMY-PRG-105885,PRG-PS-050,District Parishad School 5,Pargi,2.87,False
+101447,pass101447,Chaitanya Krishna Kandukuri,DUMMY-PRG-080439,PRG-PS-224,Zilla Parishad High School 23,Pargi,2.33,False
+101448,pass101448,Indira Peddireddy,DUMMY-PRG-106018,PRG-PS-183,Government Girls High School 19,Pargi,1.06,False
+101449,pass101449,Prakash Kiran Atluri,DUMMY-PRG-114133,PRG-PS-063,Government Girls High School 7,Pargi,2.97,False
+101450,pass101450,Gagan Rani Mareddy,DUMMY-PRG-099828,PRG-PS-093,Government Girls High School 10,Pargi,2.4,False
+101451,pass101451,Abhishek Munagala,DUMMY-PRG-086014,PRG-PS-004,Zilla Parishad High School 1,Pargi,1.89,False
+101452,pass101452,Praveen Srinivas Gorre,DUMMY-PRG-080762,PRG-PS-242,Govt High School 25,Pargi,2.41,False
+101453,pass101453,Uday Sarve,DUMMY-PRG-070494,PRG-PS-039,Municipal School 4,Pargi,2.98,False
+101454,pass101454,Anji Srinivas Marrapu,DUMMY-PRG-010138,PRG-PS-073,Government Girls High School 8,Pargi,2.84,False
+101455,pass101455,Ganesh Prasad Raparla,DUMMY-PRG-100252,PRG-PS-212,Govt High School 22,Pargi,2.85,False
+101456,pass101456,Hemanth Devi Kondapalli,DUMMY-PRG-039390,PRG-PS-045,MPPS 5,Pargi,2.73,False
+101457,pass101457,Himanshu Venkata Nadimpalli,DUMMY-PRG-042127,PRG-PS-037,Model School 4,Pargi,2.69,False
+101458,pass101458,Madhav Krishna Kosaraju,DUMMY-PRG-127393,PRG-PS-208,Government Junior College 21,Pargi,2.15,False
+101459,pass101459,Mohanrao Devi Mangalagiri,DUMMY-PRG-040305,PRG-PS-045,MPPS 5,Pargi,1.01,False
+101460,pass101460,Mohanrao Teja Samineni,DUMMY-PRG-107058,PRG-PS-003,Government Girls High School 1,Pargi,1.11,False
+101461,pass101461,Gautham Mohan Gandla,DUMMY-PRG-042305,PRG-PS-215,MPPS 22,Pargi,2.6,False
+101462,pass101462,Prudhvi Rao Marri,DUMMY-PRG-014844,PRG-PS-204,Zilla Parishad High School 21,Pargi,1.87,False
+101463,pass101463,Arun Rani Anumolu,DUMMY-PRG-062275,PRG-PS-055,MPPS 6,Pargi,2.96,False
+101464,pass101464,Akhil Mohan Vangala,DUMMY-PRG-104478,PRG-PS-168,Government Junior College 17,Pargi,1.06,False
+101465,pass101465,Manohar Srinivas Peddireddy,DUMMY-PRG-036299,PRG-PS-004,Zilla Parishad High School 1,Pargi,2.04,False
+101466,pass101466,Prudhvi Srinivas Raghavendra,DUMMY-PRG-060989,PRG-PS-294,Zilla Parishad High School 30,Pargi,1.88,False
+101467,pass101467,Manoj Venkata Gurram,DUMMY-PRG-106374,PRG-PS-234,Zilla Parishad High School 24,Pargi,1.02,False
+101468,pass101468,Padma Gandluri,DUMMY-PRG-037504,PRG-PS-294,Zilla Parishad High School 30,Pargi,1.0,False
+101469,pass101469,Ajay Rani Tummala,DUMMY-PRG-081088,PRG-PS-263,Government Girls High School 27,Pargi,1.96,False
+101470,pass101470,Jagadeesh Sri Shetty,DUMMY-PRG-121176,PRG-PS-091,Govt Primary School 10,Pargi,2.81,False
+101471,pass101471,Jagan Palle,DUMMY-PRG-122774,PRG-PS-164,Zilla Parishad High School 17,Pargi,2.25,False
+101472,pass101472,Gagan Yalamanchili,DUMMY-PRG-054784,PRG-PS-189,Municipal School 19,Pargi,2.88,False
+101473,pass101473,Naresh Babu Boddu,DUMMY-PRG-022765,PRG-PS-195,MPPS 20,Pargi,1.43,False
+101474,pass101474,Chaitanya Krishna Rao,DUMMY-PRG-095802,PRG-PS-032,Govt High School 4,Pargi,2.54,False
+101475,pass101475,Krishna Chandra Pusapati,DUMMY-PRG-019377,PRG-PS-162,Govt High School 17,Pargi,2.21,False
+101476,pass101476,Himanshu Kiran Kakani,DUMMY-PRG-006053,PRG-PS-258,Government Junior College 26,Pargi,1.6,False
+101477,pass101477,Mohanrao Raju Raghavendra,DUMMY-PRG-037241,PRG-PS-031,Govt Primary School 4,Pargi,1.67,False
+101478,pass101478,Manoj Srinivas Kadiyala,DUMMY-PRG-041085,PRG-PS-215,MPPS 22,Pargi,2.88,False
+101479,pass101479,Ravi Teja Kakani,DUMMY-PRG-099191,PRG-PS-066,MPUPS 7,Pargi,2.16,False
+101480,pass101480,Madhav Teja Kondapalli,DUMMY-PRG-030940,PRG-PS-135,MPPS 14,Pargi,2.95,False
+101481,pass101481,Prakash Prasad Pothula,DUMMY-PRG-052522,PRG-PS-062,Govt High School 7,Pargi,2.13,False
+101482,pass101482,Kanchana Deshmukh,DUMMY-PRG-065753,PRG-PS-178,Government Junior College 18,Pargi,1.76,False
+101483,pass101483,Aarav Setty,DUMMY-PRG-041493,PRG-PS-013,Government Girls High School 2,Pargi,2.28,False
+101484,pass101484,Bhanu Lakshmi Siddula,DUMMY-PRG-117354,PRG-PS-234,Zilla Parishad High School 24,Pargi,1.09,False
+101485,pass101485,Mohanrao Venkata Kandukuri,DUMMY-PRG-066526,PRG-PS-036,MPUPS 4,Pargi,1.63,False
+101486,pass101486,Amar Rani Yarlagadda,DUMMY-PRG-116854,PRG-PS-039,Municipal School 4,Pargi,1.61,False
+101487,pass101487,Gagan Babu Shankar,DUMMY-PRG-075204,PRG-PS-174,Zilla Parishad High School 18,Pargi,2.34,False
+101488,pass101488,Kalyani Nadella,DUMMY-PRG-118097,PRG-PS-062,Govt High School 7,Pargi,1.72,False
+101489,pass101489,Bhanu Babu Kadiyala,DUMMY-PRG-112266,PRG-PS-026,MPUPS 3,Pargi,2.43,False
+101490,pass101490,Mohanrao Babu Rao,DUMMY-PRG-019733,PRG-PS-213,Government Girls High School 22,Pargi,1.52,False
+101491,pass101491,Prudhvi Raju Taduri,DUMMY-PRG-094346,PRG-PS-101,Govt Primary School 11,Pargi,2.23,False
+101492,pass101492,Naveen Mohan Mangalagiri,DUMMY-PRG-089912,PRG-PS-242,Govt High School 25,Pargi,2.4,False
+101493,pass101493,Naresh Sri Konda,DUMMY-PRG-091391,PRG-PS-196,MPUPS 20,Pargi,2.46,False
+101494,pass101494,Lokesh Kiran Mothe,DUMMY-PRG-062415,PRG-PS-195,MPPS 20,Pargi,2.1,False
+101495,pass101495,Ankitha Anumolu,DUMMY-PRG-043338,PRG-PS-028,Government Junior College 3,Pargi,1.65,False
+101496,pass101496,Kavya Challa,DUMMY-PRG-044162,PRG-PS-242,Govt High School 25,Pargi,1.15,False
+101497,pass101497,Mahesh Rao Talasila,DUMMY-PRG-010475,PRG-PS-105,MPPS 11,Pargi,1.11,False
+101498,pass101498,Aditya Babu Marrapu,DUMMY-PRG-065468,PRG-PS-198,Government Junior College 20,Pargi,1.97,False
+101499,pass101499,Harish Venkata Boddu,DUMMY-PRG-008351,PRG-PS-116,MPUPS 12,Pargi,2.74,False
+101500,pass101500,Ravindra Devi Koppula,DUMMY-PRG-031570,PRG-PS-155,MPPS 16,Pargi,1.13,False
+101501,pass101501,Avinash Mohan Naidu,DUMMY-PRG-052672,PRG-PS-212,Govt High School 22,Pargi,1.78,False
+101502,pass101502,Manohar Mohan Setty,DUMMY-PRG-003996,PRG-PS-031,Govt Primary School 4,Pargi,1.77,False
+101503,pass101503,Bala Talluri,DUMMY-PRG-068691,PRG-PS-066,MPUPS 7,Pargi,1.66,False
+101504,pass101504,Ajay Prasad Thota,DUMMY-PRG-053796,PRG-PS-116,MPUPS 12,Pargi,4.99,False
+101505,pass101505,Nanda Mohan Sharma,DUMMY-PRG-059662,PRG-PS-187,Model School 19,Pargi,2.08,False
+101506,pass101506,Aarav Rao Setty,DUMMY-PRG-006330,PRG-PS-230,District Parishad School 23,Pargi,1.11,False
+101507,pass101507,Mohan Raju Durgam,DUMMY-PRG-118265,PRG-PS-230,District Parishad School 23,Pargi,1.49,False
+101508,pass101508,Pavan Chandra Tadiparthi,DUMMY-PRG-044082,PRG-PS-162,Govt High School 17,Pargi,2.66,False
+101509,pass101509,Anil Rani Kancharla,DUMMY-PRG-044597,PRG-PS-067,Model School 7,Pargi,1.49,False
+101510,pass101510,Govind Kiran Polisetty,DUMMY-PRG-030125,PRG-PS-235,MPPS 24,Pargi,2.49,False
+101511,pass101511,Ravi Kumar Varanasi,DUMMY-PRG-006925,PRG-PS-215,MPPS 22,Pargi,2.56,False
+101512,pass101512,Bhanu Venkata Pasupuleti,DUMMY-PRG-007028,PRG-PS-013,Government Girls High School 2,Pargi,2.37,False
+101513,pass101513,Mahesh Mohan Penumudi,DUMMY-PRG-031141,PRG-PS-031,Govt Primary School 4,Pargi,2.93,False
+101514,pass101514,Arun Teja Ravindranath,DUMMY-PRG-036014,PRG-PS-024,Zilla Parishad High School 3,Pargi,2.25,False
+101515,pass101515,Manish Chandra Rao,DUMMY-PRG-084697,PRG-PS-212,Govt High School 22,Pargi,4.33,False
+101516,pass101516,Bhuvan Kiran Kancharla,DUMMY-PRG-001551,PRG-PS-026,MPUPS 3,Pargi,1.17,False
+101517,pass101517,Hemanth Chandra Munagala,DUMMY-PRG-077158,PRG-PS-298,Government Junior College 30,Pargi,1.87,False
+101518,pass101518,Bala Kiran Gandluri,DUMMY-PRG-116503,PRG-PS-298,Government Junior College 30,Pargi,1.06,False
+101519,pass101519,Lakshman Mohan Naidu,DUMMY-PRG-084206,PRG-PS-026,MPUPS 3,Pargi,2.86,False
+101520,pass101520,Ashok Rao Cherukuri,DUMMY-PRG-004904,PRG-PS-024,Zilla Parishad High School 3,Pargi,2.93,False
+101521,pass101521,Prakash Srinivas Mallela,DUMMY-PRG-028127,PRG-PS-067,Model School 7,Pargi,2.12,False
+101522,pass101522,Anusha Somanchi,DUMMY-PRG-057364,PRG-PS-024,Zilla Parishad High School 3,Pargi,1.66,False
+101523,pass101523,Manish Teja Shankar,DUMMY-PRG-021539,PRG-PS-189,Municipal School 19,Pargi,2.77,False
+101524,pass101524,Vijaya Reddy,DUMMY-PRG-087724,PRG-PS-189,Municipal School 19,Pargi,1.48,False
+101525,pass101525,Manish Rani Bandi,DUMMY-PRG-037399,PRG-PS-189,Municipal School 19,Pargi,2.92,False

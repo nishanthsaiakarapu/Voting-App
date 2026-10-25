@@ -1,0 +1,672 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Ballot Station</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap');
+
+  :root {
+    --paper: #F1ECDE;
+    --paper-deep: #E7E0CC;
+    --ink: #1B2A4A;
+    --ink-soft: #3B4A6B;
+    --seal: #B23A2E;
+    --gold: #C08A2E;
+    --slate: #5B6472;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--paper); font-family: 'IBM Plex Sans', sans-serif; color: var(--ink); }
+  .fraunces { font-family: 'Fraunces', serif; }
+  .mono { font-family: 'IBM Plex Mono', monospace; }
+  .screen { display: none; min-height: 100vh; }
+  .screen.active { display: flex; flex-direction: column; }
+  button { font-family: inherit; cursor: pointer; }
+  button:focus-visible, input:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; }
+  input { font-family: inherit; }
+
+  /* Landing */
+  #landing .topbar { display: flex; justify-content: space-between; align-items: center; padding: 24px 40px; }
+  #landing .brand { display: flex; align-items: center; gap: 8px; font-weight: 600; font-size: 18px; }
+  #landing .hw-status { display: flex; align-items: center; gap: 8px; font-size: 12px; color: var(--slate); }
+  .dot { width: 8px; height: 8px; border-radius: 999px; background: var(--seal); display: inline-block; }
+  #landing .hero { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 0 24px; }
+  #landing .eyebrow { letter-spacing: 3px; font-size: 12px; color: var(--gold); margin-bottom: 14px; }
+  #landing h1 { font-size: clamp(34px,7vw,60px); font-weight: 600; line-height: 1.05; max-width: 780px; margin: 0; }
+  #landing p.sub { color: var(--ink-soft); max-width: 520px; margin-top: 18px; font-size: 16px; line-height: 1.6; }
+  .cta-grid { display: grid; grid-template-columns: 1fr; gap: 16px; padding: 0 24px 40px; max-width: 720px; margin: 0 auto; width: 100%; }
+  @media (min-width: 640px) { .cta-grid { grid-template-columns: 1fr 1fr; } }
+  .cta-card { border-radius: 16px; padding: 26px 24px; text-align: left; border: none; }
+  .cta-card.primary { background: var(--ink); color: var(--paper); }
+  .cta-card.secondary { background: transparent; color: var(--ink); border: 2px solid var(--ink); }
+  .cta-card .title { font-size: 22px; font-weight: 600; margin-top: 12px; }
+  .cta-card .desc { font-size: 13px; opacity: .75; margin-top: 4px; }
+
+  /* Login */
+  .center-wrap { min-height: 100vh; display: flex; align-items: center; justify-content: center; padding: 24px; }
+  .card { background: #fff; border-radius: 18px; padding: 40px 34px; width: 100%; max-width: 400px; border: 1px solid var(--paper-deep); }
+  .card h2 { font-size: 26px; font-weight: 600; margin: 10px 0 0; }
+  .card p.sub { color: var(--slate); font-size: 14px; margin-top: 6px; line-height: 1.5; }
+  .field-label { display: block; margin-top: 22px; font-size: 12px; color: var(--slate); font-weight: 600; letter-spacing: .5px; }
+  .field-input { width: 100%; margin-top: 6px; padding: 12px 14px; border-radius: 10px; border: 1.5px solid var(--paper-deep); font-size: 15px; }
+  .error-line { display: flex; align-items: center; gap: 8px; margin-top: 14px; color: var(--seal); font-size: 13px; }
+  .btn-primary { width: 100%; margin-top: 22px; background: var(--ink); color: var(--paper); border: none; border-radius: 10px; padding: 13px 0; font-weight: 600; font-size: 15px; }
+  .btn-ghost { width: 100%; margin-top: 10px; background: transparent; color: var(--slate); border: none; padding: 8px 0; font-size: 13px; }
+  .hint-box { margin-top: 18px; font-size: 11px; color: var(--slate); background: var(--paper); border-radius: 8px; padding: 8px 10px; }
+
+  /* Voter status screen */
+  #voterStatus .wrap { width: 100%; max-width: 800px; margin: 0 auto; padding: 40px 24px; }
+  #voterStatus .topline { display: flex; justify-content: space-between; align-items: center; }
+  #voterStatus .exit-btn { display: flex; align-items: center; gap: 6px; background: none; border: none; color: var(--slate); font-size: 13px; }
+  .status-card { margin-top: 26px; background: #fff; border-radius: 18px; padding: 32px 28px; text-align: center; border: 1px solid var(--paper-deep); }
+  .status-icon { font-size: 34px; }
+  .status-title { font-size: 22px; font-weight: 600; margin-top: 12px; }
+  .status-sub { font-size: 13px; color: var(--slate); margin-top: 4px; }
+  .status-card.voted { border-color: var(--gold); }
+  .status-card.not-voted { border-color: var(--paper-deep); }
+  .turnout-line { margin-top: 20px; background: var(--paper); border-radius: 12px; padding: 16px; display: flex; justify-content: space-between; align-items: center; }
+  .turnout-line .label { font-size: 13px; color: var(--slate); }
+  .turnout-line .value { font-size: 18px; font-weight: 600; }
+
+  /* Map container */
+  #mapContainer { 
+    margin-top: 20px; 
+    border-radius: 12px; 
+    overflow: hidden; 
+    height: 350px;
+    border: 2px solid var(--gold);
+  }
+  #mapContainer iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
+
+  /* Directions button */
+  .directions-btn {
+    margin-top: 12px;
+    padding: 12px 24px;
+    background: var(--gold);
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    width: 100%;
+    transition: background 0.3s;
+  }
+  .directions-btn:hover {
+    background: #a07525;
+  }
+  .directions-btn:disabled {
+    background: #888;
+    cursor: not-allowed;
+  }
+
+  /* Admin */
+  #admin { padding: 32px 24px; }
+  @media (min-width: 640px) { #admin { padding: 32px 40px; } }
+  #admin .topbar { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; }
+  #admin .brand { display: flex; align-items: center; gap: 8px; font-size: 20px; font-weight: 600; }
+  #admin .actions { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+  .btn-chip { display: flex; align-items: center; gap: 6px; background: #fff; border: 1.5px solid var(--paper-deep); border-radius: 10px; padding: 9px 14px; font-size: 13px; }
+  .btn-chip.danger { border-color: var(--seal); color: var(--seal); }
+  .btn-chip.success { border-color: var(--gold); color: var(--gold); }
+  .btn-plain { display: flex; align-items: center; gap: 6px; background: none; border: none; color: var(--slate); font-size: 13px; }
+  .stat-grid { display: grid; grid-template-columns: 1fr; gap: 16px; margin-top: 32px; }
+  @media (min-width: 640px) { .stat-grid { grid-template-columns: repeat(3,1fr); } }
+  .stat-card { background: #fff; border-radius: 16px; padding: 20px 22px; border: 1px solid var(--paper-deep); }
+  .stat-card .label { font-size: 12px; color: var(--slate); font-weight: 600; letter-spacing: .4px; }
+  .stat-card .value { font-size: 34px; font-weight: 600; margin-top: 6px; }
+  .dash-grid { display: grid; grid-template-columns: 1fr; gap: 24px; margin-top: 32px; }
+  @media (min-width: 1024px) { .dash-grid { grid-template-columns: 2fr 1fr; } }
+  .panel { background: #fff; border-radius: 16px; padding: 24px; border: 1px solid var(--paper-deep); }
+  .panel-title { font-size: 18px; font-weight: 600; margin-bottom: 16px; }
+  .bars { display: flex; align-items: flex-end; gap: 24px; height: 220px; padding: 0 10px; border-bottom: 1px solid var(--paper-deep); }
+  .bar-col { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: flex-end; height: 100%; }
+  .bar { width: 60%; border-radius: 6px 6px 0 0; transition: height .5s ease; min-height: 2px; }
+  .bar-count { font-size: 13px; font-weight: 600; margin-bottom: 6px; }
+  .bar-label { margin-top: 10px; font-size: 12px; color: var(--slate); text-align: center; }
+  .voter-row { display: flex; justify-content: space-between; align-items: center; padding: 9px 12px; border-radius: 8px; background: var(--paper); margin-bottom: 8px; }
+  .voter-row .vid { font-size: 13px; }
+  .voter-row .status { font-size: 12px; font-weight: 600; color: var(--slate); }
+  .voter-row .status.voted { color: var(--gold); }
+  .footnote { font-size: 11px; color: var(--slate); margin-top: 22px; }
+  
+  .toast {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: var(--ink);
+    color: var(--paper);
+    padding: 16px 32px;
+    border-radius: 12px;
+    font-weight: 500;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    display: none;
+    z-index: 1000;
+  }
+
+/* ===== Modern UI refresh ===== */
+.screen { background: radial-gradient(circle at 20% 10%, rgba(192,138,46,.10), transparent 32%), var(--paper); }
+#landing .topbar, #admin .topbar { padding: 24px 34px; }
+#landing .hero { max-width: 900px; padding-top: 8vh; }
+#landing .hero h1 { font-size: clamp(44px, 6vw, 76px); line-height: .98; letter-spacing: -1.5px; }
+#landing .hero .sub { max-width: 650px; font-size: 16px; line-height: 1.7; }
+.cta-grid { gap: 18px; max-width: 760px; }
+.cta-card { border: 1px solid rgba(27,42,74,.12); border-radius: 22px; padding: 28px; min-height: 150px; transition: transform .2s, box-shadow .2s; }
+.cta-card:hover { transform: translateY(-3px); box-shadow: 0 16px 35px rgba(27,42,74,.10); }
+.center-wrap { min-height: 100%; padding: 30px 20px; }
+.card { width: min(440px, 100%); padding: 38px; border-radius: 24px; border: 1px solid rgba(27,42,74,.10); box-shadow: 0 20px 55px rgba(27,42,74,.10); }
+.card h2 { font-size: 34px; margin: 10px 0 6px; }
+.card .sub { line-height: 1.55; }
+.field-input { border-radius: 12px; padding: 14px 15px; border: 1px solid rgba(27,42,74,.18); }
+.btn-primary { border-radius: 12px; padding: 14px; font-weight: 600; }
+.btn-ghost { border-radius: 12px; padding: 12px; }
+.hint-box { border-radius: 12px; }
+
+/* Floating Election Assistant */
+.bot-fab { display:none; position: fixed; right: 26px; bottom: 26px; width: 62px; height: 62px; border: 0; border-radius: 50%; background: var(--ink); color: white; box-shadow: 0 12px 30px rgba(27,42,74,.28); cursor: pointer; z-index: 900; font-size: 29px; transition: transform .2s, box-shadow .2s; }
+.bot-fab:hover { transform: translateY(-3px) scale(1.04); box-shadow: 0 16px 36px rgba(27,42,74,.34); }
+.bot-fab .bot-dot { position:absolute; right:3px; top:3px; width:12px; height:12px; border-radius:50%; background:#43A047; border:2px solid white; }
+.bot-overlay { position: fixed; inset: 0; background: rgba(15,25,42,.42); backdrop-filter: blur(3px); z-index: 1000; display:none; align-items: flex-end; justify-content:flex-end; padding: 24px; }
+.bot-overlay.open { display:flex; }
+.bot-panel { width:min(430px, 100%); height:min(650px, calc(100% - 20px)); background:var(--paper); border:1px solid rgba(27,42,74,.12); border-radius:24px; box-shadow:0 24px 70px rgba(0,0,0,.25); display:flex; flex-direction:column; overflow:hidden; }
+.bot-head { padding:20px; background:var(--ink); color:white; display:flex; align-items:center; justify-content:space-between; }
+.bot-brand { display:flex; align-items:center; gap:12px; }
+.bot-avatar { width:42px; height:42px; display:grid; place-items:center; border-radius:13px; background:rgba(255,255,255,.12); font-size:23px; }
+.bot-head h3 { margin:0; font-size:18px; }
+.bot-head p { margin:3px 0 0; font-size:11px; opacity:.72; }
+.bot-close { border:0; background:transparent; color:white; font-size:25px; cursor:pointer; width:42px; height:42px; border-radius:10px; }
+.bot-close:hover { background:rgba(255,255,255,.10); }
+.bot-messages { flex:1; overflow:auto; padding:20px; display:flex; flex-direction:column; gap:12px; }
+.bot-msg { max-width:82%; padding:12px 14px; border-radius:16px; font-size:14px; line-height:1.45; white-space:pre-wrap; }
+.bot-msg.assistant { align-self:flex-start; background:white; border:1px solid rgba(27,42,74,.09); border-bottom-left-radius:5px; }
+.bot-msg.user { align-self:flex-end; background:var(--ink); color:white; border-bottom-right-radius:5px; }
+.bot-suggestions { display:flex; flex-wrap:wrap; gap:7px; padding:0 20px 12px; }
+.bot-suggestion { border:1px solid rgba(27,42,74,.14); background:white; border-radius:999px; padding:8px 11px; cursor:pointer; font-size:11px; color:var(--ink); }
+.bot-input { padding:14px; border-top:1px solid rgba(27,42,74,.10); display:flex; gap:8px; background:rgba(255,255,255,.55); }
+.bot-input input { flex:1; min-width:0; border:1px solid rgba(27,42,74,.15); border-radius:12px; padding:12px; font-size:14px; outline:none; background:white; }
+.bot-input button { width:45px; border:0; border-radius:12px; background:var(--gold); color:white; font-size:19px; cursor:pointer; }
+.bot-input button:disabled { opacity:.5; cursor:wait; }
+@media (max-width:600px){ .bot-overlay{padding:10px;} .bot-panel{height:calc(100% - 10px); border-radius:20px;} .bot-fab{right:18px;bottom:18px;} .card{padding:28px 22px;} }
+
+</style>
+</head>
+<body>
+
+<div class="toast" id="toast"></div>
+
+<!-- LANDING -->
+<div class="screen active" id="landing">
+  <div class="topbar">
+    <div class="brand fraunces">🗳️ Ballot Station</div>
+    <div class="hw-status mono"><span class="dot"></span> ESP32 · standby</div>
+  </div>
+  <div class="hero">
+    <div class="eyebrow mono">STATUS VIEWER</div>
+    <h1 class="fraunces">Vote at the booth. Check it here.</h1>
+    <p class="sub">Voting happens on the physical keypad at the booth. This app just tells you whether your vote was recorded, and shows live turnout.</p>
+  </div>
+  <div class="cta-grid">
+    <button class="cta-card primary" onclick="showScreen('voterLogin')">
+      <div>👤</div>
+      <div class="title fraunces">Check my status</div>
+      <div class="desc">See if your vote was recorded.</div>
+    </button>
+    <button class="cta-card secondary" onclick="showScreen('adminLogin')">
+      <div>🛡️</div>
+      <div class="title fraunces">Election Officer</div>
+      <div class="desc">View live turnout and results.</div>
+    </button>
+  </div>
+</div>
+
+<!-- VOTER LOGIN -->
+<div class="screen" id="voterLogin">
+  <div class="center-wrap">
+    <form class="card" onsubmit="return handleVoterLogin(event)">
+      <div style="color:var(--gold)">👤</div>
+      <h2 class="fraunces">Voter Status</h2>
+      <p class="sub">Sign in to check whether your vote has been recorded.</p>
+      <label class="field-label">VOTER ID</label>
+      <input class="field-input mono" id="voterIdInput" placeholder="e.g. 101" autocomplete="off">
+      <label class="field-label">PASSWORD</label>
+      <input class="field-input mono" id="voterPwInput" type="password" placeholder="••••••••">
+      <div class="error-line" id="voterError" style="display:none">⚠️ <span></span></div>
+      <button type="submit" class="btn-primary">Sign in</button>
+      <button type="button" class="btn-ghost" onclick="showScreen('landing')">← Back</button>
+      <div class="hint-box mono">Demo IDs: 101 / pass101, 102 / pass102, 103 / pass103</div>
+    </form>
+  </div>
+</div>
+
+<!-- ADMIN LOGIN -->
+<div class="screen" id="adminLogin">
+  <div class="center-wrap">
+    <form class="card" onsubmit="return handleAdminLogin(event)">
+      <div style="color:var(--gold)">🛡️</div>
+      <h2 class="fraunces">Election Officer</h2>
+      <p class="sub">Sign in to monitor turnout and results.</p>
+      <label class="field-label">OFFICER ID</label>
+      <input class="field-input mono" id="adminIdInput" placeholder="e.g. 999" autocomplete="off">
+      <label class="field-label">PASSWORD</label>
+      <input class="field-input mono" id="adminPwInput" type="password" placeholder="••••••••">
+      <div class="error-line" id="adminError" style="display:none">⚠️ <span></span></div>
+      <button type="submit" class="btn-primary">Sign in</button>
+      <button type="button" class="btn-ghost" onclick="showScreen('landing')">← Back</button>
+      <div class="hint-box mono">Demo credentials: 999 / admin999</div>
+    </form>
+  </div>
+</div>
+
+<!-- VOTER STATUS -->
+<div class="screen" id="voterStatus">
+  <div class="wrap">
+    <div class="topline">
+      <div class="mono" style="font-size:12px;color:var(--slate)" id="statusVoterLabel"></div>
+      <button class="exit-btn" onclick="returnHome()">↩ Sign out</button>
+    </div>
+    <div class="status-card" id="statusCard">
+      <div class="status-icon" id="statusIcon"></div>
+      <div class="status-title" id="statusTitle"></div>
+      <div class="status-sub" id="statusSub"></div>
+    </div>
+    
+    <!-- Polling Station Map with Directions Button -->
+    <div class="status-card" style="margin-top:20px; text-align:left;">
+      <div style="font-size:18px; font-weight:600; text-align:center; margin-bottom:12px;">
+        📍 Your Polling Station
+      </div>
+      
+      <!-- Google Maps Embed - Shows polling station location -->
+      <div id="mapContainer">
+        <iframe 
+          src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d15227.8987654321!2d77.87878174277323!3d17.179143606284487!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1700000000000" 
+          allowfullscreen="" 
+          loading="lazy" 
+          referrerpolicy="no-referrer-when-downgrade">
+        </iframe>
+      </div>
+      
+      <!-- Get Directions Button -->
+      <button class="directions-btn" onclick="getDirections()">
+        🗺️ Get Directions from My Location
+      </button>
+      <div id="directionsStatus" style="font-size:12px; color:var(--slate); margin-top:8px; text-align:center;"></div>
+    </div>
+
+    <div class="turnout-line">
+      <span class="label">Members voted so far</span>
+      <span class="value" id="turnoutCount">0 / 0</span>
+    </div>
+  </div>
+</div>
+
+<!-- ELECTION ASSISTANT -->
+<button class="bot-fab" id="botFab" onclick="openAssistant()" aria-label="Open Election Assistant">🤖<span class="bot-dot"></span></button>
+<div class="bot-overlay" id="botOverlay" onclick="if(event.target===this) closeAssistant()">
+  <section class="bot-panel" aria-label="Election Assistant">
+    <div class="bot-head">
+      <div class="bot-brand"><div class="bot-avatar">🤖</div><div><h3>Election Assistant</h3><p>Your personal voting information assistant</p></div></div>
+      <button class="bot-close" onclick="closeAssistant()" aria-label="Close">×</button>
+    </div>
+    <div class="bot-messages" id="botMessages"><div class="bot-msg assistant">Hi! 👋 I can help with your voter ID, voting status, and polling station.</div></div>
+    <div class="bot-suggestions">
+      <button class="bot-suggestion" onclick="askBot('What is my voter ID?')">My voter ID</button>
+      <button class="bot-suggestion" onclick="askBot('Have I voted?')">Have I voted?</button>
+      <button class="bot-suggestion" onclick="askBot('Where is my polling station?')">My polling station</button>
+    </div>
+    <form class="bot-input" onsubmit="return sendBotMessage(event)"><input id="botInput" autocomplete="off" placeholder="Ask a question..."><button id="botSend" type="submit">➤</button></form>
+  </section>
+</div>
+
+<!-- ADMIN DASHBOARD -->
+<div class="screen" id="admin">
+  <div class="topbar">
+    <div class="brand fraunces">🛡️ Election Officer Console</div>
+    <div class="actions">
+      <button class="btn-chip" onclick="exportCsv()">⬇ Export CSV</button>
+      <button class="btn-chip danger" onclick="resetElection()">↺ Reset All Votes</button>
+      <button class="btn-plain" onclick="returnHome()">⎋ Sign out</button>
+    </div>
+  </div>
+
+  <div class="stat-grid">
+    <div class="stat-card"><div class="label">REGISTERED VOTERS</div><div class="value" id="statTotal">0</div></div>
+    <div class="stat-card"><div class="label">VOTERS WHO VOTED</div><div class="value" id="statCast">0</div></div>
+    <div class="stat-card"><div class="label">TURNOUT</div><div class="value" id="statTurnout" style="color:var(--gold)">0%</div></div>
+  </div>
+
+  <div class="dash-grid">
+    <div class="panel">
+      <div class="panel-title fraunces">Live results</div>
+      <div class="bars" id="barsWrap"></div>
+    </div>
+    <div class="panel">
+      <div class="panel-title fraunces">Voter status</div>
+      <p style="font-size:12px;color:var(--slate);margin-bottom:12px;line-height:1.5">Shown to confirm turnout only — ballots stay secret, no party is linked to a voter here.</p>
+      <div id="voterStatusList"></div>
+    </div>
+  </div>
+
+  <div class="footnote mono">Voting happens on the hardware keypad. This console reads that data from Neo4j database.</div>
+</div>
+
+<script>
+  const API = "http://127.0.0.1:8000";
+  let currentVoterId = null;
+
+  // POLLING STATION COORDINATES (Your location)
+  const POLLING_LAT = 17.179143606284487;
+  const POLLING_LON = 77.87878174277323;
+
+  function showToast(msg, isSuccess = true) {
+    const toast = document.getElementById('toast');
+    toast.textContent = msg;
+    toast.style.display = 'block';
+    toast.style.background = isSuccess ? '#1B2A4A' : '#B23A2E';
+    setTimeout(() => { toast.style.display = 'none'; }, 4000);
+  }
+
+  function showScreen(id) {
+    document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+    document.getElementById(id).classList.add('active');
+    const fab=document.getElementById('botFab');
+    if(fab) fab.style.display=(id==='voterStatus' && currentVoterId)?'grid':'none';
+  }
+
+  function returnHome() {
+    currentVoterId = null;
+    closeAssistant();
+    document.getElementById('voterIdInput').value = '';
+    document.getElementById('voterPwInput').value = '';
+    document.getElementById('adminIdInput').value = '';
+    document.getElementById('adminPwInput').value = '';
+    hideError('voterError'); hideError('adminError');
+    showScreen('landing');
+  }
+
+  function showError(id, msg) {
+    const el = document.getElementById(id);
+    el.style.display = 'flex';
+    el.querySelector('span').textContent = msg;
+  }
+  function hideError(id) { document.getElementById(id).style.display = 'none'; }
+
+  // ---- DIRECTIONS FUNCTION (FREE - No API Key Needed) ----
+  function getDirections() {
+    const status = document.getElementById('directionsStatus');
+    status.textContent = 'Getting your location...';
+    
+    // Check if browser supports geolocation
+    if (!navigator.geolocation) {
+      status.textContent = '❌ Your browser doesn\'t support location.';
+      showToast('Please use a browser with location support.', false);
+      return;
+    }
+
+    // Get user's current location
+    navigator.geolocation.getCurrentPosition(
+      function(position) {
+        const userLat = position.coords.latitude;
+        const userLon = position.coords.longitude;
+        
+        // Build Google Maps URL for directions
+        const url = `https://www.google.com/maps/dir/${userLat},${userLon}/${POLLING_LAT},${POLLING_LON}`;
+        
+        status.textContent = '✅ Opening Google Maps with directions...';
+        window.open(url, '_blank');
+        showToast('Opening directions in Google Maps!', true);
+      },
+      function(error) {
+        // If location fails, open without current location
+        status.textContent = '⚠️ Could not get location. Opening map anyway.';
+        const url = `https://www.google.com/maps/dir//${POLLING_LAT},${POLLING_LON}`;
+        window.open(url, '_blank');
+        showToast('Click "Your location" in Google Maps for directions.', true);
+      },
+      {
+        enableHighAccuracy: true,
+        timeout: 10000,
+        maximumAge: 0
+      }
+    );
+  }
+
+  // ---- Election Assistant ----
+function openAssistant(){
+  if(!currentVoterId){ showToast('Please sign in as a voter first.', false); return; }
+  document.getElementById('botOverlay').classList.add('open');
+  setTimeout(()=>document.getElementById('botInput').focus(),80);
+}
+function closeAssistant(){ document.getElementById('botOverlay').classList.remove('open'); }
+function addBotMessage(text, type){ const box=document.getElementById('botMessages'); const el=document.createElement('div'); el.className='bot-msg '+type; el.textContent=text; box.appendChild(el); box.scrollTop=box.scrollHeight; }
+function askBot(q){ document.getElementById('botInput').value=q; sendBotMessage(); }
+async function sendBotMessage(e){
+  if(e) e.preventDefault();
+  if(!currentVoterId) return false;
+  const input=document.getElementById('botInput'); const btn=document.getElementById('botSend'); const message=input.value.trim();
+  if(!message) return false;
+  addBotMessage(message,'user'); input.value=''; btn.disabled=true; btn.textContent='…';
+  try{
+    const res=await fetch(`${API}/voter/chat`,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({voter_id:currentVoterId,message})});
+    const data=await res.json();
+    addBotMessage(data.success ? data.answer : (data.error || 'Could not get a response.'),'assistant');
+  }catch(err){ addBotMessage('Could not connect to the Election Assistant.','assistant'); }
+  btn.disabled=false; btn.textContent='➤';
+  return false;
+}
+
+// ---- Voter login ----
+  async function handleVoterLogin(e) {
+    e.preventDefault();
+    const id = document.getElementById('voterIdInput').value.trim();
+    const pw = document.getElementById('voterPwInput').value;
+
+    try {
+      const res = await fetch(`${API}/voter/login`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ voter_id: Number(id), password: pw })
+      });
+      const data = await res.json();
+      if (!data.success) {
+        showError('voterError', data.error || 'Login failed.');
+        return false;
+      }
+      hideError('voterError');
+      currentVoterId = Number(id);
+      await renderVoterStatus(currentVoterId);
+      showScreen('voterStatus');
+    } catch (err) {
+      showError('voterError', 'Could not reach the server.');
+    }
+    return false;
+  }
+
+
+async function loadQueueEstimate(statusData) {
+  const card = document.getElementById('queueCard');
+  if (!card) return;
+
+  // Show only for voters who have not voted.
+  if (statusData.voted) {
+    card.style.display = 'none';
+    return;
+  }
+
+  try {
+    const res = await fetch('polling_booth_queue.csv?ts=' + Date.now());
+    const text = await res.text();
+    const lines = text.trim().split(/\r?\n/).slice(1);
+    const now = new Date();
+    const hh = String(now.getHours()).padStart(2, '0');
+    const mm = now.getMinutes();
+    const slotStart = mm < 30 ? `${hh}:00` : `${hh}:30`;
+    const slotPrefix = slotStart;
+
+    // Use polling station information returned by the backend.
+    const booth = String(
+      statusData.polling_station_id ||
+      statusData.polling_station ||
+      statusData.polling_booth ||
+      'PB01'
+    ).trim();
+
+    let match = null;
+    for (const line of lines) {
+      const p = line.split(',');
+      if (p.length < 5) continue;
+      if (p[0].trim() === booth && p[1].trim().startsWith(slotPrefix)) {
+        match = p;
+        break;
+      }
+    }
+
+    // Demo fallback if the exact current slot is not in the CSV.
+    if (!match) {
+      match = lines.map(x => x.split(',')).find(p => p[0].trim() === booth);
+    }
+
+    if (match) {
+      document.getElementById('queueWait').textContent = match[4].trim();
+      card.style.display = 'block';
+    } else {
+      card.style.display = 'none';
+    }
+  } catch (err) {
+    console.error('Queue CSV error:', err);
+    card.style.display = 'none';
+  }
+}
+
+  async function renderVoterStatus(id) {
+    document.getElementById('statusVoterLabel').textContent = 'VOTER ' + id;
+
+    const statusRes = await fetch(`${API}/voter/${id}/status`);
+    const statusData = await statusRes.json();
+    await loadQueueEstimate(statusData);
+
+    const card = document.getElementById('statusCard');
+    card.className = 'status-card ' + (statusData.voted ? 'voted' : 'not-voted');
+    document.getElementById('statusIcon').textContent = statusData.voted ? '✅' : '🕒';
+    document.getElementById('statusTitle').textContent = statusData.voted ? 'Your vote is recorded' : "You haven't voted yet";
+    document.getElementById('statusSub').textContent = statusData.voted
+      ? "You're all set — thanks for voting."
+      : 'Go to the physical booth and cast your vote on the keypad.';
+
+    const resultsRes = await fetch(`${API}/admin/results`);
+    const resultsData = await resultsRes.json();
+    document.getElementById('turnoutCount').textContent = `${resultsData.total_cast} / ${resultsData.total_voters}`;
+  }
+
+  // ---- Admin login ----
+  async function handleAdminLogin(e) {
+    e.preventDefault();
+    const id = document.getElementById('adminIdInput').value.trim();
+    const pw = document.getElementById('adminPwInput').value;
+
+    try {
+      const res = await fetch(`${API}/admin/login`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ admin_id: Number(id), password: pw })
+      });
+      const data = await res.json();
+      if (!data.success) {
+        showError('adminError', data.error || 'Login failed.');
+        return false;
+      }
+      hideError('adminError');
+      await renderAdmin();
+      showScreen('admin');
+    } catch (err) {
+      showError('adminError', 'Could not reach the server.');
+    }
+    return false;
+  }
+
+  // ---- Admin dashboard ----
+  async function renderAdmin() {
+    const resultsRes = await fetch(`${API}/admin/results`);
+    const resultsData = await resultsRes.json();
+
+    const totalVoters = resultsData.total_voters;
+    const totalCast = resultsData.total_cast;
+    const turnout = totalVoters ? Math.round((totalCast / totalVoters) * 100) : 0;
+
+    document.getElementById('statTotal').textContent = totalVoters;
+    document.getElementById('statCast').textContent = totalCast;
+    document.getElementById('statTurnout').textContent = turnout + '%';
+
+    const PARTY_COLORS = { "Amber Party": "#C08A2E", "Slate Party": "#1B2A4A", "Green Party": "#2E7D32", "Blue Party": "#1565C0" };
+    const maxVotes = Math.max(1, ...resultsData.results.map(p => p.votes));
+    const barsWrap = document.getElementById('barsWrap');
+    barsWrap.innerHTML = '';
+    resultsData.results.forEach(p => {
+      const col = document.createElement('div');
+      col.className = 'bar-col';
+      const heightPct = (p.votes / maxVotes) * 100;
+      const color = PARTY_COLORS[p.party] || "#999";
+      col.innerHTML = `
+        <div class="bar-count">${p.votes}</div>
+        <div class="bar" style="height:${heightPct}%;background:${color}"></div>
+        <div class="bar-label">${p.party}</div>`;
+      barsWrap.appendChild(col);
+    });
+
+    const votersRes = await fetch(`${API}/admin/voters`);
+    const votersData = await votersRes.json();
+    const statusList = document.getElementById('voterStatusList');
+    statusList.innerHTML = '';
+    votersData.voters.forEach(v => {
+      const row = document.createElement('div');
+      row.className = 'voter-row';
+      row.innerHTML = `<span class="vid mono">${v.voter_id}</span><span class="status ${v.voted ? 'voted' : ''}">${v.voted ? '✅ Voted' : '⏳ Not yet'}</span>`;
+      statusList.appendChild(row);
+    });
+  }
+
+  // ---- Reset Election ----
+  async function resetElection() {
+    if (!confirm('⚠️ Are you sure you want to reset ALL votes? This cannot be undone!')) {
+      return;
+    }
+
+    try {
+      const res = await fetch(`${API}/admin/reset`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" }
+      });
+      
+      const data = await res.json();
+      
+      if (data.success) {
+        showToast('✅ All votes reset successfully!', true);
+        await renderAdmin();
+      } else {
+        showToast('❌ Reset failed: ' + data.error, false);
+      }
+    } catch (err) {
+      showToast('❌ Could not reach the server.', false);
+    }
+  }
+
+  // ---- Export CSV ----
+  async function exportCsv() {
+    const resultsRes = await fetch(`${API}/admin/results`);
+    const resultsData = await resultsRes.json();
+    const rows = [["Party", "Votes"], ...resultsData.results.map(p => [p.party, p.votes])];
+    const csv = rows.map(r => r.join(",")).join("\n");
+    const blob = new Blob([csv], { type: "text/csv" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url; a.download = "ballot-station-results.csv"; a.click();
+    URL.revokeObjectURL(url);
+  }
+</script>
+</body>
+</html>

@@ -1,0 +1,1191 @@
+state,district_number,district_name,constituency_number,constituency_name,constituency_type,polling_station_id,polling_station_name,area_type,total_electors,male_electors,female_electors,third_gender_electors,service_electors,avg_distance_to_booth_km,avg_age_of_electors,literacy_rate_area,total_votes_cast,turnout_percentage
+Telangana,12,Komaram Bheem Asifabad,1,Sirpur,GEN,TS-001-001,"Zilla Parishad High School, Sirpur 1",rural,1000,499,501,0,0,2.76,32.0,75.33,783,78.3
+Telangana,12,Komaram Bheem Asifabad,1,Sirpur,GEN,TS-001-002,"MPPS School, Sirpur 2",rural,1068,532,534,2,0,4.15,38.2,63.33,785,73.5
+Telangana,12,Komaram Bheem Asifabad,1,Sirpur,GEN,TS-001-003,"Mandala Parishad School, Sirpur 3",rural,856,427,426,2,1,2.88,34.4,61.39,704,82.24
+Telangana,12,Komaram Bheem Asifabad,1,Sirpur,GEN,TS-001-004,"Government Junior College, Sirpur 4",semi-urban,835,409,424,2,0,2.64,43.0,63.2,671,80.36
+Telangana,12,Komaram Bheem Asifabad,1,Sirpur,GEN,TS-001-005,"Gram Panchayat Office, Sirpur 5",rural,819,409,404,2,4,3.34,42.7,63.87,766,93.53
+Telangana,12,Komaram Bheem Asifabad,1,Sirpur,GEN,TS-001-006,"Panchayat Bhavan, Sirpur 6",rural,908,438,465,2,3,3.16,39.3,63.43,673,74.12
+Telangana,12,Komaram Bheem Asifabad,1,Sirpur,GEN,TS-001-007,"Community Hall, Sirpur 7",rural,1022,519,499,1,3,2.15,38.0,58.25,803,78.57
+Telangana,12,Komaram Bheem Asifabad,1,Sirpur,GEN,TS-001-008,"Government Degree College, Sirpur 8",rural,1219,591,627,0,1,2.95,45.3,74.04,903,74.08
+Telangana,12,Komaram Bheem Asifabad,1,Sirpur,GEN,TS-001-009,"Municipal Community Hall, Sirpur 9",rural,824,404,416,2,2,2.85,38.5,58.53,658,79.85
+Telangana,12,Komaram Bheem Asifabad,1,Sirpur,GEN,TS-001-010,"Anganwadi Centre, Sirpur 10",rural,1036,527,505,2,2,1.91,36.1,69.42,853,82.34
+Telangana,15,Mancherial,2,Chennur,SC,TS-002-001,"MPPS School, Chennur 1",rural,1018,513,499,2,4,0.63,42.1,69.22,766,75.25
+Telangana,15,Mancherial,2,Chennur,SC,TS-002-002,"Mandala Parishad School, Chennur 2",semi-urban,850,412,436,1,1,1.01,45.9,68.13,661,77.76
+Telangana,15,Mancherial,2,Chennur,SC,TS-002-003,"Government Junior College, Chennur 3",rural,847,429,415,1,2,1.07,39.0,64.64,652,76.98
+Telangana,15,Mancherial,2,Chennur,SC,TS-002-004,"Gram Panchayat Office, Chennur 4",urban,1092,556,533,1,2,1.71,37.2,84.08,799,73.17
+Telangana,15,Mancherial,2,Chennur,SC,TS-002-005,"Panchayat Bhavan, Chennur 5",rural,1223,599,623,0,1,0.89,37.1,81.76,898,73.43
+Telangana,15,Mancherial,2,Chennur,SC,TS-002-006,"Community Hall, Chennur 6",semi-urban,864,438,423,1,2,2.09,44.4,82.32,625,72.34
+Telangana,15,Mancherial,2,Chennur,SC,TS-002-007,"Government Degree College, Chennur 7",rural,1392,685,705,1,1,1.71,39.9,68.92,881,63.29
+Telangana,15,Mancherial,2,Chennur,SC,TS-002-008,"Municipal Community Hall, Chennur 8",rural,1423,695,724,0,4,1.37,37.3,83.37,1140,80.11
+Telangana,15,Mancherial,2,Chennur,SC,TS-002-009,"Anganwadi Centre, Chennur 9",rural,867,422,443,1,1,1.59,41.1,72.83,723,83.39
+Telangana,15,Mancherial,2,Chennur,SC,TS-002-010,"Government Primary School, Chennur 10",rural,1268,635,629,1,3,1.59,41.3,71.25,897,70.74
+Telangana,15,Mancherial,3,Bellampalli,SC,TS-003-001,"Mandala Parishad School, Bellampalli 1",rural,1098,531,564,0,3,0.91,40.4,65.17,801,72.95
+Telangana,15,Mancherial,3,Bellampalli,SC,TS-003-002,"Government Junior College, Bellampalli 2",semi-urban,976,494,480,1,1,1.26,37.3,71.35,716,73.36
+Telangana,15,Mancherial,3,Bellampalli,SC,TS-003-003,"Gram Panchayat Office, Bellampalli 3",semi-urban,1314,647,664,2,1,1.5,33.1,70.15,788,59.97
+Telangana,15,Mancherial,3,Bellampalli,SC,TS-003-004,"Panchayat Bhavan, Bellampalli 4",rural,885,437,445,2,1,1.01,37.9,64.58,692,78.19
+Telangana,15,Mancherial,3,Bellampalli,SC,TS-003-005,"Community Hall, Bellampalli 5",semi-urban,1146,575,569,1,1,1.54,38.0,67.71,855,74.61
+Telangana,15,Mancherial,3,Bellampalli,SC,TS-003-006,"Government Degree College, Bellampalli 6",urban,1041,514,522,1,4,2.4,38.7,70.03,721,69.26
+Telangana,15,Mancherial,3,Bellampalli,SC,TS-003-007,"Municipal Community Hall, Bellampalli 7",rural,1204,590,611,1,2,1.68,39.8,86.68,890,73.92
+Telangana,15,Mancherial,3,Bellampalli,SC,TS-003-008,"Anganwadi Centre, Bellampalli 8",rural,1232,616,613,2,1,1.8,39.4,84.51,850,68.99
+Telangana,15,Mancherial,3,Bellampalli,SC,TS-003-009,"Government Primary School, Bellampalli 9",rural,971,476,493,1,1,2.28,38.6,66.71,804,82.8
+Telangana,15,Mancherial,3,Bellampalli,SC,TS-003-010,"Government High School, Bellampalli 10",semi-urban,1153,588,564,1,0,1.3,41.0,82.36,890,77.19
+Telangana,15,Mancherial,4,Mancherial,GEN,TS-004-001,"Government Junior College, Mancherial 1",urban,1393,694,696,2,1,2.75,36.9,72.53,860,61.74
+Telangana,15,Mancherial,4,Mancherial,GEN,TS-004-002,"Gram Panchayat Office, Mancherial 2",rural,1154,572,579,1,2,0.9,37.2,64.53,920,79.72
+Telangana,15,Mancherial,4,Mancherial,GEN,TS-004-003,"Panchayat Bhavan, Mancherial 3",rural,882,445,432,2,3,1.58,41.1,65.66,720,81.63
+Telangana,15,Mancherial,4,Mancherial,GEN,TS-004-004,"Community Hall, Mancherial 4",semi-urban,1434,695,733,2,4,2.57,35.8,72.97,949,66.18
+Telangana,15,Mancherial,4,Mancherial,GEN,TS-004-005,"Government Degree College, Mancherial 5",rural,960,477,480,1,2,2.18,43.3,69.19,637,66.35
+Telangana,15,Mancherial,4,Mancherial,GEN,TS-004-006,"Municipal Community Hall, Mancherial 6",rural,896,433,459,2,2,1.21,35.9,68.22,633,70.65
+Telangana,15,Mancherial,4,Mancherial,GEN,TS-004-007,"Anganwadi Centre, Mancherial 7",semi-urban,1307,636,667,2,2,2.24,39.2,83.33,987,75.52
+Telangana,15,Mancherial,4,Mancherial,GEN,TS-004-008,"Government Primary School, Mancherial 8",rural,1057,531,525,0,1,1.98,36.4,71.38,728,68.87
+Telangana,15,Mancherial,4,Mancherial,GEN,TS-004-009,"Government High School, Mancherial 9",rural,942,462,479,1,0,1.13,40.2,80.46,685,72.72
+Telangana,15,Mancherial,4,Mancherial,GEN,TS-004-010,"Zilla Parishad High School, Mancherial 10",rural,1169,586,581,2,0,2.64,39.3,74.08,830,71.0
+Telangana,12,Komaram Bheem Asifabad,5,Asifabad,ST,TS-005-001,"Gram Panchayat Office, Asifabad 1",rural,1083,541,536,2,4,2.07,39.3,68.67,1013,93.54
+Telangana,12,Komaram Bheem Asifabad,5,Asifabad,ST,TS-005-002,"Panchayat Bhavan, Asifabad 2",rural,842,428,411,0,3,3.55,38.8,61.09,536,63.66
+Telangana,12,Komaram Bheem Asifabad,5,Asifabad,ST,TS-005-003,"Community Hall, Asifabad 3",rural,1057,537,519,0,1,3.43,38.9,57.6,838,79.28
+Telangana,12,Komaram Bheem Asifabad,5,Asifabad,ST,TS-005-004,"Government Degree College, Asifabad 4",rural,792,388,400,1,3,4.3,32.6,75.66,690,87.12
+Telangana,12,Komaram Bheem Asifabad,5,Asifabad,ST,TS-005-005,"Municipal Community Hall, Asifabad 5",rural,1050,533,512,1,4,3.75,39.2,66.63,967,92.1
+Telangana,12,Komaram Bheem Asifabad,5,Asifabad,ST,TS-005-006,"Anganwadi Centre, Asifabad 6",rural,895,444,449,1,1,4.52,41.7,59.14,653,72.96
+Telangana,12,Komaram Bheem Asifabad,5,Asifabad,ST,TS-005-007,"Government Primary School, Asifabad 7",rural,1101,555,540,2,4,3.87,40.8,69.0,758,68.85
+Telangana,12,Komaram Bheem Asifabad,5,Asifabad,ST,TS-005-008,"Government High School, Asifabad 8",semi-urban,870,442,428,0,0,4.06,40.0,64.18,798,91.72
+Telangana,12,Komaram Bheem Asifabad,5,Asifabad,ST,TS-005-009,"Zilla Parishad High School, Asifabad 9",rural,1239,606,631,0,2,4.55,38.2,74.54,981,79.18
+Telangana,12,Komaram Bheem Asifabad,5,Asifabad,ST,TS-005-010,"MPPS School, Asifabad 10",rural,949,459,488,1,1,1.41,34.3,66.9,692,72.92
+Telangana,1,Adilabad,6,Khanapur,ST,TS-006-001,"Panchayat Bhavan, Khanapur 1",rural,1107,548,556,1,2,2.84,38.2,74.7,933,84.28
+Telangana,1,Adilabad,6,Khanapur,ST,TS-006-002,"Community Hall, Khanapur 2",rural,919,468,447,2,2,1.77,37.7,69.59,623,67.79
+Telangana,1,Adilabad,6,Khanapur,ST,TS-006-003,"Government Degree College, Khanapur 3",rural,783,397,382,2,2,0.53,36.5,59.14,488,62.32
+Telangana,1,Adilabad,6,Khanapur,ST,TS-006-004,"Municipal Community Hall, Khanapur 4",rural,1059,525,530,0,4,2.63,42.3,70.77,751,70.92
+Telangana,1,Adilabad,6,Khanapur,ST,TS-006-005,"Anganwadi Centre, Khanapur 5",rural,1136,559,575,2,0,2.29,35.6,72.08,990,87.15
+Telangana,1,Adilabad,6,Khanapur,ST,TS-006-006,"Government Primary School, Khanapur 6",rural,956,466,486,1,3,2.75,43.3,74.63,811,84.83
+Telangana,1,Adilabad,6,Khanapur,ST,TS-006-007,"Government High School, Khanapur 7",semi-urban,1206,587,617,0,2,4.73,36.6,73.09,1081,89.64
+Telangana,1,Adilabad,6,Khanapur,ST,TS-006-008,"Zilla Parishad High School, Khanapur 8",rural,1158,571,582,1,4,1.69,38.3,61.22,950,82.04
+Telangana,1,Adilabad,6,Khanapur,ST,TS-006-009,"MPPS School, Khanapur 9",rural,803,390,413,0,0,0.78,42.4,66.87,681,84.81
+Telangana,1,Adilabad,6,Khanapur,ST,TS-006-010,"Mandala Parishad School, Khanapur 10",rural,1113,569,541,0,3,2.73,44.5,61.02,882,79.25
+Telangana,1,Adilabad,7,Adilabad,GEN,TS-007-001,"Community Hall, Adilabad 1",semi-urban,1059,525,529,1,4,2.49,35.9,69.61,860,81.21
+Telangana,1,Adilabad,7,Adilabad,GEN,TS-007-002,"Government Degree College, Adilabad 2",rural,780,397,379,0,4,2.59,40.2,63.78,571,73.21
+Telangana,1,Adilabad,7,Adilabad,GEN,TS-007-003,"Municipal Community Hall, Adilabad 3",rural,1156,586,570,0,0,2.21,38.2,75.18,952,82.35
+Telangana,1,Adilabad,7,Adilabad,GEN,TS-007-004,"Anganwadi Centre, Adilabad 4",rural,1070,538,532,0,0,2.63,41.9,62.72,832,77.76
+Telangana,1,Adilabad,7,Adilabad,GEN,TS-007-005,"Government Primary School, Adilabad 5",rural,1045,520,519,2,4,2.31,37.7,62.15,803,76.84
+Telangana,1,Adilabad,7,Adilabad,GEN,TS-007-006,"Government High School, Adilabad 6",rural,936,474,460,1,1,3.8,44.1,73.0,757,80.88
+Telangana,1,Adilabad,7,Adilabad,GEN,TS-007-007,"Zilla Parishad High School, Adilabad 7",urban,967,489,473,2,3,2.77,37.9,58.6,688,71.15
+Telangana,1,Adilabad,7,Adilabad,GEN,TS-007-008,"MPPS School, Adilabad 8",rural,1155,585,566,1,3,2.25,41.9,61.16,930,80.52
+Telangana,1,Adilabad,7,Adilabad,GEN,TS-007-009,"Mandala Parishad School, Adilabad 9",rural,826,412,411,2,1,1.36,40.6,59.4,628,76.03
+Telangana,1,Adilabad,7,Adilabad,GEN,TS-007-010,"Government Junior College, Adilabad 10",semi-urban,1112,546,560,2,4,1.73,35.9,73.63,818,73.56
+Telangana,1,Adilabad,8,Boath,ST,TS-008-001,"Government Degree College, Boath 1",rural,1177,582,595,0,0,3.19,38.9,64.52,963,81.82
+Telangana,1,Adilabad,8,Boath,ST,TS-008-002,"Municipal Community Hall, Boath 2",rural,1086,529,554,1,2,3.02,38.1,75.46,850,78.27
+Telangana,1,Adilabad,8,Boath,ST,TS-008-003,"Anganwadi Centre, Boath 3",rural,925,449,472,2,2,2.62,39.7,62.19,799,86.38
+Telangana,1,Adilabad,8,Boath,ST,TS-008-004,"Government Primary School, Boath 4",urban,1130,575,553,1,1,4.15,34.2,67.58,901,79.73
+Telangana,1,Adilabad,8,Boath,ST,TS-008-005,"Government High School, Boath 5",rural,792,399,391,2,0,3.27,48.5,71.27,644,81.31
+Telangana,1,Adilabad,8,Boath,ST,TS-008-006,"Zilla Parishad High School, Boath 6",rural,938,456,481,0,1,1.87,38.8,71.59,795,84.75
+Telangana,1,Adilabad,8,Boath,ST,TS-008-007,"MPPS School, Boath 7",rural,798,404,392,0,2,2.76,39.4,71.72,721,90.35
+Telangana,1,Adilabad,8,Boath,ST,TS-008-008,"Mandala Parishad School, Boath 8",rural,781,382,393,2,4,1.85,41.7,72.15,681,87.2
+Telangana,1,Adilabad,8,Boath,ST,TS-008-009,"Government Junior College, Boath 9",rural,1085,542,540,1,2,1.91,43.4,61.02,981,90.41
+Telangana,1,Adilabad,8,Boath,ST,TS-008-010,"Gram Panchayat Office, Boath 10",rural,789,393,392,0,4,3.18,44.3,57.87,615,77.95
+Telangana,22,Nirmal,9,Nirmal,GEN,TS-009-001,"Municipal Community Hall, Nirmal 1",rural,930,459,467,0,4,1.28,42.3,80.59,670,72.04
+Telangana,22,Nirmal,9,Nirmal,GEN,TS-009-002,"Anganwadi Centre, Nirmal 2",rural,1443,739,704,0,0,3.18,40.7,78.12,1009,69.92
+Telangana,22,Nirmal,9,Nirmal,GEN,TS-009-003,"Government Primary School, Nirmal 3",semi-urban,1265,631,630,1,3,1.05,34.0,85.5,937,74.07
+Telangana,22,Nirmal,9,Nirmal,GEN,TS-009-004,"Government High School, Nirmal 4",rural,1119,554,563,2,0,1.47,39.3,73.89,854,76.32
+Telangana,22,Nirmal,9,Nirmal,GEN,TS-009-005,"Zilla Parishad High School, Nirmal 5",rural,1176,577,593,2,4,1.67,46.0,77.51,880,74.83
+Telangana,22,Nirmal,9,Nirmal,GEN,TS-009-006,"MPPS School, Nirmal 6",rural,1215,611,601,2,1,1.4,38.1,81.19,791,65.1
+Telangana,22,Nirmal,9,Nirmal,GEN,TS-009-007,"Mandala Parishad School, Nirmal 7",urban,919,470,443,2,4,1.94,41.9,79.91,573,62.35
+Telangana,22,Nirmal,9,Nirmal,GEN,TS-009-008,"Government Junior College, Nirmal 8",rural,1263,645,618,0,0,1.1,38.4,81.65,1040,82.34
+Telangana,22,Nirmal,9,Nirmal,GEN,TS-009-009,"Gram Panchayat Office, Nirmal 9",rural,943,464,478,1,0,1.54,37.0,77.32,766,81.23
+Telangana,22,Nirmal,9,Nirmal,GEN,TS-009-010,"Panchayat Bhavan, Nirmal 10",urban,1290,647,641,2,0,1.97,38.6,86.85,868,67.29
+Telangana,22,Nirmal,10,Mudhole,GEN,TS-010-001,"Anganwadi Centre, Mudhole 1",rural,909,457,448,1,3,1.38,42.1,65.62,648,71.29
+Telangana,22,Nirmal,10,Mudhole,GEN,TS-010-002,"Government Primary School, Mudhole 2",semi-urban,993,491,498,0,4,1.75,42.8,79.8,754,75.93
+Telangana,22,Nirmal,10,Mudhole,GEN,TS-010-003,"Government High School, Mudhole 3",semi-urban,995,485,506,2,2,1.75,38.7,72.45,711,71.46
+Telangana,22,Nirmal,10,Mudhole,GEN,TS-010-004,"Zilla Parishad High School, Mudhole 4",rural,1350,667,680,1,2,1.53,38.4,75.97,1015,75.19
+Telangana,22,Nirmal,10,Mudhole,GEN,TS-010-005,"MPPS School, Mudhole 5",rural,1246,624,620,2,0,2.48,34.6,69.16,870,69.82
+Telangana,22,Nirmal,10,Mudhole,GEN,TS-010-006,"Mandala Parishad School, Mudhole 6",rural,1413,691,720,2,0,1.49,36.4,83.83,1089,77.07
+Telangana,22,Nirmal,10,Mudhole,GEN,TS-010-007,"Government Junior College, Mudhole 7",rural,916,452,459,1,4,1.77,36.0,77.87,628,68.56
+Telangana,22,Nirmal,10,Mudhole,GEN,TS-010-008,"Gram Panchayat Office, Mudhole 8",urban,1278,649,623,2,4,1.82,41.6,81.8,1033,80.83
+Telangana,22,Nirmal,10,Mudhole,GEN,TS-010-009,"Panchayat Bhavan, Mudhole 9",urban,864,440,421,0,3,1.99,41.0,77.16,602,69.68
+Telangana,22,Nirmal,10,Mudhole,GEN,TS-010-010,"Community Hall, Mudhole 10",urban,1014,509,503,1,1,1.87,37.4,64.02,721,71.1
+Telangana,23,Nizamabad,11,Armur,GEN,TS-011-001,"Government Primary School, Armur 1",rural,1438,725,708,1,4,1.75,36.5,80.06,870,60.5
+Telangana,23,Nizamabad,11,Armur,GEN,TS-011-002,"Government High School, Armur 2",semi-urban,829,424,402,1,2,1.38,41.2,86.48,596,71.89
+Telangana,23,Nizamabad,11,Armur,GEN,TS-011-003,"Zilla Parishad High School, Armur 3",urban,1194,608,581,1,4,1.73,35.6,75.7,739,61.89
+Telangana,23,Nizamabad,11,Armur,GEN,TS-011-004,"MPPS School, Armur 4",rural,1037,529,506,1,1,1.65,38.6,69.85,803,77.43
+Telangana,23,Nizamabad,11,Armur,GEN,TS-011-005,"Mandala Parishad School, Armur 5",semi-urban,1270,636,632,1,1,1.32,36.8,77.16,939,73.94
+Telangana,23,Nizamabad,11,Armur,GEN,TS-011-006,"Government Junior College, Armur 6",rural,1264,644,615,1,4,1.87,40.4,78.65,869,68.75
+Telangana,23,Nizamabad,11,Armur,GEN,TS-011-007,"Gram Panchayat Office, Armur 7",rural,862,435,421,2,4,1.0,32.0,85.41,591,68.56
+Telangana,23,Nizamabad,11,Armur,GEN,TS-011-008,"Panchayat Bhavan, Armur 8",semi-urban,1355,681,669,2,3,2.16,44.1,79.52,809,59.7
+Telangana,23,Nizamabad,11,Armur,GEN,TS-011-009,"Community Hall, Armur 9",rural,1345,683,661,0,1,1.04,38.8,76.2,834,62.01
+Telangana,23,Nizamabad,11,Armur,GEN,TS-011-010,"Government Degree College, Armur 10",urban,1360,672,684,2,2,3.04,40.0,80.36,935,68.75
+Telangana,23,Nizamabad,12,Bodhan,GEN,TS-012-001,"Government High School, Bodhan 1",rural,880,433,446,0,1,1.59,38.7,86.72,579,65.8
+Telangana,23,Nizamabad,12,Bodhan,GEN,TS-012-002,"Zilla Parishad High School, Bodhan 2",semi-urban,1043,506,534,0,3,1.94,36.2,74.38,754,72.29
+Telangana,23,Nizamabad,12,Bodhan,GEN,TS-012-003,"MPPS School, Bodhan 3",semi-urban,1310,639,669,1,1,1.81,34.6,73.02,986,75.27
+Telangana,23,Nizamabad,12,Bodhan,GEN,TS-012-004,"Mandala Parishad School, Bodhan 4",urban,1364,683,680,1,0,2.01,39.5,67.79,954,69.94
+Telangana,23,Nizamabad,12,Bodhan,GEN,TS-012-005,"Government Junior College, Bodhan 5",semi-urban,845,423,418,2,2,2.66,35.5,67.08,591,69.94
+Telangana,23,Nizamabad,12,Bodhan,GEN,TS-012-006,"Gram Panchayat Office, Bodhan 6",semi-urban,1147,556,590,1,0,2.4,41.2,68.16,752,65.56
+Telangana,23,Nizamabad,12,Bodhan,GEN,TS-012-007,"Panchayat Bhavan, Bodhan 7",rural,1256,632,623,1,0,2.07,37.2,68.11,999,79.54
+Telangana,23,Nizamabad,12,Bodhan,GEN,TS-012-008,"Community Hall, Bodhan 8",rural,873,424,447,0,2,2.26,44.9,79.96,693,79.38
+Telangana,23,Nizamabad,12,Bodhan,GEN,TS-012-009,"Government Degree College, Bodhan 9",semi-urban,1249,634,615,0,0,1.83,43.0,86.7,837,67.01
+Telangana,23,Nizamabad,12,Bodhan,GEN,TS-012-010,"Municipal Community Hall, Bodhan 10",rural,1135,573,557,2,3,1.63,39.7,79.51,579,51.01
+Telangana,9,Kamareddy,13,Jukkal,SC,TS-013-001,"Zilla Parishad High School, Jukkal 1",urban,1360,673,686,0,1,0.87,40.5,72.52,1195,87.87
+Telangana,9,Kamareddy,13,Jukkal,SC,TS-013-002,"MPPS School, Jukkal 2",rural,1058,515,541,2,0,1.27,36.9,79.25,826,78.07
+Telangana,9,Kamareddy,13,Jukkal,SC,TS-013-003,"Mandala Parishad School, Jukkal 3",rural,1209,595,610,0,4,2.7,44.5,79.41,858,70.97
+Telangana,9,Kamareddy,13,Jukkal,SC,TS-013-004,"Government Junior College, Jukkal 4",rural,989,506,479,0,4,2.28,39.3,78.32,827,83.62
+Telangana,9,Kamareddy,13,Jukkal,SC,TS-013-005,"Gram Panchayat Office, Jukkal 5",rural,1143,585,554,2,2,2.21,35.3,78.66,956,83.64
+Telangana,9,Kamareddy,13,Jukkal,SC,TS-013-006,"Panchayat Bhavan, Jukkal 6",rural,1280,635,641,0,4,1.45,40.1,72.95,862,67.34
+Telangana,9,Kamareddy,13,Jukkal,SC,TS-013-007,"Community Hall, Jukkal 7",rural,899,451,445,1,2,2.82,41.2,78.79,633,70.41
+Telangana,9,Kamareddy,13,Jukkal,SC,TS-013-008,"Government Degree College, Jukkal 8",rural,1435,716,718,1,0,0.73,44.3,75.06,1322,92.13
+Telangana,9,Kamareddy,13,Jukkal,SC,TS-013-009,"Municipal Community Hall, Jukkal 9",semi-urban,908,451,456,0,1,1.86,38.3,77.05,698,76.87
+Telangana,9,Kamareddy,13,Jukkal,SC,TS-013-010,"Anganwadi Centre, Jukkal 10",semi-urban,1104,548,553,0,3,0.91,38.0,72.66,856,77.54
+Telangana,9,Kamareddy,14,Banswada,GEN,TS-014-001,"MPPS School, Banswada 1",rural,1020,503,514,2,1,1.0,40.1,77.05,791,77.55
+Telangana,9,Kamareddy,14,Banswada,GEN,TS-014-002,"Mandala Parishad School, Banswada 2",rural,1121,564,555,0,2,2.56,38.4,71.13,848,75.65
+Telangana,9,Kamareddy,14,Banswada,GEN,TS-014-003,"Government Junior College, Banswada 3",rural,1436,718,716,1,1,1.84,37.6,80.31,1105,76.95
+Telangana,9,Kamareddy,14,Banswada,GEN,TS-014-004,"Gram Panchayat Office, Banswada 4",urban,859,434,421,2,2,1.13,38.0,69.77,671,78.11
+Telangana,9,Kamareddy,14,Banswada,GEN,TS-014-005,"Panchayat Bhavan, Banswada 5",semi-urban,1302,663,636,1,2,1.3,42.1,72.02,1217,93.47
+Telangana,9,Kamareddy,14,Banswada,GEN,TS-014-006,"Community Hall, Banswada 6",semi-urban,1181,582,596,1,2,1.73,39.8,71.75,1015,85.94
+Telangana,9,Kamareddy,14,Banswada,GEN,TS-014-007,"Government Degree College, Banswada 7",semi-urban,933,462,467,1,3,2.72,39.8,71.5,680,72.88
+Telangana,9,Kamareddy,14,Banswada,GEN,TS-014-008,"Municipal Community Hall, Banswada 8",rural,998,501,494,1,2,0.99,46.8,78.54,754,75.55
+Telangana,9,Kamareddy,14,Banswada,GEN,TS-014-009,"Anganwadi Centre, Banswada 9",semi-urban,924,468,452,0,4,1.13,43.8,74.43,729,78.9
+Telangana,9,Kamareddy,14,Banswada,GEN,TS-014-010,"Government Primary School, Banswada 10",rural,1302,635,665,0,2,1.94,38.7,82.08,988,75.88
+Telangana,9,Kamareddy,15,Yellareddy,GEN,TS-015-001,"Mandala Parishad School, Yellareddy 1",semi-urban,1043,508,530,2,3,1.0,41.4,76.66,821,78.72
+Telangana,9,Kamareddy,15,Yellareddy,GEN,TS-015-002,"Government Junior College, Yellareddy 2",rural,1417,725,687,1,4,1.11,35.4,78.26,1084,76.5
+Telangana,9,Kamareddy,15,Yellareddy,GEN,TS-015-003,"Gram Panchayat Office, Yellareddy 3",semi-urban,1381,675,705,0,1,1.49,40.6,78.13,954,69.08
+Telangana,9,Kamareddy,15,Yellareddy,GEN,TS-015-004,"Panchayat Bhavan, Yellareddy 4",rural,933,465,466,0,2,1.33,39.8,66.09,620,66.45
+Telangana,9,Kamareddy,15,Yellareddy,GEN,TS-015-005,"Community Hall, Yellareddy 5",rural,1441,710,729,1,1,1.18,42.6,68.04,1020,70.78
+Telangana,9,Kamareddy,15,Yellareddy,GEN,TS-015-006,"Government Degree College, Yellareddy 6",rural,1281,631,647,1,2,1.01,42.5,79.21,979,76.42
+Telangana,9,Kamareddy,15,Yellareddy,GEN,TS-015-007,"Municipal Community Hall, Yellareddy 7",rural,1167,582,584,0,1,1.73,37.7,69.06,890,76.26
+Telangana,9,Kamareddy,15,Yellareddy,GEN,TS-015-008,"Anganwadi Centre, Yellareddy 8",semi-urban,917,448,463,2,4,1.39,39.7,70.93,722,78.74
+Telangana,9,Kamareddy,15,Yellareddy,GEN,TS-015-009,"Government Primary School, Yellareddy 9",rural,826,420,402,0,4,1.25,40.4,87.0,599,72.52
+Telangana,9,Kamareddy,15,Yellareddy,GEN,TS-015-010,"Government High School, Yellareddy 10",rural,859,425,428,2,4,1.76,37.4,65.84,687,79.98
+Telangana,9,Kamareddy,16,Kamareddy,GEN,TS-016-001,"Government Junior College, Kamareddy 1",rural,1114,561,547,2,4,1.21,38.6,78.52,814,73.07
+Telangana,9,Kamareddy,16,Kamareddy,GEN,TS-016-002,"Gram Panchayat Office, Kamareddy 2",rural,1307,662,642,1,2,0.66,38.7,77.37,1019,77.96
+Telangana,9,Kamareddy,16,Kamareddy,GEN,TS-016-003,"Panchayat Bhavan, Kamareddy 3",rural,1242,613,627,1,1,2.4,44.3,78.32,1042,83.9
+Telangana,9,Kamareddy,16,Kamareddy,GEN,TS-016-004,"Community Hall, Kamareddy 4",semi-urban,1386,703,682,1,0,0.41,39.5,82.93,1087,78.43
+Telangana,9,Kamareddy,16,Kamareddy,GEN,TS-016-005,"Government Degree College, Kamareddy 5",rural,847,418,424,2,3,1.96,42.1,84.76,581,68.6
+Telangana,9,Kamareddy,16,Kamareddy,GEN,TS-016-006,"Municipal Community Hall, Kamareddy 6",urban,1108,550,555,2,1,2.35,36.8,65.95,833,75.18
+Telangana,9,Kamareddy,16,Kamareddy,GEN,TS-016-007,"Anganwadi Centre, Kamareddy 7",semi-urban,1367,681,680,2,4,2.38,39.1,74.43,1185,86.69
+Telangana,9,Kamareddy,16,Kamareddy,GEN,TS-016-008,"Government Primary School, Kamareddy 8",rural,1350,684,661,1,4,2.12,33.7,72.78,1005,74.44
+Telangana,9,Kamareddy,16,Kamareddy,GEN,TS-016-009,"Government High School, Kamareddy 9",urban,1042,533,506,1,2,1.21,36.4,65.77,733,70.35
+Telangana,9,Kamareddy,16,Kamareddy,GEN,TS-016-010,"Zilla Parishad High School, Kamareddy 10",rural,1316,671,641,2,2,1.52,38.6,72.93,1015,77.13
+Telangana,23,Nizamabad,17,Nizamabad Urban,GEN,TS-017-001,"Gram Panchayat Office, Nizamabad Urban 1",semi-urban,1087,542,541,2,2,0.6,43.3,70.19,738,67.89
+Telangana,23,Nizamabad,17,Nizamabad Urban,GEN,TS-017-002,"Panchayat Bhavan, Nizamabad Urban 2",semi-urban,866,429,433,0,4,2.21,32.6,77.72,597,68.94
+Telangana,23,Nizamabad,17,Nizamabad Urban,GEN,TS-017-003,"Community Hall, Nizamabad Urban 3",semi-urban,839,410,426,2,1,1.34,38.4,70.18,586,69.85
+Telangana,23,Nizamabad,17,Nizamabad Urban,GEN,TS-017-004,"Government Degree College, Nizamabad Urban 4",rural,1312,639,671,1,1,1.23,38.0,65.21,839,63.95
+Telangana,23,Nizamabad,17,Nizamabad Urban,GEN,TS-017-005,"Municipal Community Hall, Nizamabad Urban 5",rural,1375,667,705,0,3,1.75,43.4,73.82,853,62.04
+Telangana,23,Nizamabad,17,Nizamabad Urban,GEN,TS-017-006,"Anganwadi Centre, Nizamabad Urban 6",semi-urban,1336,651,679,2,4,2.54,44.7,70.43,961,71.93
+Telangana,23,Nizamabad,17,Nizamabad Urban,GEN,TS-017-007,"Government Primary School, Nizamabad Urban 7",rural,1125,562,560,1,2,0.8,41.4,78.57,817,72.62
+Telangana,23,Nizamabad,17,Nizamabad Urban,GEN,TS-017-008,"Government High School, Nizamabad Urban 8",semi-urban,844,411,431,2,0,0.86,39.3,75.3,539,63.86
+Telangana,23,Nizamabad,17,Nizamabad Urban,GEN,TS-017-009,"Zilla Parishad High School, Nizamabad Urban 9",semi-urban,989,480,509,0,0,2.91,42.7,73.58,744,75.23
+Telangana,23,Nizamabad,17,Nizamabad Urban,GEN,TS-017-010,"MPPS School, Nizamabad Urban 10",urban,1142,564,575,0,3,1.33,35.7,86.55,740,64.8
+Telangana,23,Nizamabad,18,Nizamabad Rural,GEN,TS-018-001,"Panchayat Bhavan, Nizamabad Rural 1",rural,1387,681,703,0,3,1.9,39.9,85.95,898,64.74
+Telangana,23,Nizamabad,18,Nizamabad Rural,GEN,TS-018-002,"Community Hall, Nizamabad Rural 2",semi-urban,1300,641,655,2,2,1.08,39.8,64.64,715,55.0
+Telangana,23,Nizamabad,18,Nizamabad Rural,GEN,TS-018-003,"Government Degree College, Nizamabad Rural 3",semi-urban,996,487,505,2,2,2.36,43.2,76.74,816,81.93
+Telangana,23,Nizamabad,18,Nizamabad Rural,GEN,TS-018-004,"Municipal Community Hall, Nizamabad Rural 4",rural,953,461,488,2,2,0.61,39.5,64.7,741,77.75
+Telangana,23,Nizamabad,18,Nizamabad Rural,GEN,TS-018-005,"Anganwadi Centre, Nizamabad Rural 5",urban,1033,502,527,1,3,1.65,43.6,69.75,717,69.41
+Telangana,23,Nizamabad,18,Nizamabad Rural,GEN,TS-018-006,"Government Primary School, Nizamabad Rural 6",semi-urban,1216,589,625,2,0,1.54,40.1,68.09,948,77.96
+Telangana,23,Nizamabad,18,Nizamabad Rural,GEN,TS-018-007,"Government High School, Nizamabad Rural 7",urban,1444,707,734,1,2,1.33,41.1,74.96,999,69.18
+Telangana,23,Nizamabad,18,Nizamabad Rural,GEN,TS-018-008,"Zilla Parishad High School, Nizamabad Rural 8",rural,1026,502,524,0,0,1.39,42.7,77.94,662,64.52
+Telangana,23,Nizamabad,18,Nizamabad Rural,GEN,TS-018-009,"MPPS School, Nizamabad Rural 9",urban,1043,509,531,2,1,2.58,34.7,75.85,677,64.91
+Telangana,23,Nizamabad,18,Nizamabad Rural,GEN,TS-018-010,"Mandala Parishad School, Nizamabad Rural 10",rural,905,443,461,1,0,1.61,44.7,85.01,646,71.38
+Telangana,23,Nizamabad,19,Balkonda,GEN,TS-019-001,"Community Hall, Balkonda 1",semi-urban,1228,606,621,0,1,2.35,40.5,75.34,803,65.39
+Telangana,23,Nizamabad,19,Balkonda,GEN,TS-019-002,"Government Degree College, Balkonda 2",semi-urban,894,443,449,2,0,0.55,31.0,69.49,728,81.43
+Telangana,23,Nizamabad,19,Balkonda,GEN,TS-019-003,"Municipal Community Hall, Balkonda 3",rural,1254,640,613,0,1,0.25,41.1,74.74,1073,85.57
+Telangana,23,Nizamabad,19,Balkonda,GEN,TS-019-004,"Anganwadi Centre, Balkonda 4",rural,1144,585,557,2,0,1.72,36.1,79.57,716,62.59
+Telangana,23,Nizamabad,19,Balkonda,GEN,TS-019-005,"Government Primary School, Balkonda 5",semi-urban,902,457,442,0,3,0.36,33.1,81.76,596,66.08
+Telangana,23,Nizamabad,19,Balkonda,GEN,TS-019-006,"Government High School, Balkonda 6",urban,888,437,450,0,1,1.42,42.0,68.72,754,84.91
+Telangana,23,Nizamabad,19,Balkonda,GEN,TS-019-007,"Zilla Parishad High School, Balkonda 7",rural,1318,663,651,1,3,1.36,40.8,85.64,867,65.78
+Telangana,23,Nizamabad,19,Balkonda,GEN,TS-019-008,"MPPS School, Balkonda 8",rural,1188,587,599,2,0,1.35,37.6,85.68,737,62.04
+Telangana,23,Nizamabad,19,Balkonda,GEN,TS-019-009,"Mandala Parishad School, Balkonda 9",semi-urban,1068,545,520,0,3,1.61,38.4,70.86,796,74.53
+Telangana,23,Nizamabad,19,Balkonda,GEN,TS-019-010,"Government Junior College, Balkonda 10",rural,1414,701,713,0,0,2.22,33.9,84.3,823,58.2
+Telangana,5,Jagtial,20,Koratla,GEN,TS-020-001,"Government Degree College, Koratla 1",urban,1084,525,556,2,1,0.66,37.2,77.14,820,75.65
+Telangana,5,Jagtial,20,Koratla,GEN,TS-020-002,"Municipal Community Hall, Koratla 2",rural,1004,508,492,1,3,1.88,41.2,64.32,737,73.41
+Telangana,5,Jagtial,20,Koratla,GEN,TS-020-003,"Anganwadi Centre, Koratla 3",rural,849,413,433,2,1,1.91,42.1,68.92,771,90.81
+Telangana,5,Jagtial,20,Koratla,GEN,TS-020-004,"Government Primary School, Koratla 4",rural,1419,700,718,0,1,1.39,38.1,74.71,1039,73.22
+Telangana,5,Jagtial,20,Koratla,GEN,TS-020-005,"Government High School, Koratla 5",rural,1107,568,539,0,0,1.55,43.1,79.37,993,89.7
+Telangana,5,Jagtial,20,Koratla,GEN,TS-020-006,"Zilla Parishad High School, Koratla 6",rural,1040,523,513,0,4,1.67,34.7,80.19,846,81.35
+Telangana,5,Jagtial,20,Koratla,GEN,TS-020-007,"MPPS School, Koratla 7",rural,1055,526,525,0,4,1.58,40.1,85.59,798,75.64
+Telangana,5,Jagtial,20,Koratla,GEN,TS-020-008,"Mandala Parishad School, Koratla 8",rural,1375,677,697,0,1,1.45,37.7,81.48,1027,74.69
+Telangana,5,Jagtial,20,Koratla,GEN,TS-020-009,"Government Junior College, Koratla 9",rural,856,421,431,1,3,0.25,40.6,65.17,638,74.53
+Telangana,5,Jagtial,20,Koratla,GEN,TS-020-010,"Gram Panchayat Office, Koratla 10",rural,1207,617,589,0,1,1.38,35.8,66.08,877,72.66
+Telangana,5,Jagtial,21,Jagtial,GEN,TS-021-001,"Municipal Community Hall, Jagtial 1",semi-urban,1144,580,563,1,0,1.48,35.9,79.26,943,82.43
+Telangana,5,Jagtial,21,Jagtial,GEN,TS-021-002,"Anganwadi Centre, Jagtial 2",rural,1338,655,683,0,0,0.69,39.7,67.32,1122,83.86
+Telangana,5,Jagtial,21,Jagtial,GEN,TS-021-003,"Government Primary School, Jagtial 3",semi-urban,838,408,425,1,4,1.07,43.3,67.58,732,87.35
+Telangana,5,Jagtial,21,Jagtial,GEN,TS-021-004,"Government High School, Jagtial 4",semi-urban,886,452,430,0,4,1.66,41.9,73.18,726,81.94
+Telangana,5,Jagtial,21,Jagtial,GEN,TS-021-005,"Zilla Parishad High School, Jagtial 5",semi-urban,1133,567,564,2,0,1.3,38.3,64.04,716,63.2
+Telangana,5,Jagtial,21,Jagtial,GEN,TS-021-006,"MPPS School, Jagtial 6",rural,1307,670,635,0,2,1.42,35.4,67.71,969,74.14
+Telangana,5,Jagtial,21,Jagtial,GEN,TS-021-007,"Mandala Parishad School, Jagtial 7",semi-urban,1029,512,512,2,3,2.31,33.0,79.98,729,70.85
+Telangana,5,Jagtial,21,Jagtial,GEN,TS-021-008,"Government Junior College, Jagtial 8",semi-urban,1262,612,644,2,4,1.39,37.0,70.89,854,67.67
+Telangana,5,Jagtial,21,Jagtial,GEN,TS-021-009,"Gram Panchayat Office, Jagtial 9",semi-urban,971,496,472,2,1,1.94,42.5,72.94,764,78.68
+Telangana,5,Jagtial,21,Jagtial,GEN,TS-021-010,"Panchayat Bhavan, Jagtial 10",semi-urban,891,440,447,0,4,2.0,38.0,68.5,833,93.49
+Telangana,5,Jagtial,22,Dharmapuri,SC,TS-022-001,"Anganwadi Centre, Dharmapuri 1",semi-urban,1290,659,631,0,0,2.08,41.8,65.38,964,74.73
+Telangana,5,Jagtial,22,Dharmapuri,SC,TS-022-002,"Government Primary School, Dharmapuri 2",rural,872,440,429,2,1,1.59,35.0,64.56,624,71.56
+Telangana,5,Jagtial,22,Dharmapuri,SC,TS-022-003,"Government High School, Dharmapuri 3",rural,1414,724,686,1,3,2.66,42.9,81.73,983,69.52
+Telangana,5,Jagtial,22,Dharmapuri,SC,TS-022-004,"Zilla Parishad High School, Dharmapuri 4",urban,951,484,462,1,4,0.92,43.2,83.57,687,72.24
+Telangana,5,Jagtial,22,Dharmapuri,SC,TS-022-005,"MPPS School, Dharmapuri 5",rural,1130,563,561,2,4,1.24,42.4,84.75,885,78.32
+Telangana,5,Jagtial,22,Dharmapuri,SC,TS-022-006,"Mandala Parishad School, Dharmapuri 6",rural,1439,718,717,2,2,0.99,43.3,80.16,1086,75.47
+Telangana,5,Jagtial,22,Dharmapuri,SC,TS-022-007,"Government Junior College, Dharmapuri 7",rural,855,421,432,2,0,0.25,41.2,85.18,739,86.43
+Telangana,5,Jagtial,22,Dharmapuri,SC,TS-022-008,"Gram Panchayat Office, Dharmapuri 8",semi-urban,970,486,481,1,2,1.42,43.7,76.31,778,80.21
+Telangana,5,Jagtial,22,Dharmapuri,SC,TS-022-009,"Panchayat Bhavan, Dharmapuri 9",semi-urban,1247,609,636,2,0,1.32,41.3,77.15,914,73.3
+Telangana,5,Jagtial,22,Dharmapuri,SC,TS-022-010,"Community Hall, Dharmapuri 10",urban,910,444,465,1,0,2.09,38.5,64.61,640,70.33
+Telangana,24,Peddapalli,23,Ramagundam,GEN,TS-023-001,"Government Primary School, Ramagundam 1",rural,1415,699,714,2,0,2.06,37.0,79.29,1024,72.37
+Telangana,24,Peddapalli,23,Ramagundam,GEN,TS-023-002,"Government High School, Ramagundam 2",urban,916,458,455,2,1,2.33,41.8,76.72,698,76.2
+Telangana,24,Peddapalli,23,Ramagundam,GEN,TS-023-003,"Zilla Parishad High School, Ramagundam 3",semi-urban,1362,687,670,1,4,1.31,38.9,70.78,943,69.24
+Telangana,24,Peddapalli,23,Ramagundam,GEN,TS-023-004,"MPPS School, Ramagundam 4",rural,1280,655,621,0,4,1.22,34.6,66.98,1038,81.09
+Telangana,24,Peddapalli,23,Ramagundam,GEN,TS-023-005,"Mandala Parishad School, Ramagundam 5",rural,1023,504,518,0,1,1.1,41.6,78.05,718,70.19
+Telangana,24,Peddapalli,23,Ramagundam,GEN,TS-023-006,"Government Junior College, Ramagundam 6",urban,1172,579,592,1,0,0.76,44.8,84.02,899,76.71
+Telangana,24,Peddapalli,23,Ramagundam,GEN,TS-023-007,"Gram Panchayat Office, Ramagundam 7",rural,1080,543,534,1,2,0.66,41.2,86.62,795,73.61
+Telangana,24,Peddapalli,23,Ramagundam,GEN,TS-023-008,"Panchayat Bhavan, Ramagundam 8",rural,965,486,477,2,0,1.41,41.1,82.0,706,73.16
+Telangana,24,Peddapalli,23,Ramagundam,GEN,TS-023-009,"Community Hall, Ramagundam 9",rural,1024,524,498,2,0,0.66,41.4,67.59,669,65.33
+Telangana,24,Peddapalli,23,Ramagundam,GEN,TS-023-010,"Government Degree College, Ramagundam 10",rural,858,437,417,0,4,1.16,39.4,79.95,665,77.51
+Telangana,24,Peddapalli,24,Manthani,GEN,TS-024-001,"Government High School, Manthani 1",semi-urban,1196,587,606,1,2,0.26,40.2,64.14,907,75.84
+Telangana,24,Peddapalli,24,Manthani,GEN,TS-024-002,"Zilla Parishad High School, Manthani 2",urban,1332,662,668,0,2,1.1,35.3,81.55,1013,76.05
+Telangana,24,Peddapalli,24,Manthani,GEN,TS-024-003,"MPPS School, Manthani 3",urban,1330,662,664,1,3,0.96,33.3,80.24,964,72.48
+Telangana,24,Peddapalli,24,Manthani,GEN,TS-024-004,"Mandala Parishad School, Manthani 4",urban,1321,654,663,2,2,2.01,42.7,70.1,880,66.62
+Telangana,24,Peddapalli,24,Manthani,GEN,TS-024-005,"Government Junior College, Manthani 5",semi-urban,1304,637,666,0,1,1.07,33.9,64.23,988,75.77
+Telangana,24,Peddapalli,24,Manthani,GEN,TS-024-006,"Gram Panchayat Office, Manthani 6",semi-urban,1345,661,682,2,0,0.7,38.4,71.96,1118,83.12
+Telangana,24,Peddapalli,24,Manthani,GEN,TS-024-007,"Panchayat Bhavan, Manthani 7",urban,1164,592,569,2,1,1.47,46.4,80.75,796,68.38
+Telangana,24,Peddapalli,24,Manthani,GEN,TS-024-008,"Community Hall, Manthani 8",rural,1124,550,571,0,3,2.33,33.1,81.28,770,68.51
+Telangana,24,Peddapalli,24,Manthani,GEN,TS-024-009,"Government Degree College, Manthani 9",rural,1206,590,612,0,4,1.38,37.5,85.99,839,69.57
+Telangana,24,Peddapalli,24,Manthani,GEN,TS-024-010,"Municipal Community Hall, Manthani 10",rural,1420,714,705,0,1,0.89,38.5,83.42,1155,81.34
+Telangana,24,Peddapalli,25,Peddapalle,GEN,TS-025-001,"Zilla Parishad High School, Peddapalle 1",rural,1421,706,712,1,2,0.43,39.4,66.34,1184,83.32
+Telangana,24,Peddapalli,25,Peddapalle,GEN,TS-025-002,"MPPS School, Peddapalle 2",rural,1249,640,607,1,1,2.22,37.9,71.05,879,70.38
+Telangana,24,Peddapalli,25,Peddapalle,GEN,TS-025-003,"Mandala Parishad School, Peddapalle 3",urban,1133,556,575,2,0,1.97,36.8,70.88,924,81.55
+Telangana,24,Peddapalli,25,Peddapalle,GEN,TS-025-004,"Government Junior College, Peddapalle 4",rural,901,458,440,1,2,2.91,39.4,78.45,679,75.36
+Telangana,24,Peddapalli,25,Peddapalle,GEN,TS-025-005,"Gram Panchayat Office, Peddapalle 5",semi-urban,1130,570,558,0,2,1.98,40.3,80.14,808,71.5
+Telangana,24,Peddapalli,25,Peddapalle,GEN,TS-025-006,"Panchayat Bhavan, Peddapalle 6",semi-urban,1054,536,515,2,1,1.9,37.7,82.6,842,79.89
+Telangana,24,Peddapalli,25,Peddapalle,GEN,TS-025-007,"Community Hall, Peddapalle 7",rural,1109,561,545,1,2,0.45,43.7,65.46,812,73.22
+Telangana,24,Peddapalli,25,Peddapalle,GEN,TS-025-008,"Government Degree College, Peddapalle 8",rural,1366,682,684,0,0,0.71,41.3,86.28,1021,74.74
+Telangana,24,Peddapalli,25,Peddapalle,GEN,TS-025-009,"Municipal Community Hall, Peddapalle 9",urban,1151,568,581,1,1,1.88,41.5,75.12,709,61.6
+Telangana,24,Peddapalli,25,Peddapalle,GEN,TS-025-010,"Anganwadi Centre, Peddapalle 10",rural,932,474,458,0,0,2.98,39.8,75.83,719,77.15
+Telangana,10,Karimnagar,26,Karimnagar,GEN,TS-026-001,"MPPS School, Karimnagar 1",semi-urban,1313,647,664,1,1,0.81,37.2,85.42,876,66.72
+Telangana,10,Karimnagar,26,Karimnagar,GEN,TS-026-002,"Mandala Parishad School, Karimnagar 2",urban,1347,684,662,1,0,1.34,34.3,74.66,899,66.74
+Telangana,10,Karimnagar,26,Karimnagar,GEN,TS-026-003,"Government Junior College, Karimnagar 3",rural,1174,595,578,1,0,2.15,41.9,76.31,908,77.34
+Telangana,10,Karimnagar,26,Karimnagar,GEN,TS-026-004,"Gram Panchayat Office, Karimnagar 4",rural,1249,636,611,0,2,0.96,36.8,84.05,853,68.29
+Telangana,10,Karimnagar,26,Karimnagar,GEN,TS-026-005,"Panchayat Bhavan, Karimnagar 5",rural,898,452,445,0,1,1.69,47.7,84.28,616,68.6
+Telangana,10,Karimnagar,26,Karimnagar,GEN,TS-026-006,"Community Hall, Karimnagar 6",rural,845,419,422,1,3,1.81,36.4,68.8,612,72.43
+Telangana,10,Karimnagar,26,Karimnagar,GEN,TS-026-007,"Government Degree College, Karimnagar 7",semi-urban,902,454,444,0,4,0.25,36.3,86.91,574,63.64
+Telangana,10,Karimnagar,26,Karimnagar,GEN,TS-026-008,"Municipal Community Hall, Karimnagar 8",rural,1215,601,611,0,3,1.1,39.5,72.44,905,74.49
+Telangana,10,Karimnagar,26,Karimnagar,GEN,TS-026-009,"Anganwadi Centre, Karimnagar 9",semi-urban,1214,594,616,0,4,1.27,39.8,74.14,805,66.31
+Telangana,10,Karimnagar,26,Karimnagar,GEN,TS-026-010,"Government Primary School, Karimnagar 10",semi-urban,1277,636,638,0,3,2.8,39.4,79.71,882,69.07
+Telangana,10,Karimnagar,27,Choppadandi,SC,TS-027-001,"Mandala Parishad School, Choppadandi 1",semi-urban,1207,614,588,1,4,2.01,37.5,67.91,835,69.18
+Telangana,10,Karimnagar,27,Choppadandi,SC,TS-027-002,"Government Junior College, Choppadandi 2",rural,1320,665,650,2,3,1.07,44.4,76.94,906,68.64
+Telangana,10,Karimnagar,27,Choppadandi,SC,TS-027-003,"Gram Panchayat Office, Choppadandi 3",urban,875,430,443,0,2,1.05,41.1,66.82,683,78.06
+Telangana,10,Karimnagar,27,Choppadandi,SC,TS-027-004,"Panchayat Bhavan, Choppadandi 4",semi-urban,889,448,437,2,2,2.95,38.7,64.62,600,67.49
+Telangana,10,Karimnagar,27,Choppadandi,SC,TS-027-005,"Community Hall, Choppadandi 5",urban,1075,546,525,1,3,1.67,37.0,86.38,799,74.33
+Telangana,10,Karimnagar,27,Choppadandi,SC,TS-027-006,"Government Degree College, Choppadandi 6",rural,1232,615,614,2,1,1.49,41.3,84.15,865,70.21
+Telangana,10,Karimnagar,27,Choppadandi,SC,TS-027-007,"Municipal Community Hall, Choppadandi 7",urban,1446,714,729,1,2,1.45,37.1,86.62,1167,80.71
+Telangana,10,Karimnagar,27,Choppadandi,SC,TS-027-008,"Anganwadi Centre, Choppadandi 8",rural,1105,540,564,1,0,0.59,40.2,78.23,734,66.43
+Telangana,10,Karimnagar,27,Choppadandi,SC,TS-027-009,"Government Primary School, Choppadandi 9",urban,1407,694,712,0,1,1.52,42.5,86.73,904,64.25
+Telangana,10,Karimnagar,27,Choppadandi,SC,TS-027-010,"Government High School, Choppadandi 10",rural,1280,649,627,1,3,1.61,42.1,74.43,941,73.52
+Telangana,25,Rajanna Sircilla,28,Vemulawada,GEN,TS-028-001,"Government Junior College, Vemulawada 1",rural,1037,514,521,1,1,1.3,36.5,67.63,668,64.42
+Telangana,25,Rajanna Sircilla,28,Vemulawada,GEN,TS-028-002,"Gram Panchayat Office, Vemulawada 2",semi-urban,958,469,483,2,4,0.59,40.4,66.31,647,67.54
+Telangana,25,Rajanna Sircilla,28,Vemulawada,GEN,TS-028-003,"Panchayat Bhavan, Vemulawada 3",rural,1011,516,493,2,0,1.36,42.3,80.4,683,67.56
+Telangana,25,Rajanna Sircilla,28,Vemulawada,GEN,TS-028-004,"Community Hall, Vemulawada 4",rural,1056,524,532,0,0,0.73,43.0,81.55,737,69.79
+Telangana,25,Rajanna Sircilla,28,Vemulawada,GEN,TS-028-005,"Government Degree College, Vemulawada 5",urban,851,424,423,1,3,2.98,40.3,72.0,471,55.35
+Telangana,25,Rajanna Sircilla,28,Vemulawada,GEN,TS-028-006,"Municipal Community Hall, Vemulawada 6",semi-urban,872,438,430,1,3,1.95,36.6,77.77,588,67.43
+Telangana,25,Rajanna Sircilla,28,Vemulawada,GEN,TS-028-007,"Anganwadi Centre, Vemulawada 7",rural,908,442,461,1,4,2.11,40.3,85.48,616,67.84
+Telangana,25,Rajanna Sircilla,28,Vemulawada,GEN,TS-028-008,"Government Primary School, Vemulawada 8",rural,863,438,419,2,4,2.06,42.5,75.22,633,73.35
+Telangana,25,Rajanna Sircilla,28,Vemulawada,GEN,TS-028-009,"Government High School, Vemulawada 9",semi-urban,1348,686,659,0,3,1.28,36.2,83.03,1108,82.2
+Telangana,25,Rajanna Sircilla,28,Vemulawada,GEN,TS-028-010,"Zilla Parishad High School, Vemulawada 10",rural,1015,493,522,0,0,0.9,36.4,85.47,677,66.7
+Telangana,25,Rajanna Sircilla,29,Sircilla,GEN,TS-029-001,"Gram Panchayat Office, Sircilla 1",rural,1445,713,730,0,2,2.56,40.8,67.64,994,68.79
+Telangana,25,Rajanna Sircilla,29,Sircilla,GEN,TS-029-002,"Panchayat Bhavan, Sircilla 2",rural,1437,718,717,0,2,1.38,41.7,80.17,1031,71.75
+Telangana,25,Rajanna Sircilla,29,Sircilla,GEN,TS-029-003,"Community Hall, Sircilla 3",rural,954,475,477,0,2,1.2,39.3,81.53,707,74.11
+Telangana,25,Rajanna Sircilla,29,Sircilla,GEN,TS-029-004,"Government Degree College, Sircilla 4",rural,844,415,427,0,2,0.95,37.3,85.34,574,68.01
+Telangana,25,Rajanna Sircilla,29,Sircilla,GEN,TS-029-005,"Municipal Community Hall, Sircilla 5",semi-urban,1157,573,583,0,1,0.39,47.2,73.6,824,71.22
+Telangana,25,Rajanna Sircilla,29,Sircilla,GEN,TS-029-006,"Anganwadi Centre, Sircilla 6",semi-urban,1090,551,538,0,1,1.11,42.0,84.36,866,79.45
+Telangana,25,Rajanna Sircilla,29,Sircilla,GEN,TS-029-007,"Government Primary School, Sircilla 7",urban,1102,559,541,1,1,2.6,40.7,69.54,718,65.15
+Telangana,25,Rajanna Sircilla,29,Sircilla,GEN,TS-029-008,"Government High School, Sircilla 8",semi-urban,1362,663,696,2,1,0.79,35.8,85.26,968,71.07
+Telangana,25,Rajanna Sircilla,29,Sircilla,GEN,TS-029-009,"Zilla Parishad High School, Sircilla 9",rural,1100,545,550,2,3,0.87,38.8,86.22,790,71.82
+Telangana,25,Rajanna Sircilla,29,Sircilla,GEN,TS-029-010,"MPPS School, Sircilla 10",urban,1100,547,551,1,1,1.15,35.6,70.73,765,69.55
+Telangana,10,Karimnagar,30,Manakondur,SC,TS-030-001,"Panchayat Bhavan, Manakondur 1",semi-urban,1350,655,692,0,3,1.39,38.9,83.52,888,65.78
+Telangana,10,Karimnagar,30,Manakondur,SC,TS-030-002,"Community Hall, Manakondur 2",rural,1192,606,581,1,4,0.8,39.6,83.71,969,81.29
+Telangana,10,Karimnagar,30,Manakondur,SC,TS-030-003,"Government Degree College, Manakondur 3",semi-urban,1238,615,621,1,1,1.14,40.0,81.07,922,74.47
+Telangana,10,Karimnagar,30,Manakondur,SC,TS-030-004,"Municipal Community Hall, Manakondur 4",rural,1118,558,558,1,1,0.29,38.7,82.4,790,70.66
+Telangana,10,Karimnagar,30,Manakondur,SC,TS-030-005,"Anganwadi Centre, Manakondur 5",semi-urban,1321,674,643,2,2,1.32,39.2,84.25,692,52.38
+Telangana,10,Karimnagar,30,Manakondur,SC,TS-030-006,"Government Primary School, Manakondur 6",rural,872,447,423,1,1,0.53,42.5,74.86,636,72.94
+Telangana,10,Karimnagar,30,Manakondur,SC,TS-030-007,"Government High School, Manakondur 7",rural,1265,642,622,1,0,1.58,36.8,78.62,937,74.07
+Telangana,10,Karimnagar,30,Manakondur,SC,TS-030-008,"Zilla Parishad High School, Manakondur 8",rural,981,484,494,0,3,1.8,41.9,78.16,729,74.31
+Telangana,10,Karimnagar,30,Manakondur,SC,TS-030-009,"MPPS School, Manakondur 9",rural,1077,522,552,2,1,1.93,42.3,64.14,711,66.02
+Telangana,10,Karimnagar,30,Manakondur,SC,TS-030-010,"Mandala Parishad School, Manakondur 10",rural,868,431,434,0,3,0.95,40.6,82.75,625,72.0
+Telangana,10,Karimnagar,31,Huzurabad,GEN,TS-031-001,"Community Hall, Huzurabad 1",semi-urban,1218,622,591,1,4,2.14,34.2,84.61,844,69.29
+Telangana,10,Karimnagar,31,Huzurabad,GEN,TS-031-002,"Government Degree College, Huzurabad 2",rural,1004,485,515,1,3,0.25,38.9,85.68,842,83.86
+Telangana,10,Karimnagar,31,Huzurabad,GEN,TS-031-003,"Municipal Community Hall, Huzurabad 3",rural,1243,616,627,0,0,1.82,45.7,68.94,883,71.04
+Telangana,10,Karimnagar,31,Huzurabad,GEN,TS-031-004,"Anganwadi Centre, Huzurabad 4",rural,1208,607,599,0,2,2.47,36.1,78.85,894,74.01
+Telangana,10,Karimnagar,31,Huzurabad,GEN,TS-031-005,"Government Primary School, Huzurabad 5",semi-urban,969,484,481,2,2,2.27,42.0,72.73,712,73.48
+Telangana,10,Karimnagar,31,Huzurabad,GEN,TS-031-006,"Government High School, Huzurabad 6",rural,1283,632,648,2,1,1.92,38.9,72.99,912,71.08
+Telangana,10,Karimnagar,31,Huzurabad,GEN,TS-031-007,"Zilla Parishad High School, Huzurabad 7",semi-urban,870,444,422,1,3,1.39,40.2,75.98,700,80.46
+Telangana,10,Karimnagar,31,Huzurabad,GEN,TS-031-008,"MPPS School, Huzurabad 8",semi-urban,980,502,476,0,2,0.84,38.6,77.09,632,64.49
+Telangana,10,Karimnagar,31,Huzurabad,GEN,TS-031-009,"Mandala Parishad School, Huzurabad 9",rural,1294,655,635,2,2,0.49,40.3,70.26,974,75.27
+Telangana,10,Karimnagar,31,Huzurabad,GEN,TS-031-010,"Government Junior College, Huzurabad 10",rural,1079,548,526,2,3,1.65,33.6,67.33,876,81.19
+Telangana,28,Siddipet,32,Husnabad,GEN,TS-032-001,"Government Degree College, Husnabad 1",rural,891,451,438,0,2,1.4,42.1,85.34,695,78.0
+Telangana,28,Siddipet,32,Husnabad,GEN,TS-032-002,"Municipal Community Hall, Husnabad 2",urban,1202,605,596,1,0,1.09,34.9,65.26,990,82.36
+Telangana,28,Siddipet,32,Husnabad,GEN,TS-032-003,"Anganwadi Centre, Husnabad 3",rural,1305,633,670,0,2,1.85,34.1,83.89,1050,80.46
+Telangana,28,Siddipet,32,Husnabad,GEN,TS-032-004,"Government Primary School, Husnabad 4",rural,1320,639,678,1,2,1.82,38.1,66.36,921,69.77
+Telangana,28,Siddipet,32,Husnabad,GEN,TS-032-005,"Government High School, Husnabad 5",rural,1232,625,605,2,0,2.05,41.4,84.45,919,74.59
+Telangana,28,Siddipet,32,Husnabad,GEN,TS-032-006,"Zilla Parishad High School, Husnabad 6",rural,1085,558,527,0,0,1.59,39.7,85.61,844,77.79
+Telangana,28,Siddipet,32,Husnabad,GEN,TS-032-007,"MPPS School, Husnabad 7",rural,1074,541,529,0,4,1.21,41.9,84.37,803,74.77
+Telangana,28,Siddipet,32,Husnabad,GEN,TS-032-008,"Mandala Parishad School, Husnabad 8",semi-urban,1041,504,533,2,2,2.34,43.6,70.31,686,65.9
+Telangana,28,Siddipet,32,Husnabad,GEN,TS-032-009,"Government Junior College, Husnabad 9",rural,1249,634,613,2,0,0.89,39.9,68.49,919,73.58
+Telangana,28,Siddipet,32,Husnabad,GEN,TS-032-010,"Gram Panchayat Office, Husnabad 10",rural,1437,718,717,2,0,1.82,37.9,64.07,871,60.61
+Telangana,28,Siddipet,33,Siddipet,GEN,TS-033-001,"Municipal Community Hall, Siddipet 1",rural,922,470,447,1,4,1.03,41.4,83.19,633,68.66
+Telangana,28,Siddipet,33,Siddipet,GEN,TS-033-002,"Anganwadi Centre, Siddipet 2",semi-urban,1042,509,530,0,3,0.64,39.9,77.19,847,81.29
+Telangana,28,Siddipet,33,Siddipet,GEN,TS-033-003,"Government Primary School, Siddipet 3",semi-urban,1362,680,681,1,0,3.06,38.9,78.83,827,60.72
+Telangana,28,Siddipet,33,Siddipet,GEN,TS-033-004,"Government High School, Siddipet 4",semi-urban,976,498,477,0,1,1.68,43.2,78.15,762,78.07
+Telangana,28,Siddipet,33,Siddipet,GEN,TS-033-005,"Zilla Parishad High School, Siddipet 5",urban,1403,706,695,0,2,3.18,33.2,80.94,859,61.23
+Telangana,28,Siddipet,33,Siddipet,GEN,TS-033-006,"MPPS School, Siddipet 6",semi-urban,830,418,407,2,3,1.29,36.2,74.83,575,69.28
+Telangana,28,Siddipet,33,Siddipet,GEN,TS-033-007,"Mandala Parishad School, Siddipet 7",urban,1064,520,542,2,0,3.18,37.2,83.0,648,60.9
+Telangana,28,Siddipet,33,Siddipet,GEN,TS-033-008,"Government Junior College, Siddipet 8",rural,1342,684,655,1,2,0.25,36.4,83.01,872,64.98
+Telangana,28,Siddipet,33,Siddipet,GEN,TS-033-009,"Gram Panchayat Office, Siddipet 9",urban,1179,597,580,2,0,2.01,38.1,69.74,858,72.77
+Telangana,28,Siddipet,33,Siddipet,GEN,TS-033-010,"Panchayat Bhavan, Siddipet 10",rural,1287,659,625,1,2,2.23,37.2,69.27,797,61.93
+Telangana,16,Medak,34,Medak,GEN,TS-034-001,"Anganwadi Centre, Medak 1",semi-urban,1396,704,689,2,1,2.01,39.7,76.99,980,70.2
+Telangana,16,Medak,34,Medak,GEN,TS-034-002,"Government Primary School, Medak 2",semi-urban,1353,674,676,1,2,2.89,39.4,86.18,919,67.92
+Telangana,16,Medak,34,Medak,GEN,TS-034-003,"Government High School, Medak 3",rural,1231,627,603,1,0,1.71,44.3,83.55,1004,81.56
+Telangana,16,Medak,34,Medak,GEN,TS-034-004,"Zilla Parishad High School, Medak 4",urban,1337,662,671,0,4,1.44,39.6,69.27,1091,81.6
+Telangana,16,Medak,34,Medak,GEN,TS-034-005,"MPPS School, Medak 5",semi-urban,867,428,437,1,1,0.98,42.1,77.29,512,59.05
+Telangana,16,Medak,34,Medak,GEN,TS-034-006,"Mandala Parishad School, Medak 6",rural,821,411,409,0,1,0.25,41.5,72.63,568,69.18
+Telangana,16,Medak,34,Medak,GEN,TS-034-007,"Government Junior College, Medak 7",rural,1064,540,519,1,4,2.03,40.8,66.43,766,71.99
+Telangana,16,Medak,34,Medak,GEN,TS-034-008,"Gram Panchayat Office, Medak 8",rural,879,437,439,2,1,1.58,42.3,72.96,679,77.25
+Telangana,16,Medak,34,Medak,GEN,TS-034-009,"Panchayat Bhavan, Medak 9",rural,940,478,458,0,4,0.91,37.0,72.28,559,59.47
+Telangana,16,Medak,34,Medak,GEN,TS-034-010,"Community Hall, Medak 10",rural,1267,643,620,2,2,1.55,40.9,75.76,921,72.69
+Telangana,27,Sangareddy,35,Narayankhed,GEN,TS-035-001,"Government Primary School, Narayankhed 1",semi-urban,1338,659,676,0,3,1.73,41.7,74.86,1009,75.41
+Telangana,27,Sangareddy,35,Narayankhed,GEN,TS-035-002,"Government High School, Narayankhed 2",rural,1151,589,560,2,0,1.36,45.7,64.79,826,71.76
+Telangana,27,Sangareddy,35,Narayankhed,GEN,TS-035-003,"Zilla Parishad High School, Narayankhed 3",rural,1052,526,525,0,1,1.2,35.7,65.64,854,81.18
+Telangana,27,Sangareddy,35,Narayankhed,GEN,TS-035-004,"MPPS School, Narayankhed 4",semi-urban,893,454,439,0,0,2.07,40.8,82.76,627,70.21
+Telangana,27,Sangareddy,35,Narayankhed,GEN,TS-035-005,"Mandala Parishad School, Narayankhed 5",urban,832,423,405,2,2,2.69,36.2,83.95,513,61.66
+Telangana,27,Sangareddy,35,Narayankhed,GEN,TS-035-006,"Government Junior College, Narayankhed 6",urban,1269,649,616,1,3,0.95,36.6,67.44,911,71.79
+Telangana,27,Sangareddy,35,Narayankhed,GEN,TS-035-007,"Gram Panchayat Office, Narayankhed 7",rural,1156,592,561,2,1,0.25,42.8,65.86,780,67.47
+Telangana,27,Sangareddy,35,Narayankhed,GEN,TS-035-008,"Panchayat Bhavan, Narayankhed 8",urban,1401,701,700,0,0,1.6,41.6,66.27,918,65.52
+Telangana,27,Sangareddy,35,Narayankhed,GEN,TS-035-009,"Community Hall, Narayankhed 9",semi-urban,1183,582,600,0,1,2.11,43.6,84.93,759,64.16
+Telangana,27,Sangareddy,35,Narayankhed,GEN,TS-035-010,"Government Degree College, Narayankhed 10",rural,1437,711,725,0,1,1.86,40.8,84.57,940,65.41
+Telangana,27,Sangareddy,36,Andole,SC,TS-036-001,"Government High School, Andole 1",rural,1069,541,523,1,4,1.15,36.9,79.44,645,60.34
+Telangana,27,Sangareddy,36,Andole,SC,TS-036-002,"Zilla Parishad High School, Andole 2",semi-urban,1184,582,598,1,3,1.59,36.1,83.08,949,80.15
+Telangana,27,Sangareddy,36,Andole,SC,TS-036-003,"MPPS School, Andole 3",rural,1059,516,541,1,1,2.41,42.5,72.86,754,71.2
+Telangana,27,Sangareddy,36,Andole,SC,TS-036-004,"Mandala Parishad School, Andole 4",rural,1026,516,507,2,1,2.48,40.5,73.22,725,70.66
+Telangana,27,Sangareddy,36,Andole,SC,TS-036-005,"Government Junior College, Andole 5",semi-urban,1224,600,622,2,0,1.19,37.1,74.3,956,78.1
+Telangana,27,Sangareddy,36,Andole,SC,TS-036-006,"Gram Panchayat Office, Andole 6",urban,989,479,505,2,3,1.77,38.8,72.7,732,74.01
+Telangana,27,Sangareddy,36,Andole,SC,TS-036-007,"Panchayat Bhavan, Andole 7",rural,924,474,448,0,2,1.74,39.7,85.19,646,69.91
+Telangana,27,Sangareddy,36,Andole,SC,TS-036-008,"Community Hall, Andole 8",rural,1317,667,649,1,0,1.55,37.5,86.57,951,72.21
+Telangana,27,Sangareddy,36,Andole,SC,TS-036-009,"Government Degree College, Andole 9",semi-urban,1112,545,564,0,3,2.6,40.6,76.37,785,70.59
+Telangana,27,Sangareddy,36,Andole,SC,TS-036-010,"Municipal Community Hall, Andole 10",rural,893,433,456,1,3,1.39,42.8,71.19,677,75.81
+Telangana,16,Medak,37,Narsapur,GEN,TS-037-001,"Zilla Parishad High School, Narsapur 1",rural,1239,625,613,0,1,1.6,40.2,75.06,620,50.04
+Telangana,16,Medak,37,Narsapur,GEN,TS-037-002,"MPPS School, Narsapur 2",semi-urban,1260,644,614,1,1,1.67,34.0,70.42,944,74.92
+Telangana,16,Medak,37,Narsapur,GEN,TS-037-003,"Mandala Parishad School, Narsapur 3",rural,1401,685,714,0,2,2.76,42.0,76.17,1074,76.66
+Telangana,16,Medak,37,Narsapur,GEN,TS-037-004,"Government Junior College, Narsapur 4",rural,1157,585,569,0,3,1.75,46.2,71.49,823,71.13
+Telangana,16,Medak,37,Narsapur,GEN,TS-037-005,"Gram Panchayat Office, Narsapur 5",urban,985,500,483,2,0,1.4,43.5,72.59,711,72.18
+Telangana,16,Medak,37,Narsapur,GEN,TS-037-006,"Panchayat Bhavan, Narsapur 6",rural,1361,686,674,0,1,1.41,43.7,66.83,938,68.92
+Telangana,16,Medak,37,Narsapur,GEN,TS-037-007,"Community Hall, Narsapur 7",rural,1185,582,603,0,0,0.54,36.0,68.56,796,67.17
+Telangana,16,Medak,37,Narsapur,GEN,TS-037-008,"Government Degree College, Narsapur 8",rural,861,431,430,0,0,2.53,44.8,65.47,726,84.32
+Telangana,16,Medak,37,Narsapur,GEN,TS-037-009,"Municipal Community Hall, Narsapur 9",semi-urban,1234,627,602,1,4,2.93,40.3,64.12,912,73.91
+Telangana,16,Medak,37,Narsapur,GEN,TS-037-010,"Anganwadi Centre, Narsapur 10",rural,1214,597,614,0,3,1.69,39.2,73.73,989,81.47
+Telangana,27,Sangareddy,38,Zahirabad,SC,TS-038-001,"MPPS School, Zahirabad 1",semi-urban,1324,667,654,0,3,0.87,41.1,75.92,1020,77.04
+Telangana,27,Sangareddy,38,Zahirabad,SC,TS-038-002,"Mandala Parishad School, Zahirabad 2",rural,1272,648,624,0,0,1.52,37.0,86.59,907,71.31
+Telangana,27,Sangareddy,38,Zahirabad,SC,TS-038-003,"Government Junior College, Zahirabad 3",rural,923,461,459,0,3,2.47,39.8,81.22,673,72.91
+Telangana,27,Sangareddy,38,Zahirabad,SC,TS-038-004,"Gram Panchayat Office, Zahirabad 4",rural,1009,503,500,2,4,1.85,38.6,84.11,688,68.19
+Telangana,27,Sangareddy,38,Zahirabad,SC,TS-038-005,"Panchayat Bhavan, Zahirabad 5",rural,1007,511,491,1,4,1.6,41.5,67.31,775,76.96
+Telangana,27,Sangareddy,38,Zahirabad,SC,TS-038-006,"Community Hall, Zahirabad 6",semi-urban,1012,517,491,2,2,2.01,40.9,73.99,619,61.17
+Telangana,27,Sangareddy,38,Zahirabad,SC,TS-038-007,"Government Degree College, Zahirabad 7",semi-urban,842,419,420,2,1,2.04,41.1,64.57,685,81.35
+Telangana,27,Sangareddy,38,Zahirabad,SC,TS-038-008,"Municipal Community Hall, Zahirabad 8",rural,879,435,439,2,3,1.24,37.1,84.56,627,71.33
+Telangana,27,Sangareddy,38,Zahirabad,SC,TS-038-009,"Anganwadi Centre, Zahirabad 9",rural,1320,648,671,1,0,1.21,38.5,67.63,1021,77.35
+Telangana,27,Sangareddy,38,Zahirabad,SC,TS-038-010,"Government Primary School, Zahirabad 10",semi-urban,924,451,470,0,3,1.25,41.2,66.94,730,79.0
+Telangana,27,Sangareddy,39,Sangareddy,GEN,TS-039-001,"Mandala Parishad School, Sangareddy 1",urban,830,421,408,1,0,1.65,42.0,74.8,586,70.6
+Telangana,27,Sangareddy,39,Sangareddy,GEN,TS-039-002,"Government Junior College, Sangareddy 2",urban,1052,520,531,1,0,1.51,39.9,85.08,758,72.05
+Telangana,27,Sangareddy,39,Sangareddy,GEN,TS-039-003,"Gram Panchayat Office, Sangareddy 3",rural,1390,709,677,2,2,1.79,39.7,71.35,1300,93.53
+Telangana,27,Sangareddy,39,Sangareddy,GEN,TS-039-004,"Panchayat Bhavan, Sangareddy 4",rural,1096,543,548,1,4,1.77,40.1,76.01,859,78.38
+Telangana,27,Sangareddy,39,Sangareddy,GEN,TS-039-005,"Community Hall, Sangareddy 5",rural,1099,534,564,0,1,1.85,41.8,77.25,810,73.7
+Telangana,27,Sangareddy,39,Sangareddy,GEN,TS-039-006,"Government Degree College, Sangareddy 6",semi-urban,1355,679,676,0,0,0.88,34.1,82.76,1152,85.02
+Telangana,27,Sangareddy,39,Sangareddy,GEN,TS-039-007,"Municipal Community Hall, Sangareddy 7",rural,1027,501,525,0,1,1.29,40.4,73.67,753,73.32
+Telangana,27,Sangareddy,39,Sangareddy,GEN,TS-039-008,"Anganwadi Centre, Sangareddy 8",semi-urban,1411,702,705,1,3,1.9,34.7,70.93,887,62.86
+Telangana,27,Sangareddy,39,Sangareddy,GEN,TS-039-009,"Government Primary School, Sangareddy 9",urban,1222,594,628,0,0,1.03,41.1,81.89,720,58.92
+Telangana,27,Sangareddy,39,Sangareddy,GEN,TS-039-010,"Government High School, Sangareddy 10",urban,1246,614,632,0,0,1.8,35.9,72.29,1113,89.33
+Telangana,27,Sangareddy,40,Patancheru,GEN,TS-040-001,"Government Junior College, Patancheru 1",rural,1106,550,551,2,3,1.37,40.2,68.3,844,76.31
+Telangana,27,Sangareddy,40,Patancheru,GEN,TS-040-002,"Gram Panchayat Office, Patancheru 2",rural,1274,636,632,2,4,1.68,42.0,66.63,934,73.31
+Telangana,27,Sangareddy,40,Patancheru,GEN,TS-040-003,"Panchayat Bhavan, Patancheru 3",rural,908,451,451,2,4,1.18,44.9,64.21,664,73.13
+Telangana,27,Sangareddy,40,Patancheru,GEN,TS-040-004,"Community Hall, Patancheru 4",rural,924,466,452,2,4,0.74,35.8,74.65,644,69.7
+Telangana,27,Sangareddy,40,Patancheru,GEN,TS-040-005,"Government Degree College, Patancheru 5",semi-urban,957,483,473,0,1,1.18,38.8,69.61,736,76.91
+Telangana,27,Sangareddy,40,Patancheru,GEN,TS-040-006,"Municipal Community Hall, Patancheru 6",rural,1092,548,540,0,4,1.58,44.4,85.75,659,60.35
+Telangana,27,Sangareddy,40,Patancheru,GEN,TS-040-007,"Anganwadi Centre, Patancheru 7",semi-urban,1334,669,664,1,0,2.35,38.6,67.65,978,73.31
+Telangana,27,Sangareddy,40,Patancheru,GEN,TS-040-008,"Government Primary School, Patancheru 8",rural,1093,543,548,1,1,1.58,36.6,72.41,833,76.21
+Telangana,27,Sangareddy,40,Patancheru,GEN,TS-040-009,"Government High School, Patancheru 9",rural,847,422,420,2,3,1.19,43.4,77.38,612,72.26
+Telangana,27,Sangareddy,40,Patancheru,GEN,TS-040-010,"Zilla Parishad High School, Patancheru 10",rural,1406,683,719,2,2,2.11,41.2,69.84,1088,77.38
+Telangana,28,Siddipet,41,Dubbak,GEN,TS-041-001,"Gram Panchayat Office, Dubbak 1",urban,1211,613,593,2,3,1.91,36.5,66.91,876,72.34
+Telangana,28,Siddipet,41,Dubbak,GEN,TS-041-002,"Panchayat Bhavan, Dubbak 2",rural,1224,611,608,1,4,2.04,37.7,76.69,864,70.59
+Telangana,28,Siddipet,41,Dubbak,GEN,TS-041-003,"Community Hall, Dubbak 3",rural,1426,703,721,1,1,1.59,38.0,80.96,1183,82.96
+Telangana,28,Siddipet,41,Dubbak,GEN,TS-041-004,"Government Degree College, Dubbak 4",rural,1192,594,593,1,4,1.42,45.2,77.21,839,70.39
+Telangana,28,Siddipet,41,Dubbak,GEN,TS-041-005,"Municipal Community Hall, Dubbak 5",semi-urban,1259,635,624,0,0,2.01,37.9,84.47,982,78.0
+Telangana,28,Siddipet,41,Dubbak,GEN,TS-041-006,"Anganwadi Centre, Dubbak 6",rural,836,408,423,2,3,1.08,42.5,76.09,635,75.96
+Telangana,28,Siddipet,41,Dubbak,GEN,TS-041-007,"Government Primary School, Dubbak 7",semi-urban,1074,548,522,0,4,1.66,40.2,85.71,655,60.99
+Telangana,28,Siddipet,41,Dubbak,GEN,TS-041-008,"Government High School, Dubbak 8",rural,858,425,430,1,2,0.69,39.1,79.23,621,72.38
+Telangana,28,Siddipet,41,Dubbak,GEN,TS-041-009,"Zilla Parishad High School, Dubbak 9",semi-urban,1076,531,543,2,0,2.5,34.2,81.34,933,86.71
+Telangana,28,Siddipet,41,Dubbak,GEN,TS-041-010,"MPPS School, Dubbak 10",urban,1351,666,683,2,0,1.4,40.9,83.46,1123,83.12
+Telangana,28,Siddipet,42,Gajwel,GEN,TS-042-001,"Panchayat Bhavan, Gajwel 1",rural,871,424,442,2,3,3.67,39.7,83.35,600,68.89
+Telangana,28,Siddipet,42,Gajwel,GEN,TS-042-002,"Community Hall, Gajwel 2",rural,1227,604,617,2,4,1.06,40.8,81.12,985,80.28
+Telangana,28,Siddipet,42,Gajwel,GEN,TS-042-003,"Government Degree College, Gajwel 3",rural,1194,608,583,1,2,0.47,34.3,78.86,772,64.66
+Telangana,28,Siddipet,42,Gajwel,GEN,TS-042-004,"Municipal Community Hall, Gajwel 4",semi-urban,1238,598,635,2,3,0.78,42.7,76.69,807,65.19
+Telangana,28,Siddipet,42,Gajwel,GEN,TS-042-005,"Anganwadi Centre, Gajwel 5",rural,1025,521,500,0,4,1.43,34.9,76.57,713,69.56
+Telangana,28,Siddipet,42,Gajwel,GEN,TS-042-006,"Government Primary School, Gajwel 6",rural,1260,619,639,1,1,0.9,37.0,78.36,943,74.84
+Telangana,28,Siddipet,42,Gajwel,GEN,TS-042-007,"Government High School, Gajwel 7",semi-urban,880,426,450,1,3,2.15,38.5,78.34,699,79.43
+Telangana,28,Siddipet,42,Gajwel,GEN,TS-042-008,"Zilla Parishad High School, Gajwel 8",semi-urban,841,407,431,1,2,2.95,38.0,73.7,476,56.6
+Telangana,28,Siddipet,42,Gajwel,GEN,TS-042-009,"MPPS School, Gajwel 9",rural,866,443,419,0,4,1.2,39.3,66.17,635,73.33
+Telangana,28,Siddipet,42,Gajwel,GEN,TS-042-010,"Mandala Parishad School, Gajwel 10",rural,944,483,457,2,2,1.77,29.7,67.4,661,70.02
+Telangana,17,Medchal-Malkajgiri,43,Medchal,GEN,TS-043-001,"Community Hall, Medchal 1",urban,1186,592,593,0,1,0.78,38.9,86.25,598,50.42
+Telangana,17,Medchal-Malkajgiri,43,Medchal,GEN,TS-043-002,"Government Degree College, Medchal 2",urban,1380,702,674,2,2,1.17,38.1,74.71,828,60.0
+Telangana,17,Medchal-Malkajgiri,43,Medchal,GEN,TS-043-003,"Municipal Community Hall, Medchal 3",semi-urban,1395,703,687,2,3,0.59,40.1,87.9,734,52.62
+Telangana,17,Medchal-Malkajgiri,43,Medchal,GEN,TS-043-004,"Anganwadi Centre, Medchal 4",rural,1407,710,693,0,4,1.32,41.3,85.98,718,51.03
+Telangana,17,Medchal-Malkajgiri,43,Medchal,GEN,TS-043-005,"Government Primary School, Medchal 5",urban,1314,672,641,1,0,0.95,43.7,79.74,742,56.47
+Telangana,17,Medchal-Malkajgiri,43,Medchal,GEN,TS-043-006,"Government High School, Medchal 6",urban,1575,800,774,0,1,1.3,41.9,87.85,753,47.81
+Telangana,17,Medchal-Malkajgiri,43,Medchal,GEN,TS-043-007,"Zilla Parishad High School, Medchal 7",semi-urban,1381,696,684,1,0,1.11,36.0,79.28,734,53.15
+Telangana,17,Medchal-Malkajgiri,43,Medchal,GEN,TS-043-008,"MPPS School, Medchal 8",urban,1171,593,575,2,1,1.51,39.4,88.62,560,47.82
+Telangana,17,Medchal-Malkajgiri,43,Medchal,GEN,TS-043-009,"Mandala Parishad School, Medchal 9",urban,1514,766,748,0,0,1.24,38.8,88.5,842,55.61
+Telangana,17,Medchal-Malkajgiri,43,Medchal,GEN,TS-043-010,"Government Junior College, Medchal 10",semi-urban,1321,657,660,2,2,0.72,39.5,81.1,754,57.08
+Telangana,17,Medchal-Malkajgiri,44,Malkajgiri,GEN,TS-044-001,"Government Degree College, Malkajgiri 1",urban,1071,548,521,1,1,1.14,39.2,78.97,599,55.93
+Telangana,17,Medchal-Malkajgiri,44,Malkajgiri,GEN,TS-044-002,"Municipal Community Hall, Malkajgiri 2",semi-urban,1069,529,538,1,1,0.53,43.8,79.22,477,44.62
+Telangana,17,Medchal-Malkajgiri,44,Malkajgiri,GEN,TS-044-003,"Anganwadi Centre, Malkajgiri 3",urban,1076,551,522,1,2,0.44,39.4,88.65,738,68.59
+Telangana,17,Medchal-Malkajgiri,44,Malkajgiri,GEN,TS-044-004,"Government Primary School, Malkajgiri 4",semi-urban,1551,771,776,2,2,1.35,33.7,77.61,685,44.17
+Telangana,17,Medchal-Malkajgiri,44,Malkajgiri,GEN,TS-044-005,"Government High School, Malkajgiri 5",rural,1332,654,677,1,0,0.89,44.8,82.47,819,61.49
+Telangana,17,Medchal-Malkajgiri,44,Malkajgiri,GEN,TS-044-006,"Zilla Parishad High School, Malkajgiri 6",urban,1366,667,698,0,1,0.89,39.0,74.05,856,62.66
+Telangana,17,Medchal-Malkajgiri,44,Malkajgiri,GEN,TS-044-007,"MPPS School, Malkajgiri 7",urban,1133,552,581,0,0,0.73,43.1,82.31,600,52.96
+Telangana,17,Medchal-Malkajgiri,44,Malkajgiri,GEN,TS-044-008,"Mandala Parishad School, Malkajgiri 8",urban,1112,545,564,1,2,1.16,44.4,89.02,581,52.25
+Telangana,17,Medchal-Malkajgiri,44,Malkajgiri,GEN,TS-044-009,"Government Junior College, Malkajgiri 9",urban,1244,618,626,0,0,1.41,33.1,74.83,576,46.3
+Telangana,17,Medchal-Malkajgiri,44,Malkajgiri,GEN,TS-044-010,"Gram Panchayat Office, Malkajgiri 10",urban,1494,744,747,1,2,0.68,41.0,89.94,834,55.82
+Telangana,17,Medchal-Malkajgiri,45,Quthbullapur,GEN,TS-045-001,"Municipal Community Hall, Quthbullapur 1",urban,1576,770,802,0,4,0.75,40.6,79.8,832,52.79
+Telangana,17,Medchal-Malkajgiri,45,Quthbullapur,GEN,TS-045-002,"Anganwadi Centre, Quthbullapur 2",rural,1370,679,689,1,1,0.63,34.8,90.28,714,52.12
+Telangana,17,Medchal-Malkajgiri,45,Quthbullapur,GEN,TS-045-003,"Government Primary School, Quthbullapur 3",urban,1310,658,649,2,1,1.43,40.1,81.14,764,58.32
+Telangana,17,Medchal-Malkajgiri,45,Quthbullapur,GEN,TS-045-004,"Government High School, Quthbullapur 4",urban,1529,762,761,2,4,0.71,40.4,76.52,718,46.96
+Telangana,17,Medchal-Malkajgiri,45,Quthbullapur,GEN,TS-045-005,"Zilla Parishad High School, Quthbullapur 5",semi-urban,996,482,510,2,2,0.59,41.5,72.65,620,62.25
+Telangana,17,Medchal-Malkajgiri,45,Quthbullapur,GEN,TS-045-006,"MPPS School, Quthbullapur 6",semi-urban,1302,658,644,0,0,0.62,34.2,90.63,721,55.38
+Telangana,17,Medchal-Malkajgiri,45,Quthbullapur,GEN,TS-045-007,"Mandala Parishad School, Quthbullapur 7",urban,1396,702,688,2,4,0.96,41.7,78.72,747,53.51
+Telangana,17,Medchal-Malkajgiri,45,Quthbullapur,GEN,TS-045-008,"Government Junior College, Quthbullapur 8",urban,1483,751,728,2,2,0.84,35.5,75.0,894,60.28
+Telangana,17,Medchal-Malkajgiri,45,Quthbullapur,GEN,TS-045-009,"Gram Panchayat Office, Quthbullapur 9",semi-urban,1264,635,629,0,0,1.6,38.9,82.03,620,49.05
+Telangana,17,Medchal-Malkajgiri,45,Quthbullapur,GEN,TS-045-010,"Panchayat Bhavan, Quthbullapur 10",urban,1500,754,745,1,0,0.29,34.2,86.6,741,49.4
+Telangana,4,Hyderabad,46,Kukatpalle,GEN,TS-046-001,"Anganwadi Centre, Kukatpalle 1",urban,1403,720,680,0,3,1.62,38.8,81.29,688,49.04
+Telangana,4,Hyderabad,46,Kukatpalle,GEN,TS-046-002,"Government Primary School, Kukatpalle 2",semi-urban,1444,731,713,0,0,0.87,42.5,72.85,935,64.75
+Telangana,4,Hyderabad,46,Kukatpalle,GEN,TS-046-003,"Government High School, Kukatpalle 3",semi-urban,1559,760,794,1,4,1.05,41.5,87.17,818,52.47
+Telangana,4,Hyderabad,46,Kukatpalle,GEN,TS-046-004,"Zilla Parishad High School, Kukatpalle 4",semi-urban,1462,746,712,2,2,0.86,43.7,90.31,629,43.02
+Telangana,4,Hyderabad,46,Kukatpalle,GEN,TS-046-005,"MPPS School, Kukatpalle 5",urban,1354,690,659,1,4,1.54,39.5,76.98,792,58.49
+Telangana,4,Hyderabad,46,Kukatpalle,GEN,TS-046-006,"Mandala Parishad School, Kukatpalle 6",semi-urban,1086,546,539,1,0,1.02,40.1,87.12,525,48.34
+Telangana,4,Hyderabad,46,Kukatpalle,GEN,TS-046-007,"Government Junior College, Kukatpalle 7",urban,1062,528,530,2,2,1.21,42.8,76.14,629,59.23
+Telangana,4,Hyderabad,46,Kukatpalle,GEN,TS-046-008,"Gram Panchayat Office, Kukatpalle 8",urban,964,472,486,2,4,0.12,44.0,83.31,495,51.35
+Telangana,4,Hyderabad,46,Kukatpalle,GEN,TS-046-009,"Panchayat Bhavan, Kukatpalle 9",urban,1417,705,710,2,0,0.78,46.7,80.99,705,49.75
+Telangana,4,Hyderabad,46,Kukatpalle,GEN,TS-046-010,"Community Hall, Kukatpalle 10",urban,1446,723,719,0,4,0.92,38.6,75.06,771,53.32
+Telangana,17,Medchal-Malkajgiri,47,Uppal,GEN,TS-047-001,"Government Primary School, Uppal 1",urban,1599,778,819,2,0,1.04,35.3,74.45,753,47.09
+Telangana,17,Medchal-Malkajgiri,47,Uppal,GEN,TS-047-002,"Government High School, Uppal 2",semi-urban,1194,593,595,2,4,0.59,45.2,72.31,701,58.71
+Telangana,17,Medchal-Malkajgiri,47,Uppal,GEN,TS-047-003,"Zilla Parishad High School, Uppal 3",rural,1297,629,664,0,4,0.76,40.5,73.34,846,65.23
+Telangana,17,Medchal-Malkajgiri,47,Uppal,GEN,TS-047-004,"MPPS School, Uppal 4",urban,1345,682,659,2,2,0.91,36.7,88.0,721,53.61
+Telangana,17,Medchal-Malkajgiri,47,Uppal,GEN,TS-047-005,"Mandala Parishad School, Uppal 5",urban,1493,722,765,2,4,0.85,37.9,89.16,972,65.1
+Telangana,17,Medchal-Malkajgiri,47,Uppal,GEN,TS-047-006,"Government Junior College, Uppal 6",urban,1098,551,543,0,4,1.09,42.5,75.16,543,49.45
+Telangana,17,Medchal-Malkajgiri,47,Uppal,GEN,TS-047-007,"Gram Panchayat Office, Uppal 7",urban,1591,780,805,2,4,0.72,36.3,88.71,892,56.07
+Telangana,17,Medchal-Malkajgiri,47,Uppal,GEN,TS-047-008,"Panchayat Bhavan, Uppal 8",semi-urban,1553,757,794,0,2,0.48,40.1,77.91,699,45.01
+Telangana,17,Medchal-Malkajgiri,47,Uppal,GEN,TS-047-009,"Community Hall, Uppal 9",urban,1046,528,515,1,2,0.72,43.3,73.19,749,71.61
+Telangana,17,Medchal-Malkajgiri,47,Uppal,GEN,TS-047-010,"Government Degree College, Uppal 10",urban,1424,723,700,0,1,0.38,40.2,88.37,668,46.91
+Telangana,26,Rangareddy,48,Ibrahimpatnam,GEN,TS-048-001,"Government High School, Ibrahimpatnam 1",urban,1027,519,503,2,3,1.15,38.9,80.07,459,44.69
+Telangana,26,Rangareddy,48,Ibrahimpatnam,GEN,TS-048-002,"Zilla Parishad High School, Ibrahimpatnam 2",urban,1490,746,741,1,2,0.47,39.7,82.58,669,44.9
+Telangana,26,Rangareddy,48,Ibrahimpatnam,GEN,TS-048-003,"MPPS School, Ibrahimpatnam 3",semi-urban,1284,624,659,0,1,0.39,41.7,89.57,702,54.67
+Telangana,26,Rangareddy,48,Ibrahimpatnam,GEN,TS-048-004,"Mandala Parishad School, Ibrahimpatnam 4",urban,1032,527,501,2,2,0.89,46.4,83.25,532,51.55
+Telangana,26,Rangareddy,48,Ibrahimpatnam,GEN,TS-048-005,"Government Junior College, Ibrahimpatnam 5",urban,1595,793,799,1,2,1.16,40.3,85.06,832,52.16
+Telangana,26,Rangareddy,48,Ibrahimpatnam,GEN,TS-048-006,"Gram Panchayat Office, Ibrahimpatnam 6",urban,1040,518,517,2,3,0.87,37.2,75.68,603,57.98
+Telangana,26,Rangareddy,48,Ibrahimpatnam,GEN,TS-048-007,"Panchayat Bhavan, Ibrahimpatnam 7",urban,1479,743,732,2,2,1.86,42.5,83.99,749,50.64
+Telangana,26,Rangareddy,48,Ibrahimpatnam,GEN,TS-048-008,"Community Hall, Ibrahimpatnam 8",semi-urban,1490,724,762,2,2,0.89,37.1,84.13,846,56.78
+Telangana,26,Rangareddy,48,Ibrahimpatnam,GEN,TS-048-009,"Government Degree College, Ibrahimpatnam 9",urban,1489,762,723,2,2,0.7,35.5,87.98,807,54.2
+Telangana,26,Rangareddy,48,Ibrahimpatnam,GEN,TS-048-010,"Municipal Community Hall, Ibrahimpatnam 10",urban,1165,569,593,1,2,1.6,36.3,88.05,662,56.82
+Telangana,26,Rangareddy,49,Lal Bahadur Nagar,GEN,TS-049-001,"Zilla Parishad High School, Lal Bahadur Nagar 1",urban,1564,781,781,1,1,0.65,37.7,85.67,813,51.98
+Telangana,26,Rangareddy,49,Lal Bahadur Nagar,GEN,TS-049-002,"MPPS School, Lal Bahadur Nagar 2",urban,1486,746,735,1,4,0.53,40.9,83.11,763,51.35
+Telangana,26,Rangareddy,49,Lal Bahadur Nagar,GEN,TS-049-003,"Mandala Parishad School, Lal Bahadur Nagar 3",urban,1063,530,531,1,1,0.69,40.3,81.14,488,45.91
+Telangana,26,Rangareddy,49,Lal Bahadur Nagar,GEN,TS-049-004,"Government Junior College, Lal Bahadur Nagar 4",semi-urban,1135,549,580,2,4,0.58,39.3,74.58,549,48.37
+Telangana,26,Rangareddy,49,Lal Bahadur Nagar,GEN,TS-049-005,"Gram Panchayat Office, Lal Bahadur Nagar 5",semi-urban,1126,569,553,1,3,0.79,39.3,74.46,721,64.03
+Telangana,26,Rangareddy,49,Lal Bahadur Nagar,GEN,TS-049-006,"Panchayat Bhavan, Lal Bahadur Nagar 6",urban,1270,629,639,0,2,0.81,39.2,72.68,561,44.17
+Telangana,26,Rangareddy,49,Lal Bahadur Nagar,GEN,TS-049-007,"Community Hall, Lal Bahadur Nagar 7",urban,1104,558,545,1,0,0.85,32.6,83.92,592,53.62
+Telangana,26,Rangareddy,49,Lal Bahadur Nagar,GEN,TS-049-008,"Government Degree College, Lal Bahadur Nagar 8",urban,1137,563,569,2,3,1.21,41.5,78.48,651,57.26
+Telangana,26,Rangareddy,49,Lal Bahadur Nagar,GEN,TS-049-009,"Municipal Community Hall, Lal Bahadur Nagar 9",semi-urban,1374,681,691,1,1,1.11,38.4,89.19,766,55.75
+Telangana,26,Rangareddy,49,Lal Bahadur Nagar,GEN,TS-049-010,"Anganwadi Centre, Lal Bahadur Nagar 10",urban,1292,641,649,1,1,0.68,37.2,89.44,738,57.12
+Telangana,26,Rangareddy,50,Maheswaram,GEN,TS-050-001,"MPPS School, Maheswaram 1",urban,950,484,462,0,4,1.42,42.8,72.53,590,62.11
+Telangana,26,Rangareddy,50,Maheswaram,GEN,TS-050-002,"Mandala Parishad School, Maheswaram 2",urban,1599,775,822,0,2,0.48,43.6,79.12,1062,66.42
+Telangana,26,Rangareddy,50,Maheswaram,GEN,TS-050-003,"Government Junior College, Maheswaram 3",semi-urban,1264,648,615,1,0,1.05,41.3,80.38,730,57.75
+Telangana,26,Rangareddy,50,Maheswaram,GEN,TS-050-004,"Gram Panchayat Office, Maheswaram 4",semi-urban,1112,565,543,1,3,0.68,44.6,79.76,584,52.52
+Telangana,26,Rangareddy,50,Maheswaram,GEN,TS-050-005,"Panchayat Bhavan, Maheswaram 5",semi-urban,1053,524,525,2,2,0.61,40.1,81.37,606,57.55
+Telangana,26,Rangareddy,50,Maheswaram,GEN,TS-050-006,"Community Hall, Maheswaram 6",urban,1383,703,678,1,1,0.87,42.0,89.67,595,43.02
+Telangana,26,Rangareddy,50,Maheswaram,GEN,TS-050-007,"Government Degree College, Maheswaram 7",urban,1215,599,610,2,4,1.09,37.8,85.8,612,50.37
+Telangana,26,Rangareddy,50,Maheswaram,GEN,TS-050-008,"Municipal Community Hall, Maheswaram 8",urban,1519,771,747,1,0,0.8,40.2,86.53,927,61.03
+Telangana,26,Rangareddy,50,Maheswaram,GEN,TS-050-009,"Anganwadi Centre, Maheswaram 9",urban,1578,806,772,0,0,1.32,43.4,90.6,944,59.82
+Telangana,26,Rangareddy,50,Maheswaram,GEN,TS-050-010,"Government Primary School, Maheswaram 10",urban,1160,587,570,1,2,1.07,42.9,87.97,673,58.02
+Telangana,26,Rangareddy,51,Rajendranagar,GEN,TS-051-001,"Mandala Parishad School, Rajendranagar 1",urban,1388,698,686,2,2,1.28,40.0,90.33,816,58.79
+Telangana,26,Rangareddy,51,Rajendranagar,GEN,TS-051-002,"Government Junior College, Rajendranagar 2",rural,1284,654,627,0,3,1.33,36.2,76.19,758,59.03
+Telangana,26,Rangareddy,51,Rajendranagar,GEN,TS-051-003,"Gram Panchayat Office, Rajendranagar 3",semi-urban,1285,636,645,2,2,0.35,40.3,85.03,843,65.6
+Telangana,26,Rangareddy,51,Rajendranagar,GEN,TS-051-004,"Panchayat Bhavan, Rajendranagar 4",urban,1060,519,538,0,3,1.18,39.1,73.19,556,52.45
+Telangana,26,Rangareddy,51,Rajendranagar,GEN,TS-051-005,"Community Hall, Rajendranagar 5",semi-urban,1549,790,755,1,3,0.73,36.3,87.81,1067,68.88
+Telangana,26,Rangareddy,51,Rajendranagar,GEN,TS-051-006,"Government Degree College, Rajendranagar 6",urban,1311,651,656,0,4,0.66,44.1,76.16,670,51.11
+Telangana,26,Rangareddy,51,Rajendranagar,GEN,TS-051-007,"Municipal Community Hall, Rajendranagar 7",urban,1137,573,560,0,4,0.61,36.8,76.35,551,48.46
+Telangana,26,Rangareddy,51,Rajendranagar,GEN,TS-051-008,"Anganwadi Centre, Rajendranagar 8",urban,1015,512,500,1,2,0.61,39.4,83.02,619,60.99
+Telangana,26,Rangareddy,51,Rajendranagar,GEN,TS-051-009,"Government Primary School, Rajendranagar 9",urban,1042,527,509,2,4,0.97,37.8,75.79,619,59.4
+Telangana,26,Rangareddy,51,Rajendranagar,GEN,TS-051-010,"Government High School, Rajendranagar 10",semi-urban,1301,632,669,0,0,0.61,37.8,90.18,634,48.73
+Telangana,26,Rangareddy,52,Serilingampally,GEN,TS-052-001,"Government Junior College, Serilingampally 1",semi-urban,1385,708,674,0,3,0.64,38.6,79.3,714,51.55
+Telangana,26,Rangareddy,52,Serilingampally,GEN,TS-052-002,"Gram Panchayat Office, Serilingampally 2",urban,1031,527,500,2,2,0.52,37.8,86.05,547,53.06
+Telangana,26,Rangareddy,52,Serilingampally,GEN,TS-052-003,"Panchayat Bhavan, Serilingampally 3",urban,1075,544,530,0,1,0.2,38.5,73.51,612,56.93
+Telangana,26,Rangareddy,52,Serilingampally,GEN,TS-052-004,"Community Hall, Serilingampally 4",urban,1275,643,627,2,3,0.12,36.0,82.99,576,45.18
+Telangana,26,Rangareddy,52,Serilingampally,GEN,TS-052-005,"Government Degree College, Serilingampally 5",urban,1057,523,531,1,2,0.71,37.0,86.92,567,53.64
+Telangana,26,Rangareddy,52,Serilingampally,GEN,TS-052-006,"Municipal Community Hall, Serilingampally 6",urban,1579,772,803,2,2,0.45,43.0,87.91,766,48.51
+Telangana,26,Rangareddy,52,Serilingampally,GEN,TS-052-007,"Anganwadi Centre, Serilingampally 7",semi-urban,1244,603,638,1,2,1.0,41.5,82.04,638,51.29
+Telangana,26,Rangareddy,52,Serilingampally,GEN,TS-052-008,"Government Primary School, Serilingampally 8",urban,1418,705,710,0,3,0.79,39.6,80.09,843,59.45
+Telangana,26,Rangareddy,52,Serilingampally,GEN,TS-052-009,"Government High School, Serilingampally 9",urban,1590,771,816,0,3,1.74,41.6,82.39,956,60.13
+Telangana,26,Rangareddy,52,Serilingampally,GEN,TS-052-010,"Zilla Parishad High School, Serilingampally 10",urban,1247,610,634,1,2,1.0,40.8,86.07,644,51.64
+Telangana,26,Rangareddy,53,Chevella,SC,TS-053-001,"Gram Panchayat Office, Chevella 1",urban,1013,506,504,0,3,0.12,39.0,82.6,564,55.68
+Telangana,26,Rangareddy,53,Chevella,SC,TS-053-002,"Panchayat Bhavan, Chevella 2",urban,1562,783,779,0,0,0.59,43.4,73.74,840,53.78
+Telangana,26,Rangareddy,53,Chevella,SC,TS-053-003,"Community Hall, Chevella 3",urban,1456,721,730,1,4,0.13,41.1,86.39,789,54.19
+Telangana,26,Rangareddy,53,Chevella,SC,TS-053-004,"Government Degree College, Chevella 4",urban,968,480,484,2,2,0.44,42.9,73.68,416,42.98
+Telangana,26,Rangareddy,53,Chevella,SC,TS-053-005,"Municipal Community Hall, Chevella 5",semi-urban,1159,569,584,2,4,0.57,44.1,83.39,772,66.61
+Telangana,26,Rangareddy,53,Chevella,SC,TS-053-006,"Anganwadi Centre, Chevella 6",semi-urban,1249,616,628,2,3,0.84,34.2,75.11,537,42.99
+Telangana,26,Rangareddy,53,Chevella,SC,TS-053-007,"Government Primary School, Chevella 7",urban,1440,737,702,1,0,0.98,42.8,84.09,849,58.96
+Telangana,26,Rangareddy,53,Chevella,SC,TS-053-008,"Government High School, Chevella 8",urban,1294,661,630,2,1,0.35,38.3,81.65,734,56.72
+Telangana,26,Rangareddy,53,Chevella,SC,TS-053-009,"Zilla Parishad High School, Chevella 9",urban,1127,554,569,0,4,1.04,35.4,84.26,673,59.72
+Telangana,26,Rangareddy,53,Chevella,SC,TS-053-010,"MPPS School, Chevella 10",urban,1474,741,733,0,0,0.83,40.6,85.28,741,50.27
+Telangana,30,Vikarabad,54,Pargi,GEN,TS-054-001,"Panchayat Bhavan, Pargi 1",rural,1176,596,580,0,0,1.99,33.2,76.98,880,74.83
+Telangana,30,Vikarabad,54,Pargi,GEN,TS-054-002,"Community Hall, Pargi 2",rural,1314,639,671,2,2,1.31,33.4,74.12,974,74.12
+Telangana,30,Vikarabad,54,Pargi,GEN,TS-054-003,"Government Degree College, Pargi 3",urban,1262,638,620,0,4,2.05,45.6,64.46,912,72.27
+Telangana,30,Vikarabad,54,Pargi,GEN,TS-054-004,"Municipal Community Hall, Pargi 4",semi-urban,1222,623,595,2,2,2.32,36.6,66.25,881,72.09
+Telangana,30,Vikarabad,54,Pargi,GEN,TS-054-005,"Anganwadi Centre, Pargi 5",rural,1026,524,499,1,2,1.92,37.6,64.61,708,69.01
+Telangana,30,Vikarabad,54,Pargi,GEN,TS-054-006,"Government Primary School, Pargi 6",urban,1313,673,638,2,0,1.16,34.1,77.63,970,73.88
+Telangana,30,Vikarabad,54,Pargi,GEN,TS-054-007,"Government High School, Pargi 7",rural,1362,663,698,0,1,2.25,41.1,69.73,943,69.24
+Telangana,30,Vikarabad,54,Pargi,GEN,TS-054-008,"Zilla Parishad High School, Pargi 8",rural,1293,644,647,0,2,0.99,30.5,71.5,953,73.7
+Telangana,30,Vikarabad,54,Pargi,GEN,TS-054-009,"MPPS School, Pargi 9",semi-urban,1130,553,573,0,4,2.39,43.3,80.19,863,76.37
+Telangana,30,Vikarabad,54,Pargi,GEN,TS-054-010,"Mandala Parishad School, Pargi 10",rural,1355,676,677,0,2,1.87,43.4,71.34,888,65.54
+Telangana,30,Vikarabad,55,Vicarabad,SC,TS-055-001,"Community Hall, Vicarabad 1",semi-urban,1059,542,511,2,4,1.71,41.9,74.94,777,73.37
+Telangana,30,Vikarabad,55,Vicarabad,SC,TS-055-002,"Government Degree College, Vicarabad 2",semi-urban,1083,541,540,0,2,0.25,37.1,69.93,828,76.45
+Telangana,30,Vikarabad,55,Vicarabad,SC,TS-055-003,"Municipal Community Hall, Vicarabad 3",rural,1132,560,572,0,0,0.25,36.8,74.4,779,68.82
+Telangana,30,Vikarabad,55,Vicarabad,SC,TS-055-004,"Anganwadi Centre, Vicarabad 4",rural,1391,696,689,2,4,2.38,42.3,64.55,1100,79.08
+Telangana,30,Vikarabad,55,Vicarabad,SC,TS-055-005,"Government Primary School, Vicarabad 5",rural,1276,621,652,0,3,1.3,41.3,74.59,915,71.71
+Telangana,30,Vikarabad,55,Vicarabad,SC,TS-055-006,"Government High School, Vicarabad 6",rural,1285,626,654,1,4,0.74,42.8,65.29,897,69.81
+Telangana,30,Vikarabad,55,Vicarabad,SC,TS-055-007,"Zilla Parishad High School, Vicarabad 7",urban,1204,604,596,0,4,2.86,36.7,74.14,845,70.18
+Telangana,30,Vikarabad,55,Vicarabad,SC,TS-055-008,"MPPS School, Vicarabad 8",rural,962,488,468,2,4,1.67,43.8,78.42,813,84.51
+Telangana,30,Vikarabad,55,Vicarabad,SC,TS-055-009,"Mandala Parishad School, Vicarabad 9",semi-urban,1366,686,676,2,2,1.8,44.1,69.34,978,71.6
+Telangana,30,Vikarabad,55,Vicarabad,SC,TS-055-010,"Government Junior College, Vicarabad 10",urban,919,468,448,0,3,1.99,40.0,79.35,701,76.28
+Telangana,30,Vikarabad,56,Tandur,GEN,TS-056-001,"Government Degree College, Tandur 1",urban,940,455,480,2,3,1.41,38.8,64.92,756,80.43
+Telangana,30,Vikarabad,56,Tandur,GEN,TS-056-002,"Municipal Community Hall, Tandur 2",rural,1162,578,581,0,3,1.38,44.7,76.41,842,72.46
+Telangana,30,Vikarabad,56,Tandur,GEN,TS-056-003,"Anganwadi Centre, Tandur 3",semi-urban,1315,674,637,0,4,1.47,35.7,67.45,866,65.86
+Telangana,30,Vikarabad,56,Tandur,GEN,TS-056-004,"Government Primary School, Tandur 4",rural,933,463,466,2,2,1.27,36.3,67.11,622,66.67
+Telangana,30,Vikarabad,56,Tandur,GEN,TS-056-005,"Government High School, Tandur 5",semi-urban,868,424,441,1,2,1.08,43.9,75.14,687,79.15
+Telangana,30,Vikarabad,56,Tandur,GEN,TS-056-006,"Zilla Parishad High School, Tandur 6",rural,1385,690,694,0,1,2.64,39.3,71.66,843,60.87
+Telangana,30,Vikarabad,56,Tandur,GEN,TS-056-007,"MPPS School, Tandur 7",rural,986,495,489,0,2,2.2,39.2,69.4,745,75.56
+Telangana,30,Vikarabad,56,Tandur,GEN,TS-056-008,"Mandala Parishad School, Tandur 8",semi-urban,1155,590,559,2,4,1.65,32.5,72.92,934,80.87
+Telangana,30,Vikarabad,56,Tandur,GEN,TS-056-009,"Government Junior College, Tandur 9",rural,1447,725,719,1,2,1.66,35.5,80.66,1029,71.11
+Telangana,30,Vikarabad,56,Tandur,GEN,TS-056-010,"Gram Panchayat Office, Tandur 10",rural,954,485,466,2,1,1.86,34.3,69.58,680,71.28
+Telangana,4,Hyderabad,57,Musheerabad,GEN,TS-057-001,"Municipal Community Hall, Musheerabad 1",urban,1040,523,515,0,2,0.73,38.6,81.61,544,52.31
+Telangana,4,Hyderabad,57,Musheerabad,GEN,TS-057-002,"Anganwadi Centre, Musheerabad 2",urban,1593,807,784,1,1,0.85,40.2,75.72,884,55.49
+Telangana,4,Hyderabad,57,Musheerabad,GEN,TS-057-003,"Government Primary School, Musheerabad 3",urban,1297,647,647,0,3,0.29,42.7,90.92,671,51.73
+Telangana,4,Hyderabad,57,Musheerabad,GEN,TS-057-004,"Government High School, Musheerabad 4",rural,1455,746,707,1,1,0.16,38.9,74.01,855,58.76
+Telangana,4,Hyderabad,57,Musheerabad,GEN,TS-057-005,"Zilla Parishad High School, Musheerabad 5",urban,1202,581,616,2,3,0.6,37.5,88.27,526,43.76
+Telangana,4,Hyderabad,57,Musheerabad,GEN,TS-057-006,"MPPS School, Musheerabad 6",urban,1430,707,722,1,0,0.68,40.1,81.13,753,52.66
+Telangana,4,Hyderabad,57,Musheerabad,GEN,TS-057-007,"Mandala Parishad School, Musheerabad 7",rural,1479,716,760,2,1,1.53,39.5,78.05,839,56.73
+Telangana,4,Hyderabad,57,Musheerabad,GEN,TS-057-008,"Government Junior College, Musheerabad 8",urban,992,479,509,0,4,0.66,42.2,78.55,567,57.16
+Telangana,4,Hyderabad,57,Musheerabad,GEN,TS-057-009,"Gram Panchayat Office, Musheerabad 9",urban,1341,670,670,1,0,0.7,35.2,79.25,814,60.7
+Telangana,4,Hyderabad,57,Musheerabad,GEN,TS-057-010,"Panchayat Bhavan, Musheerabad 10",semi-urban,1074,540,531,2,1,1.07,39.0,82.4,592,55.12
+Telangana,4,Hyderabad,58,Malakpet,GEN,TS-058-001,"Anganwadi Centre, Malakpet 1",semi-urban,1513,738,773,0,2,0.74,41.6,88.77,793,52.41
+Telangana,4,Hyderabad,58,Malakpet,GEN,TS-058-002,"Government Primary School, Malakpet 2",urban,1364,688,676,0,0,0.51,37.9,73.9,850,62.32
+Telangana,4,Hyderabad,58,Malakpet,GEN,TS-058-003,"Government High School, Malakpet 3",semi-urban,1070,547,522,1,0,0.54,38.8,84.51,546,51.03
+Telangana,4,Hyderabad,58,Malakpet,GEN,TS-058-004,"Zilla Parishad High School, Malakpet 4",semi-urban,1357,693,659,1,4,1.14,46.6,74.58,778,57.33
+Telangana,4,Hyderabad,58,Malakpet,GEN,TS-058-005,"MPPS School, Malakpet 5",urban,1349,691,653,1,4,0.96,39.5,84.22,809,59.97
+Telangana,4,Hyderabad,58,Malakpet,GEN,TS-058-006,"Mandala Parishad School, Malakpet 6",semi-urban,1236,608,625,1,2,0.65,39.9,88.54,676,54.69
+Telangana,4,Hyderabad,58,Malakpet,GEN,TS-058-007,"Government Junior College, Malakpet 7",semi-urban,1004,506,495,0,3,0.51,42.6,83.14,542,53.98
+Telangana,4,Hyderabad,58,Malakpet,GEN,TS-058-008,"Gram Panchayat Office, Malakpet 8",semi-urban,1458,716,741,0,1,0.62,43.0,73.14,910,62.41
+Telangana,4,Hyderabad,58,Malakpet,GEN,TS-058-009,"Panchayat Bhavan, Malakpet 9",urban,1288,634,653,0,1,0.59,40.3,72.59,776,60.25
+Telangana,4,Hyderabad,58,Malakpet,GEN,TS-058-010,"Community Hall, Malakpet 10",urban,1508,768,740,0,0,1.62,42.8,74.14,648,42.97
+Telangana,4,Hyderabad,59,Amberpet,GEN,TS-059-001,"Government Primary School, Amberpet 1",urban,1524,776,746,2,0,0.52,39.8,87.09,875,57.41
+Telangana,4,Hyderabad,59,Amberpet,GEN,TS-059-002,"Government High School, Amberpet 2",urban,1215,621,591,0,3,0.12,37.9,75.44,725,59.67
+Telangana,4,Hyderabad,59,Amberpet,GEN,TS-059-003,"Zilla Parishad High School, Amberpet 3",rural,1288,661,624,0,3,0.96,38.3,87.29,554,43.01
+Telangana,4,Hyderabad,59,Amberpet,GEN,TS-059-004,"MPPS School, Amberpet 4",urban,1507,754,749,1,3,1.66,35.0,83.3,806,53.48
+Telangana,4,Hyderabad,59,Amberpet,GEN,TS-059-005,"Mandala Parishad School, Amberpet 5",semi-urban,1330,679,650,0,1,0.57,39.8,85.86,737,55.41
+Telangana,4,Hyderabad,59,Amberpet,GEN,TS-059-006,"Government Junior College, Amberpet 6",urban,1570,776,790,0,4,0.7,42.0,77.91,739,47.07
+Telangana,4,Hyderabad,59,Amberpet,GEN,TS-059-007,"Gram Panchayat Office, Amberpet 7",urban,1203,608,590,1,4,1.0,37.9,89.78,688,57.19
+Telangana,4,Hyderabad,59,Amberpet,GEN,TS-059-008,"Panchayat Bhavan, Amberpet 8",urban,1016,520,493,0,3,0.15,39.7,87.45,641,63.09
+Telangana,4,Hyderabad,59,Amberpet,GEN,TS-059-009,"Community Hall, Amberpet 9",urban,1220,599,619,1,1,1.19,37.4,82.34,614,50.33
+Telangana,4,Hyderabad,59,Amberpet,GEN,TS-059-010,"Government Degree College, Amberpet 10",urban,1036,510,523,2,1,0.8,36.2,73.96,575,55.5
+Telangana,4,Hyderabad,60,Khairatabad,GEN,TS-060-001,"Government High School, Khairatabad 1",urban,1247,635,609,2,1,1.03,42.3,72.14,844,67.68
+Telangana,4,Hyderabad,60,Khairatabad,GEN,TS-060-002,"Zilla Parishad High School, Khairatabad 2",urban,1102,539,561,1,1,1.52,43.5,77.38,578,52.45
+Telangana,4,Hyderabad,60,Khairatabad,GEN,TS-060-003,"MPPS School, Khairatabad 3",urban,952,480,470,2,0,0.93,40.6,73.06,574,60.29
+Telangana,4,Hyderabad,60,Khairatabad,GEN,TS-060-004,"Mandala Parishad School, Khairatabad 4",semi-urban,1147,557,588,0,2,0.64,35.0,86.52,627,54.66
+Telangana,4,Hyderabad,60,Khairatabad,GEN,TS-060-005,"Government Junior College, Khairatabad 5",urban,1382,687,691,0,4,0.33,38.1,81.83,825,59.7
+Telangana,4,Hyderabad,60,Khairatabad,GEN,TS-060-006,"Gram Panchayat Office, Khairatabad 6",urban,1515,758,756,0,1,0.79,41.6,90.99,756,49.9
+Telangana,4,Hyderabad,60,Khairatabad,GEN,TS-060-007,"Panchayat Bhavan, Khairatabad 7",urban,1579,779,797,2,1,1.55,43.7,76.08,803,50.85
+Telangana,4,Hyderabad,60,Khairatabad,GEN,TS-060-008,"Community Hall, Khairatabad 8",urban,1248,613,631,2,2,0.72,44.6,85.58,790,63.3
+Telangana,4,Hyderabad,60,Khairatabad,GEN,TS-060-009,"Government Degree College, Khairatabad 9",urban,1064,523,537,2,2,0.9,42.9,78.44,660,62.03
+Telangana,4,Hyderabad,60,Khairatabad,GEN,TS-060-010,"Municipal Community Hall, Khairatabad 10",urban,1384,684,695,2,3,0.97,40.3,73.36,690,49.86
+Telangana,4,Hyderabad,61,Jubilee Hills,GEN,TS-061-001,"Zilla Parishad High School, Jubilee Hills 1",urban,1318,663,655,0,0,0.51,38.5,84.13,723,54.86
+Telangana,4,Hyderabad,61,Jubilee Hills,GEN,TS-061-002,"MPPS School, Jubilee Hills 2",urban,1232,628,603,0,1,0.35,31.8,89.48,629,51.06
+Telangana,4,Hyderabad,61,Jubilee Hills,GEN,TS-061-003,"Mandala Parishad School, Jubilee Hills 3",urban,1054,514,536,2,2,0.81,40.0,87.23,662,62.81
+Telangana,4,Hyderabad,61,Jubilee Hills,GEN,TS-061-004,"Government Junior College, Jubilee Hills 4",urban,1043,528,511,0,4,0.57,41.6,80.43,478,45.83
+Telangana,4,Hyderabad,61,Jubilee Hills,GEN,TS-061-005,"Gram Panchayat Office, Jubilee Hills 5",urban,1012,516,490,2,4,1.56,34.6,79.38,640,63.24
+Telangana,4,Hyderabad,61,Jubilee Hills,GEN,TS-061-006,"Panchayat Bhavan, Jubilee Hills 6",urban,1600,783,816,0,1,1.12,45.2,77.21,688,43.0
+Telangana,4,Hyderabad,61,Jubilee Hills,GEN,TS-061-007,"Community Hall, Jubilee Hills 7",urban,1144,579,562,1,2,0.45,39.0,87.8,529,46.24
+Telangana,4,Hyderabad,61,Jubilee Hills,GEN,TS-061-008,"Government Degree College, Jubilee Hills 8",urban,1250,617,629,0,4,0.97,36.9,80.85,538,43.04
+Telangana,4,Hyderabad,61,Jubilee Hills,GEN,TS-061-009,"Municipal Community Hall, Jubilee Hills 9",urban,1509,768,737,1,3,0.47,40.5,85.48,815,54.01
+Telangana,4,Hyderabad,61,Jubilee Hills,GEN,TS-061-010,"Anganwadi Centre, Jubilee Hills 10",urban,1357,664,693,0,0,1.17,38.4,83.87,726,53.5
+Telangana,4,Hyderabad,62,Sanathnagar,GEN,TS-062-001,"MPPS School, Sanathnagar 1",urban,1213,602,608,2,1,0.82,41.9,76.62,639,52.68
+Telangana,4,Hyderabad,62,Sanathnagar,GEN,TS-062-002,"Mandala Parishad School, Sanathnagar 2",urban,1171,578,589,2,2,0.66,41.4,74.13,655,55.94
+Telangana,4,Hyderabad,62,Sanathnagar,GEN,TS-062-003,"Government Junior College, Sanathnagar 3",urban,1043,533,507,1,2,0.55,35.2,79.73,657,62.99
+Telangana,4,Hyderabad,62,Sanathnagar,GEN,TS-062-004,"Gram Panchayat Office, Sanathnagar 4",urban,1454,714,735,2,3,0.43,44.2,78.21,844,58.05
+Telangana,4,Hyderabad,62,Sanathnagar,GEN,TS-062-005,"Panchayat Bhavan, Sanathnagar 5",semi-urban,1196,583,609,1,3,0.91,41.1,74.61,664,55.52
+Telangana,4,Hyderabad,62,Sanathnagar,GEN,TS-062-006,"Community Hall, Sanathnagar 6",semi-urban,1557,793,761,0,3,0.64,41.5,84.83,809,51.96
+Telangana,4,Hyderabad,62,Sanathnagar,GEN,TS-062-007,"Government Degree College, Sanathnagar 7",urban,972,480,490,1,1,1.09,35.8,90.07,529,54.42
+Telangana,4,Hyderabad,62,Sanathnagar,GEN,TS-062-008,"Municipal Community Hall, Sanathnagar 8",semi-urban,1184,593,589,2,0,0.81,37.2,81.22,705,59.54
+Telangana,4,Hyderabad,62,Sanathnagar,GEN,TS-062-009,"Anganwadi Centre, Sanathnagar 9",urban,1451,729,718,1,3,0.48,40.1,81.1,718,49.48
+Telangana,4,Hyderabad,62,Sanathnagar,GEN,TS-062-010,"Government Primary School, Sanathnagar 10",urban,1218,614,602,0,2,1.27,37.1,88.05,652,53.53
+Telangana,4,Hyderabad,63,Nampally,GEN,TS-063-001,"Mandala Parishad School, Nampally 1",urban,1110,548,562,0,0,0.64,34.8,86.15,534,48.11
+Telangana,4,Hyderabad,63,Nampally,GEN,TS-063-002,"Government Junior College, Nampally 2",semi-urban,1229,598,627,0,4,0.91,43.0,79.02,604,49.15
+Telangana,4,Hyderabad,63,Nampally,GEN,TS-063-003,"Gram Panchayat Office, Nampally 3",urban,1091,551,539,1,0,0.28,35.5,87.46,615,56.37
+Telangana,4,Hyderabad,63,Nampally,GEN,TS-063-004,"Panchayat Bhavan, Nampally 4",urban,1110,541,568,0,1,1.35,33.0,89.45,575,51.8
+Telangana,4,Hyderabad,63,Nampally,GEN,TS-063-005,"Community Hall, Nampally 5",semi-urban,958,465,489,2,2,0.95,38.8,85.03,566,59.08
+Telangana,4,Hyderabad,63,Nampally,GEN,TS-063-006,"Government Degree College, Nampally 6",urban,1253,610,638,1,4,0.27,39.6,79.65,585,46.69
+Telangana,4,Hyderabad,63,Nampally,GEN,TS-063-007,"Municipal Community Hall, Nampally 7",urban,1596,776,817,0,3,1.05,39.2,87.73,1104,69.17
+Telangana,4,Hyderabad,63,Nampally,GEN,TS-063-008,"Anganwadi Centre, Nampally 8",urban,1512,772,737,1,2,1.37,40.2,84.46,1050,69.44
+Telangana,4,Hyderabad,63,Nampally,GEN,TS-063-009,"Government Primary School, Nampally 9",semi-urban,1304,638,662,2,2,0.73,40.8,75.25,612,46.93
+Telangana,4,Hyderabad,63,Nampally,GEN,TS-063-010,"Government High School, Nampally 10",urban,1115,542,571,1,1,0.73,42.6,76.84,640,57.4
+Telangana,4,Hyderabad,64,Karwan,GEN,TS-064-001,"Government Junior College, Karwan 1",semi-urban,1510,743,765,2,0,0.8,35.3,80.95,856,56.69
+Telangana,4,Hyderabad,64,Karwan,GEN,TS-064-002,"Gram Panchayat Office, Karwan 2",urban,1058,526,530,0,2,0.54,39.9,80.47,489,46.22
+Telangana,4,Hyderabad,64,Karwan,GEN,TS-064-003,"Panchayat Bhavan, Karwan 3",urban,1407,718,685,1,3,0.71,38.3,78.71,883,62.76
+Telangana,4,Hyderabad,64,Karwan,GEN,TS-064-004,"Community Hall, Karwan 4",semi-urban,1437,704,732,0,1,0.62,38.8,82.12,848,59.01
+Telangana,4,Hyderabad,64,Karwan,GEN,TS-064-005,"Government Degree College, Karwan 5",urban,1381,672,708,1,0,1.27,39.4,90.14,792,57.35
+Telangana,4,Hyderabad,64,Karwan,GEN,TS-064-006,"Municipal Community Hall, Karwan 6",rural,1039,510,528,1,0,1.06,40.4,77.45,600,57.75
+Telangana,4,Hyderabad,64,Karwan,GEN,TS-064-007,"Anganwadi Centre, Karwan 7",urban,1536,768,768,0,0,1.15,35.9,76.11,871,56.71
+Telangana,4,Hyderabad,64,Karwan,GEN,TS-064-008,"Government Primary School, Karwan 8",rural,990,480,507,1,2,0.27,38.5,85.74,676,68.28
+Telangana,4,Hyderabad,64,Karwan,GEN,TS-064-009,"Government High School, Karwan 9",semi-urban,1541,759,776,2,4,1.12,43.3,86.13,926,60.09
+Telangana,4,Hyderabad,64,Karwan,GEN,TS-064-010,"Zilla Parishad High School, Karwan 10",urban,1392,701,689,1,1,0.19,35.8,82.58,600,43.1
+Telangana,4,Hyderabad,65,Goshamahal,GEN,TS-065-001,"Gram Panchayat Office, Goshamahal 1",semi-urban,954,465,484,1,4,1.19,41.9,79.93,556,58.28
+Telangana,4,Hyderabad,65,Goshamahal,GEN,TS-065-002,"Panchayat Bhavan, Goshamahal 2",urban,1147,589,558,0,0,1.26,38.9,79.83,493,42.98
+Telangana,4,Hyderabad,65,Goshamahal,GEN,TS-065-003,"Community Hall, Goshamahal 3",urban,1091,545,544,2,0,0.52,45.0,76.66,507,46.47
+Telangana,4,Hyderabad,65,Goshamahal,GEN,TS-065-004,"Government Degree College, Goshamahal 4",urban,1207,610,594,1,2,0.94,39.7,88.54,751,62.22
+Telangana,4,Hyderabad,65,Goshamahal,GEN,TS-065-005,"Municipal Community Hall, Goshamahal 5",semi-urban,1577,811,764,0,2,0.88,38.9,79.19,954,60.49
+Telangana,4,Hyderabad,65,Goshamahal,GEN,TS-065-006,"Anganwadi Centre, Goshamahal 6",urban,1390,701,685,0,4,1.04,35.7,77.53,663,47.7
+Telangana,4,Hyderabad,65,Goshamahal,GEN,TS-065-007,"Government Primary School, Goshamahal 7",semi-urban,1490,736,749,2,3,0.3,39.8,87.44,1004,67.38
+Telangana,4,Hyderabad,65,Goshamahal,GEN,TS-065-008,"Government High School, Goshamahal 8",urban,1235,610,623,2,0,1.15,37.0,81.03,531,43.0
+Telangana,4,Hyderabad,65,Goshamahal,GEN,TS-065-009,"Zilla Parishad High School, Goshamahal 9",urban,1288,626,660,0,2,0.81,43.7,85.22,702,54.5
+Telangana,4,Hyderabad,65,Goshamahal,GEN,TS-065-010,"MPPS School, Goshamahal 10",semi-urban,1169,589,575,2,3,0.7,36.8,80.15,700,59.88
+Telangana,4,Hyderabad,66,Charminar,GEN,TS-066-001,"Panchayat Bhavan, Charminar 1",urban,1302,665,635,2,0,0.51,33.2,85.46,585,44.93
+Telangana,4,Hyderabad,66,Charminar,GEN,TS-066-002,"Community Hall, Charminar 2",urban,1563,760,799,0,4,0.97,33.8,86.99,842,53.87
+Telangana,4,Hyderabad,66,Charminar,GEN,TS-066-003,"Government Degree College, Charminar 3",urban,1587,803,780,2,2,1.12,41.6,75.52,872,54.95
+Telangana,4,Hyderabad,66,Charminar,GEN,TS-066-004,"Municipal Community Hall, Charminar 4",urban,1380,683,696,1,0,0.94,43.6,90.33,929,67.32
+Telangana,4,Hyderabad,66,Charminar,GEN,TS-066-005,"Anganwadi Centre, Charminar 5",urban,1585,794,790,0,1,1.08,40.3,88.74,695,43.85
+Telangana,4,Hyderabad,66,Charminar,GEN,TS-066-006,"Government Primary School, Charminar 6",urban,1096,545,546,1,4,0.98,37.2,79.82,563,51.37
+Telangana,4,Hyderabad,66,Charminar,GEN,TS-066-007,"Government High School, Charminar 7",semi-urban,1304,636,663,1,4,0.94,39.5,83.31,630,48.31
+Telangana,4,Hyderabad,66,Charminar,GEN,TS-066-008,"Zilla Parishad High School, Charminar 8",urban,1521,762,755,0,4,1.88,44.3,87.96,995,65.42
+Telangana,4,Hyderabad,66,Charminar,GEN,TS-066-009,"MPPS School, Charminar 9",urban,1264,643,617,0,4,0.69,38.6,84.12,636,50.32
+Telangana,4,Hyderabad,66,Charminar,GEN,TS-066-010,"Mandala Parishad School, Charminar 10",urban,1494,757,734,0,3,1.01,41.7,87.02,736,49.26
+Telangana,4,Hyderabad,67,Chandrayangutta,GEN,TS-067-001,"Community Hall, Chandrayangutta 1",urban,976,499,472,2,3,0.92,36.2,76.7,491,50.31
+Telangana,4,Hyderabad,67,Chandrayangutta,GEN,TS-067-002,"Government Degree College, Chandrayangutta 2",urban,1271,653,617,1,0,1.38,39.8,87.53,727,57.2
+Telangana,4,Hyderabad,67,Chandrayangutta,GEN,TS-067-003,"Municipal Community Hall, Chandrayangutta 3",urban,1239,634,599,2,4,0.74,35.7,77.02,744,60.05
+Telangana,4,Hyderabad,67,Chandrayangutta,GEN,TS-067-004,"Anganwadi Centre, Chandrayangutta 4",semi-urban,1214,611,603,0,0,0.66,37.4,73.06,744,61.29
+Telangana,4,Hyderabad,67,Chandrayangutta,GEN,TS-067-005,"Government Primary School, Chandrayangutta 5",urban,1318,671,646,0,1,0.99,45.7,72.21,731,55.46
+Telangana,4,Hyderabad,67,Chandrayangutta,GEN,TS-067-006,"Government High School, Chandrayangutta 6",urban,1441,719,720,2,0,0.6,37.3,76.41,754,52.32
+Telangana,4,Hyderabad,67,Chandrayangutta,GEN,TS-067-007,"Zilla Parishad High School, Chandrayangutta 7",semi-urban,1043,528,511,2,2,0.78,37.4,90.34,511,48.99
+Telangana,4,Hyderabad,67,Chandrayangutta,GEN,TS-067-008,"MPPS School, Chandrayangutta 8",urban,1055,531,522,0,2,0.87,41.6,74.64,691,65.5
+Telangana,4,Hyderabad,67,Chandrayangutta,GEN,TS-067-009,"Mandala Parishad School, Chandrayangutta 9",urban,1589,779,804,2,4,0.93,43.3,83.37,992,62.43
+Telangana,4,Hyderabad,67,Chandrayangutta,GEN,TS-067-010,"Government Junior College, Chandrayangutta 10",urban,1366,696,665,2,3,1.44,38.1,82.11,615,45.02
+Telangana,4,Hyderabad,68,Yakutpura,GEN,TS-068-001,"Government Degree College, Yakutpura 1",urban,1492,737,755,0,0,0.85,38.5,72.75,955,64.01
+Telangana,4,Hyderabad,68,Yakutpura,GEN,TS-068-002,"Municipal Community Hall, Yakutpura 2",urban,1196,579,614,2,1,0.64,34.1,77.48,682,57.02
+Telangana,4,Hyderabad,68,Yakutpura,GEN,TS-068-003,"Anganwadi Centre, Yakutpura 3",urban,1327,645,677,2,3,1.35,40.3,84.77,670,50.49
+Telangana,4,Hyderabad,68,Yakutpura,GEN,TS-068-004,"Government Primary School, Yakutpura 4",semi-urban,992,502,486,0,4,0.12,37.5,84.82,599,60.38
+Telangana,4,Hyderabad,68,Yakutpura,GEN,TS-068-005,"Government High School, Yakutpura 5",urban,984,506,478,0,0,0.72,41.0,83.3,506,51.42
+Telangana,4,Hyderabad,68,Yakutpura,GEN,TS-068-006,"Zilla Parishad High School, Yakutpura 6",rural,1092,532,556,1,3,0.22,40.6,90.32,643,58.88
+Telangana,4,Hyderabad,68,Yakutpura,GEN,TS-068-007,"MPPS School, Yakutpura 7",urban,1305,666,635,0,4,0.67,34.6,80.94,640,49.04
+Telangana,4,Hyderabad,68,Yakutpura,GEN,TS-068-008,"Mandala Parishad School, Yakutpura 8",semi-urban,1394,716,676,0,2,0.68,38.5,82.1,984,70.59
+Telangana,4,Hyderabad,68,Yakutpura,GEN,TS-068-009,"Government Junior College, Yakutpura 9",semi-urban,1194,592,597,1,4,0.47,35.6,75.54,660,55.28
+Telangana,4,Hyderabad,68,Yakutpura,GEN,TS-068-010,"Gram Panchayat Office, Yakutpura 10",semi-urban,1063,539,518,2,4,0.82,35.6,75.84,692,65.1
+Telangana,4,Hyderabad,69,Bahadurpura,GEN,TS-069-001,"Municipal Community Hall, Bahadurpura 1",urban,1506,773,731,0,2,0.94,37.6,81.27,861,57.17
+Telangana,4,Hyderabad,69,Bahadurpura,GEN,TS-069-002,"Anganwadi Centre, Bahadurpura 2",urban,1479,717,761,1,0,1.75,39.8,89.06,729,49.29
+Telangana,4,Hyderabad,69,Bahadurpura,GEN,TS-069-003,"Government Primary School, Bahadurpura 3",urban,1330,664,665,1,0,0.81,39.8,73.98,773,58.12
+Telangana,4,Hyderabad,69,Bahadurpura,GEN,TS-069-004,"Government High School, Bahadurpura 4",urban,1114,552,561,0,1,0.95,38.6,74.99,682,61.22
+Telangana,4,Hyderabad,69,Bahadurpura,GEN,TS-069-005,"Zilla Parishad High School, Bahadurpura 5",urban,1089,559,528,2,0,0.33,38.3,77.97,613,56.29
+Telangana,4,Hyderabad,69,Bahadurpura,GEN,TS-069-006,"MPPS School, Bahadurpura 6",urban,1059,522,537,0,0,1.68,46.3,80.36,582,54.96
+Telangana,4,Hyderabad,69,Bahadurpura,GEN,TS-069-007,"Mandala Parishad School, Bahadurpura 7",urban,1257,617,635,1,4,1.38,33.5,72.7,773,61.5
+Telangana,4,Hyderabad,69,Bahadurpura,GEN,TS-069-008,"Government Junior College, Bahadurpura 8",urban,1066,519,544,2,1,0.81,38.6,78.05,485,45.5
+Telangana,4,Hyderabad,69,Bahadurpura,GEN,TS-069-009,"Gram Panchayat Office, Bahadurpura 9",urban,1358,683,674,0,1,0.57,37.2,87.56,686,50.52
+Telangana,4,Hyderabad,69,Bahadurpura,GEN,TS-069-010,"Panchayat Bhavan, Bahadurpura 10",urban,1528,772,752,1,3,1.34,43.4,82.64,808,52.88
+Telangana,4,Hyderabad,70,Secunderabad,GEN,TS-070-001,"Anganwadi Centre, Secunderabad 1",semi-urban,1028,498,525,1,4,0.92,31.5,85.8,784,76.26
+Telangana,4,Hyderabad,70,Secunderabad,GEN,TS-070-002,"Government Primary School, Secunderabad 2",semi-urban,1276,652,623,0,1,0.78,36.7,79.1,625,48.98
+Telangana,4,Hyderabad,70,Secunderabad,GEN,TS-070-003,"Government High School, Secunderabad 3",urban,1396,693,702,1,0,0.68,35.3,75.8,788,56.45
+Telangana,4,Hyderabad,70,Secunderabad,GEN,TS-070-004,"Zilla Parishad High School, Secunderabad 4",urban,1416,688,727,0,1,0.79,35.0,86.92,760,53.67
+Telangana,4,Hyderabad,70,Secunderabad,GEN,TS-070-005,"MPPS School, Secunderabad 5",urban,1082,541,539,0,2,0.7,39.6,76.82,552,51.02
+Telangana,4,Hyderabad,70,Secunderabad,GEN,TS-070-006,"Mandala Parishad School, Secunderabad 6",urban,1092,546,542,0,4,0.12,40.3,76.35,586,53.66
+Telangana,4,Hyderabad,70,Secunderabad,GEN,TS-070-007,"Government Junior College, Secunderabad 7",urban,1257,628,628,0,1,1.27,38.3,85.64,648,51.55
+Telangana,4,Hyderabad,70,Secunderabad,GEN,TS-070-008,"Gram Panchayat Office, Secunderabad 8",urban,1446,727,716,0,3,0.91,35.4,87.36,711,49.17
+Telangana,4,Hyderabad,70,Secunderabad,GEN,TS-070-009,"Panchayat Bhavan, Secunderabad 9",urban,1276,620,650,2,4,1.55,43.4,78.48,805,63.09
+Telangana,4,Hyderabad,70,Secunderabad,GEN,TS-070-010,"Community Hall, Secunderabad 10",urban,1474,749,720,2,3,0.94,38.3,74.17,793,53.8
+Telangana,4,Hyderabad,71,Secunderabad Cantt,SC,TS-071-001,"Government Primary School, Secunderabad Cantt 1",urban,951,462,487,0,2,0.56,38.0,79.53,451,47.42
+Telangana,4,Hyderabad,71,Secunderabad Cantt,SC,TS-071-002,"Government High School, Secunderabad Cantt 2",urban,1432,729,699,2,2,0.7,44.5,79.27,695,48.53
+Telangana,4,Hyderabad,71,Secunderabad Cantt,SC,TS-071-003,"Zilla Parishad High School, Secunderabad Cantt 3",rural,1415,693,722,0,0,0.58,44.5,76.06,646,45.65
+Telangana,4,Hyderabad,71,Secunderabad Cantt,SC,TS-071-004,"MPPS School, Secunderabad Cantt 4",urban,1033,506,525,2,0,0.45,40.5,75.7,599,57.99
+Telangana,4,Hyderabad,71,Secunderabad Cantt,SC,TS-071-005,"Mandala Parishad School, Secunderabad Cantt 5",urban,1536,789,745,0,2,0.9,38.5,81.05,884,57.55
+Telangana,4,Hyderabad,71,Secunderabad Cantt,SC,TS-071-006,"Government Junior College, Secunderabad Cantt 6",urban,1471,745,722,0,4,0.35,39.1,77.04,844,57.38
+Telangana,4,Hyderabad,71,Secunderabad Cantt,SC,TS-071-007,"Gram Panchayat Office, Secunderabad Cantt 7",rural,1424,692,731,1,0,1.77,40.0,82.69,910,63.9
+Telangana,4,Hyderabad,71,Secunderabad Cantt,SC,TS-071-008,"Panchayat Bhavan, Secunderabad Cantt 8",semi-urban,1482,726,754,1,1,0.8,33.7,83.53,955,64.44
+Telangana,4,Hyderabad,71,Secunderabad Cantt,SC,TS-071-009,"Community Hall, Secunderabad Cantt 9",urban,1287,655,630,0,2,1.51,34.6,82.71,623,48.41
+Telangana,4,Hyderabad,71,Secunderabad Cantt,SC,TS-071-010,"Government Degree College, Secunderabad Cantt 10",urban,980,482,495,2,1,0.38,38.1,84.56,468,47.76
+Telangana,30,Vikarabad,72,Kodangal,GEN,TS-072-001,"Government High School, Kodangal 1",rural,1400,685,715,0,0,1.52,37.9,73.02,974,69.57
+Telangana,30,Vikarabad,72,Kodangal,GEN,TS-072-002,"Zilla Parishad High School, Kodangal 2",semi-urban,1345,675,665,1,4,0.79,40.4,86.62,929,69.07
+Telangana,30,Vikarabad,72,Kodangal,GEN,TS-072-003,"MPPS School, Kodangal 3",rural,1256,635,615,2,4,1.79,39.0,72.43,1040,82.8
+Telangana,30,Vikarabad,72,Kodangal,GEN,TS-072-004,"Mandala Parishad School, Kodangal 4",rural,880,435,442,1,2,1.35,38.2,81.72,615,69.89
+Telangana,30,Vikarabad,72,Kodangal,GEN,TS-072-005,"Government Junior College, Kodangal 5",rural,992,507,483,0,2,2.4,42.4,77.46,600,60.48
+Telangana,30,Vikarabad,72,Kodangal,GEN,TS-072-006,"Gram Panchayat Office, Kodangal 6",semi-urban,830,413,412,2,3,1.09,43.9,69.21,617,74.34
+Telangana,30,Vikarabad,72,Kodangal,GEN,TS-072-007,"Panchayat Bhavan, Kodangal 7",rural,887,450,435,0,2,1.45,40.6,71.4,622,70.12
+Telangana,30,Vikarabad,72,Kodangal,GEN,TS-072-008,"Community Hall, Kodangal 8",rural,1271,620,648,1,2,1.63,37.8,82.07,1020,80.25
+Telangana,30,Vikarabad,72,Kodangal,GEN,TS-072-009,"Government Degree College, Kodangal 9",urban,957,486,465,2,4,0.74,40.8,73.13,711,74.29
+Telangana,30,Vikarabad,72,Kodangal,GEN,TS-072-010,"Municipal Community Hall, Kodangal 10",urban,1399,703,693,1,2,1.21,34.0,77.36,968,69.19
+Telangana,21,Narayanpet,73,Narayanpet,GEN,TS-073-001,"Zilla Parishad High School, Narayanpet 1",rural,1044,516,522,2,4,3.46,43.6,79.48,865,82.85
+Telangana,21,Narayanpet,73,Narayanpet,GEN,TS-073-002,"MPPS School, Narayanpet 2",rural,1377,666,709,2,0,0.92,38.7,71.22,1096,79.59
+Telangana,21,Narayanpet,73,Narayanpet,GEN,TS-073-003,"Mandala Parishad School, Narayanpet 3",rural,1031,527,499,2,3,0.8,36.8,74.02,738,71.58
+Telangana,21,Narayanpet,73,Narayanpet,GEN,TS-073-004,"Government Junior College, Narayanpet 4",rural,879,428,449,1,1,1.06,34.7,73.21,696,79.18
+Telangana,21,Narayanpet,73,Narayanpet,GEN,TS-073-005,"Gram Panchayat Office, Narayanpet 5",urban,877,445,428,0,4,1.87,41.9,74.41,609,69.44
+Telangana,21,Narayanpet,73,Narayanpet,GEN,TS-073-006,"Panchayat Bhavan, Narayanpet 6",rural,1381,685,695,1,0,2.72,39.1,69.57,1081,78.28
+Telangana,21,Narayanpet,73,Narayanpet,GEN,TS-073-007,"Community Hall, Narayanpet 7",semi-urban,1448,727,720,0,1,1.63,35.8,81.97,1200,82.87
+Telangana,21,Narayanpet,73,Narayanpet,GEN,TS-073-008,"Government Degree College, Narayanpet 8",rural,902,446,454,1,1,1.5,38.5,86.74,648,71.84
+Telangana,21,Narayanpet,73,Narayanpet,GEN,TS-073-009,"Municipal Community Hall, Narayanpet 9",rural,870,436,431,0,3,1.57,37.7,67.22,692,79.54
+Telangana,21,Narayanpet,73,Narayanpet,GEN,TS-073-010,"Anganwadi Centre, Narayanpet 10",semi-urban,1357,668,687,0,2,0.82,43.9,86.43,1025,75.53
+Telangana,14,Mahbubnagar,74,Mahbubnagar,GEN,TS-074-001,"MPPS School, Mahbubnagar 1",semi-urban,1400,696,703,0,1,1.8,41.6,85.57,958,68.43
+Telangana,14,Mahbubnagar,74,Mahbubnagar,GEN,TS-074-002,"Mandala Parishad School, Mahbubnagar 2",rural,1229,603,624,1,1,1.65,39.8,78.5,916,74.53
+Telangana,14,Mahbubnagar,74,Mahbubnagar,GEN,TS-074-003,"Government Junior College, Mahbubnagar 3",urban,1092,550,538,1,3,2.13,40.5,77.21,1020,93.41
+Telangana,14,Mahbubnagar,74,Mahbubnagar,GEN,TS-074-004,"Gram Panchayat Office, Mahbubnagar 4",semi-urban,1326,644,680,0,2,1.75,38.4,65.44,759,57.24
+Telangana,14,Mahbubnagar,74,Mahbubnagar,GEN,TS-074-005,"Panchayat Bhavan, Mahbubnagar 5",urban,1388,671,713,2,2,1.08,37.9,76.24,1044,75.22
+Telangana,14,Mahbubnagar,74,Mahbubnagar,GEN,TS-074-006,"Community Hall, Mahbubnagar 6",semi-urban,855,431,424,0,0,1.91,37.8,78.35,743,86.9
+Telangana,14,Mahbubnagar,74,Mahbubnagar,GEN,TS-074-007,"Government Degree College, Mahbubnagar 7",semi-urban,844,417,424,1,2,1.34,34.0,64.2,674,79.86
+Telangana,14,Mahbubnagar,74,Mahbubnagar,GEN,TS-074-008,"Municipal Community Hall, Mahbubnagar 8",urban,1316,671,643,1,1,0.84,45.5,67.72,1037,78.8
+Telangana,14,Mahbubnagar,74,Mahbubnagar,GEN,TS-074-009,"Anganwadi Centre, Mahbubnagar 9",rural,845,414,425,2,4,1.85,36.4,81.42,624,73.85
+Telangana,14,Mahbubnagar,74,Mahbubnagar,GEN,TS-074-010,"Government Primary School, Mahbubnagar 10",rural,1212,592,615,1,4,2.19,47.3,75.41,1088,89.77
+Telangana,14,Mahbubnagar,75,Jadcherla,GEN,TS-075-001,"Mandala Parishad School, Jadcherla 1",rural,1303,637,660,2,4,2.08,37.9,70.07,868,66.62
+Telangana,14,Mahbubnagar,75,Jadcherla,GEN,TS-075-002,"Government Junior College, Jadcherla 2",rural,1265,623,640,2,0,2.38,39.4,85.93,791,62.53
+Telangana,14,Mahbubnagar,75,Jadcherla,GEN,TS-075-003,"Gram Panchayat Office, Jadcherla 3",rural,1176,580,593,1,2,1.15,35.8,76.84,877,74.57
+Telangana,14,Mahbubnagar,75,Jadcherla,GEN,TS-075-004,"Panchayat Bhavan, Jadcherla 4",semi-urban,1068,520,548,0,0,2.32,40.8,73.74,709,66.39
+Telangana,14,Mahbubnagar,75,Jadcherla,GEN,TS-075-005,"Community Hall, Jadcherla 5",rural,1182,574,602,2,4,1.26,36.9,68.53,910,76.99
+Telangana,14,Mahbubnagar,75,Jadcherla,GEN,TS-075-006,"Government Degree College, Jadcherla 6",semi-urban,1252,626,621,2,3,0.65,35.4,78.04,900,71.88
+Telangana,14,Mahbubnagar,75,Jadcherla,GEN,TS-075-007,"Municipal Community Hall, Jadcherla 7",rural,1349,658,687,0,4,1.74,36.8,71.94,985,73.02
+Telangana,14,Mahbubnagar,75,Jadcherla,GEN,TS-075-008,"Anganwadi Centre, Jadcherla 8",rural,896,436,456,2,2,0.47,43.2,86.73,656,73.21
+Telangana,14,Mahbubnagar,75,Jadcherla,GEN,TS-075-009,"Government Primary School, Jadcherla 9",rural,936,471,461,2,2,0.28,39.6,76.66,630,67.31
+Telangana,14,Mahbubnagar,75,Jadcherla,GEN,TS-075-010,"Government High School, Jadcherla 10",rural,1359,662,696,1,0,1.18,40.3,73.37,909,66.89
+Telangana,14,Mahbubnagar,76,Devarkadra,GEN,TS-076-001,"Government Junior College, Devarkadra 1",rural,1392,689,698,1,4,0.49,35.6,67.74,1130,81.18
+Telangana,14,Mahbubnagar,76,Devarkadra,GEN,TS-076-002,"Gram Panchayat Office, Devarkadra 2",urban,1318,675,638,1,4,0.59,37.2,73.19,834,63.28
+Telangana,14,Mahbubnagar,76,Devarkadra,GEN,TS-076-003,"Panchayat Bhavan, Devarkadra 3",urban,1346,675,666,1,4,2.19,40.4,83.43,1009,74.96
+Telangana,14,Mahbubnagar,76,Devarkadra,GEN,TS-076-004,"Community Hall, Devarkadra 4",urban,1351,656,693,2,0,1.33,40.8,72.21,1130,83.64
+Telangana,14,Mahbubnagar,76,Devarkadra,GEN,TS-076-005,"Government Degree College, Devarkadra 5",semi-urban,968,485,481,2,0,2.44,39.4,66.47,651,67.25
+Telangana,14,Mahbubnagar,76,Devarkadra,GEN,TS-076-006,"Municipal Community Hall, Devarkadra 6",rural,1095,557,536,0,2,1.59,34.7,74.13,690,63.01
+Telangana,14,Mahbubnagar,76,Devarkadra,GEN,TS-076-007,"Anganwadi Centre, Devarkadra 7",semi-urban,902,438,460,2,2,2.24,42.5,68.87,659,73.06
+Telangana,14,Mahbubnagar,76,Devarkadra,GEN,TS-076-008,"Government Primary School, Devarkadra 8",urban,1169,565,600,1,3,1.85,37.1,72.8,850,72.71
+Telangana,14,Mahbubnagar,76,Devarkadra,GEN,TS-076-009,"Government High School, Devarkadra 9",rural,1218,612,603,2,1,1.52,41.0,65.7,822,67.49
+Telangana,14,Mahbubnagar,76,Devarkadra,GEN,TS-076-010,"Zilla Parishad High School, Devarkadra 10",rural,1049,525,520,0,4,1.25,38.8,69.33,873,83.22
+Telangana,21,Narayanpet,77,Makthal,GEN,TS-077-001,"Gram Panchayat Office, Makthal 1",semi-urban,1272,622,646,0,4,2.74,39.8,69.2,979,76.97
+Telangana,21,Narayanpet,77,Makthal,GEN,TS-077-002,"Panchayat Bhavan, Makthal 2",rural,1133,564,566,0,3,1.55,44.9,72.69,786,69.37
+Telangana,21,Narayanpet,77,Makthal,GEN,TS-077-003,"Community Hall, Makthal 3",semi-urban,1401,720,679,1,1,0.63,36.0,73.18,1048,74.8
+Telangana,21,Narayanpet,77,Makthal,GEN,TS-077-004,"Government Degree College, Makthal 4",semi-urban,1396,713,679,2,2,1.7,36.9,76.59,1173,84.03
+Telangana,21,Narayanpet,77,Makthal,GEN,TS-077-005,"Municipal Community Hall, Makthal 5",rural,1257,614,639,1,3,2.19,37.2,69.06,884,70.33
+Telangana,21,Narayanpet,77,Makthal,GEN,TS-077-006,"Anganwadi Centre, Makthal 6",rural,965,477,484,2,2,2.31,40.0,77.66,724,75.03
+Telangana,21,Narayanpet,77,Makthal,GEN,TS-077-007,"Government Primary School, Makthal 7",urban,1364,688,673,1,2,2.08,34.5,79.96,1097,80.43
+Telangana,21,Narayanpet,77,Makthal,GEN,TS-077-008,"Government High School, Makthal 8",semi-urban,1163,592,569,2,0,1.37,38.1,69.98,919,79.02
+Telangana,21,Narayanpet,77,Makthal,GEN,TS-077-009,"Zilla Parishad High School, Makthal 9",semi-urban,893,455,435,2,1,1.62,40.4,68.11,504,56.44
+Telangana,21,Narayanpet,77,Makthal,GEN,TS-077-010,"MPPS School, Makthal 10",rural,1436,728,704,1,3,2.72,42.4,77.37,1071,74.58
+Telangana,31,Wanaparthy,78,Wanaparthy,GEN,TS-078-001,"Panchayat Bhavan, Wanaparthy 1",rural,1216,614,602,0,0,0.48,35.8,67.76,953,78.37
+Telangana,31,Wanaparthy,78,Wanaparthy,GEN,TS-078-002,"Community Hall, Wanaparthy 2",urban,955,464,490,0,1,2.13,37.3,69.09,634,66.39
+Telangana,31,Wanaparthy,78,Wanaparthy,GEN,TS-078-003,"Government Degree College, Wanaparthy 3",semi-urban,1008,498,510,0,0,2.07,41.6,64.6,693,68.75
+Telangana,31,Wanaparthy,78,Wanaparthy,GEN,TS-078-004,"Municipal Community Hall, Wanaparthy 4",rural,1047,507,539,1,0,1.12,38.3,84.7,816,77.94
+Telangana,31,Wanaparthy,78,Wanaparthy,GEN,TS-078-005,"Anganwadi Centre, Wanaparthy 5",rural,900,434,462,1,3,1.45,41.7,75.79,754,83.78
+Telangana,31,Wanaparthy,78,Wanaparthy,GEN,TS-078-006,"Government Primary School, Wanaparthy 6",urban,1419,707,708,2,2,1.52,43.0,77.14,1049,73.93
+Telangana,31,Wanaparthy,78,Wanaparthy,GEN,TS-078-007,"Government High School, Wanaparthy 7",urban,1183,578,599,2,4,1.36,44.4,70.6,990,83.69
+Telangana,31,Wanaparthy,78,Wanaparthy,GEN,TS-078-008,"Zilla Parishad High School, Wanaparthy 8",rural,1164,592,570,1,1,1.57,42.0,68.95,810,69.59
+Telangana,31,Wanaparthy,78,Wanaparthy,GEN,TS-078-009,"MPPS School, Wanaparthy 9",semi-urban,1135,567,566,1,1,0.49,40.0,82.49,674,59.38
+Telangana,31,Wanaparthy,78,Wanaparthy,GEN,TS-078-010,"Mandala Parishad School, Wanaparthy 10",rural,1079,536,539,1,3,1.69,34.5,80.45,913,84.62
+Telangana,8,Jogulamba Gadwal,79,Gadwal,GEN,TS-079-001,"Community Hall, Gadwal 1",urban,1077,524,547,2,4,2.21,39.0,73.49,776,72.05
+Telangana,8,Jogulamba Gadwal,79,Gadwal,GEN,TS-079-002,"Government Degree College, Gadwal 2",semi-urban,933,455,472,2,4,1.5,46.2,81.09,746,79.96
+Telangana,8,Jogulamba Gadwal,79,Gadwal,GEN,TS-079-003,"Municipal Community Hall, Gadwal 3",semi-urban,1100,530,564,2,4,1.36,39.9,80.53,746,67.82
+Telangana,8,Jogulamba Gadwal,79,Gadwal,GEN,TS-079-004,"Anganwadi Centre, Gadwal 4",rural,1315,647,667,1,0,1.84,41.1,72.58,897,68.21
+Telangana,8,Jogulamba Gadwal,79,Gadwal,GEN,TS-079-005,"Government Primary School, Gadwal 5",urban,1321,668,653,0,0,0.66,37.0,74.99,918,69.49
+Telangana,8,Jogulamba Gadwal,79,Gadwal,GEN,TS-079-006,"Government High School, Gadwal 6",rural,1139,584,555,0,0,1.74,42.5,82.58,882,77.44
+Telangana,8,Jogulamba Gadwal,79,Gadwal,GEN,TS-079-007,"Zilla Parishad High School, Gadwal 7",rural,856,439,415,1,1,1.96,40.7,72.42,588,68.69
+Telangana,8,Jogulamba Gadwal,79,Gadwal,GEN,TS-079-008,"MPPS School, Gadwal 8",urban,922,456,464,0,2,1.22,45.8,66.78,726,78.74
+Telangana,8,Jogulamba Gadwal,79,Gadwal,GEN,TS-079-009,"Mandala Parishad School, Gadwal 9",rural,826,405,417,0,4,2.49,41.5,73.89,472,57.14
+Telangana,8,Jogulamba Gadwal,79,Gadwal,GEN,TS-079-010,"Government Junior College, Gadwal 10",rural,1076,545,527,1,3,2.19,37.2,77.51,945,87.83
+Telangana,8,Jogulamba Gadwal,80,Alampur,SC,TS-080-001,"Government Degree College, Alampur 1",rural,1296,638,653,1,4,0.48,42.9,70.92,956,73.77
+Telangana,8,Jogulamba Gadwal,80,Alampur,SC,TS-080-002,"Municipal Community Hall, Alampur 2",rural,1009,517,488,0,4,2.63,42.9,76.24,718,71.16
+Telangana,8,Jogulamba Gadwal,80,Alampur,SC,TS-080-003,"Anganwadi Centre, Alampur 3",rural,1116,571,541,2,2,1.72,40.1,73.62,811,72.67
+Telangana,8,Jogulamba Gadwal,80,Alampur,SC,TS-080-004,"Government Primary School, Alampur 4",semi-urban,1332,643,684,1,4,0.89,39.2,78.87,836,62.76
+Telangana,8,Jogulamba Gadwal,80,Alampur,SC,TS-080-005,"Government High School, Alampur 5",semi-urban,1227,594,631,0,2,1.54,34.8,67.8,994,81.01
+Telangana,8,Jogulamba Gadwal,80,Alampur,SC,TS-080-006,"Zilla Parishad High School, Alampur 6",semi-urban,1172,573,595,0,4,0.6,35.7,85.94,832,70.99
+Telangana,8,Jogulamba Gadwal,80,Alampur,SC,TS-080-007,"MPPS School, Alampur 7",semi-urban,1330,678,649,1,2,0.89,45.3,78.38,1036,77.89
+Telangana,8,Jogulamba Gadwal,80,Alampur,SC,TS-080-008,"Mandala Parishad School, Alampur 8",semi-urban,1065,539,526,0,0,1.93,43.1,84.67,754,70.8
+Telangana,8,Jogulamba Gadwal,80,Alampur,SC,TS-080-009,"Government Junior College, Alampur 9",semi-urban,1232,621,608,0,3,2.14,41.4,83.29,867,70.37
+Telangana,8,Jogulamba Gadwal,80,Alampur,SC,TS-080-010,"Gram Panchayat Office, Alampur 10",urban,847,423,420,0,4,1.59,43.7,67.36,678,80.05
+Telangana,19,Nagarkurnool,81,Nagarkurnool,SC,TS-081-001,"Municipal Community Hall, Nagarkurnool 1",rural,1312,670,637,1,4,1.88,47.1,78.89,923,70.35
+Telangana,19,Nagarkurnool,81,Nagarkurnool,SC,TS-081-002,"Anganwadi Centre, Nagarkurnool 2",rural,1354,680,672,1,1,0.95,39.5,65.76,965,71.27
+Telangana,19,Nagarkurnool,81,Nagarkurnool,SC,TS-081-003,"Government Primary School, Nagarkurnool 3",rural,1436,705,728,1,2,1.25,34.7,71.52,1109,77.23
+Telangana,19,Nagarkurnool,81,Nagarkurnool,SC,TS-081-004,"Government High School, Nagarkurnool 4",semi-urban,1232,624,604,0,4,1.69,40.2,73.68,1013,82.22
+Telangana,19,Nagarkurnool,81,Nagarkurnool,SC,TS-081-005,"Zilla Parishad High School, Nagarkurnool 5",semi-urban,1373,681,686,2,4,1.16,40.9,65.06,1016,74.0
+Telangana,19,Nagarkurnool,81,Nagarkurnool,SC,TS-081-006,"MPPS School, Nagarkurnool 6",urban,1048,534,510,2,2,0.83,43.8,82.04,809,77.19
+Telangana,19,Nagarkurnool,81,Nagarkurnool,SC,TS-081-007,"Mandala Parishad School, Nagarkurnool 7",rural,1401,679,716,2,4,2.5,39.2,81.11,1115,79.59
+Telangana,19,Nagarkurnool,81,Nagarkurnool,SC,TS-081-008,"Government Junior College, Nagarkurnool 8",rural,1008,498,508,2,0,2.92,34.9,69.06,742,73.61
+Telangana,19,Nagarkurnool,81,Nagarkurnool,SC,TS-081-009,"Gram Panchayat Office, Nagarkurnool 9",rural,1058,512,542,2,2,1.41,46.4,77.16,898,84.88
+Telangana,19,Nagarkurnool,81,Nagarkurnool,SC,TS-081-010,"Panchayat Bhavan, Nagarkurnool 10",semi-urban,1379,693,685,0,1,1.73,46.2,85.64,1129,81.87
+Telangana,19,Nagarkurnool,82,Achampet,SC,TS-082-001,"Anganwadi Centre, Achampet 1",rural,1284,649,633,1,1,0.97,40.7,70.96,1010,78.66
+Telangana,19,Nagarkurnool,82,Achampet,SC,TS-082-002,"Government Primary School, Achampet 2",rural,1215,600,612,1,2,1.38,41.7,68.94,953,78.44
+Telangana,19,Nagarkurnool,82,Achampet,SC,TS-082-003,"Government High School, Achampet 3",rural,1378,699,676,1,2,1.24,40.2,65.49,1133,82.22
+Telangana,19,Nagarkurnool,82,Achampet,SC,TS-082-004,"Zilla Parishad High School, Achampet 4",rural,1390,674,711,1,4,2.49,38.0,75.12,1139,81.94
+Telangana,19,Nagarkurnool,82,Achampet,SC,TS-082-005,"MPPS School, Achampet 5",rural,873,421,447,1,4,0.93,41.7,64.21,606,69.42
+Telangana,19,Nagarkurnool,82,Achampet,SC,TS-082-006,"Mandala Parishad School, Achampet 6",semi-urban,1129,561,566,2,0,3.16,38.0,86.6,817,72.36
+Telangana,19,Nagarkurnool,82,Achampet,SC,TS-082-007,"Government Junior College, Achampet 7",urban,1427,714,709,0,4,1.08,36.6,70.7,1265,88.65
+Telangana,19,Nagarkurnool,82,Achampet,SC,TS-082-008,"Gram Panchayat Office, Achampet 8",urban,1082,551,526,1,4,1.36,38.9,75.89,957,88.45
+Telangana,19,Nagarkurnool,82,Achampet,SC,TS-082-009,"Panchayat Bhavan, Achampet 9",rural,1318,651,663,1,3,2.15,42.6,70.51,1100,83.46
+Telangana,19,Nagarkurnool,82,Achampet,SC,TS-082-010,"Community Hall, Achampet 10",rural,1242,634,606,2,0,0.57,40.1,83.88,1002,80.68
+Telangana,19,Nagarkurnool,83,Kalwakurthy,GEN,TS-083-001,"Government Primary School, Kalwakurthy 1",rural,928,473,450,2,3,0.31,37.0,82.23,660,71.12
+Telangana,19,Nagarkurnool,83,Kalwakurthy,GEN,TS-083-002,"Government High School, Kalwakurthy 2",rural,918,444,470,0,4,1.49,30.3,69.71,701,76.36
+Telangana,19,Nagarkurnool,83,Kalwakurthy,GEN,TS-083-003,"Zilla Parishad High School, Kalwakurthy 3",semi-urban,855,436,414,1,4,3.01,39.3,70.89,620,72.51
+Telangana,19,Nagarkurnool,83,Kalwakurthy,GEN,TS-083-004,"MPPS School, Kalwakurthy 4",semi-urban,1169,588,580,0,1,1.58,40.3,81.98,813,69.55
+Telangana,19,Nagarkurnool,83,Kalwakurthy,GEN,TS-083-005,"Mandala Parishad School, Kalwakurthy 5",rural,1184,586,598,0,0,0.25,39.2,77.73,948,80.07
+Telangana,19,Nagarkurnool,83,Kalwakurthy,GEN,TS-083-006,"Government Junior College, Kalwakurthy 6",semi-urban,1301,646,653,0,2,0.99,38.5,81.02,1115,85.7
+Telangana,19,Nagarkurnool,83,Kalwakurthy,GEN,TS-083-007,"Gram Panchayat Office, Kalwakurthy 7",rural,824,406,414,2,2,1.4,40.0,65.51,699,84.83
+Telangana,19,Nagarkurnool,83,Kalwakurthy,GEN,TS-083-008,"Panchayat Bhavan, Kalwakurthy 8",rural,952,470,477,2,3,1.94,32.4,85.14,728,76.47
+Telangana,19,Nagarkurnool,83,Kalwakurthy,GEN,TS-083-009,"Community Hall, Kalwakurthy 9",rural,1135,551,581,0,3,1.79,39.4,74.2,829,73.04
+Telangana,19,Nagarkurnool,83,Kalwakurthy,GEN,TS-083-010,"Government Degree College, Kalwakurthy 10",urban,1088,529,558,1,0,0.25,39.4,75.05,931,85.57
+Telangana,26,Rangareddy,84,Shadnagar,GEN,TS-084-001,"Government High School, Shadnagar 1",semi-urban,1240,625,612,2,1,1.02,41.0,74.82,651,52.5
+Telangana,26,Rangareddy,84,Shadnagar,GEN,TS-084-002,"Zilla Parishad High School, Shadnagar 2",urban,1144,569,571,1,3,0.81,34.3,79.76,660,57.69
+Telangana,26,Rangareddy,84,Shadnagar,GEN,TS-084-003,"MPPS School, Shadnagar 3",urban,1457,706,747,0,4,0.37,44.6,83.21,1077,73.92
+Telangana,26,Rangareddy,84,Shadnagar,GEN,TS-084-004,"Mandala Parishad School, Shadnagar 4",semi-urban,1053,517,534,0,2,0.81,41.5,83.12,525,49.86
+Telangana,26,Rangareddy,84,Shadnagar,GEN,TS-084-005,"Government Junior College, Shadnagar 5",urban,1162,564,598,0,0,1.09,40.8,78.71,554,47.68
+Telangana,26,Rangareddy,84,Shadnagar,GEN,TS-084-006,"Gram Panchayat Office, Shadnagar 6",semi-urban,1015,500,513,0,2,0.83,31.8,76.25,688,67.78
+Telangana,26,Rangareddy,84,Shadnagar,GEN,TS-084-007,"Panchayat Bhavan, Shadnagar 7",urban,1563,790,773,0,0,0.85,41.4,77.71,880,56.3
+Telangana,26,Rangareddy,84,Shadnagar,GEN,TS-084-008,"Community Hall, Shadnagar 8",urban,1304,660,639,1,4,0.91,37.8,88.6,704,53.99
+Telangana,26,Rangareddy,84,Shadnagar,GEN,TS-084-009,"Government Degree College, Shadnagar 9",urban,1488,722,764,0,2,0.82,36.2,73.82,869,58.4
+Telangana,26,Rangareddy,84,Shadnagar,GEN,TS-084-010,"Municipal Community Hall, Shadnagar 10",urban,1565,764,797,1,3,1.14,35.6,79.48,977,62.43
+Telangana,19,Nagarkurnool,85,Kollapur,GEN,TS-085-001,"Zilla Parishad High School, Kollapur 1",urban,841,416,423,0,2,1.4,37.8,67.95,518,61.59
+Telangana,19,Nagarkurnool,85,Kollapur,GEN,TS-085-002,"MPPS School, Kollapur 2",semi-urban,1241,608,630,2,1,1.17,40.9,78.85,994,80.1
+Telangana,19,Nagarkurnool,85,Kollapur,GEN,TS-085-003,"Mandala Parishad School, Kollapur 3",rural,1342,685,654,1,2,1.56,36.6,86.28,947,70.57
+Telangana,19,Nagarkurnool,85,Kollapur,GEN,TS-085-004,"Government Junior College, Kollapur 4",rural,827,407,419,0,1,2.11,42.5,83.54,587,70.98
+Telangana,19,Nagarkurnool,85,Kollapur,GEN,TS-085-005,"Gram Panchayat Office, Kollapur 5",rural,1346,663,681,0,2,2.26,32.8,72.14,996,74.0
+Telangana,19,Nagarkurnool,85,Kollapur,GEN,TS-085-006,"Panchayat Bhavan, Kollapur 6",semi-urban,1321,644,673,1,3,2.25,37.3,72.44,1034,78.27
+Telangana,19,Nagarkurnool,85,Kollapur,GEN,TS-085-007,"Community Hall, Kollapur 7",rural,976,489,485,1,1,1.75,35.8,66.54,722,73.98
+Telangana,19,Nagarkurnool,85,Kollapur,GEN,TS-085-008,"Government Degree College, Kollapur 8",rural,868,436,427,1,4,2.01,42.0,73.8,649,74.77
+Telangana,19,Nagarkurnool,85,Kollapur,GEN,TS-085-009,"Municipal Community Hall, Kollapur 9",rural,882,445,435,2,0,1.18,42.3,74.28,658,74.6
+Telangana,19,Nagarkurnool,85,Kollapur,GEN,TS-085-010,"Anganwadi Centre, Kollapur 10",semi-urban,868,422,443,0,3,1.9,41.4,72.27,736,84.79
+Telangana,20,Nalgonda,86,Devarakonda,ST,TS-086-001,"MPPS School, Devarakonda 1",semi-urban,1152,561,589,0,2,2.31,34.2,68.86,739,64.15
+Telangana,20,Nalgonda,86,Devarakonda,ST,TS-086-002,"Mandala Parishad School, Devarakonda 2",semi-urban,1319,655,661,2,1,0.76,42.3,84.71,1208,91.58
+Telangana,20,Nalgonda,86,Devarakonda,ST,TS-086-003,"Government Junior College, Devarakonda 3",rural,955,479,475,1,0,1.79,36.8,81.78,701,73.4
+Telangana,20,Nalgonda,86,Devarakonda,ST,TS-086-004,"Gram Panchayat Office, Devarakonda 4",rural,1367,700,664,0,3,1.6,35.7,70.13,1107,80.98
+Telangana,20,Nalgonda,86,Devarakonda,ST,TS-086-005,"Panchayat Bhavan, Devarakonda 5",rural,1192,585,601,2,4,1.5,34.2,67.91,955,80.12
+Telangana,20,Nalgonda,86,Devarakonda,ST,TS-086-006,"Community Hall, Devarakonda 6",rural,910,451,455,1,3,1.51,36.3,71.75,840,92.31
+Telangana,20,Nalgonda,86,Devarakonda,ST,TS-086-007,"Government Degree College, Devarakonda 7",semi-urban,1291,652,637,0,2,1.63,47.7,69.46,1055,81.72
+Telangana,20,Nalgonda,86,Devarakonda,ST,TS-086-008,"Municipal Community Hall, Devarakonda 8",semi-urban,985,501,480,1,3,1.53,37.2,70.63,742,75.33
+Telangana,20,Nalgonda,86,Devarakonda,ST,TS-086-009,"Anganwadi Centre, Devarakonda 9",rural,1400,714,683,0,3,1.48,40.5,81.23,1038,74.14
+Telangana,20,Nalgonda,86,Devarakonda,ST,TS-086-010,"Government Primary School, Devarakonda 10",rural,873,427,442,0,4,1.97,38.6,73.45,724,82.93
+Telangana,20,Nalgonda,87,Nagarjuna Sagar,GEN,TS-087-001,"Mandala Parishad School, Nagarjuna Sagar 1",semi-urban,970,495,470,2,3,0.66,40.5,65.74,486,50.1
+Telangana,20,Nalgonda,87,Nagarjuna Sagar,GEN,TS-087-002,"Government Junior College, Nagarjuna Sagar 2",semi-urban,1427,731,694,2,0,1.39,40.8,80.7,1140,79.89
+Telangana,20,Nalgonda,87,Nagarjuna Sagar,GEN,TS-087-003,"Gram Panchayat Office, Nagarjuna Sagar 3",rural,882,430,447,1,4,2.48,38.8,79.66,568,64.4
+Telangana,20,Nalgonda,87,Nagarjuna Sagar,GEN,TS-087-004,"Panchayat Bhavan, Nagarjuna Sagar 4",semi-urban,1341,668,669,0,4,1.54,42.5,85.31,846,63.09
+Telangana,20,Nalgonda,87,Nagarjuna Sagar,GEN,TS-087-005,"Community Hall, Nagarjuna Sagar 5",urban,1428,702,722,2,2,3.04,43.0,73.92,1082,75.77
+Telangana,20,Nalgonda,87,Nagarjuna Sagar,GEN,TS-087-006,"Government Degree College, Nagarjuna Sagar 6",semi-urban,1327,678,646,1,2,2.08,38.5,72.94,1124,84.7
+Telangana,20,Nalgonda,87,Nagarjuna Sagar,GEN,TS-087-007,"Municipal Community Hall, Nagarjuna Sagar 7",urban,908,449,457,2,0,2.01,41.7,70.83,692,76.21
+Telangana,20,Nalgonda,87,Nagarjuna Sagar,GEN,TS-087-008,"Anganwadi Centre, Nagarjuna Sagar 8",rural,1055,538,514,2,1,1.81,44.8,76.69,789,74.79
+Telangana,20,Nalgonda,87,Nagarjuna Sagar,GEN,TS-087-009,"Government Primary School, Nagarjuna Sagar 9",rural,905,446,459,0,0,1.62,42.6,69.99,674,74.48
+Telangana,20,Nalgonda,87,Nagarjuna Sagar,GEN,TS-087-010,"Government High School, Nagarjuna Sagar 10",semi-urban,1352,692,658,0,2,2.46,35.1,72.49,1102,81.51
+Telangana,20,Nalgonda,88,Miryalaguda,GEN,TS-088-001,"Government Junior College, Miryalaguda 1",urban,1348,669,678,1,0,2.47,40.3,64.87,940,69.73
+Telangana,20,Nalgonda,88,Miryalaguda,GEN,TS-088-002,"Gram Panchayat Office, Miryalaguda 2",semi-urban,856,426,429,1,0,0.71,34.6,78.11,674,78.74
+Telangana,20,Nalgonda,88,Miryalaguda,GEN,TS-088-003,"Panchayat Bhavan, Miryalaguda 3",rural,994,491,501,2,0,0.8,42.2,84.11,829,83.4
+Telangana,20,Nalgonda,88,Miryalaguda,GEN,TS-088-004,"Community Hall, Miryalaguda 4",rural,1438,712,720,2,4,0.64,41.7,70.09,984,68.43
+Telangana,20,Nalgonda,88,Miryalaguda,GEN,TS-088-005,"Government Degree College, Miryalaguda 5",rural,1018,500,515,1,2,2.55,41.5,69.38,713,70.04
+Telangana,20,Nalgonda,88,Miryalaguda,GEN,TS-088-006,"Municipal Community Hall, Miryalaguda 6",urban,1362,669,693,0,0,1.54,40.6,65.42,1014,74.45
+Telangana,20,Nalgonda,88,Miryalaguda,GEN,TS-088-007,"Anganwadi Centre, Miryalaguda 7",rural,1096,546,546,1,3,0.74,39.6,83.2,781,71.26
+Telangana,20,Nalgonda,88,Miryalaguda,GEN,TS-088-008,"Government Primary School, Miryalaguda 8",rural,1406,711,692,1,2,2.46,38.6,84.42,1025,72.9
+Telangana,20,Nalgonda,88,Miryalaguda,GEN,TS-088-009,"Government High School, Miryalaguda 9",rural,1153,560,591,1,1,1.48,37.7,84.45,903,78.32
+Telangana,20,Nalgonda,88,Miryalaguda,GEN,TS-088-010,"Zilla Parishad High School, Miryalaguda 10",semi-urban,1396,676,718,2,0,1.36,38.5,74.03,898,64.33
+Telangana,29,Suryapet,89,Huzurnagar,GEN,TS-089-001,"Gram Panchayat Office, Huzurnagar 1",semi-urban,1060,529,527,1,3,2.5,49.0,75.45,774,73.02
+Telangana,29,Suryapet,89,Huzurnagar,GEN,TS-089-002,"Panchayat Bhavan, Huzurnagar 2",urban,863,437,421,2,3,2.47,37.5,67.37,745,86.33
+Telangana,29,Suryapet,89,Huzurnagar,GEN,TS-089-003,"Community Hall, Huzurnagar 3",rural,1440,735,701,2,2,1.37,39.1,69.86,1079,74.93
+Telangana,29,Suryapet,89,Huzurnagar,GEN,TS-089-004,"Government Degree College, Huzurnagar 4",semi-urban,1379,707,669,1,2,1.64,39.4,82.49,972,70.49
+Telangana,29,Suryapet,89,Huzurnagar,GEN,TS-089-005,"Municipal Community Hall, Huzurnagar 5",urban,1022,502,516,1,3,1.22,36.7,71.22,736,72.02
+Telangana,29,Suryapet,89,Huzurnagar,GEN,TS-089-006,"Anganwadi Centre, Huzurnagar 6",rural,1240,614,622,0,4,1.4,36.8,80.47,805,64.92
+Telangana,29,Suryapet,89,Huzurnagar,GEN,TS-089-007,"Government Primary School, Huzurnagar 7",semi-urban,1029,516,509,1,3,2.02,41.4,81.8,799,77.65
+Telangana,29,Suryapet,89,Huzurnagar,GEN,TS-089-008,"Government High School, Huzurnagar 8",rural,828,400,422,2,4,0.46,42.0,72.53,615,74.28
+Telangana,29,Suryapet,89,Huzurnagar,GEN,TS-089-009,"Zilla Parishad High School, Huzurnagar 9",rural,1349,680,667,0,2,1.88,36.8,74.08,963,71.39
+Telangana,29,Suryapet,89,Huzurnagar,GEN,TS-089-010,"MPPS School, Huzurnagar 10",rural,1085,547,533,2,3,1.43,45.2,78.98,715,65.9
+Telangana,29,Suryapet,90,Kodad,GEN,TS-090-001,"Panchayat Bhavan, Kodad 1",semi-urban,955,490,465,0,0,1.61,36.3,71.37,773,80.94
+Telangana,29,Suryapet,90,Kodad,GEN,TS-090-002,"Community Hall, Kodad 2",rural,1377,692,681,2,2,1.72,36.3,77.02,953,69.21
+Telangana,29,Suryapet,90,Kodad,GEN,TS-090-003,"Government Degree College, Kodad 3",rural,1121,562,558,0,1,2.13,38.6,81.45,893,79.66
+Telangana,29,Suryapet,90,Kodad,GEN,TS-090-004,"Municipal Community Hall, Kodad 4",rural,1375,674,699,0,2,2.09,40.0,69.07,1080,78.55
+Telangana,29,Suryapet,90,Kodad,GEN,TS-090-005,"Anganwadi Centre, Kodad 5",rural,1089,540,549,0,0,1.53,39.1,78.68,707,64.92
+Telangana,29,Suryapet,90,Kodad,GEN,TS-090-006,"Government Primary School, Kodad 6",rural,876,427,445,1,3,1.41,38.4,75.92,722,82.42
+Telangana,29,Suryapet,90,Kodad,GEN,TS-090-007,"Government High School, Kodad 7",rural,900,446,451,2,1,0.7,37.7,69.95,642,71.33
+Telangana,29,Suryapet,90,Kodad,GEN,TS-090-008,"Zilla Parishad High School, Kodad 8",rural,859,423,433,1,2,1.76,40.2,76.65,764,88.94
+Telangana,29,Suryapet,90,Kodad,GEN,TS-090-009,"MPPS School, Kodad 9",rural,1163,580,579,0,4,2.37,35.8,81.54,871,74.89
+Telangana,29,Suryapet,90,Kodad,GEN,TS-090-010,"Mandala Parishad School, Kodad 10",rural,857,434,423,0,0,0.64,34.9,65.36,518,60.44
+Telangana,29,Suryapet,91,Suryapet,GEN,TS-091-001,"Community Hall, Suryapet 1",rural,1341,669,668,2,2,1.55,45.1,81.07,985,73.45
+Telangana,29,Suryapet,91,Suryapet,GEN,TS-091-002,"Government Degree College, Suryapet 2",urban,1112,566,544,0,2,1.72,36.0,74.37,817,73.47
+Telangana,29,Suryapet,91,Suryapet,GEN,TS-091-003,"Municipal Community Hall, Suryapet 3",rural,1307,638,666,1,2,2.06,40.5,81.15,845,64.65
+Telangana,29,Suryapet,91,Suryapet,GEN,TS-091-004,"Anganwadi Centre, Suryapet 4",urban,1247,608,636,1,2,1.06,37.2,64.33,887,71.13
+Telangana,29,Suryapet,91,Suryapet,GEN,TS-091-005,"Government Primary School, Suryapet 5",rural,1176,574,601,1,0,1.95,32.7,64.54,789,67.09
+Telangana,29,Suryapet,91,Suryapet,GEN,TS-091-006,"Government High School, Suryapet 6",rural,1025,501,524,0,0,1.37,38.6,72.03,958,93.46
+Telangana,29,Suryapet,91,Suryapet,GEN,TS-091-007,"Zilla Parishad High School, Suryapet 7",rural,840,415,422,1,2,1.47,37.9,85.97,572,68.1
+Telangana,29,Suryapet,91,Suryapet,GEN,TS-091-008,"MPPS School, Suryapet 8",urban,859,430,429,0,0,1.14,38.5,73.9,637,74.16
+Telangana,29,Suryapet,91,Suryapet,GEN,TS-091-009,"Mandala Parishad School, Suryapet 9",semi-urban,1254,622,630,0,2,1.9,37.2,77.63,758,60.45
+Telangana,29,Suryapet,91,Suryapet,GEN,TS-091-010,"Government Junior College, Suryapet 10",semi-urban,1118,548,568,1,1,2.43,42.5,67.85,817,73.08
+Telangana,20,Nalgonda,92,Nalgonda,GEN,TS-092-001,"Government Degree College, Nalgonda 1",rural,1197,588,605,2,2,0.75,37.4,76.09,807,67.42
+Telangana,20,Nalgonda,92,Nalgonda,GEN,TS-092-002,"Municipal Community Hall, Nalgonda 2",urban,1312,673,638,1,0,0.93,41.2,81.63,955,72.79
+Telangana,20,Nalgonda,92,Nalgonda,GEN,TS-092-003,"Anganwadi Centre, Nalgonda 3",semi-urban,973,474,497,0,2,2.47,35.6,77.79,782,80.37
+Telangana,20,Nalgonda,92,Nalgonda,GEN,TS-092-004,"Government Primary School, Nalgonda 4",semi-urban,894,444,448,0,2,1.97,43.4,73.68,647,72.37
+Telangana,20,Nalgonda,92,Nalgonda,GEN,TS-092-005,"Government High School, Nalgonda 5",rural,1070,530,534,2,4,0.99,45.5,85.42,815,76.17
+Telangana,20,Nalgonda,92,Nalgonda,GEN,TS-092-006,"Zilla Parishad High School, Nalgonda 6",rural,1400,719,678,0,3,2.23,38.3,84.09,1096,78.29
+Telangana,20,Nalgonda,92,Nalgonda,GEN,TS-092-007,"MPPS School, Nalgonda 7",semi-urban,970,469,496,1,4,1.71,43.2,66.49,694,71.55
+Telangana,20,Nalgonda,92,Nalgonda,GEN,TS-092-008,"Mandala Parishad School, Nalgonda 8",rural,1145,584,556,1,4,1.26,42.4,77.19,904,78.95
+Telangana,20,Nalgonda,92,Nalgonda,GEN,TS-092-009,"Government Junior College, Nalgonda 9",urban,1414,686,727,0,1,0.72,36.9,77.94,989,69.94
+Telangana,20,Nalgonda,92,Nalgonda,GEN,TS-092-010,"Gram Panchayat Office, Nalgonda 10",rural,1297,627,666,1,3,0.25,42.2,85.74,1040,80.19
+Telangana,20,Nalgonda,93,Munugode,GEN,TS-093-001,"Municipal Community Hall, Munugode 1",semi-urban,887,450,435,2,0,3.88,43.4,79.2,640,72.15
+Telangana,20,Nalgonda,93,Munugode,GEN,TS-093-002,"Anganwadi Centre, Munugode 2",rural,1400,686,711,1,2,1.13,42.9,81.53,944,67.43
+Telangana,20,Nalgonda,93,Munugode,GEN,TS-093-003,"Government Primary School, Munugode 3",urban,1428,692,734,0,2,1.84,41.9,83.19,1008,70.59
+Telangana,20,Nalgonda,93,Munugode,GEN,TS-093-004,"Government High School, Munugode 4",rural,1127,547,577,1,2,2.04,32.5,71.24,950,84.29
+Telangana,20,Nalgonda,93,Munugode,GEN,TS-093-005,"Zilla Parishad High School, Munugode 5",semi-urban,994,506,486,1,1,1.45,43.4,84.07,762,76.66
+Telangana,20,Nalgonda,93,Munugode,GEN,TS-093-006,"MPPS School, Munugode 6",rural,1222,596,624,0,2,0.25,39.5,81.37,1000,81.83
+Telangana,20,Nalgonda,93,Munugode,GEN,TS-093-007,"Mandala Parishad School, Munugode 7",urban,1242,627,612,0,3,2.08,42.3,75.96,949,76.41
+Telangana,20,Nalgonda,93,Munugode,GEN,TS-093-008,"Government Junior College, Munugode 8",rural,1201,582,616,2,1,2.85,44.7,78.68,754,62.78
+Telangana,20,Nalgonda,93,Munugode,GEN,TS-093-009,"Gram Panchayat Office, Munugode 9",semi-urban,1365,661,699,2,3,1.27,36.9,82.55,1004,73.55
+Telangana,20,Nalgonda,93,Munugode,GEN,TS-093-010,"Panchayat Bhavan, Munugode 10",rural,1361,672,684,2,3,1.68,43.9,77.7,950,69.8
+Telangana,33,Yadadri Bhuvanagiri,94,Bhongir,GEN,TS-094-001,"Anganwadi Centre, Bhongir 1",semi-urban,845,418,422,2,3,1.35,40.7,68.25,574,67.93
+Telangana,33,Yadadri Bhuvanagiri,94,Bhongir,GEN,TS-094-002,"Government Primary School, Bhongir 2",semi-urban,1338,669,664,1,4,1.34,40.8,71.19,1048,78.33
+Telangana,33,Yadadri Bhuvanagiri,94,Bhongir,GEN,TS-094-003,"Government High School, Bhongir 3",urban,1429,724,704,1,0,1.48,40.1,68.05,813,56.89
+Telangana,33,Yadadri Bhuvanagiri,94,Bhongir,GEN,TS-094-004,"Zilla Parishad High School, Bhongir 4",rural,1226,620,602,0,4,1.49,43.7,67.01,710,57.91
+Telangana,33,Yadadri Bhuvanagiri,94,Bhongir,GEN,TS-094-005,"MPPS School, Bhongir 5",rural,1383,683,694,2,4,2.26,38.0,78.37,1089,78.74
+Telangana,33,Yadadri Bhuvanagiri,94,Bhongir,GEN,TS-094-006,"Mandala Parishad School, Bhongir 6",rural,1014,497,512,1,4,2.88,41.8,84.86,813,80.18
+Telangana,33,Yadadri Bhuvanagiri,94,Bhongir,GEN,TS-094-007,"Government Junior College, Bhongir 7",rural,1343,688,654,1,0,1.56,38.8,64.51,1038,77.29
+Telangana,33,Yadadri Bhuvanagiri,94,Bhongir,GEN,TS-094-008,"Gram Panchayat Office, Bhongir 8",rural,853,434,413,2,4,1.5,35.8,81.42,554,64.95
+Telangana,33,Yadadri Bhuvanagiri,94,Bhongir,GEN,TS-094-009,"Panchayat Bhavan, Bhongir 9",urban,1412,708,700,0,4,1.07,36.6,67.5,984,69.69
+Telangana,33,Yadadri Bhuvanagiri,94,Bhongir,GEN,TS-094-010,"Community Hall, Bhongir 10",urban,1130,568,557,2,3,1.44,37.6,65.52,870,76.99
+Telangana,20,Nalgonda,95,Nakrekal,SC,TS-095-001,"Government Primary School, Nakrekal 1",rural,1135,573,559,0,3,1.23,40.1,68.92,976,85.99
+Telangana,20,Nalgonda,95,Nakrekal,SC,TS-095-002,"Government High School, Nakrekal 2",urban,1282,629,650,2,1,1.56,46.1,76.0,1125,87.75
+Telangana,20,Nalgonda,95,Nakrekal,SC,TS-095-003,"Zilla Parishad High School, Nakrekal 3",urban,1138,563,569,2,4,1.73,39.8,69.79,852,74.87
+Telangana,20,Nalgonda,95,Nakrekal,SC,TS-095-004,"MPPS School, Nakrekal 4",rural,1350,692,653,2,3,1.01,40.6,76.26,1102,81.63
+Telangana,20,Nalgonda,95,Nakrekal,SC,TS-095-005,"Mandala Parishad School, Nakrekal 5",rural,1338,670,667,1,0,1.3,39.7,77.9,1183,88.42
+Telangana,20,Nalgonda,95,Nakrekal,SC,TS-095-006,"Government Junior College, Nakrekal 6",rural,1133,567,563,0,3,0.86,45.0,86.39,829,73.17
+Telangana,20,Nalgonda,95,Nakrekal,SC,TS-095-007,"Gram Panchayat Office, Nakrekal 7",rural,925,466,454,2,3,1.0,40.1,78.59,668,72.22
+Telangana,20,Nalgonda,95,Nakrekal,SC,TS-095-008,"Panchayat Bhavan, Nakrekal 8",semi-urban,1338,649,684,2,3,1.87,40.2,67.5,1015,75.86
+Telangana,20,Nalgonda,95,Nakrekal,SC,TS-095-009,"Community Hall, Nakrekal 9",urban,1047,510,534,2,1,2.19,36.6,81.08,868,82.9
+Telangana,20,Nalgonda,95,Nakrekal,SC,TS-095-010,"Government Degree College, Nakrekal 10",semi-urban,1330,650,678,2,0,1.5,45.6,84.25,1043,78.42
+Telangana,29,Suryapet,96,Thungathurthi,SC,TS-096-001,"Government High School, Thungathurthi 1",urban,1199,602,593,0,4,2.36,41.0,64.52,1028,85.74
+Telangana,29,Suryapet,96,Thungathurthi,SC,TS-096-002,"Zilla Parishad High School, Thungathurthi 2",rural,1288,640,643,2,3,1.41,36.1,75.47,1003,77.87
+Telangana,29,Suryapet,96,Thungathurthi,SC,TS-096-003,"MPPS School, Thungathurthi 3",urban,1432,707,723,1,1,1.94,38.9,84.87,928,64.8
+Telangana,29,Suryapet,96,Thungathurthi,SC,TS-096-004,"Mandala Parishad School, Thungathurthi 4",urban,1021,503,512,2,4,2.85,40.2,74.94,835,81.78
+Telangana,29,Suryapet,96,Thungathurthi,SC,TS-096-005,"Government Junior College, Thungathurthi 5",semi-urban,1084,529,553,1,1,1.14,42.9,86.21,949,87.55
+Telangana,29,Suryapet,96,Thungathurthi,SC,TS-096-006,"Gram Panchayat Office, Thungathurthi 6",rural,912,464,444,1,3,1.38,39.4,69.09,776,85.09
+Telangana,29,Suryapet,96,Thungathurthi,SC,TS-096-007,"Panchayat Bhavan, Thungathurthi 7",semi-urban,921,456,462,1,2,1.71,40.8,74.41,737,80.02
+Telangana,29,Suryapet,96,Thungathurthi,SC,TS-096-008,"Community Hall, Thungathurthi 8",urban,1437,708,727,0,2,2.65,35.2,85.38,1119,77.87
+Telangana,29,Suryapet,96,Thungathurthi,SC,TS-096-009,"Government Degree College, Thungathurthi 9",rural,1147,568,574,2,3,1.82,35.3,67.45,871,75.94
+Telangana,29,Suryapet,96,Thungathurthi,SC,TS-096-010,"Municipal Community Hall, Thungathurthi 10",urban,1250,637,609,1,3,0.46,41.2,71.86,1005,80.4
+Telangana,33,Yadadri Bhuvanagiri,97,Alair,GEN,TS-097-001,"Zilla Parishad High School, Alair 1",rural,1252,643,609,0,0,0.98,37.4,82.71,959,76.6
+Telangana,33,Yadadri Bhuvanagiri,97,Alair,GEN,TS-097-002,"MPPS School, Alair 2",semi-urban,897,451,443,2,1,0.25,39.8,79.88,702,78.26
+Telangana,33,Yadadri Bhuvanagiri,97,Alair,GEN,TS-097-003,"Mandala Parishad School, Alair 3",urban,926,449,474,2,1,1.8,39.9,83.21,605,65.33
+Telangana,33,Yadadri Bhuvanagiri,97,Alair,GEN,TS-097-004,"Government Junior College, Alair 4",rural,1306,647,656,2,1,1.72,42.5,81.7,886,67.84
+Telangana,33,Yadadri Bhuvanagiri,97,Alair,GEN,TS-097-005,"Gram Panchayat Office, Alair 5",semi-urban,1096,560,535,0,1,2.04,37.5,71.24,876,79.93
+Telangana,33,Yadadri Bhuvanagiri,97,Alair,GEN,TS-097-006,"Panchayat Bhavan, Alair 6",rural,1141,561,576,2,2,0.68,45.3,75.33,669,58.63
+Telangana,33,Yadadri Bhuvanagiri,97,Alair,GEN,TS-097-007,"Community Hall, Alair 7",semi-urban,1355,681,673,1,0,2.17,35.1,65.16,950,70.11
+Telangana,33,Yadadri Bhuvanagiri,97,Alair,GEN,TS-097-008,"Government Degree College, Alair 8",rural,1432,714,712,2,4,2.27,37.7,81.27,1017,71.02
+Telangana,33,Yadadri Bhuvanagiri,97,Alair,GEN,TS-097-009,"Municipal Community Hall, Alair 9",rural,1377,677,697,0,3,2.32,41.7,66.48,998,72.48
+Telangana,33,Yadadri Bhuvanagiri,97,Alair,GEN,TS-097-010,"Anganwadi Centre, Alair 10",semi-urban,1269,643,624,0,2,0.97,37.6,66.16,1045,82.35
+Telangana,6,Jangaon,98,Jangaon,GEN,TS-098-001,"MPPS School, Jangaon 1",rural,1281,642,638,1,0,1.28,46.3,77.95,951,74.24
+Telangana,6,Jangaon,98,Jangaon,GEN,TS-098-002,"Mandala Parishad School, Jangaon 2",urban,941,458,480,2,1,1.34,38.0,69.93,755,80.23
+Telangana,6,Jangaon,98,Jangaon,GEN,TS-098-003,"Government Junior College, Jangaon 3",semi-urban,1292,632,654,2,4,1.38,33.3,71.75,972,75.23
+Telangana,6,Jangaon,98,Jangaon,GEN,TS-098-004,"Gram Panchayat Office, Jangaon 4",rural,1425,712,709,1,3,1.2,40.4,86.1,941,66.04
+Telangana,6,Jangaon,98,Jangaon,GEN,TS-098-005,"Panchayat Bhavan, Jangaon 5",semi-urban,1039,527,510,1,1,1.66,38.4,85.2,789,75.94
+Telangana,6,Jangaon,98,Jangaon,GEN,TS-098-006,"Community Hall, Jangaon 6",rural,1109,548,556,1,4,1.67,36.6,74.11,792,71.42
+Telangana,6,Jangaon,98,Jangaon,GEN,TS-098-007,"Government Degree College, Jangaon 7",rural,1189,598,588,0,3,1.29,45.3,79.37,952,80.07
+Telangana,6,Jangaon,98,Jangaon,GEN,TS-098-008,"Municipal Community Hall, Jangaon 8",semi-urban,1194,605,588,1,0,1.4,39.1,81.16,810,67.84
+Telangana,6,Jangaon,98,Jangaon,GEN,TS-098-009,"Anganwadi Centre, Jangaon 9",urban,1350,665,682,0,3,1.89,39.0,72.5,1060,78.52
+Telangana,6,Jangaon,98,Jangaon,GEN,TS-098-010,"Government Primary School, Jangaon 10",urban,1085,539,544,0,2,0.8,36.6,76.07,808,74.47
+Telangana,6,Jangaon,99,Ghanpur (Station),SC,TS-099-001,"Mandala Parishad School, Ghanpur (Station) 1",rural,1153,562,587,1,3,0.53,37.6,79.48,1002,86.9
+Telangana,6,Jangaon,99,Ghanpur (Station),SC,TS-099-002,"Government Junior College, Ghanpur (Station) 2",rural,1159,561,596,1,1,0.89,36.9,85.9,837,72.22
+Telangana,6,Jangaon,99,Ghanpur (Station),SC,TS-099-003,"Gram Panchayat Office, Ghanpur (Station) 3",rural,1335,675,655,1,4,0.48,39.8,68.43,782,58.58
+Telangana,6,Jangaon,99,Ghanpur (Station),SC,TS-099-004,"Panchayat Bhavan, Ghanpur (Station) 4",semi-urban,1260,614,642,1,3,2.2,35.7,70.57,940,74.6
+Telangana,6,Jangaon,99,Ghanpur (Station),SC,TS-099-005,"Community Hall, Ghanpur (Station) 5",rural,1280,643,634,0,3,2.46,39.4,79.69,966,75.47
+Telangana,6,Jangaon,99,Ghanpur (Station),SC,TS-099-006,"Government Degree College, Ghanpur (Station) 6",semi-urban,1025,496,527,1,1,1.36,40.7,75.27,734,71.61
+Telangana,6,Jangaon,99,Ghanpur (Station),SC,TS-099-007,"Municipal Community Hall, Ghanpur (Station) 7",rural,1171,578,593,0,0,0.69,45.4,68.46,799,68.23
+Telangana,6,Jangaon,99,Ghanpur (Station),SC,TS-099-008,"Anganwadi Centre, Ghanpur (Station) 8",rural,1274,652,622,0,0,0.83,40.9,74.79,905,71.04
+Telangana,6,Jangaon,99,Ghanpur (Station),SC,TS-099-009,"Government Primary School, Ghanpur (Station) 9",rural,1081,547,532,2,0,1.05,40.4,66.3,790,73.08
+Telangana,6,Jangaon,99,Ghanpur (Station),SC,TS-099-010,"Government High School, Ghanpur (Station) 10",rural,851,427,419,2,3,1.89,35.9,64.59,704,82.73
+Telangana,6,Jangaon,100,Palakurthi,GEN,TS-100-001,"Government Junior College, Palakurthi 1",rural,1177,588,587,1,1,1.32,37.3,79.04,819,69.58
+Telangana,6,Jangaon,100,Palakurthi,GEN,TS-100-002,"Gram Panchayat Office, Palakurthi 2",semi-urban,1376,681,692,1,2,1.44,38.3,84.28,957,69.55
+Telangana,6,Jangaon,100,Palakurthi,GEN,TS-100-003,"Panchayat Bhavan, Palakurthi 3",urban,981,488,489,2,2,1.59,42.7,64.36,706,71.97
+Telangana,6,Jangaon,100,Palakurthi,GEN,TS-100-004,"Community Hall, Palakurthi 4",rural,1438,710,727,1,0,1.51,42.4,64.71,923,64.19
+Telangana,6,Jangaon,100,Palakurthi,GEN,TS-100-005,"Government Degree College, Palakurthi 5",rural,1008,517,490,1,0,2.62,43.8,79.83,851,84.42
+Telangana,6,Jangaon,100,Palakurthi,GEN,TS-100-006,"Municipal Community Hall, Palakurthi 6",semi-urban,1284,637,646,0,1,1.83,38.1,83.83,794,61.84
+Telangana,6,Jangaon,100,Palakurthi,GEN,TS-100-007,"Anganwadi Centre, Palakurthi 7",rural,1214,608,602,0,4,1.79,46.5,74.18,821,67.63
+Telangana,6,Jangaon,100,Palakurthi,GEN,TS-100-008,"Government Primary School, Palakurthi 8",semi-urban,1429,718,709,1,1,0.74,37.4,65.06,1107,77.47
+Telangana,6,Jangaon,100,Palakurthi,GEN,TS-100-009,"Government High School, Palakurthi 9",urban,848,418,427,0,3,1.85,42.0,77.42,793,93.51
+Telangana,6,Jangaon,100,Palakurthi,GEN,TS-100-010,"Zilla Parishad High School, Palakurthi 10",semi-urban,939,473,464,0,2,1.24,37.5,85.95,695,74.01
+Telangana,32,Warangal,101,Dornakal,ST,TS-101-001,"Gram Panchayat Office, Dornakal 1",rural,1297,629,665,0,3,0.69,40.3,81.98,1019,78.57
+Telangana,32,Warangal,101,Dornakal,ST,TS-101-002,"Panchayat Bhavan, Dornakal 2",urban,897,456,439,0,2,2.26,38.8,64.63,676,75.36
+Telangana,32,Warangal,101,Dornakal,ST,TS-101-003,"Community Hall, Dornakal 3",rural,929,474,450,2,3,1.74,39.8,71.88,651,70.08
+Telangana,32,Warangal,101,Dornakal,ST,TS-101-004,"Government Degree College, Dornakal 4",urban,1011,493,514,2,2,2.13,43.2,80.49,686,67.85
+Telangana,32,Warangal,101,Dornakal,ST,TS-101-005,"Municipal Community Hall, Dornakal 5",semi-urban,1135,574,555,2,4,1.83,44.0,64.99,721,63.52
+Telangana,32,Warangal,101,Dornakal,ST,TS-101-006,"Anganwadi Centre, Dornakal 6",rural,961,485,471,2,3,2.47,37.1,70.4,772,80.33
+Telangana,32,Warangal,101,Dornakal,ST,TS-101-007,"Government Primary School, Dornakal 7",semi-urban,1362,691,669,1,1,2.01,42.4,73.24,955,70.12
+Telangana,32,Warangal,101,Dornakal,ST,TS-101-008,"Government High School, Dornakal 8",rural,1154,562,590,2,0,0.92,39.2,80.0,782,67.76
+Telangana,32,Warangal,101,Dornakal,ST,TS-101-009,"Zilla Parishad High School, Dornakal 9",rural,1405,715,687,2,1,1.91,40.9,67.03,983,69.96
+Telangana,32,Warangal,101,Dornakal,ST,TS-101-010,"MPPS School, Dornakal 10",rural,1003,512,489,0,2,1.55,34.0,78.91,732,72.98
+Telangana,13,Mahabubabad,102,Mahabubabad,ST,TS-102-001,"Panchayat Bhavan, Mahabubabad 1",rural,936,470,464,1,1,3.35,33.4,71.67,793,84.72
+Telangana,13,Mahabubabad,102,Mahabubabad,ST,TS-102-002,"Community Hall, Mahabubabad 2",rural,1120,543,575,2,0,2.85,43.0,73.69,973,86.88
+Telangana,13,Mahabubabad,102,Mahabubabad,ST,TS-102-003,"Government Degree College, Mahabubabad 3",rural,942,476,466,0,0,1.24,40.5,72.02,701,74.42
+Telangana,13,Mahabubabad,102,Mahabubabad,ST,TS-102-004,"Municipal Community Hall, Mahabubabad 4",rural,1124,564,558,1,1,2.0,31.2,60.96,914,81.32
+Telangana,13,Mahabubabad,102,Mahabubabad,ST,TS-102-005,"Anganwadi Centre, Mahabubabad 5",rural,1133,573,560,0,0,3.26,40.3,60.85,1058,93.38
+Telangana,13,Mahabubabad,102,Mahabubabad,ST,TS-102-006,"Government Primary School, Mahabubabad 6",rural,832,405,425,2,0,4.69,42.6,74.61,751,90.26
+Telangana,13,Mahabubabad,102,Mahabubabad,ST,TS-102-007,"Government High School, Mahabubabad 7",rural,1129,576,551,0,2,0.45,39.1,75.49,868,76.88
+Telangana,13,Mahabubabad,102,Mahabubabad,ST,TS-102-008,"Zilla Parishad High School, Mahabubabad 8",rural,1031,510,518,0,3,3.74,44.1,57.08,700,67.9
+Telangana,13,Mahabubabad,102,Mahabubabad,ST,TS-102-009,"MPPS School, Mahabubabad 9",rural,1018,510,505,1,2,2.46,39.9,67.67,803,78.88
+Telangana,13,Mahabubabad,102,Mahabubabad,ST,TS-102-010,"Mandala Parishad School, Mahabubabad 10",rural,946,472,468,2,4,3.62,39.6,68.08,743,78.54
+Telangana,32,Warangal,103,Narsampet,GEN,TS-103-001,"Community Hall, Narsampet 1",rural,1154,572,578,1,3,0.83,40.6,75.63,821,71.14
+Telangana,32,Warangal,103,Narsampet,GEN,TS-103-002,"Government Degree College, Narsampet 2",rural,925,464,459,2,0,1.45,41.1,74.46,810,87.57
+Telangana,32,Warangal,103,Narsampet,GEN,TS-103-003,"Municipal Community Hall, Narsampet 3",rural,1336,682,652,0,2,1.83,41.0,64.16,890,66.62
+Telangana,32,Warangal,103,Narsampet,GEN,TS-103-004,"Anganwadi Centre, Narsampet 4",rural,1293,656,635,0,2,2.35,42.5,84.36,804,62.18
+Telangana,32,Warangal,103,Narsampet,GEN,TS-103-005,"Government Primary School, Narsampet 5",urban,977,486,486,2,3,0.83,40.1,82.08,730,74.72
+Telangana,32,Warangal,103,Narsampet,GEN,TS-103-006,"Government High School, Narsampet 6",semi-urban,1173,588,581,1,3,1.47,38.3,67.7,904,77.07
+Telangana,32,Warangal,103,Narsampet,GEN,TS-103-007,"Zilla Parishad High School, Narsampet 7",rural,1270,632,637,1,0,0.83,38.0,83.61,892,70.24
+Telangana,32,Warangal,103,Narsampet,GEN,TS-103-008,"MPPS School, Narsampet 8",rural,956,486,467,0,3,0.48,43.2,76.76,675,70.61
+Telangana,32,Warangal,103,Narsampet,GEN,TS-103-009,"Mandala Parishad School, Narsampet 9",rural,1239,611,624,2,2,1.83,42.4,81.47,1082,87.33
+Telangana,32,Warangal,103,Narsampet,GEN,TS-103-010,"Government Junior College, Narsampet 10",semi-urban,1430,697,729,2,2,1.86,36.6,76.14,1230,86.01
+Telangana,32,Warangal,104,Parkal,GEN,TS-104-001,"Government Degree College, Parkal 1",urban,1091,552,535,1,3,1.68,42.3,78.84,910,83.41
+Telangana,32,Warangal,104,Parkal,GEN,TS-104-002,"Municipal Community Hall, Parkal 2",semi-urban,1399,686,708,1,4,1.59,42.3,76.15,903,64.55
+Telangana,32,Warangal,104,Parkal,GEN,TS-104-003,"Anganwadi Centre, Parkal 3",rural,1362,682,679,1,0,0.91,39.2,77.45,986,72.39
+Telangana,32,Warangal,104,Parkal,GEN,TS-104-004,"Government Primary School, Parkal 4",rural,1084,542,538,0,4,1.49,40.7,72.26,649,59.87
+Telangana,32,Warangal,104,Parkal,GEN,TS-104-005,"Government High School, Parkal 5",rural,1281,629,650,0,2,1.95,39.0,65.64,1037,80.95
+Telangana,32,Warangal,104,Parkal,GEN,TS-104-006,"Zilla Parishad High School, Parkal 6",rural,1078,549,526,1,2,0.79,33.1,81.44,875,81.17
+Telangana,32,Warangal,104,Parkal,GEN,TS-104-007,"MPPS School, Parkal 7",rural,1220,604,610,2,4,2.46,41.0,70.81,887,72.7
+Telangana,32,Warangal,104,Parkal,GEN,TS-104-008,"Mandala Parishad School, Parkal 8",semi-urban,832,408,418,2,4,2.0,36.3,68.96,611,73.44
+Telangana,32,Warangal,104,Parkal,GEN,TS-104-009,"Government Junior College, Parkal 9",rural,1335,662,667,2,4,1.31,36.7,84.1,1085,81.27
+Telangana,32,Warangal,104,Parkal,GEN,TS-104-010,"Gram Panchayat Office, Parkal 10",rural,931,461,467,0,3,1.33,36.7,64.95,695,74.65
+Telangana,3,Hanamkonda,105,Warangal West,GEN,TS-105-001,"Municipal Community Hall, Warangal West 1",urban,1578,775,802,1,0,0.41,38.6,83.47,1029,65.21
+Telangana,3,Hanamkonda,105,Warangal West,GEN,TS-105-002,"Anganwadi Centre, Warangal West 2",urban,1564,775,787,2,0,0.81,35.5,89.43,813,51.98
+Telangana,3,Hanamkonda,105,Warangal West,GEN,TS-105-003,"Government Primary School, Warangal West 3",urban,1350,678,669,2,1,0.61,39.7,79.49,727,53.85
+Telangana,3,Hanamkonda,105,Warangal West,GEN,TS-105-004,"Government High School, Warangal West 4",urban,1451,721,725,2,3,0.59,41.8,87.26,884,60.92
+Telangana,3,Hanamkonda,105,Warangal West,GEN,TS-105-005,"Zilla Parishad High School, Warangal West 5",urban,1401,690,706,1,4,1.34,47.1,86.72,783,55.89
+Telangana,3,Hanamkonda,105,Warangal West,GEN,TS-105-006,"MPPS School, Warangal West 6",rural,1522,760,758,2,2,0.67,40.2,77.78,766,50.33
+Telangana,3,Hanamkonda,105,Warangal West,GEN,TS-105-007,"Mandala Parishad School, Warangal West 7",urban,988,486,499,0,3,0.12,42.2,74.3,674,68.22
+Telangana,3,Hanamkonda,105,Warangal West,GEN,TS-105-008,"Government Junior College, Warangal West 8",urban,1486,743,738,1,4,0.82,41.0,74.66,909,61.17
+Telangana,3,Hanamkonda,105,Warangal West,GEN,TS-105-009,"Gram Panchayat Office, Warangal West 9",urban,1412,726,685,0,1,0.96,41.3,75.08,947,67.07
+Telangana,3,Hanamkonda,105,Warangal West,GEN,TS-105-010,"Panchayat Bhavan, Warangal West 10",urban,1046,521,519,2,4,1.07,36.9,80.34,516,49.33
+Telangana,3,Hanamkonda,106,Warangal East,GEN,TS-106-001,"Anganwadi Centre, Warangal East 1",urban,1317,667,648,0,2,0.49,36.6,89.26,792,60.14
+Telangana,3,Hanamkonda,106,Warangal East,GEN,TS-106-002,"Government Primary School, Warangal East 2",urban,1540,751,786,0,3,1.13,46.5,77.57,873,56.69
+Telangana,3,Hanamkonda,106,Warangal East,GEN,TS-106-003,"Government High School, Warangal East 3",urban,1450,734,713,2,1,1.28,39.1,80.35,753,51.93
+Telangana,3,Hanamkonda,106,Warangal East,GEN,TS-106-004,"Zilla Parishad High School, Warangal East 4",urban,1411,699,708,0,4,1.04,39.2,77.71,712,50.46
+Telangana,3,Hanamkonda,106,Warangal East,GEN,TS-106-005,"MPPS School, Warangal East 5",semi-urban,1084,555,524,1,4,1.19,40.5,78.89,628,57.93
+Telangana,3,Hanamkonda,106,Warangal East,GEN,TS-106-006,"Mandala Parishad School, Warangal East 6",urban,1171,596,574,1,0,0.98,42.6,76.6,635,54.23
+Telangana,3,Hanamkonda,106,Warangal East,GEN,TS-106-007,"Government Junior College, Warangal East 7",urban,1169,591,578,0,0,1.32,42.7,85.4,516,44.14
+Telangana,3,Hanamkonda,106,Warangal East,GEN,TS-106-008,"Gram Panchayat Office, Warangal East 8",semi-urban,1531,779,751,1,0,0.94,41.5,78.21,909,59.37
+Telangana,3,Hanamkonda,106,Warangal East,GEN,TS-106-009,"Panchayat Bhavan, Warangal East 9",rural,990,496,492,0,2,0.95,41.4,85.19,607,61.31
+Telangana,3,Hanamkonda,106,Warangal East,GEN,TS-106-010,"Community Hall, Warangal East 10",urban,1121,557,563,1,0,0.4,36.2,73.88,691,61.64
+Telangana,32,Warangal,107,Wardhannapet,SC,TS-107-001,"Government Primary School, Wardhannapet 1",rural,1356,667,687,0,2,1.56,37.3,81.05,1057,77.95
+Telangana,32,Warangal,107,Wardhannapet,SC,TS-107-002,"Government High School, Wardhannapet 2",rural,1303,635,665,1,2,0.54,42.3,71.77,1043,80.05
+Telangana,32,Warangal,107,Wardhannapet,SC,TS-107-003,"Zilla Parishad High School, Wardhannapet 3",rural,888,432,452,0,4,1.52,41.3,82.53,658,74.1
+Telangana,32,Warangal,107,Wardhannapet,SC,TS-107-004,"MPPS School, Wardhannapet 4",urban,1059,526,531,2,0,1.9,34.2,86.44,841,79.41
+Telangana,32,Warangal,107,Wardhannapet,SC,TS-107-005,"Mandala Parishad School, Wardhannapet 5",rural,1443,724,718,0,1,0.69,40.7,67.67,1327,91.96
+Telangana,32,Warangal,107,Wardhannapet,SC,TS-107-006,"Government Junior College, Wardhannapet 6",semi-urban,1055,511,541,2,1,0.68,41.0,79.71,686,65.02
+Telangana,32,Warangal,107,Wardhannapet,SC,TS-107-007,"Gram Panchayat Office, Wardhannapet 7",rural,1178,594,580,0,4,1.86,38.9,67.89,723,61.38
+Telangana,32,Warangal,107,Wardhannapet,SC,TS-107-008,"Panchayat Bhavan, Wardhannapet 8",urban,1437,715,719,2,1,2.08,40.0,78.06,995,69.24
+Telangana,32,Warangal,107,Wardhannapet,SC,TS-107-009,"Community Hall, Wardhannapet 9",rural,1051,537,512,0,2,1.15,37.0,78.83,814,77.45
+Telangana,32,Warangal,107,Wardhannapet,SC,TS-107-010,"Government Degree College, Wardhannapet 10",rural,826,422,403,0,1,2.02,37.9,84.1,551,66.71
+Telangana,7,Jayashankar Bhupalpalle,108,Bhupalpalle,GEN,TS-108-001,"Government High School, Bhupalpalle 1",rural,977,489,483,2,3,2.63,42.2,67.61,825,84.44
+Telangana,7,Jayashankar Bhupalpalle,108,Bhupalpalle,GEN,TS-108-002,"Zilla Parishad High School, Bhupalpalle 2",rural,1237,611,622,2,2,2.75,37.3,64.12,1029,83.19
+Telangana,7,Jayashankar Bhupalpalle,108,Bhupalpalle,GEN,TS-108-003,"MPPS School, Bhupalpalle 3",rural,1031,528,500,0,3,5.47,37.7,63.08,783,75.95
+Telangana,7,Jayashankar Bhupalpalle,108,Bhupalpalle,GEN,TS-108-004,"Mandala Parishad School, Bhupalpalle 4",rural,1002,488,508,2,4,3.63,39.4,72.12,837,83.53
+Telangana,7,Jayashankar Bhupalpalle,108,Bhupalpalle,GEN,TS-108-005,"Government Junior College, Bhupalpalle 5",semi-urban,1206,598,605,0,3,2.88,29.7,72.94,907,75.21
+Telangana,7,Jayashankar Bhupalpalle,108,Bhupalpalle,GEN,TS-108-006,"Gram Panchayat Office, Bhupalpalle 6",rural,796,401,393,2,0,4.22,39.3,69.81,584,73.37
+Telangana,7,Jayashankar Bhupalpalle,108,Bhupalpalle,GEN,TS-108-007,"Panchayat Bhavan, Bhupalpalle 7",semi-urban,1160,593,563,0,4,3.6,41.6,66.46,997,85.95
+Telangana,7,Jayashankar Bhupalpalle,108,Bhupalpalle,GEN,TS-108-008,"Community Hall, Bhupalpalle 8",semi-urban,1168,598,569,1,0,2.38,40.0,63.24,994,85.1
+Telangana,7,Jayashankar Bhupalpalle,108,Bhupalpalle,GEN,TS-108-009,"Government Degree College, Bhupalpalle 9",semi-urban,1077,540,537,0,0,3.35,42.4,59.83,872,80.97
+Telangana,7,Jayashankar Bhupalpalle,108,Bhupalpalle,GEN,TS-108-010,"Municipal Community Hall, Bhupalpalle 10",rural,917,449,465,2,1,1.33,42.2,60.14,667,72.74
+Telangana,18,Mulugu,109,Mulug,ST,TS-109-001,"Zilla Parishad High School, Mulug 1",rural,1242,620,621,1,0,2.34,37.3,65.67,1053,84.78
+Telangana,18,Mulugu,109,Mulug,ST,TS-109-002,"MPPS School, Mulug 2",rural,1087,527,559,1,0,4.39,39.0,57.87,888,81.69
+Telangana,18,Mulugu,109,Mulug,ST,TS-109-003,"Mandala Parishad School, Mulug 3",rural,1015,492,519,1,3,4.44,39.0,75.31,848,83.55
+Telangana,18,Mulugu,109,Mulug,ST,TS-109-004,"Government Junior College, Mulug 4",urban,910,461,447,1,1,2.68,35.5,74.02,696,76.48
+Telangana,18,Mulugu,109,Mulug,ST,TS-109-005,"Gram Panchayat Office, Mulug 5",semi-urban,1008,488,518,1,1,1.5,41.1,60.09,903,89.58
+Telangana,18,Mulugu,109,Mulug,ST,TS-109-006,"Panchayat Bhavan, Mulug 6",rural,795,397,396,1,1,2.94,38.2,72.04,685,86.16
+Telangana,18,Mulugu,109,Mulug,ST,TS-109-007,"Community Hall, Mulug 7",rural,1098,540,554,2,2,2.69,37.5,65.29,856,77.96
+Telangana,18,Mulugu,109,Mulug,ST,TS-109-008,"Government Degree College, Mulug 8",rural,1059,524,530,2,3,2.08,37.6,58.53,957,90.37
+Telangana,18,Mulugu,109,Mulug,ST,TS-109-009,"Municipal Community Hall, Mulug 9",rural,874,436,435,1,2,3.4,39.2,67.77,672,76.89
+Telangana,18,Mulugu,109,Mulug,ST,TS-109-010,"Anganwadi Centre, Mulug 10",rural,1222,598,621,1,2,2.81,34.6,63.28,949,77.66
+Telangana,2,Bhadradri Kothagudem,110,Pinapaka,ST,TS-110-001,"MPPS School, Pinapaka 1",semi-urban,1115,545,565,1,4,4.75,47.9,72.66,894,80.18
+Telangana,2,Bhadradri Kothagudem,110,Pinapaka,ST,TS-110-002,"Mandala Parishad School, Pinapaka 2",rural,1116,569,546,0,1,2.58,37.2,70.67,864,77.42
+Telangana,2,Bhadradri Kothagudem,110,Pinapaka,ST,TS-110-003,"Government Junior College, Pinapaka 3",rural,803,406,397,0,0,0.45,38.2,63.28,580,72.23
+Telangana,2,Bhadradri Kothagudem,110,Pinapaka,ST,TS-110-004,"Gram Panchayat Office, Pinapaka 4",rural,815,403,406,2,4,3.35,39.2,64.72,674,82.7
+Telangana,2,Bhadradri Kothagudem,110,Pinapaka,ST,TS-110-005,"Panchayat Bhavan, Pinapaka 5",rural,981,497,481,0,3,4.64,37.1,59.14,798,81.35
+Telangana,2,Bhadradri Kothagudem,110,Pinapaka,ST,TS-110-006,"Community Hall, Pinapaka 6",rural,1092,534,553,1,4,3.86,37.9,72.25,924,84.62
+Telangana,2,Bhadradri Kothagudem,110,Pinapaka,ST,TS-110-007,"Government Degree College, Pinapaka 7",rural,1067,536,527,2,2,2.94,38.5,72.81,814,76.29
+Telangana,2,Bhadradri Kothagudem,110,Pinapaka,ST,TS-110-008,"Municipal Community Hall, Pinapaka 8",rural,1026,505,520,0,1,3.65,43.0,71.18,696,67.84
+Telangana,2,Bhadradri Kothagudem,110,Pinapaka,ST,TS-110-009,"Anganwadi Centre, Pinapaka 9",rural,1172,585,585,1,1,0.73,36.6,65.93,1040,88.74
+Telangana,2,Bhadradri Kothagudem,110,Pinapaka,ST,TS-110-010,"Government Primary School, Pinapaka 10",rural,947,469,474,1,3,2.73,37.0,62.78,775,81.84
+Telangana,2,Bhadradri Kothagudem,111,Yellandu,ST,TS-111-001,"Mandala Parishad School, Yellandu 1",rural,847,435,412,0,0,1.97,39.8,65.81,792,93.51
+Telangana,2,Bhadradri Kothagudem,111,Yellandu,ST,TS-111-002,"Government Junior College, Yellandu 2",rural,1023,515,505,0,3,3.77,36.3,75.5,806,78.79
+Telangana,2,Bhadradri Kothagudem,111,Yellandu,ST,TS-111-003,"Gram Panchayat Office, Yellandu 3",rural,886,429,454,2,1,4.09,39.8,65.02,693,78.22
+Telangana,2,Bhadradri Kothagudem,111,Yellandu,ST,TS-111-004,"Panchayat Bhavan, Yellandu 4",rural,1166,589,573,0,4,1.05,36.8,60.79,993,85.16
+Telangana,2,Bhadradri Kothagudem,111,Yellandu,ST,TS-111-005,"Community Hall, Yellandu 5",rural,996,498,497,1,0,2.68,41.4,63.76,881,88.45
+Telangana,2,Bhadradri Kothagudem,111,Yellandu,ST,TS-111-006,"Government Degree College, Yellandu 6",rural,929,455,471,2,1,1.05,40.6,71.83,713,76.75
+Telangana,2,Bhadradri Kothagudem,111,Yellandu,ST,TS-111-007,"Municipal Community Hall, Yellandu 7",rural,996,495,500,0,1,3.62,36.1,65.51,848,85.14
+Telangana,2,Bhadradri Kothagudem,111,Yellandu,ST,TS-111-008,"Anganwadi Centre, Yellandu 8",rural,1073,528,543,0,2,3.68,39.0,75.06,1003,93.48
+Telangana,2,Bhadradri Kothagudem,111,Yellandu,ST,TS-111-009,"Government Primary School, Yellandu 9",semi-urban,1118,569,547,2,0,1.92,36.2,66.05,957,85.6
+Telangana,2,Bhadradri Kothagudem,111,Yellandu,ST,TS-111-010,"Government High School, Yellandu 10",rural,819,401,417,1,0,2.29,37.2,62.76,624,76.19
+Telangana,11,Khammam,112,Khammam,GEN,TS-112-001,"Government Junior College, Khammam 1",semi-urban,1219,608,605,2,4,1.61,43.0,74.17,902,74.0
+Telangana,11,Khammam,112,Khammam,GEN,TS-112-002,"Gram Panchayat Office, Khammam 2",rural,1206,605,597,1,3,1.77,33.9,80.4,973,80.68
+Telangana,11,Khammam,112,Khammam,GEN,TS-112-003,"Panchayat Bhavan, Khammam 3",rural,1210,618,589,0,3,1.41,36.7,74.32,998,82.48
+Telangana,11,Khammam,112,Khammam,GEN,TS-112-004,"Community Hall, Khammam 4",rural,970,474,492,0,4,0.96,41.1,78.54,732,75.46
+Telangana,11,Khammam,112,Khammam,GEN,TS-112-005,"Government Degree College, Khammam 5",rural,1433,735,694,0,4,1.38,37.7,72.56,1330,92.81
+Telangana,11,Khammam,112,Khammam,GEN,TS-112-006,"Municipal Community Hall, Khammam 6",urban,1300,633,666,0,1,1.57,42.0,67.72,909,69.92
+Telangana,11,Khammam,112,Khammam,GEN,TS-112-007,"Anganwadi Centre, Khammam 7",rural,1118,547,566,1,4,2.1,36.6,83.31,974,87.12
+Telangana,11,Khammam,112,Khammam,GEN,TS-112-008,"Government Primary School, Khammam 8",urban,834,414,415,1,4,1.23,36.3,73.55,629,75.42
+Telangana,11,Khammam,112,Khammam,GEN,TS-112-009,"Government High School, Khammam 9",urban,1021,518,503,0,0,0.81,40.4,65.84,830,81.29
+Telangana,11,Khammam,112,Khammam,GEN,TS-112-010,"Zilla Parishad High School, Khammam 10",semi-urban,1359,657,697,1,4,2.5,42.2,74.27,1102,81.09
+Telangana,11,Khammam,113,Palair,GEN,TS-113-001,"Gram Panchayat Office, Palair 1",semi-urban,1441,701,736,0,4,1.56,41.9,74.8,814,56.49
+Telangana,11,Khammam,113,Palair,GEN,TS-113-002,"Panchayat Bhavan, Palair 2",rural,971,496,475,0,0,1.8,38.9,86.77,692,71.27
+Telangana,11,Khammam,113,Palair,GEN,TS-113-003,"Community Hall, Palair 3",semi-urban,1044,514,524,2,4,2.27,39.5,78.1,674,64.56
+Telangana,11,Khammam,113,Palair,GEN,TS-113-004,"Government Degree College, Palair 4",rural,991,480,507,0,4,0.7,35.3,75.74,716,72.25
+Telangana,11,Khammam,113,Palair,GEN,TS-113-005,"Municipal Community Hall, Palair 5",rural,1415,723,690,0,2,1.75,38.9,68.68,1030,72.79
+Telangana,11,Khammam,113,Palair,GEN,TS-113-006,"Anganwadi Centre, Palair 6",rural,1163,592,567,1,3,0.9,43.6,65.26,826,71.02
+Telangana,11,Khammam,113,Palair,GEN,TS-113-007,"Government Primary School, Palair 7",rural,1264,622,637,1,4,1.52,33.0,67.25,1040,82.28
+Telangana,11,Khammam,113,Palair,GEN,TS-113-008,"Government High School, Palair 8",urban,1407,696,705,2,4,0.96,42.3,67.02,1163,82.66
+Telangana,11,Khammam,113,Palair,GEN,TS-113-009,"Zilla Parishad High School, Palair 9",semi-urban,949,467,477,2,3,1.27,39.5,86.23,806,84.93
+Telangana,11,Khammam,113,Palair,GEN,TS-113-010,"MPPS School, Palair 10",semi-urban,1165,576,586,0,3,1.51,38.9,70.51,715,61.37
+Telangana,11,Khammam,114,Madhira,SC,TS-114-001,"Panchayat Bhavan, Madhira 1",rural,824,409,412,0,3,1.79,43.2,71.32,524,63.59
+Telangana,11,Khammam,114,Madhira,SC,TS-114-002,"Community Hall, Madhira 2",rural,864,432,427,1,4,0.89,37.8,67.38,677,78.36
+Telangana,11,Khammam,114,Madhira,SC,TS-114-003,"Government Degree College, Madhira 3",urban,1313,673,637,2,1,0.8,37.7,70.45,956,72.81
+Telangana,11,Khammam,114,Madhira,SC,TS-114-004,"Municipal Community Hall, Madhira 4",rural,1007,490,512,1,4,1.81,43.7,79.68,787,78.15
+Telangana,11,Khammam,114,Madhira,SC,TS-114-005,"Anganwadi Centre, Madhira 5",rural,1022,497,525,0,0,1.11,40.6,68.12,730,71.43
+Telangana,11,Khammam,114,Madhira,SC,TS-114-006,"Government Primary School, Madhira 6",rural,1260,623,632,2,3,0.97,36.9,66.79,950,75.4
+Telangana,11,Khammam,114,Madhira,SC,TS-114-007,"Government High School, Madhira 7",rural,946,463,479,2,2,1.45,39.9,67.55,698,73.78
+Telangana,11,Khammam,114,Madhira,SC,TS-114-008,"Zilla Parishad High School, Madhira 8",semi-urban,1179,598,578,2,1,0.53,48.2,84.74,961,81.51
+Telangana,11,Khammam,114,Madhira,SC,TS-114-009,"MPPS School, Madhira 9",rural,1192,607,583,2,0,1.47,39.0,76.49,947,79.45
+Telangana,11,Khammam,114,Madhira,SC,TS-114-010,"Mandala Parishad School, Madhira 10",rural,838,421,417,0,0,1.1,37.3,84.66,670,79.95
+Telangana,11,Khammam,115,Wyra,ST,TS-115-001,"Community Hall, Wyra 1",semi-urban,997,489,504,0,4,1.42,39.0,77.6,658,66.0
+Telangana,11,Khammam,115,Wyra,ST,TS-115-002,"Government Degree College, Wyra 2",urban,1161,583,578,0,0,1.31,40.9,71.12,990,85.27
+Telangana,11,Khammam,115,Wyra,ST,TS-115-003,"Municipal Community Hall, Wyra 3",semi-urban,956,486,467,2,1,0.39,39.9,81.22,829,86.72
+Telangana,11,Khammam,115,Wyra,ST,TS-115-004,"Anganwadi Centre, Wyra 4",rural,1266,616,645,2,3,1.95,47.7,83.95,1000,78.99
+Telangana,11,Khammam,115,Wyra,ST,TS-115-005,"Government Primary School, Wyra 5",rural,1317,669,642,2,4,0.91,33.7,65.75,833,63.25
+Telangana,11,Khammam,115,Wyra,ST,TS-115-006,"Government High School, Wyra 6",rural,1318,641,671,2,4,0.79,38.9,73.55,1044,79.21
+Telangana,11,Khammam,115,Wyra,ST,TS-115-007,"Zilla Parishad High School, Wyra 7",rural,1062,522,539,0,1,1.66,39.8,69.82,815,76.74
+Telangana,11,Khammam,115,Wyra,ST,TS-115-008,"MPPS School, Wyra 8",rural,1315,675,638,2,0,2.04,40.7,73.57,1154,87.76
+Telangana,11,Khammam,115,Wyra,ST,TS-115-009,"Mandala Parishad School, Wyra 9",semi-urban,1223,601,617,2,3,1.94,43.6,73.13,1012,82.75
+Telangana,11,Khammam,115,Wyra,ST,TS-115-010,"Government Junior College, Wyra 10",rural,1125,566,554,2,3,0.96,40.4,86.1,937,83.29
+Telangana,11,Khammam,116,Sathupalle,SC,TS-116-001,"Government Degree College, Sathupalle 1",rural,930,458,472,0,0,0.87,40.1,80.88,800,86.02
+Telangana,11,Khammam,116,Sathupalle,SC,TS-116-002,"Municipal Community Hall, Sathupalle 2",semi-urban,1279,648,628,1,2,1.85,38.1,64.94,859,67.16
+Telangana,11,Khammam,116,Sathupalle,SC,TS-116-003,"Anganwadi Centre, Sathupalle 3",urban,1314,643,667,2,2,1.96,34.1,77.32,1200,91.32
+Telangana,11,Khammam,116,Sathupalle,SC,TS-116-004,"Government Primary School, Sathupalle 4",urban,911,457,452,1,1,1.19,37.4,75.08,725,79.58
+Telangana,11,Khammam,116,Sathupalle,SC,TS-116-005,"Government High School, Sathupalle 5",semi-urban,966,466,494,2,4,2.23,40.2,85.9,834,86.34
+Telangana,11,Khammam,116,Sathupalle,SC,TS-116-006,"Zilla Parishad High School, Sathupalle 6",urban,1361,684,672,2,3,1.6,38.7,71.33,1018,74.8
+Telangana,11,Khammam,116,Sathupalle,SC,TS-116-007,"MPPS School, Sathupalle 7",semi-urban,1411,695,716,0,0,0.75,40.9,84.12,791,56.06
+Telangana,11,Khammam,116,Sathupalle,SC,TS-116-008,"Mandala Parishad School, Sathupalle 8",semi-urban,1404,708,692,2,2,2.09,40.5,81.31,1218,86.75
+Telangana,11,Khammam,116,Sathupalle,SC,TS-116-009,"Government Junior College, Sathupalle 9",rural,1242,612,628,1,1,1.62,39.9,80.07,847,68.2
+Telangana,11,Khammam,116,Sathupalle,SC,TS-116-010,"Gram Panchayat Office, Sathupalle 10",rural,949,459,484,2,4,2.31,36.0,72.18,669,70.5
+Telangana,2,Bhadradri Kothagudem,117,Kothagudem,GEN,TS-117-001,"Municipal Community Hall, Kothagudem 1",rural,787,385,399,0,3,5.14,34.9,67.54,621,78.91
+Telangana,2,Bhadradri Kothagudem,117,Kothagudem,GEN,TS-117-002,"Anganwadi Centre, Kothagudem 2",rural,1063,527,536,0,0,3.66,48.5,75.98,748,70.37
+Telangana,2,Bhadradri Kothagudem,117,Kothagudem,GEN,TS-117-003,"Government Primary School, Kothagudem 3",rural,1071,519,549,0,3,2.82,37.4,60.19,815,76.1
+Telangana,2,Bhadradri Kothagudem,117,Kothagudem,GEN,TS-117-004,"Government High School, Kothagudem 4",rural,941,478,459,1,3,1.91,46.4,74.24,726,77.15
+Telangana,2,Bhadradri Kothagudem,117,Kothagudem,GEN,TS-117-005,"Zilla Parishad High School, Kothagudem 5",rural,973,474,497,0,2,1.5,38.9,67.55,602,61.87
+Telangana,2,Bhadradri Kothagudem,117,Kothagudem,GEN,TS-117-006,"MPPS School, Kothagudem 6",semi-urban,924,464,459,1,0,2.87,40.5,65.54,624,67.53
+Telangana,2,Bhadradri Kothagudem,117,Kothagudem,GEN,TS-117-007,"Mandala Parishad School, Kothagudem 7",rural,1081,527,551,0,3,4.26,33.5,69.92,837,77.43
+Telangana,2,Bhadradri Kothagudem,117,Kothagudem,GEN,TS-117-008,"Government Junior College, Kothagudem 8",rural,1248,616,630,1,1,3.67,35.6,58.99,921,73.8
+Telangana,2,Bhadradri Kothagudem,117,Kothagudem,GEN,TS-117-009,"Gram Panchayat Office, Kothagudem 9",rural,780,381,396,2,1,4.54,38.1,63.61,520,66.67
+Telangana,2,Bhadradri Kothagudem,117,Kothagudem,GEN,TS-117-010,"Panchayat Bhavan, Kothagudem 10",rural,834,417,413,2,2,4.19,34.3,66.64,710,85.13
+Telangana,2,Bhadradri Kothagudem,118,Aswaraopeta,ST,TS-118-001,"Anganwadi Centre, Aswaraopeta 1",semi-urban,957,470,482,2,3,3.08,34.8,70.1,744,77.74
+Telangana,2,Bhadradri Kothagudem,118,Aswaraopeta,ST,TS-118-002,"Government Primary School, Aswaraopeta 2",rural,846,415,429,2,0,2.01,40.4,70.05,629,74.35
+Telangana,2,Bhadradri Kothagudem,118,Aswaraopeta,ST,TS-118-003,"Government High School, Aswaraopeta 3",rural,1045,525,519,1,0,2.07,39.7,57.23,928,88.8
+Telangana,2,Bhadradri Kothagudem,118,Aswaraopeta,ST,TS-118-004,"Zilla Parishad High School, Aswaraopeta 4",rural,1029,511,517,1,0,3.03,39.7,57.39,871,84.65
+Telangana,2,Bhadradri Kothagudem,118,Aswaraopeta,ST,TS-118-005,"MPPS School, Aswaraopeta 5",semi-urban,789,404,383,0,2,3.51,43.8,58.67,621,78.71
+Telangana,2,Bhadradri Kothagudem,118,Aswaraopeta,ST,TS-118-006,"Mandala Parishad School, Aswaraopeta 6",rural,927,474,453,0,0,1.59,39.3,58.53,734,79.18
+Telangana,2,Bhadradri Kothagudem,118,Aswaraopeta,ST,TS-118-007,"Government Junior College, Aswaraopeta 7",urban,901,443,453,2,3,4.91,36.5,71.01,759,84.24
+Telangana,2,Bhadradri Kothagudem,118,Aswaraopeta,ST,TS-118-008,"Gram Panchayat Office, Aswaraopeta 8",rural,1028,503,523,1,1,2.34,36.2,64.04,896,87.16
+Telangana,2,Bhadradri Kothagudem,118,Aswaraopeta,ST,TS-118-009,"Panchayat Bhavan, Aswaraopeta 9",semi-urban,887,431,454,0,2,2.49,44.3,72.99,755,85.12
+Telangana,2,Bhadradri Kothagudem,118,Aswaraopeta,ST,TS-118-010,"Community Hall, Aswaraopeta 10",rural,1004,492,508,0,4,4.49,40.4,60.67,822,81.87
+Telangana,2,Bhadradri Kothagudem,119,Bhadrachalam,ST,TS-119-001,"Government Primary School, Bhadrachalam 1",semi-urban,1026,506,517,0,3,4.39,38.5,66.69,658,64.13
+Telangana,2,Bhadradri Kothagudem,119,Bhadrachalam,ST,TS-119-002,"Government High School, Bhadrachalam 2",rural,1221,592,625,0,4,2.77,33.3,63.09,1031,84.44
+Telangana,2,Bhadradri Kothagudem,119,Bhadrachalam,ST,TS-119-003,"Zilla Parishad High School, Bhadrachalam 3",rural,1049,512,535,0,2,2.85,34.5,72.18,922,87.89
+Telangana,2,Bhadradri Kothagudem,119,Bhadrachalam,ST,TS-119-004,"MPPS School, Bhadrachalam 4",semi-urban,970,481,485,1,3,2.69,46.0,60.79,824,84.95
+Telangana,2,Bhadradri Kothagudem,119,Bhadrachalam,ST,TS-119-005,"Mandala Parishad School, Bhadrachalam 5",rural,1066,528,534,0,4,2.73,38.9,64.52,856,80.3
+Telangana,2,Bhadradri Kothagudem,119,Bhadrachalam,ST,TS-119-006,"Government Junior College, Bhadrachalam 6",rural,1128,570,554,1,3,0.45,33.7,68.19,952,84.4
+Telangana,2,Bhadradri Kothagudem,119,Bhadrachalam,ST,TS-119-007,"Gram Panchayat Office, Bhadrachalam 7",rural,925,466,455,1,3,3.44,39.9,66.5,711,76.86
+Telangana,2,Bhadradri Kothagudem,119,Bhadrachalam,ST,TS-119-008,"Panchayat Bhavan, Bhadrachalam 8",rural,1145,583,556,2,4,4.26,39.2,63.35,1041,90.92
+Telangana,2,Bhadradri Kothagudem,119,Bhadrachalam,ST,TS-119-009,"Community Hall, Bhadrachalam 9",rural,1090,548,537,2,3,4.14,46.6,70.96,862,79.08
+Telangana,2,Bhadradri Kothagudem,119,Bhadrachalam,ST,TS-119-010,"Government Degree College, Bhadrachalam 10",semi-urban,1160,574,585,1,0,3.25,40.5,67.72,942,81.21
